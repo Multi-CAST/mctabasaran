@@ -1,0 +1,680 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tabasaran	naz	0001	#	#	##	##				
+tabasaran	naz	0001	﻿urcmi	Urcmi	pn_np.h:ncs_poss	pn_np	h	ncs_poss	3001	new
+tabasaran	naz	0001	ab.i-z	old_man-DAT	rn_np.h	rn_np	h			
+tabasaran	naz	0001	a-ǯi	(IN)be-ICVB	v:pred	v		pred		
+tabasaran	naz	0001	a-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0001	šubu-r	three-HSG	ln_num	ln_num				
+tabasaran	naz	0001	baž	boy(ABS)	np.h:p	np	h	p	3002	new
+tabasaran	naz	0001	nuˤraˤli	Nurali(ABS)	pn_np.h:appos	pn_np	h	appos	3003	bridging
+tabasaran	naz	0001	χaˤnaˤli	Khanali(ABS)	rn_pn_np.h	rn_pn_np	h		3004	bridging
+tabasaran	naz	0001	gülaˤli	Gulali(ABS)	rn_pn_np.h	rn_pn_np	h		3005	bridging
+tabasaran	naz	0002	#	#	##	##				
+tabasaran	naz	0002	nuˤraˤli	Nurali(ABS)	pn_np.h:s	pn_np	h	s	3003	
+tabasaran	naz	0002	lap	very	ln	ln				
+tabasaran	naz	0002	dirbaš	brave	ln_adj	ln_adj				
+tabasaran	naz	0002	baž	boy(ABS)	np.h:pred	np	h	pred		
+tabasaran	naz	0002	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	naz	0002	ʁa-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0003	#	#	#pc	#pc				
+tabasaran	naz	0003	#	#	#cc:p	#cc		p		
+tabasaran	naz	0003	fu	what	other	other				
+tabasaran	naz	0003	=nu	=FOC	=other	=other				
+tabasaran	naz	0003	laˁχin	work(ABS)	np:s	np		s		
+tabasaran	naz	0003	vu-š	COP-COND	v:predex	v		predex		
+tabasaran	naz	0003	=ra	=ADD	=other	=other				
+tabasaran	naz	0003	%	%	%	%				
+tabasaran	naz	0003	0	0_Nurali	0.h:a_pc	0	h	a_pc	3003	
+tabasaran	naz	0003	uduq’-ru-r	manage-FUT.PTCP-HSG	v:pred	v		pred		
+tabasaran	naz	0003	%	%	%	%				
+tabasaran	naz	0004	#	#	#pc.neg	#pc.neg				
+tabasaran	naz	0004	0	0_Nurali	0.h:ncs_poss_pc	0	h	ncs_poss_pc	3003	
+tabasaran	naz	0004	sa-b.ǯi-x-an	one-NSG-APUD-ELAT	ln	ln				
+tabasaran	naz	0004	=q’a	=PTCL	=other	=other				
+tabasaran	naz	0004	guč’	fear	np:p	np		p		
+tabasaran	naz	0004	dar-u-r	COP:NEG-PTCP-HSG	v:pred	v		pred		
+tabasaran	naz	0005	#	#	#	#				
+tabasaran	naz	0005	0	0_Nurali	0.h:s	0	h	s	3003	
+tabasaran	naz	0005	dirbaš	brave	other:pred	other		pred		
+tabasaran	naz	0005	u-r	COP-HSG	cop	cop				
+tabasaran	naz	0005	#	#	#pc	#pc				
+tabasaran	naz	0005	#	#	#cv	#cv				
+tabasaran	naz	0005	#	#	#ac_pc	#ac_pc				
+tabasaran	naz	0005	naana	where	other:g	other		g		
+tabasaran	naz	0005	0	0_Nurali	0.h:s_pc	0	h	s_pc	3003	
+tabasaran	naz	0005	ʁ-uš-i-š	PFV-(HSG)go-PFV.PTCP-COND	v:pred	v		pred		
+tabasaran	naz	0005	=ra	=ADD	=other	=other				
+tabasaran	naz	0005	%	%	%	%				
+tabasaran	naz	0005	0	0_Nurali	0.h:a_cp_cv	0	h	a_cp_cv	3003	
+tabasaran	naz	0005	laˁχin	work	np:p	np		p		
+tabasaran	naz	0005	tamam	end	other:lvc	other		lvc		
+tabasaran	naz	0005	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	naz	0005	%	%	%	%				
+tabasaran	naz	0005	0	0_Nurali	0.h:s_pc	0	h	s_pc	3003	
+tabasaran	naz	0005	ʁ-uˁru-r	come-FUT.PTCP-HSG	v:pred	v		pred		
+tabasaran	naz	0005	#	#	#pc	#pc				
+tabasaran	naz	0005	0	0_Nurali	0.h:s_pc	0	h	s_pc	3003	
+tabasaran	naz	0005	vaχt.ni-in-ǯi	time-(IN)LAT-DIR	np:other	np		other		
+tabasaran	naz	0005	ʁ-uˁru-r	come-FUT.PTCP-HSG	v:pred	v		pred		
+tabasaran	naz	0006	#	#	##	##				
+tabasaran	naz	0006	0	0_Nurali	0.h:s	0	h	s	3003	
+tabasaran	naz	0006	ha-cːi-r	EMPH-(DIST)ADV-HSG	other	other				
+tabasaran	naz	0006	lap	very	ln	ln				
+tabasaran	naz	0006	k’uban	capable	ln_adj	ln_adj				
+tabasaran	naz	0006	baž	boy(ABS)	np.h:s	np	h	s		
+tabasaran	naz	0006	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	naz	0006	ʁa-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0007	#	#	##	##				
+tabasaran	naz	0007	χaˤnaˤli	Khanali	pn_np.h:dt_ncs	pn_np	h	dt_ncs	3004	
+tabasaran	naz	0007	znachit	so	other	other				
+tabasaran	naz	0007	naˁhaˁq-val	wrong-ABSTR(ABS)	np:p	np		p		
+tabasaran	naz	0007	k-a-ǯi	CONT-be-ICVB	v:pred	v		pred		
+tabasaran	naz	0007	a-b-x-nu	PFV-NSG-become-PST	rv_aux	rv_aux				
+tabasaran	naz	0007	χanäl.ǯi-k	Khanali-CONT	pn_np.h:ncs_poss	pn_np	h	ncs_poss	3004	
+tabasaran	naz	0008	#	#	#pc	#pc				
+tabasaran	naz	0008	ab.i	old_man.ERG	np.h:a_pc	np	h	a_pc	3001	
+tabasaran	naz	0008	ʁa-p-i-b	PFV-say-PFV.PTCP-NSG	v:pred	v		pred		
+tabasaran	naz	0009	#	#	#cc:p	#cc		p		
+tabasaran	naz	0009	#	#	#cc_pc:p	#cc_pc		p		
+tabasaran	naz	0009	sa-b	one-NSG	ln	ln				
+tabasaran	naz	0009	ča-z	REFL.SG-DAT	refl.h:ncs_pc	refl	h	ncs_pc	3004	
+tabasaran	naz	0009	gun-i-b	want-PTCP-NSG	v:pred	v		pred		
+tabasaran	naz	0009	=č’a	=only	=other	=other				
+tabasaran	naz	0009	%	%	%	%				
+tabasaran	naz	0009	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	naz	0009	a-b-x-un-dar	PFV-NSG-become-PST-NEG	rv_aux	rv_aux				
+tabasaran	naz	0009	χaˤnaˤl.ǯi	Khanali(ERG)	pn_np.h:a	pn_np	h	a	3004	
+tabasaran	naz	0010	#	#	##	##				
+tabasaran	naz	0010	ab.i	old_man(ERG)	np.h:a_ds	np	h	a_ds	3001	
+tabasaran	naz	0010	k’u-ri	say-ICVB	v:pred	v		pred		
+tabasaran	naz	0010	ʁa-x-nu	PFV-(HSG)-become-PST	rv_aux	rv_aux				
+tabasaran	naz	0010	#	#	##ds.neg	##ds.neg				
+tabasaran	naz	0010	χaˤnaˤli	Khanali	pn_np.h:voc	pn_np	h	voc	3004	
+tabasaran	naz	0010	0	0_Khanali	0.2:a	0	2	a	3004	
+tabasaran	naz	0010	č’ru-b	bad-NSG	np:p	np		p		
+tabasaran	naz	0010	m-ap’-a	PROH-do-PROH	v:pred	v		pred		
+tabasaran	naz	0011	#	#	##neg	##neg				
+tabasaran	naz	0011	χaˤnaˤli	Khanali(ABS)	pn_np.h:s	pn_np	h	s	3004	
+tabasaran	naz	0011	qpaˁq-ura-dar	listen-PRS-NEG	v:pred	v		pred		
+tabasaran	naz	0012	#	#	##neg	##neg				
+tabasaran	naz	0012	#	#	#cc_pc:p	#cc_pc		p		
+tabasaran	naz	0012	ča-z	REFL.SG-DAT	refl.h:ncs_pc	refl	h	ncs_pc	3004	
+tabasaran	naz	0012	gun-i-b	want-PTCP-NSG	v:pred	v		pred		
+tabasaran	naz	0012	=č’a	=only	=other	=other				
+tabasaran	naz	0012	%	%	%	%				
+tabasaran	naz	0012	0	0_Khanali	0.h:a	0	h	a	3004	
+tabasaran	naz	0012	ap’-ura-dar	do-PRS-NEG	v:pred	v		pred		
+tabasaran	naz	0013	#	#	##	##				
+tabasaran	naz	0013	q’aˁlaˁ-q	back-POST	np:l	np		l	3006	bridging
+tabasaran	naz	0013	sis	voice(ABS)	np:s	np		s		
+tabasaran	naz	0013	q-a-ǯi	POST-be-ICVB	v:predex	v		predex		
+tabasaran	naz	0013	ʁa-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0014	#	#	##neg	##neg				
+tabasaran	naz	0014	0	0_Khanali	0.h:p	0	h	p	3004	
+tabasaran	naz	0014	χalq’.ǯi-z	people-DAT	np.h:ncs	np	h	ncs	3007	bridging
+tabasaran	naz	0014	da-kːun-ǯi	NEG-want-ICVB	v:pred	v		pred		
+tabasaran	naz	0014	a-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0015	#	#	##neg	##neg				
+tabasaran	naz	0015	značit	so	other	other				
+tabasaran	naz	0015	χalq’.ǯi-q-ǯi	people-POST-DIR	np.h:obl	np	h	obl	3007	
+tabasaran	naz	0015	düz-ǯi	right-ADV	other	other				
+tabasaran	naz	0015	aˁ-ri	(HSG)go-ICVB	v:pred	v		pred		
+tabasaran	naz	0015	ʁa-x-un-dar	PFV-(HSG)become-PST-NEG	rv_aux	rv_aux				
+tabasaran	naz	0015	χaˤnaˤli	Khanali(ABS)	pn_np.h:s	pn_np	h	s	3004	
+tabasaran	naz	0016	#	#	##	##				
+tabasaran	naz	0016	#	#	#cv	#cv				
+tabasaran	naz	0016	jis̊.nu	night(ERG)	np:other	np		other		
+tabasaran	naz	0016	0	0_Khanali	0.h:a_cv	0	h	a_cv	3004	
+tabasaran	naz	0016	mal-ar	cattle-PL(ABS)	np:p	np		p	3008	new
+tabasaran	naz	0016	čar.ǯi-z	field-DAT	np:g	np		g	3009	new
+tabasaran	naz	0016	dedet-uri	(PL)let-ICVB	v:pred	v		pred		
+tabasaran	naz	0016	%	%	%	%				
+tabasaran	naz	0016	#	#	#cv	#cv				
+tabasaran	naz	0016	0	0_Khanali	0.h:a_cv	0	h	a_cv	3004	
+tabasaran	naz	0016	χalq’.ǯi-z	people-DAT	np.h:g	np	h	g	3007	
+tabasaran	naz	0016	zarar	harm(ABS)	np:p	np		p		
+tabasaran	naz	0016	tuv-ri	give-ICVB	v:pred	v		pred		
+tabasaran	naz	0016	%	%	%	%				
+tabasaran	naz	0016	#	#	#cv	#cv				
+tabasaran	naz	0016	0	0_Khanali	0.h:a_cp_cv	0	h	a_cp_cv	3004	
+tabasaran	naz	0016	χalq’.ǯi-n	people-GEN	ln_np.h:poss	ln_np	h	poss	3007	
+tabasaran	naz	0016	mulk	land(ABS)	np:p	np		p	3010	new
+tabasaran	naz	0016	č’ur	harm(ABS)	other:lvc	other		lvc		
+tabasaran	naz	0016	ap’-u-ri	do-ICVB	v:pred	v		pred		
+tabasaran	naz	0016	%	%	%	%				
+tabasaran	naz	0016	#	#	#cv	#cv				
+tabasaran	naz	0016	0	0_Khanali	0.h:s_cv	0	h	s_cv	3004	
+tabasaran	naz	0016	hič’i<b>k’-u-ri	<NSG>steal-ICVB	v:pred	v		pred		
+tabasaran	naz	0016	ha-m-c-dar	EMPH-PROX-ADV-PL	ln	ln				
+tabasaran	naz	0016	χaˁvi	wrong	ln_adj	ln_adj				
+tabasaran	naz	0016	laˁχn-ar	work-PL(ABS)	np:other	np		other	3011	bridging
+tabasaran	naz	0016	%	%	%	%				
+tabasaran	naz	0016	#	#	#cv	#cv				
+tabasaran	naz	0016	0	0_Khanali	0.h:a_cv	0	h	a_cv	3004	
+tabasaran	naz	0016	haˁjvn-ar	horse-PL(ABS)	np:p	np		p	3012	new
+tabasaran	naz	0016	dedet-u-ri	(PL)let-ICVB	v:pred	v		pred		
+tabasaran	naz	0016	ǯini-ǯi	secret-ADV	other	other				
+tabasaran	naz	0016	%	%	%	%				
+tabasaran	naz	0016	gʷač’ni	morning	np:other	np		other		
+tabasaran	naz	0016	#	#	#ac_pc.neg	#ac_pc.neg				
+tabasaran	naz	0016	fuk’a	nothing	np:s_pc	np		s_pc		
+tabasaran	naz	0016	=ra	=ADD	=rn	=rn				
+tabasaran	naz	0016	k-tr-ur	POST-NEG-be-PTCP	v:predex	v		predex		
+tabasaran	naz	0016	=si	=like	=other	=other				
+tabasaran	naz	0016	%	%	%	%				
+tabasaran	naz	0016	0	0_Khanali	0.h:s	0	h	s	3004	
+tabasaran	naz	0016	deeʁ-u-ri	(HSG)stay-ICVB	v:pred	v		pred		
+tabasaran	naz	0016	ʁa-x-nu	PFV-(HSG)become-PFV	rv_aux	rv_aux				
+tabasaran	naz	0017	#	#	##	##				
+tabasaran	naz	0017	abi	old_man(ERG)	np.h:a_ds	np	h	a_ds	3001	
+tabasaran	naz	0017	=ra	=ADD	=rn	=rn				
+tabasaran	naz	0017	k’u-ri	say-ICVB	v:pred	v		pred		
+tabasaran	naz	0017	ʁa-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0018	#	#	##	##				
+tabasaran	naz	0018	nuˤraˤl.ǯi	Nurali(ERG)	pn_np.h:a_ds	pn_np	h	a_ds	3003	
+tabasaran	naz	0018	=ra	=ADD	=rn	=rn				
+tabasaran	naz	0018	k’u-ri	say-ICVB	v:pred	v		pred		
+tabasaran	naz	0018	ʁa-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0019	#	#	##ds	##ds				
+tabasaran	naz	0019	ja	VOC	other	other				
+tabasaran	naz	0019	ʁardaš	brother(ABS)	np.h:voc	np	h	voc	3004	
+tabasaran	naz	0019	0	0_Khanali	0.2:a	0	2	a	3004	
+tabasaran	naz	0019	uču	we.EXCL(ABS)	pro.1:p	pro	1	p	3013	bridging
+tabasaran	naz	0019	bijabur	shame	other:lvc	other		lvc		
+tabasaran	naz	0019	m-ap’-an	PROH-do-PROH	v:pred	v		pred		
+tabasaran	naz	0020	#	#	##ds	##ds				
+tabasaran	naz	0020	uxu	we.INCL(ABS)	pro.1:s	pro	1	s	3013	
+tabasaran	naz	0020	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	naz	0020	ʁul.a-ʔ	village-IN	np:l	np		l	3014	bridging
+tabasaran	naz	0020	#	#	#ds_rc_pc	#ds_rc_pc				
+tabasaran	naz	0020	taˁrif	praise	np:s_pc	np		s_pc	3020	new
+tabasaran	naz	0020	a-ji	(IN)be-PTCP	v:predex	v		predex		
+tabasaran	naz	0020	%	%	%	%				
+tabasaran	naz	0020	tuχum	clan(ABS)	np.h:pred	np	h	pred		
+tabasaran	naz	0020	vu	COP(PRS)	cop	cop				
+tabasaran	naz	0020	=xa	=1SG.INCL:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	naz	0020	#	#	##ds	##ds				
+tabasaran	naz	0020	0	0_family	0.1:s	0	1	s	3013	
+tabasaran	naz	0020	χal	house(ABS)	ln	ln				
+tabasaran	naz	0020	χizan	family(ABS)	np.h:pred	np	h	pred		
+tabasaran	naz	0020	vu	COP	cop	cop				
+tabasaran	naz	0020	=xa	=1SG(INCL):AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	naz	0021	#	#	##ds.neg	##ds.neg				
+tabasaran	naz	0021	#	#	#ds_rc_pc.neg:s	#ds_rc_pc.neg		s	3015	new
+tabasaran	naz	0021	0	0	rel_f0.h:a_pc	rel_f0	h	a_pc	3015	
+tabasaran	naz	0021	ix	our.INCL	ln_pro.1:poss	ln_pro	1	poss	3002	
+tabasaran	naz	0021	aba	old_man(ABS)	np.h:p	np	h	p	3001	
+tabasaran	naz	0021	aˁ-j-dr-ur	know-PTCP-NEG-HSG	v:pred	v		pred		
+tabasaran	naz	0021	%	%	%	%				
+tabasaran	naz	0021	a-dar	(IN)be-PRS.NEG	v:predex	v		predex		
+tabasaran	naz	0021	χiv	Khiv	pn_np:l	pn_np		l	3016	unused
+tabasaran	naz	0021	rajon.ǯi	district(IN)	rn	rn				
+tabasaran	naz	0021	tabasaran.ǯi	Tabasaran(IN)	pn_np:l	pn_np		l	3017	unused
+tabasaran	naz	0021	kajtaʁ.ǯi	Kajtag(IN)	pn_np:l	pn_np		l	3018	unused
+tabasaran	naz	0021	va	and	other	other				
+tabasaran	naz	0021	ǯara	other	ln_adj	ln_adj				
+tabasaran	naz	0021	rajon-ar.i	district-PL(IN)	np:l	np		l	3019	bridging
+tabasaran	naz	0021	=ra	=ADD	=rn	=rn				
+tabasaran	naz	0022	#	#	#pc	#pc				
+tabasaran	naz	0022	ha-cːi	EMPH-(DIST)ADV	other	other				
+tabasaran	naz	0022	0	0_Urcmi_and_Nurali	0.h:a_ds_pc	0	h	a_ds_pc	3021	bridging
+tabasaran	naz	0022	a-p-i-ge	PFV-say-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	naz	0022	#	#	##ds.neg	##ds.neg				
+tabasaran	naz	0022	0	0_Khanali	0.2:a_cp	0	2	a_cp	3004	
+tabasaran	naz	0022	ix	we:POSS(INCL)	ln_pro.1:poss	ln_pro	1	poss	3013	
+tabasaran	naz	0022	taˁrif	praise(ABS)	np:p	np		p	3020	
+tabasaran	naz	0022	č’ur	harm	other:lvc	other		lvc		
+tabasaran	naz	0022	ma-p’-an	PROH-do-PROH(HSG)	v:pred	v		pred		
+tabasaran	naz	0022	#	#	##ds	##ds				
+tabasaran	naz	0022	0	0_Khanali	0.2:s	0	2	s	3004	
+tabasaran	naz	0022	duʁuz̊	stay(IMP)	v:pred	v		pred		
+tabasaran	naz	0022	sikin-ǯi	calm-ADV	other	other				
+tabasaran	naz	0023	#	#	##neg	##neg				
+tabasaran	naz	0023	anǯaʁ	only	other	other				
+tabasaran	naz	0023	χaˤnaˤli	Khanali(ABS)	pn_np.h:s	pn_np	h	s	3004	
+tabasaran	naz	0023	qpaˁq-ru-r	obey-FUT.PTCP-HSG	other:pred	other		pred		
+tabasaran	naz	0023	dar-ǯi	COP.NEG-ICVB	cop	cop				
+tabasaran	naz	0023	a-x-nu	PFV-(HSG)become-PST-NEG	rv_aux	rv_aux				
+tabasaran	naz	0024	#	#	##	##				
+tabasaran	naz	0024	0	0_Khanali	0.h:s	0	h	s	3004	
+tabasaran	naz	0024	ha-cːi-r	EMPH-(DIST)ADV-HSG	other	other				
+tabasaran	naz	0024	naˁhaˁq’	naughty	ln_adj	ln_adj				
+tabasaran	naz	0024	kas	man(ABS)	np.h:pred	np	h	pred		
+tabasaran	naz	0024	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	naz	0024	ʁa-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0025	#	#	##	##				
+tabasaran	naz	0025	#	#	#cv	#cv				
+tabasaran	naz	0025	0	0_Khanali	0.h:s_cv	0	h	s_cv	3004	
+tabasaran	naz	0025	naˁhaˁq’	naughty	other:pred	other		pred		
+tabasaran	naz	0025	du-x-nu	PFV-(HSG)become-PCVB	cop	cop				
+tabasaran	naz	0025	%	%	%	%				
+tabasaran	naz	0025	0	0_Khanali	0.h:a_cp	0	h	a_cp	3004	
+tabasaran	naz	0025	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	3004	
+tabasaran	naz	0025	χal	house(ABS)	np:p	np		p	3022	bridging
+tabasaran	naz	0025	k’ul.i	head(ERG)	other:lvc	other		lvc		
+tabasaran	naz	0025	a<b>χ-uriʁ	<NSG>carry-ICVB	v:pred	v		pred		
+tabasaran	naz	0025	a-b-x-nu	PFV-NSG-become-PST	rv_aux	rv_aux				
+tabasaran	naz	0026	#	#	##	##				
+tabasaran	naz	0026	0	0_household	0:s	0		s	3022	
+tabasaran	naz	0026	anǯaʁ	only	other	other				
+tabasaran	naz	0026	marcːi-ǯi	clear-ADV	other:pred	other		pred		
+tabasaran	naz	0026	vari-dar.i	all-PL	np:other	np		other	3023	bridging
+tabasaran	naz	0026	=sila	=like	=other	=other				
+tabasaran	naz	0026	#	#	##	##				
+tabasaran	naz	0026	c’ib	little	ln_adj	ln_adj				
+tabasaran	naz	0026	šuluʁ	scandal(ABS)	np:s	np		s	3024	bridging
+tabasaran	naz	0026	k-a-ǯi	CONT-be-ICVB	v:predex	v		predex		
+tabasaran	naz	0026	ʁa-b-x-nu	PFV-NSG-become-PST	rv_aux	rv_aux				
+tabasaran	naz	0027	#	#	#nc	#nc				
+tabasaran	naz	0027	χabar	news(ABS)	nc	nc				
+tabasaran	naz	0027	naʔna	from_where	nc	nc				
+tabasaran	naz	0027	χabar	news(ABS)	nc	nc				
+tabasaran	naz	0027	gülaˤl.ǯi-k-an	Gulali-CONT-ELAT	nc_pn_np.h	nc_pn_np	h		3005	
+tabasaran	naz	0028	#	#	##	##				
+tabasaran	naz	0028	gülaˤli	Gulali(ABS)	pn_np.h:s	pn_np	h	s	3005	
+tabasaran	naz	0028	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	naz	0028	ʁa-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0028	#	#	#rc_pc.h:pred	#rc_pc	h	pred		
+tabasaran	naz	0028	sa-b.ǯi-k-an	one-NSG-CONT-ELAT	ln	ln				
+tabasaran	naz	0028	χabar	news(ABS)	np:s	np		s		
+tabasaran	naz	0028	a-dr-u-r	(IN)be-NEG-PTCP-HSG	v:predex	v		predex		
+tabasaran	naz	0029	#	#	##neg	##neg				
+tabasaran	naz	0029	ja	or	other	other				
+tabasaran	naz	0029	muva-z	PROX-DAT	dem_pro.h:ncs	dem_pro	h	ncs	3005	
+tabasaran	naz	0029	χal	house(ABS)	np:p	np		p		
+tabasaran	naz	0029	gun-dar	want-NEG(PRS)	v:pred	v		pred		
+tabasaran	naz	0030	#	#	##neg	##neg				
+tabasaran	naz	0030	ja	or	other	other				
+tabasaran	naz	0030	muva-z	PROX-DAT	dem_pro.h:ncs	dem_pro	h	ncs	3005	
+tabasaran	naz	0030	mal	cattle(ABS)	np:p	np		p		
+tabasaran	naz	0030	gun-dar	want-PRS.NEG	v:pred	v		pred		
+tabasaran	naz	0031	#	#	##neg	##neg				
+tabasaran	naz	0031	ja	or	other	other				
+tabasaran	naz	0031	muva-z	PROX-DAT	dem_pro.h:ncs	dem_pro	h	ncs	3005	
+tabasaran	naz	0031	fuk’a	nothing(ABS)	indef_other:p	indef_other		p		
+tabasaran	naz	0031	=ra	=ADD	=other	=other				
+tabasaran	naz	0031	gun-dar	want-PRS.NEG	v:pred	v		pred		
+tabasaran	naz	0032	#	#	##	##				
+tabasaran	naz	0032	anǯaʁ	only	other	other				
+tabasaran	naz	0032	muva-z	PROX-DAT	dem_pro.h:ncs	dem_pro	h	ncs	3005	
+tabasaran	naz	0032	gun-ǯa	want-PRS	v:pred	v		pred		
+tabasaran	naz	0032	dust-ar	friend-PL(ABS)	np.h:p	np	h	p	3025	new
+tabasaran	naz	0032	u<b>qu-b	<NSG>drink-MASD	rn_np	rn_np				
+tabasaran	naz	0032	haˁjvn.i-in-ǯi	horse-SUPER-DIR	rn	rn				
+tabasaran	naz	0032	ǯa<r>ʁu-b-NC	<HSG>run-MASD	rn_np	rn_np				
+tabasaran	naz	0032	haˤtː-ar	shout-PL(ABS)	rn	rn				
+tabasaran	naz	0032	ap’u-b	do-MASD	rn_np	rn_np				
+tabasaran	naz	0032	maˁʔl-ir	song-PL(ABS)	rn	rn				
+tabasaran	naz	0032	ap’u-b	do-MASD	rn_np	rn_np				
+tabasaran	naz	0032	ha-m-c:i	EMPH-PROX-ADV	other	other				
+tabasaran	naz	0033	#	#	##	##				
+tabasaran	naz	0033	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	naz	0033	laˁχn.i-k-an	work-CONT-ELAT	np:obl	np		obl		
+tabasaran	naz	0033	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	naz	0033	ʁ-uˁri	come-ICVB	v:pred	v		pred		
+tabasaran	naz	0033	a-b-x-nu	PFV-NSG-become-PST	rv_aux	rv_aux				
+tabasaran	naz	0033	urcmi	Urcmi	pn_np.h:g	pn_np	h	g	3001	
+tabasaran	naz	0033	ab.i-z	old_man-DAT	rn	rn				
+tabasaran	naz	0034	#	#	##	##				
+tabasaran	naz	0034	0	0_Urcmi	0.h:a_ds	0	h	a_ds	3001	
+tabasaran	naz	0034	k’u-ri	say-ICVB	v:pred	v		pred		
+tabasaran	naz	0034	ʁa-x-nu	PFV-HSG-become-PST	rv_aux	rv_aux				
+tabasaran	naz	0034	#	#	##ds	##ds				
+tabasaran	naz	0034	ej	VOC	other	other				
+tabasaran	naz	0034	uʁraš	rascal(ABS)	np.h:voc	np	h	voc	3005	
+tabasaran	naz	0034	uvu	you.SG(ABS)	pro.2:s	pro	2	s	3005	
+tabasaran	naz	0034	lig	(HSG)look(IMP)	v:pred	v		pred		
+tabasaran	naz	0034	hap’-ra-š	what_do-PRS-COND	np:g	np		g		
+tabasaran	naz	0034	#	#	##ds	##ds				
+tabasaran	naz	0034	#	#	#ds_rc_pc	#ds_rc_pc				
+tabasaran	naz	0034	0	0_neighbour	rel_f0.h:s_pc	rel_f0	h	s_pc	3003	
+tabasaran	naz	0034	jav	your.SG	ln_pro.2:poss	ln_pro	2	poss	3005	
+tabasaran	naz	0034	ʁal.a-q	side-POST	np:l	np		l		
+tabasaran	naz	0034	q-a-ji	POST-be-PTCP	v:predex	v		predex		
+tabasaran	naz	0034	%	%	%	%				
+tabasaran	naz	0034	ʁumš.ǯi-z	neighbor-DAT	np.h:g	np	h	g	3003	
+tabasaran	naz	0034	0	0_Gulali	0.2:s	0	2	s	3005	
+tabasaran	naz	0034	ligha-mu-nu	(HSG)look(IMP)EMPH-PROX(ATTR)-FOC	v:pred	v		pred		
+tabasaran	naz	0034	#	#	##ds	##ds				
+tabasaran	naz	0034	0	0_Gulali	0.2:s	0	2	s	3005	
+tabasaran	naz	0034	ʁardš.i-z	brother-DAT	np.h:g	np	h	g	3003	
+tabasaran	naz	0034	lig	(HSG)look(IMP)	v:pred	v		pred		
+tabasaran	naz	0035	#	#	##ds.neg	##ds.neg				
+tabasaran	naz	0035	uvu-z	you.SG-DAT	pro.2:ncs_poss	pro	2	ncs_poss	3005	
+tabasaran	naz	0035	dus-ru	(HSG)seat-FUT.PTCP	ln	ln				
+tabasaran	naz	0035	χal	house(ABS)	np:p	np		p		
+tabasaran	naz	0035	a-dar	(IN)be-NEG	v:pred	v		pred		
+tabasaran	naz	0035	=u-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	naz	0035	#	#	##ds.neg	##ds.neg				
+tabasaran	naz	0035	uvu-z	you.SG-DAT	pro.2:ncs_poss	pro	2	ncs_poss	3005	
+tabasaran	naz	0035	jiš	place(ABS)	np:p	np		p		
+tabasaran	naz	0035	a-dar	(IN)be-NEG	v:pred	v		pred		
+tabasaran	naz	0035	=u-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	naz	0035	#	#	##ds	##ds				
+tabasaran	naz	0035	0	0_Gulali	0.2:a	0	2	a	3005	
+tabasaran	naz	0035	uvu-z	you.SG-DAT	pro.2:obl	pro	2	obl		
+tabasaran	naz	0035	χal	house(ABS)	np:p	np		p	3026	bridging
+tabasaran	naz	0035	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	naz	0035	#	#	##ds	##ds				
+tabasaran	naz	0035	0	0_Gulali	0.2:a	0	2	a	3005	
+tabasaran	naz	0035	jis̊	place(ABS)	np:p	np		p	3027	bridging
+tabasaran	naz	0035	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	naz	0035	#	#	##	##				
+tabasaran	naz	0035	0	0_Gulali	0.2:a	0	2	a	3005	
+tabasaran	naz	0035	uvu-z	you.SG-DAT	pro.2:obl	pro	2	obl	3005	
+tabasaran	naz	0035	χizan	family(ABS)	np:p	np		p	3028	bridging
+tabasaran	naz	0035	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	naz	0036	#	#	##ds	##ds				
+tabasaran	naz	0036	0	0_Gulali	0.2:s	0	2	s	3005	
+tabasaran	naz	0036	jav	your(SG)	ln_pro.2:poss	ln_pro	2	poss	3005	
+tabasaran	naz	0036	χizan.ǯi-z	family-DAT	np.h:obl	np	h	obl	3028	
+tabasaran	naz	0036	lig	(HSG)look(IMP)	v:pred	v		pred		
+tabasaran	naz	0036	#	#	##ds	##ds				
+tabasaran	naz	0036	0	0_Gulali	0.2:a_cp	0	2	a_cp	3005	
+tabasaran	naz	0036	ʁajʁu	care(ABS)	other:lvc	other		lvc		
+tabasaran	naz	0036	zig	draw(IMP)	v:pred	v		pred		
+tabasaran	naz	0037	#	#	##	##				
+tabasaran	naz	0037	e	PTCL	other	other				
+tabasaran	naz	0037	du-rar	3.P-PL(ABS)	dem_pro.h:s	dem_pro	h	s	3013	
+tabasaran	naz	0037	vari	all	rn	rn				
+tabasaran	naz	0037	šl-u	become-FUT	v:pred	v		pred		
+tabasaran	naz	0037	#	#	##	##				
+tabasaran	naz	0037	laˁχn-ar	work-PL(ABS)	np:s	np		s		
+tabasaran	naz	0037	vu	COP	v:predex	v		predex		
+tabasaran	naz	0037	#	#	##neg	##neg				
+tabasaran	naz	0037	0	0_Gulali	0.h:a	0	h	a	3005	
+tabasaran	naz	0037	fuk’a	nothing(ABS)	indef_other:p	indef_other		p		
+tabasaran	naz	0037	=ra	=ADD	=rn	=rn				
+tabasaran	naz	0037	ap’-u-dar	do-FUT-NEG	v:pred	v		pred		
+tabasaran	naz	0038	#	#	#nc	#nc				
+tabasaran	naz	0038	χabar	news	nc	nc				
+tabasaran	naz	0038	naʔna	where	nc	nc				
+tabasaran	naz	0039	#	#	##	##				
+tabasaran	naz	0039	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	naz	0039	raǯ-ar.i	time-PL(ERG)	np:other	np		other		
+tabasaran	naz	0039	#	#	#cv	#cv				
+tabasaran	naz	0039	gülaˤl.ǯi	Gulali(ERG)	pn_np.h:a_cp_cv	pn_np	h	a_cp_cv	3005	
+tabasaran	naz	0039	uč	gather	other:lvc	other		lvc		
+tabasaran	naz	0039	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	naz	0039	ča-n	REFL(SG)-GEN	ln_refl.h:poss	ln_refl	h	poss	3005	
+tabasaran	naz	0039	dust-ar	friend-PL	np.h:p	np	h	p	3029	bridging
+tabasaran	naz	0039	=a	=ADD	=rn	=rn				
+tabasaran	naz	0039	%	%	%	%				
+tabasaran	naz	0039	0	0_Gulali_and_friends	0.h:s	0	h	s	3030	bridging
+tabasaran	naz	0039	dus-ru	(PL)seat-FUT	v:pred	v		pred		
+tabasaran	naz	0039	#	#	#cv	#cv				
+tabasaran	naz	0039	0	0_Gulali_and_friends	0.h:a_cv	0	h	a_cv	3030	
+tabasaran	naz	0039	u<b>q-uri	<NSG>drink-ICVB	v:pred	v		pred		
+tabasaran	naz	0039	čaˁχir	wine(ABS)	np:p	np		p	3031	new
+tabasaran	naz	0040	#	#	##	##				
+tabasaran	naz	0040	murar.i-n	PROX(PL)-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	3030	
+tabasaran	naz	0040	ar.i	side(IN)	np:l	np		l		
+tabasaran	naz	0040	šul-u	become-FUT	v:predex	v		predex		
+tabasaran	naz	0040	ha-m-cːi-b	EMPH-PROX-ADV-NSG	dem_other:other	dem_other		other		
+tabasaran	naz	0040	jiq’rar	agreement(ABS)	np:s	np		s	3032	new
+tabasaran	naz	0041	#	#	##ds	##ds				
+tabasaran	naz	0041	0	0_Gulali_and_friends	0.1:s	0	1	s	3030	
+tabasaran	naz	0041	ʁač	come(IMP)	v:pred	v		pred		
+tabasaran	naz	0041	k’ur	CIT	other	other				
+tabasaran	naz	0041	#	#	##ds	##ds				
+tabasaran	naz	0041	0	0_Gulali_and_friends	0.1:a	0	1	a	3030	
+tabasaran	naz	0041	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	naz	0041	naz.ǯi-z	Naz-DAT	pn_np.h:g	pn_np	h	g	3033	new
+tabasaran	naz	0041	k’ur	CIT	other	other				
+tabasaran	naz	0041	čaˁχir	wine(ABS)	np:p	np		p	3034	bridging
+tabasaran	naz	0041	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	naz	0041	=xa	=1PL.INCL	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	naz	0041	k’ur	CIT	other	other				
+tabasaran	naz	0042	#	#	##ds	##ds				
+tabasaran	naz	0042	qa	PTCL	other	other				
+tabasaran	naz	0042	ficːi	how	other	other				
+tabasaran	naz	0042	šu-j	become-IPFV	v:pred	v		pred		
+tabasaran	naz	0042	=k’e	=PTCL	=other	=other				
+tabasaran	naz	0042	k’ur	CIT	other	other				
+tabasaran	naz	0043	#	#	##ds.neg	##ds.neg				
+tabasaran	naz	0043	ficːik’a	anyhow	other	other				
+tabasaran	naz	0043	=ra	=ADD	=other	=other				
+tabasaran	naz	0043	šul-dar	become-FUT.NEG	v:pred	v		pred		
+tabasaran	naz	0043	k’ur	CIT	other	other				
+tabasaran	naz	0043	#	#	##ds	##ds				
+tabasaran	naz	0043	0	0_Gulali_and_friends	0.1:a	0	1	a	3030	
+tabasaran	naz	0043	hap’-ra	what_do-PRS	v:pred	v		pred		
+tabasaran	naz	0043	=qa	=PTCL	=other	=other				
+tabasaran	naz	0043	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	naz	0043	0	0_Gulali_and_friends	0.1:a	0	1	a	3030	
+tabasaran	naz	0043	duva-z	3.P-DAT	dem_pro.h:g	dem_pro	h	g	3033	
+tabasaran	naz	0043	0	0_wine	0:p	0		p	3034	
+tabasaran	naz	0043	tu-r	give-FUT	v:pred	v		pred		
+tabasaran	naz	0043	=xa	=1PL.INCL	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	naz	0043	k’ur	CIT	other	other				
+tabasaran	naz	0044	#	#	##ds	##ds				
+tabasaran	naz	0044	0	0_Gulali_and_friends	0.1:s	0	1	s	3030	
+tabasaran	naz	0044	ʁač	come(IMP)	v:pred	v		pred		
+tabasaran	naz	0044	=ele	=PTCL	=other	=other				
+tabasaran	naz	0044	#	#	##ds	##ds				
+tabasaran	naz	0044	0	0_Gulali_and_friends	0.1:a	0	1	a	3030	
+tabasaran	naz	0044	0	0_Naz	0.h:g	0	h	g	3033	
+tabasaran	naz	0044	0	0_wine	0:p	0		p	3034	
+tabasaran	naz	0044	tuv	give+FUT	v:pred	v		pred		
+tabasaran	naz	0044	=xa	=1PL.INCL	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	naz	0044	k’ur	CIT	other	other				
+tabasaran	naz	0045	#	#	##	##				
+tabasaran	naz	0045	#	#	#cv	#cv				
+tabasaran	naz	0045	0	0_Gulali	0.h:s_cv	0	h	s_cv	3005	
+tabasaran	naz	0045	dust-ar.i-q	friend-PL-POST	np.h:obl	np	h	obl	3029	
+tabasaran	naz	0045	qaˁbaˁq-nu	listen-PCVB	v:pred	v		pred		
+tabasaran	naz	0045	%	%	%	%				
+tabasaran	naz	0045	hamus	now	other	other				
+tabasaran	naz	0045	muvu	PROX(ERG)	dem_pro.h:a_ds	dem_pro	h	a_ds	3005	
+tabasaran	naz	0045	naz.ǯi-z	Naz-DAT	pn_np.h:g	pn_np	h	g	3033	
+tabasaran	naz	0045	k’ur-u	say-FUT	v:pred	v		pred		
+tabasaran	naz	0045	#	#	##ds	##ds				
+tabasaran	naz	0045	0	0_Naz	0.2:a	0	2	a	3033	
+tabasaran	naz	0045	ul.i-x-na	eye-APUD-LAT	np:g	np		g		
+tabasaran	naz	0045	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	3035	new
+tabasaran	naz	0045	aˁ<b>qː-i	<NSG>bring-IMP	v:pred	v		pred		
+tabasaran	naz	0045	ja	VOC	other	other				
+tabasaran	naz	0045	naz	Naz(ABS)	pn_np.h:voc	pn_np	h	voc	3033	
+tabasaran	naz	0045	fu	what(ABS)	other	other				
+tabasaran	naz	0045	χabarvu	news(ABS)COP	other	other				
+tabasaran	naz	0046	#	#	##ds.neg	##ds.neg				
+tabasaran	naz	0046	vallah	INTERJ	other	other				
+tabasaran	naz	0046	fuk’a	nothing(ABS)	indef_other:s	indef_other		s		
+tabasaran	naz	0046	=ra	=ADD	=rn	=rn				
+tabasaran	naz	0046	a-dar	(IN)be-PRS.NEG	v:predex	v		predex		
+tabasaran	naz	0046	#	#	##ds	##ds				
+tabasaran	naz	0046	0	0_Naz	0.1:a	0	1	a	3033	
+tabasaran	naz	0046	hap’	what_do	v:pred	v		pred		
+tabasaran	naz	0046	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	naz	0046	k’ur	CIT	other	other				
+tabasaran	naz	0046	#	#	##ds	##ds				
+tabasaran	naz	0046	0	0_Naz	0.1:a	0	1	a	3033	
+tabasaran	naz	0046	fu	what(ABS)	indef_other:p	indef_other		p		
+tabasaran	naz	0046	χu	bring	v:pred	v		pred		
+tabasaran	naz	0046	=zaxu	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	naz	0046	k’ur	CIT	other	other				
+tabasaran	naz	0047	#	#	##ds	##ds				
+tabasaran	naz	0047	#	#	#ds_ac	#ds_ac				
+tabasaran	naz	0047	uvu	you.SG(ABS)	pro.2:a	pro	2	a	3005	
+tabasaran	naz	0047	uzu-x-na	I-APUD-LAT	pro.1:g	pro	1	g	3033	
+tabasaran	naz	0047	0	0_something	0:p	0		p		
+tabasaran	naz	0047	ʁ-a<b>χ-ni-ji-š	PFV-<NSG>bring-PFV-PST-COND	v:pred	v		pred		
+tabasaran	naz	0047	k’ur	CIT	other	other				
+tabasaran	naz	0047	%	%	%	%				
+tabasaran	naz	0047	uzu	I(ABS)	pro.1:a	pro	1	a	3033	
+tabasaran	naz	0047	0	0_something	0:p	0		p		
+tabasaran	naz	0047	0	0_Gulali_and_friends	0.2:g	0	2	g	3030	
+tabasaran	naz	0047	χu-j	bring-PST-COND	v:pred	v		pred		
+tabasaran	naz	0047	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	naz	0047	k’ur	CIT	other	other				
+tabasaran	naz	0048	#	#	##	##				
+tabasaran	naz	0048	aˁχir	finally	other	other				
+tabasaran	naz	0048	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	naz	0048	mu-rar.i	PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a	3030	
+tabasaran	naz	0048	dust-ar.i	friend-PL(ERG)	np.h:appos	np	h	appos	3030	
+tabasaran	naz	0048	maˁslaˁat.ni-in-ǯi	agreement-SUPER-DIR	np:other	np		other	3032	
+tabasaran	naz	0048	naz.ǯi-z	Naz-DAT	pn_np.h:g	pn_np	h	g	3033	
+tabasaran	naz	0048	čaˁχir	wine(ABS)	np:p	np		p	3034	
+tabasaran	naz	0049	#	#	##	##				
+tabasaran	naz	0049	#	#	#cv	#cv				
+tabasaran	naz	0049	0	0_Naz	0.h:a_cv	0	h	a_cv	3033	
+tabasaran	naz	0049	čaˁχir	wine(ABS)	np:p	np		p	3034	
+tabasaran	naz	0049	ʁ-uq-u	PFV-<HSG>drink-PCVB	v:pred	v		pred		
+tabasaran	naz	0049	%	%	%	%				
+tabasaran	naz	0049	naz	Naz	pn_np.h:s	pn_np	h	s	3033	
+tabasaran	naz	0049	bab	old_woman	rn	rn				
+tabasaran	naz	0049	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	naz	0049	pijan	drunk	other	other				
+tabasaran	naz	0050	#	#	##	##				
+tabasaran	naz	0050	naz	Naz	pn_np.h:a_ds	pn_np	h	a_ds	3033	
+tabasaran	naz	0050	bab.u	old_woman(ERG)	rn	rn				
+tabasaran	naz	0050	k’u-ru	say-FUT	v:pred	v		pred		
+tabasaran	naz	0050	#	#	##ds	##ds				
+tabasaran	naz	0050	ja	voc	other	other				
+tabasaran	naz	0050	gülaˤli	Gulali	pn_np.h:voc	pn_np	h	voc	3005	
+tabasaran	naz	0050	uxu	we.INCL(ABS)	nc_pro.1	nc_pro	1		3036	bridging
+tabasaran	naz	0050	uc̊u	you.PL(ABS)	pro.2:a	pro	2	a	3030	
+tabasaran	naz	0050	ficːi	how	other	other				
+tabasaran	naz	0050	dus-na-c̊a	<PL>sit-RES-2PL(AG)	v:pred	v		pred		
+tabasaran	naz	0050	ič’i-ǯi	simple-ADV	other	other				
+tabasaran	naz	0050	#	#	#ds_cv.neg	#ds_cv.neg				
+tabasaran	naz	0050	fuk’a	nothing(ABS)	indef_other:s	indef_other		s		
+tabasaran	naz	0050	=ra	=ADD	=rn	=rn				
+tabasaran	naz	0050	ktarǯi	CONT-be:NEG-ICVB	v:predex	v		predex		
+tabasaran	naz	0050	#	#	##ds	##ds				
+tabasaran	naz	0050	0	0_Gulali	0.2:s	0	2	s	3005	
+tabasaran	naz	0050	ʁaraχ	go(IMP)	v:pred	v		pred		
+tabasaran	naz	0050	#	#	##ds	##ds				
+tabasaran	naz	0050	ha-kmu	EMPH-DOWN(ABS)	dem_pro:l	dem_pro		l	3037	bridging
+tabasaran	naz	0050	ix	we.INCL(POSS)	ln_pro.1:poss	ln_pro	1	poss	3038	bridging
+tabasaran	naz	0050	k’an.ǯi	bottom(IN)	np:l	np		l	3037	
+tabasaran	naz	0050	varq	basket(ABS)	np:s	np		s	3039	new
+tabasaran	naz	0050	a-ǯa	(IN)be-PRS	v:predex	v		predex		
+tabasaran	naz	0050	murt-ir	egg-PL(ABS)	rn_np	rn_np			3040	new
+tabasaran	naz	0050	a-ji	(IN)be-PTCP	rn	rn				
+tabasaran	naz	0051	#	#	##ds	##ds				
+tabasaran	naz	0051	0	0_Gulali	0.2:s	0	2	s	3005	
+tabasaran	naz	0051	ʁaraχ	go(IMP)	v:pred	v		pred		
+tabasaran	naz	0051	#	#	#ds_cv	#ds_cv				
+tabasaran	naz	0051	murt-ir	egg-PL(ABS)	np:s_cv	np		s_cv	3040	
+tabasaran	naz	0051	x-a-ǯi	APUD-be-ICVB	v:predex	v		predex		
+tabasaran	naz	0051	#	#	##ds	##ds				
+tabasaran	naz	0051	0	0_Gulali	0.2:s	0	2	s	3005	
+tabasaran	naz	0051	ʁač	come(IMP)	v:pred	v		pred		
+tabasaran	naz	0051	#	#	##ds	##ds				
+tabasaran	naz	0051	0	0_Gulali	0.2:a	0	2	a	3005	
+tabasaran	naz	0051	baž-ar.i-z	boy-PL-DAT	np.h:g	np	h	g	3029	
+tabasaran	naz	0051	murt-ir	egg-PL(ABS)	np:p	np		p	3040	
+tabasaran	naz	0051	hiv	put(IMP)	v:pred	v		pred		
+tabasaran	naz	0052	%	%	%	%				
+tabasaran	naz	0052	ja	VOC	other	other				
+tabasaran	naz	0052	ǯan	dear	ln_adj	ln_adj				
+tabasaran	naz	0052	admi	man(ABS)	np.h:voc	np	h	voc	3005	
+tabasaran	naz	0052	k’ur	CIT	other	other				
+tabasaran	naz	0053	#	#	##	##				
+tabasaran	naz	0053	aˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	naz	0053	gülaˤli	Gulali	pn_np.h:s	pn_np	h	s	3005	
+tabasaran	naz	0053	#	#	##	##				
+tabasaran	naz	0053	0	0_Gulali	0.h:a	0	h	a	3005	
+tabasaran	naz	0053	χ-uru	bring-FUT	v:pred	v		pred		
+tabasaran	naz	0053	murt-ir	egg-PL(ABS)	np:p	np		p	3040	
+tabasaran	naz	0053	#	#	##	##				
+tabasaran	naz	0053	0	0_Gulali	0.h:a	0	h	a	3005	
+tabasaran	naz	0053	d-u<r>x-nu	PFV-<PL>boil-PST	v:pred	v		pred		
+tabasaran	naz	0053	murt-ir	egg-PL(ABS)	np:p	np		p	3040	
+tabasaran	naz	0053	#	#	##	##				
+tabasaran	naz	0053	0	0_Gulali	0.h:a	0	h	a	3005	
+tabasaran	naz	0053	ǯiv-ru	put-FUT	v:pred	v		pred		
+tabasaran	naz	0053	0	0_eggs	0:p	0		p	3040	
+tabasaran	naz	0053	#	#	##	##				
+tabasaran	naz	0053	ip’-uru	<NSG>eat-FUT	v:pred	v		pred		
+tabasaran	naz	0053	mu-rar.i	PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a	3036	
+tabasaran	naz	0053	0	0_eggs	0:p	0		p	3040	
+tabasaran	naz	0054	#	#	##ds	##ds				
+tabasaran	naz	0054	ja	VOC	other	other				
+tabasaran	naz	0054	gülaˤli	Gulali	pn_np.h:voc	pn_np	h	voc	3005	
+tabasaran	naz	0054	k’ur	CIT	other	other				
+tabasaran	naz	0054	ha-kmu	EMPH-DOWN(ABS)	dem_pro:l	dem_pro		l	3037	
+tabasaran	naz	0054	tanq.li	chest(IN)	np:l	np		l	3041	new
+tabasaran	naz	0054	k’ur	CIT	other	other				
+tabasaran	naz	0054	ʁaraamišaji	NC	nc	nc				
+tabasaran	naz	0054	c’ip	pot(ABS)	np:s	np		s	3042	new
+tabasaran	naz	0054	a-ǯa	(IN)be-PRS	v:predex	v		predex		
+tabasaran	naz	0054	k’ur	CIT	other	other				
+tabasaran	naz	0054	ha-mu	EMPH-PROX(ATTR)	nc	nc				
+tabasaran	naz	0054	durqnu	NC	nc	nc				
+tabasaran	naz	0054	k’ur	CIT	nc	nc				
+tabasaran	naz	0055	#	#	##	##				
+tabasaran	naz	0055	0	0_Gulali	0.2:a	0	2	a	3005	
+tabasaran	naz	0055	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	naz	0055	baž-ar.i-n	boy-PL-GEN	ln_np.h:poss	ln_np	h	poss	3029	
+tabasaran	naz	0055	ulix	in_front	np:g	np		g		
+tabasaran	naz	0055	ip’-ru-b	(NSG)eat-FUT.PTCP-NSG	np:p	np		p	3043	bridging
+tabasaran	naz	0055	ǯib	put(IMP)	v:pred	v		pred		
+tabasaran	naz	0056	#	#	##ds	##ds				
+tabasaran	naz	0056	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	naz	0056	čaˁχir	wine(ABS)	np:p	np		p	3031	
+tabasaran	naz	0056	f.ǯi-q-ǯi	what-POST-DIR	indef_other:obl	indef_other		obl		
+tabasaran	naz	0056	uq-uru	drink-FUT	v:pred	v		pred		
+tabasaran	naz	0056	k’ur	CIT	other	other				
+tabasaran	naz	0056	mu-rar.i	PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a	3029	
+tabasaran	naz	0057	#	#	##ds	##ds				
+tabasaran	naz	0057	ič’i	empty	other	other				
+tabasaran	naz	0057	uˁl.i-q-ǯi	bread-POST-DIR	np:obl	np		obl		
+tabasaran	naz	0057	čaˁχir	wine(ABS)	np:p	np		p		
+tabasaran	naz	0057	uq-uz	drink-INF	v:pred	v		pred		
+tabasaran	naz	0057	šul-i	become-Q	rv_aux	rv_aux				
+tabasaran	naz	0057	k’ur	CIT	other	other				
+tabasaran	naz	0058	#	#	##	##				
+tabasaran	naz	0058	#	#	#ac_pc	#ac_pc				
+tabasaran	naz	0058	0	0_Naz	0.h:s_pc	0	h	s_pc	3033	
+tabasaran	naz	0058	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	naz	0058	pijan	drunk	other	other				
+tabasaran	naz	0058	a-x-i	PFV-(HSG)become-PFV.PTCP	v:pred	v		pred		
+tabasaran	naz	0058	%	%	%	%				
+tabasaran	naz	0058	naz	Naz	pn_np.h:a	pn_np	h	a	3033	
+tabasaran	naz	0058	bab.u	old_woman(ERG)	rn	rn				
+tabasaran	naz	0058	značit	PTCL	other	other				
+tabasaran	naz	0058	#	#	#cv.neg	#cv.neg				
+tabasaran	naz	0058	ča-z	REFL.SG-DAT	refl.h:ncs_cp_pc	refl	h	ncs_cp_pc	3033	
+tabasaran	naz	0058	=ra	=ADD	=rn	=rn				
+tabasaran	naz	0058	χabar	news(ABS)	other:lvc	other		lvc		
+tabasaran	naz	0058	a-da-ǯi	(IN)be-NEG-ICVB	v:pred	v		pred		
+tabasaran	naz	0058	%	%	%	%				
+tabasaran	naz	0058	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	3033	
+tabasaran	naz	0058	#	#	#rc_pc	#rc_pc				
+tabasaran	naz	0058	0	0_food	rel_f0:p	rel_f0		p	3044	bridging
+tabasaran	naz	0058	0	0_Naz	0.h:a_pc	0	h	a_pc	3033	
+tabasaran	naz	0058	q’uˁrd.u-z	winter-DAT	np:other	np		other		
+tabasaran	naz	0058	ʁit-na-ji	leave-RES-PTCP	v:pred	v		pred		
+tabasaran	naz	0058	%	%	%	%				
+tabasaran	naz	0058	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	3033	
+tabasaran	naz	0058	#	#	#rc_pc	#rc_pc				
+tabasaran	naz	0058	0	0_food	rel_f0:p	rel_f0		p	3044	
+tabasaran	naz	0058	0	0_Naz	0.h:a_pc	0	h	a_pc	3033	
+tabasaran	naz	0058	zakur	tomorrow	other	other				
+tabasaran	naz	0058	jiʁ.a-z	day-DAT	np:other	np		other		
+tabasaran	naz	0058	ʁit-na-ji	leave-RES-PTCP	v:pred	v		pred		
+tabasaran	naz	0058	%	%	%	%				
+tabasaran	naz	0058	χurag-ar	food-PL(ABS)	np:p	np		p	3044	
+tabasaran	naz	0058	značit	PTCL	other	other				
+tabasaran	naz	0058	ča-n	REFL.SG-GEN	rn_refl.h:poss	rn_refl	h	poss	3033	
+tabasaran	naz	0058	ʁafn-ar	snack_food-PL(ABS)	rn_np	rn_np			3045	bridging
+tabasaran	naz	0058	#	#	##	##				
+tabasaran	naz	0058	0	0_Naz	0.h:a	0	h	a	3033	
+tabasaran	naz	0058	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	naz	0058	raǯ-ar.i	time-PL(ERG)	np:other	np		other		
+tabasaran	naz	0058	čaˁχir	wine(ABS)	np:p	np		p	3034	
+tabasaran	naz	0058	ʁ-uq-nu	PFV-drink-PST	v:pred	v		pred		
+tabasaran	naz	0058	k’uri	CIT	other	other				
+tabasaran	naz	0058	#	#	##	##				
+tabasaran	naz	0058	vari	all(ABS)	indef_other:p	indef_other		p	3046	bridging
+tabasaran	naz	0058	a-ra-jiz	(IN)be-PRS-until	v:predex	v		predex		
+tabasaran	naz	0058	k’-uru	say-FUT	other	other				
+tabasaran	naz	0059	#	#	##	##				
+tabasaran	naz	0059	ha-m-cː-dar	EMPH-PROX-ADV-PL	dem_pro:other	dem_pro		other		
+tabasaran	naz	0059	šuluʁ-ar	scandal-PL(ABS)	np:p	np		p	3047	bridging
+tabasaran	naz	0059	k-a-ǯi	CONT-be-ICVB	v:pred	v		pred		
+tabasaran	naz	0059	ʁa-x-nu	PFV-(PL)become-PST	rv_aux	rv_aux				
+tabasaran	naz	0059	gülaˤl.ǯi-k	Gulali-CONT	pn_np.h:ncs_poss	pn_np	h	ncs_poss	3005	
+tabasaran	naz	0059	=ra	=ADD	=rn	=rn				

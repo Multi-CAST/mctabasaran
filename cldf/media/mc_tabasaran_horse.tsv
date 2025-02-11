@@ -1,0 +1,2601 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tabasaran	horse	0001	#	#	#nc	#nc				
+tabasaran	horse	0001	mu	PROX(ABS)	nc	nc				
+tabasaran	horse	0001	ʁa-x-nu	PFV-(HSG)become-PST	nc	nc				
+tabasaran	horse	0001	ʁa-x-un-dar	PFV-(HSG)become-PST-NEG	nc	nc				
+tabasaran	horse	0001	sa-r	one-HSG	nc	nc				
+tabasaran	horse	0001	q’abi	old	nc	nc				
+tabasaran	horse	0001	admi	man(ABS)	nc_np.h	nc_np	h		2003	new
+tabasaran	horse	0001	kasib	poor	nc	nc				
+tabasaran	horse	0001	[intkal]	NC	nc	nc				
+tabasaran	horse	0001	admi	man(ABS)	nc	nc				
+tabasaran	horse	0002	#	#	##	##				
+tabasaran	horse	0002	muʁa-z	PROX-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	2003	
+tabasaran	horse	0002	a-ǯi	(IN)be-ICVB	v:pred	v		pred		
+tabasaran	horse	0002	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0002	šubu-r	three-HSG	ln_num	ln_num				
+tabasaran	horse	0002	baž	boy(ABS)	np.h:p	np	h	p	2004	new
+tabasaran	horse	0003	#	#	#cv	#cv				
+tabasaran	horse	0003	qa	then	other	other				
+tabasaran	horse	0003	0	0_old_man	0.h:obl	0	h	obl	2003	
+tabasaran	horse	0003	muʁa-n	PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss		
+tabasaran	horse	0003	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0003	šubu-r	three-HSG	ln_num	ln_num				
+tabasaran	horse	0003	baž	boy(ABS)	np.h:s_cv	np	h	s_cv	2004	
+tabasaran	horse	0003	=ra	=ADD	=other	=other				
+tabasaran	horse	0003	a-ǯi	(IN)be-ICVB	v:pred	v		pred		
+tabasaran	horse	0003	#	#	##	##				
+tabasaran	horse	0003	#	#	#cv	#cv				
+tabasaran	horse	0003	mu-rar.i-n	PROX-PL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	2004	
+tabasaran	horse	0003	ha-m-cːi-b	EMPH-PROX-ADV-NSG	ln	ln				
+tabasaran	horse	0003	kasibval	poverty(ABS)	np:s_cv	np		s_cv		
+tabasaran	horse	0003	=ra	=ADD	=other	=other				
+tabasaran	horse	0003	k-a-ǯi	CONT-be-ICVB	v:predex	v		predex		
+tabasaran	horse	0003	%	%	%	%				
+tabasaran	horse	0003	mu-rar.i-n	PROX-PL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	2004	
+tabasaran	horse	0003	daši	father(ABS)	np.h:s	np	h	s	2003	
+tabasaran	horse	0003	jik’-uru	(HSG)die-FUT	v:pred	v		pred		
+tabasaran	horse	0004	#	#	##	##				
+tabasaran	horse	0004	daši	father(ABS)	np.h:s	np	h	s	2004	
+tabasaran	horse	0004	jik’-uru	(HSG)die-FUT	v:pred	v		pred		
+tabasaran	horse	0005	#	#	##	##				
+tabasaran	horse	0005	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0005	qa	then	other	other				
+tabasaran	horse	0005	daši	father(ABS)	np.h:s_pc	np	h	s_pc	2004	
+tabasaran	horse	0005	ʁa-č’-i-gan	PFV-(HSG)die-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0005	%	%	%	%				
+tabasaran	horse	0005	mu-rar.i-n	PROX-PL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	2005	bridging
+tabasaran	horse	0005	čpːi-n	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	2005	
+tabasaran	horse	0005	aˁdat	custom(ABS)	np:s	np		s	2006	new
+tabasaran	horse	0005	vu-ǯi	COP-ICVB	v:pred	v		pred		
+tabasaran	horse	0005	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0005	#	#	#cv	#cv				
+tabasaran	horse	0005	nuq’	grave(ABS)	np:p	np		p		
+tabasaran	horse	0005	uˁ<b>χ-uˁri	<NSG>save-ICVB	v:pred	v		pred		
+tabasaran	horse	0005	nuq’	grave(ABS)	other	other				
+tabasaran	horse	0005	uˁ<b>χ-uˁri	<NSG>save-ICVB	other	other				
+tabasaran	horse	0006	#	#	##	##				
+tabasaran	horse	0006	qa	then	other	other				
+tabasaran	horse	0006	aba.ji	father(ERG)	np.h:a	np	h	a	2003	
+tabasaran	horse	0006	vasijat	will(ABS)	np:p	np		p	2007	new
+tabasaran	horse	0006	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0006	mu-rar.i-z	PROX-PL-DAT	dem_pro.h:obl	dem_pro	h	obl		
+tabasaran	horse	0007	#	#	##ds	##ds				
+tabasaran	horse	0007	ǯan	dear	ln_adj	ln_adj				
+tabasaran	horse	0007	baž	boy	np.h:voc	np	h	voc	2004	
+tabasaran	horse	0007	k’ur	CIT	other	other				
+tabasaran	horse	0007	har-ur	each-HSG	ln	ln				
+tabasaran	horse	0007	sa-d	one-NSG	ln_num	ln_num				
+tabasaran	horse	0007	jis̊.a-n	night-GEN	np:other	np		other		
+tabasaran	horse	0007	k’ur	CIT	other	other				
+tabasaran	horse	0007	0	0_sons	0.2:s	0	2	s	2004	
+tabasaran	horse	0007	dus-un	(HSG)sit-IMP	v:pred	v		pred		
+tabasaran	horse	0007	k’ur	CIT	other	other				
+tabasaran	horse	0007	#	#	##ds	##ds				
+tabasaran	horse	0007	0	0_sons	0.2:a	0	2	a	2004	
+tabasaran	horse	0007	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2003	
+tabasaran	horse	0007	nuq’	grave(ABS)	np:p	np		p	2008	bridging
+tabasaran	horse	0007	uˁ<b>χ-aj	<NSG>save-IMP.PL	v:pred	v		pred		
+tabasaran	horse	0007	k’ur	CIT	other	other				
+tabasaran	horse	0007	jis̊.u	night(ERG)	np:other	np		other		
+tabasaran	horse	0007	jis̊.u	night(ERG)	np:other	np		other		
+tabasaran	horse	0008	#	#	##	##				
+tabasaran	horse	0008	qa	then	other	other				
+tabasaran	horse	0008	baž-ar.i	boy-PL(ERG)	np.h:a	np	h	a	2004	
+tabasaran	horse	0008	gardan.ǯi-ʔ	neck-IN	np:l	np		l		
+tabasaran	horse	0008	b-is-uru	NSG-catch-FUT	v:pred	v		pred		
+tabasaran	horse	0008	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0008	har-ur.i	each-HSG(ERG)	dem_pro.h:a	dem_pro	h	a	2009	bridging
+tabasaran	horse	0008	sa-d	one-NSG	ln_num	ln_num				
+tabasaran	horse	0008	jis̊.a-n	night-GEN	np:other	np		other		
+tabasaran	horse	0008	šubu-d	three-NSG	rn_num	rn_num				
+tabasaran	horse	0008	0	0_grave	0:p	0		p	2008	
+tabasaran	horse	0008	uˁ<b>χ-uˁ-dar	<NSG>save-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0008	=ča	=1PL.EXCL	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0008	k’ur	CIT	other	other				
+tabasaran	horse	0008	#	#	##ds	##ds				
+tabasaran	horse	0008	har-ur.i	each-HSG(ERG)	dem_pro.h:a	dem_pro	h	a	2009	
+tabasaran	horse	0008	šubu-d	three-NSG	rn_num	rn_num				
+tabasaran	horse	0008	šubu-d	three-NSG	ln_num	ln_num				
+tabasaran	horse	0008	jis̊.a-n	night-GEN	np:other	np		other		
+tabasaran	horse	0008	0	0_grave	0:p	0		p	2008	
+tabasaran	horse	0008	uˁ<b>χ-uˁr	<NSG>save-FUT	v:pred	v		pred		
+tabasaran	horse	0008	=ča	=1PL.EXCL	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0008	k’ur	CIT	other	other				
+tabasaran	horse	0009	#	#	##	##				
+tabasaran	horse	0009	0	0_brothers	0.1:a	0	1	a	2004	
+tabasaran	horse	0009	0	0_grave	0:p	0		p	2008	
+tabasaran	horse	0009	uˁ<b>χ-uˤr	<NSG>save-FUT	v:pred	v		pred		
+tabasaran	horse	0009	=ča	=1PL.EXCL	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0009	k’ur	CIT	other	other				
+tabasaran	horse	0009	šubu-d	three-NSG	ln_num	ln_num				
+tabasaran	horse	0009	jis̊.a-n	night-GEN	np:other	np		other		
+tabasaran	horse	0010	#	#	##	##				
+tabasaran	horse	0010	qa	then	other	other				
+tabasaran	horse	0010	mu-rar.i-n	PROX-PL-GEN	ln_dem_pro:poss	ln_dem_pro		poss	2004	
+tabasaran	horse	0010	sifte	first	ln_adj	ln_adj				
+tabasaran	horse	0010	nubat	turn(ABS)	np:s	np		s	2010	bridging
+tabasaran	horse	0010	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0010	aˁχuˁ-nu	old-FOC	ln_adj	ln_adj				
+tabasaran	horse	0010	c̊uc̊ː.u-n	brother-GEN	np.h:other	np	h	other	2011	bridging
+tabasaran	horse	0011	#	#	##	##				
+tabasaran	horse	0011	#	#	#cv	#cv				
+tabasaran	horse	0011	qa	then	other	other				
+tabasaran	horse	0011	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0011	aba.ji-z	eldest_brother-DAT	np.h:obl	np	h	obl	2011	
+tabasaran	horse	0011	kin	fear	np:s_cv	np		s_cv		
+tabasaran	horse	0011	k-a-ǯi	CONT-be-ICVB	v:pred	v		pred		
+tabasaran	horse	0011	%	%	%	%				
+tabasaran	horse	0011	0	0_eldest_brother	0.h:obl	0	h	obl	2011	
+tabasaran	horse	0011	a-ǯi	(IN)be-ICVB	v:pred	v		pred		
+tabasaran	horse	0011	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0011	ha-cːi-b	EMPH-(DIST)ADV-NSG	other	other				
+tabasaran	horse	0011	derdi	trouble(ABS)	np:s	np		s		
+tabasaran	horse	0012	#	#	##	##				
+tabasaran	horse	0012	qa	then	other	other				
+tabasaran	horse	0012	muʁu	PROX(ERG)	nc	nc				
+tabasaran	horse	0012	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0012	baž	boy(ABS)	np.h:s	np	h	s	2011	
+tabasaran	horse	0012	aˁʁ-uˁru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0012	sifte	first	ln_adj	ln_adj				
+tabasaran	horse	0012	jis̊.a-n	night-GEN	np:other	np		other	2012	bridging
+tabasaran	horse	0013	#	#	##	##				
+tabasaran	horse	0013	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0013	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0013	baž	boy	np.h:s_pc	np	h	s_pc	2011	
+tabasaran	horse	0013	ʁ-uš-i-gan	PFV-(HSG)come-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0013	%	%	%	%				
+tabasaran	horse	0013	hac’-is̊-ar.i-n-gan	half-night-GEN-TEMP	other	other				
+tabasaran	horse	0013	q-iv-ru	POST-put-FUT	v:pred	v		pred		
+tabasaran	horse	0013	mik’	wind(ABS)	np:s	np		s	2013	new
+tabasaran	horse	0013	kulak	whirlwind(ABS)	rn_np	rn_np				
+tabasaran	horse	0013	t’urfan	windstorm(ABS)	rn_np	rn_np				
+tabasaran	horse	0014	#	#	##	##				
+tabasaran	horse	0014	qa	then	other	other				
+tabasaran	horse	0014	muʁa-z	PROX-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	2011	
+tabasaran	horse	0014	guč’	fear	np:p	np		p		
+tabasaran	horse	0014	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0014	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0014	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0014	bal.i-z	boy-DAT	np:appos	np		appos	2011	
+tabasaran	horse	0015	#	#	##	##				
+tabasaran	horse	0015	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	horse	0015	alda<b>ʁ-u	<NSG>put_out-FUT	v:pred	v		pred		
+tabasaran	horse	0015	nuq’.ǯi-n	grave-GEN	ln_np:poss	ln_np		poss	2008	
+tabasaran	horse	0015	ʁʷan.ǯi-l-an	stone-SUPER-ELAT	ln_np	ln_np			2014	bridging
+tabasaran	horse	0015	χab	back_edge(ABS)	np:s	np		s	2015	bridging
+tabasaran	horse	0016	#	#	##neg	##neg				
+tabasaran	horse	0016	ris̊u-z	(HSG)move-INF	v:pred	v		pred		
+tabasaran	horse	0016	šul-dar	become-FUT.NEG	rv_aux	rv_aux				
+tabasaran	horse	0016	muʁa-x-an	PROX-APUD-ELAT	np:ncs	np		ncs	2011	
+tabasaran	horse	0017	#	#	##	##				
+tabasaran	horse	0017	#	#	#cv	#cv				
+tabasaran	horse	0017	qa	then	other	other				
+tabasaran	horse	0017	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0017	ha-cːi	EMPH-(DIST)ADV	ln	ln				
+tabasaran	horse	0017	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0017	uǯu-b	beautiful-NSG	ln_adj	ln_adj				
+tabasaran	horse	0017	haˁjvan	horse(ABS)	np.d:s_cv	np	d	s_cv	2016	new
+tabasaran	horse	0017	du-f-un	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	horse	0017	%	%	%	%				
+tabasaran	horse	0017	#	#	#cv	#cv				
+tabasaran	horse	0017	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0017	haˁjvn.i	horse(ERG)	np.d:a_cv	np	d	a_cv	2016	
+tabasaran	horse	0017	kː-iri<b>ʁ-un	SUB-<NSG>dig_up-PCVB	v:pred	v		pred		
+tabasaran	horse	0017	kː-iri<b>ʁ-un	SUB-<NSG>dig_up-PCVB	other	other				
+tabasaran	horse	0017	kː-iri<b>ʁ-un	SUB-<NSG>dig_up-PCVB	other	other				
+tabasaran	horse	0017	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0017	nuq’	grave(ABS)	np:p	np		p	2008	
+tabasaran	horse	0017	kː-iri<b>ʁ-un	SUB-<N>dig_up-PCVB	other	other				
+tabasaran	horse	0017	%	%	%	%				
+tabasaran	horse	0017	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0017	ič’	hole(ABS)	np:p	np		p		
+tabasaran	horse	0017	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0017	nuq’.ǯi-ʔ	grave-IN	np:l	np		l	2008	
+tabasaran	horse	0017	#	#	##	##				
+tabasaran	horse	0017	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0017	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	horse	0017	raˁ<b>ʁ-uˁru	<NSG>grind-FUT	v:pred	v		pred		
+tabasaran	horse	0017	nuq’	grave(ABS)	np:p	np		p	2008	
+tabasaran	horse	0018	#	#	##	##				
+tabasaran	horse	0018	gʷač’in.ǯi-z	morning-DAT	np:other	np		other		
+tabasaran	horse	0018	0	0_eldest_brother	0.h:a	0	h	a	2011	
+tabasaran	horse	0018	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	horse	0019	#	#	##	##				
+tabasaran	horse	0019	mu	PROX(ABS)	dem_pro.d:s	dem_pro	d	s	2016	
+tabasaran	horse	0019	aˁ<b>ʁ-uru	<NSG>go_away-FUT	v:pred	v		pred		
+tabasaran	horse	0019	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0019	vaχt.na	time(ERG)	np:other	np		other		
+tabasaran	horse	0020	#	#	##	##				
+tabasaran	horse	0020	#	#	#cv	#cv				
+tabasaran	horse	0020	qa	then	other	other				
+tabasaran	horse	0020	gʷač’in.ǯi-z	morning-DAT	np:other	np		other		
+tabasaran	horse	0020	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0020	bal.i	boy(ERG)	np.h:a_cp_cv	np	h	a_cp_cv	2011	
+tabasaran	horse	0020	ras	right	other:lvc	other		lvc		
+tabasaran	horse	0020	d-ap’-u	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	horse	0020	nuq’	grave(ABS)	np:p	np		p	2008	
+tabasaran	horse	0020	%	%	%	%				
+tabasaran	horse	0020	0	0_eldest_brother	0.h:s	0	h	s	2011	
+tabasaran	horse	0020	ʁuˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	horse	0020	qada<r>k-un	<HSG>turn_back-PCVB	rv_v	rv_v				
+tabasaran	horse	0021	#	#	##	##				
+tabasaran	horse	0021	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0021	qa	then	other	other				
+tabasaran	horse	0021	0	0_eldest_brother	0.h:s_cv	0	h	s_cv	2011	
+tabasaran	horse	0021	qada<r>k-un	<HSG>turn_back-PCVB	lv_v	lv_v				
+tabasaran	horse	0021	ʁa-f-i-gan	PFV-come-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0021	%	%	%	%				
+tabasaran	horse	0021	c̊-jir.i	brother-PL(ERG)	np.h:a	np	h	a	2017	bridging
+tabasaran	horse	0021	herχ-ru	ask-FUT	v:pred	v		pred		
+tabasaran	horse	0021	0	0_eldest_brother	0.h:p	0	h	p	2011	
+tabasaran	horse	0021	#	#	##ds	##ds				
+tabasaran	horse	0021	0	0_eldest_brother	0.2:ncs	0	2	ncs	2011	
+tabasaran	horse	0021	fu	what	intrg_other:p	intrg_other		p		
+tabasaran	horse	0021	ʁaˁ<b>qː-un	<NSG>see-PST	v:pred	v		pred		
+tabasaran	horse	0021	=vu-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	horse	0021	k’ur	CIT	other	other				
+tabasaran	horse	0022	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0022	hič	at_all	ln	ln				
+tabasaran	horse	0022	fuk’a	nothing(ABS)	np:s	np		s		
+tabasaran	horse	0022	a-ji-b	(IN)be-PTCP-NSG	v:predex	v		predex		
+tabasaran	horse	0022	a-dar	(IN)be-PRS.NEG	rv_aux	rv_aux				
+tabasaran	horse	0022	k’ur	CIT	other	other				
+tabasaran	horse	0022	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0022	0	0_eldest_brother	0.1:ncs	0	1	ncs	2011	
+tabasaran	horse	0022	hič	at_all	ln	ln				
+tabasaran	horse	0022	fuk’a	nothing(ABS)	np:p	np		p		
+tabasaran	horse	0022	ʁaˤ<b>qː-un-dar	<NSG>see-PST-NEG	v:pred	v		pred		
+tabasaran	horse	0022	=zu-z	=1SG-DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	horse	0022	k’ur	CIT	other	other				
+tabasaran	horse	0023	#	#	##neg	##neg				
+tabasaran	horse	0023	muʁu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	2011	
+tabasaran	horse	0023	k’-ur-dar	say-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0023	#	#	#cc_pc:p	#cc_pc		p		
+tabasaran	horse	0023	0	0_what	0:s_pc	0		s_pc		
+tabasaran	horse	0023	ča-z	REFL.SG-DAT	refl.h:obl	refl	h	obl	2011	
+tabasaran	horse	0023	ʁa-b-š-i-b	PFV-NSG-become-PFV.PTCP-NSG	v:predex	v		predex		
+tabasaran	horse	0024	#	#	##	##				
+tabasaran	horse	0024	qa	then	other	other				
+tabasaran	horse	0024	aˁʁ-uˁru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0024	q’aˁl.a-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0024	c̊i	brother(ABS)	np.h:s	np	h	s	2018	bridging
+tabasaran	horse	0024	q’u-d	two-NSG	ln_num	ln_num				
+tabasaran	horse	0024	k’-uru	say-FUT.PTCP	ln	ln				
+tabasaran	horse	0024	jis̊.a-n	night-GEN	np:other	np		other	2019	bridging
+tabasaran	horse	0025	#	#	##	##				
+tabasaran	horse	0025	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0025	q’aˁl.a-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0025	c̊i	brother(ABS)	np.h:s_pc	np	h	s_pc	2018	
+tabasaran	horse	0025	ʁ-uš-gan	PFV-(HSG)go-PFV.PTCP+TEMP	v:pred	v		pred		
+tabasaran	horse	0025	%	%	%	%				
+tabasaran	horse	0025	#	#	#ac	#ac				
+tabasaran	horse	0025	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0025	fu-nu	what-FOC	ln	ln				
+tabasaran	horse	0025	vaχt.na	time(ERG)	np:s	np		s		
+tabasaran	horse	0025	ʁa-f-nu-š	PFV-come-PST-COND	v:pred	v		pred		
+tabasaran	horse	0025	jis̊.nu	night(ERG)	np:other	np		other	2019	
+tabasaran	horse	0025	%	%	%	%				
+tabasaran	horse	0025	hac’-is̊-ar.i-n-gan	middle_of_the_night-GEN-TEMP	np:other	np		other		
+tabasaran	horse	0025	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0025	mutmu	thing(ABS)	ln	ln				
+tabasaran	horse	0025	mik’	wind(ABS)	np:s	np		s	2020	bridging
+tabasaran	horse	0025	ut’u<b>c̊ː-u	<NSG>go_out-PCVB	v:pred	v		pred		
+tabasaran	horse	0025	ʁ-uˁru	go-FUT	rv_aux	rv_aux				
+tabasaran	horse	0026	#	#	#cv	#cv				
+tabasaran	horse	0026	qa	then	other	other				
+tabasaran	horse	0026	ha-mʁu	EMPH-PROX(ERG)	dem_pro.h:a_cv	dem_pro	h	a_cv	2019	
+tabasaran	horse	0026	=ra	=ADD	=other	=other				
+tabasaran	horse	0026	#	#	#cv	#cv				
+tabasaran	horse	0026	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	horse	0026	alda<b>ʁ-u	<NSG>put_out-PCVB	v:pred	v		pred		
+tabasaran	horse	0026	χab	back_edge(ABS)	np:s_cv	np		s_cv	2015	
+tabasaran	horse	0026	nuq’.ǯi-n	grave-GEN	rn_np:poss	rn_np		poss	2008	
+tabasaran	horse	0026	ʁʷan.ǯi-l-an	stone-SUPER-ELAT	rn	rn			2014	
+tabasaran	horse	0026	%	%	%	%				
+tabasaran	horse	0026	sarun	PRT	other	other				
+tabasaran	horse	0026	uˁlč’uˁq’-uˁn	(PL)close-PCVB	v:pred	v		pred		
+tabasaran	horse	0026	ul-er	eye-PL(ABS)	np:p	np		p	2021	bridging
+tabasaran	horse	0026	#	#	##neg	##neg				
+tabasaran	horse	0026	ris̊-u-dar	move-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0026	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2018	
+tabasaran	horse	0026	#	#	##	##				
+tabasaran	horse	0026	guč’	fear	np:p	np		p		
+tabasaran	horse	0026	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0026	muʁa-z	PROX-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	2018	
+tabasaran	horse	0027	#	#	##	##				
+tabasaran	horse	0027	ha-dmu	3.P(ATTR)	ln	ln				
+tabasaran	horse	0027	jis̊.a-n	night-GEN	np:other	np		other		
+tabasaran	horse	0027	=si	=like	=other	=other				
+tabasaran	horse	0027	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0027	haˁjvn.i	horse(ERG)	np.d:a	np	d	a	2016	
+tabasaran	horse	0027	qana	again	other	other				
+tabasaran	horse	0027	raˁ<b>ʁ-uru	<NSG>grind-FUT	v:pred	v		pred		
+tabasaran	horse	0027	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0027	nuq’	grave(ABS)	np:p	np		p	2008	
+tabasaran	horse	0028	#	#	##	##				
+tabasaran	horse	0028	#	#	#cv	#cv				
+tabasaran	horse	0028	0	0_horse	0.d:s_cv	0	d	s_cv	2016	
+tabasaran	horse	0028	0	0_grave	0:p	0		p	2008	
+tabasaran	horse	0028	da-raˁ<b>ʁ-un	PFV-<NSG>grind-PCVB	v:pred	v		pred		
+tabasaran	horse	0028	%	%	%	%				
+tabasaran	horse	0028	#	#	#cv	#cv				
+tabasaran	horse	0028	0	0_horse	0.d:s_cv	0	d	s_cv	2016	
+tabasaran	horse	0028	udu<b>c̊’-un	<NSG>go_out-PCVB	v:pred	v		pred		
+tabasaran	horse	0028	%	%	%	%				
+tabasaran	horse	0028	0	0_horse	0.d:s	0	d	s	2016	
+tabasaran	horse	0028	aˁ<b>ʁ-uˁru	<NSG>go-FUT	v:pred	v		pred		
+tabasaran	horse	0029	#	#	##	##				
+tabasaran	horse	0029	qa	then	other	other				
+tabasaran	horse	0029	muʁu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	2018	
+tabasaran	horse	0029	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	horse	0029	#	#	##	##				
+tabasaran	horse	0029	#	#	#cv	#cv				
+tabasaran	horse	0029	0	0_middle_brother	0.h:a_cp_cv	0	h	a_cp_cv	2018	
+tabasaran	horse	0029	düz	right	other:lvc	other		lvc		
+tabasaran	horse	0029	d-ap’-u	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	horse	0029	gʷač’i-gan	morning-TEMP	np:other	np		other		
+tabasaran	horse	0029	nuq’	grave(ABS)	np:p	np		p	2008	
+tabasaran	horse	0029	%	%	%	%				
+tabasaran	horse	0029	#	#	#cv	#cv				
+tabasaran	horse	0029	0	0_middle_brother	0.h:a_cv	0	h	a_cv	2018	
+tabasaran	horse	0029	0	0_grave	0:p	0		p	2008	
+tabasaran	horse	0029	ele<b>k-un	<NSG>cover-PCVB	v:pred	v		pred		
+tabasaran	horse	0029	%	%	%	%				
+tabasaran	horse	0029	0	0_middle_brother	0.h:s	0	h	s	2018	
+tabasaran	horse	0029	qada<r>k-un	<HSG>turn_back-PCVB	v:pred	v		pred		
+tabasaran	horse	0029	ʁuˁ-ru	come-FUT	rv_v	rv_v				
+tabasaran	horse	0030	#	#	##	##				
+tabasaran	horse	0030	qa	then	other	other				
+tabasaran	horse	0030	k’ur	CIT	other	other				
+tabasaran	horse	0030	0	0_middle_brother	0.h:ncs	0	h	ncs	2018	
+tabasaran	horse	0030	fu	what	intrg_other:p	intrg_other		p		
+tabasaran	horse	0030	ʁaˁ<b>qː-uˁ	PFV-<NSG>see-PST	v:pred	v		pred		
+tabasaran	horse	0030	=vu-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	horse	0030	с̊i	brother(ABS)	np.h:voc	np	h	voc	2018	
+tabasaran	horse	0030	k’ur	CIT	other	other				
+tabasaran	horse	0031	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0031	fuk’a	nothing(ABS)	np:s	np		s		
+tabasaran	horse	0031	a-ji-b	(IN)be-PTCP-NSG	v:predex	v		predex		
+tabasaran	horse	0031	a-dar	(IN)be-PRS.NEG	rv_aux	rv_aux				
+tabasaran	horse	0031	k’ur	CIT	other	other				
+tabasaran	horse	0031	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0031	0	0_middle_brother	0.1:ncs	0	1	ncs	2018	
+tabasaran	horse	0031	fuk’a	nothing(ABS)	np:p	np		p		
+tabasaran	horse	0031	ʁ-aˁ<b>qː-uˁn-dar	PFV-<NSG>see-PST-NEG	v:pred	v		pred		
+tabasaran	horse	0031	=zu-z	=1SG-DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	horse	0031	k’ur	CIT	other	other				
+tabasaran	horse	0032	#	#	##	##				
+tabasaran	horse	0032	šubu-d	three-NSG	ln_num	ln_num				
+tabasaran	horse	0032	k’-uru	say-FUT.PTCP	ln	ln				
+tabasaran	horse	0032	jis̊.a-n	night-GEN	np:other	np		other	2022	bridging
+tabasaran	horse	0032	aˁʁ-uˁr-u	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0032	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0032	c̊i	brother(ABS)	np.h:s	np	h	s	2023	bridging
+tabasaran	horse	0033	#	#	##	##				
+tabasaran	horse	0033	qa	then	other	other				
+tabasaran	horse	0033	#	#	#rc_pc	#rc_pc				
+tabasaran	horse	0033	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0033	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0033	c̊i	brother(ABS)	np.h:s_pc	np	h	s_pc	2023	
+tabasaran	horse	0033	ʁ-uš-i	PFV-(NSG)go-PFV.PTCP	v:pred	v		pred		
+tabasaran	horse	0033	0	0_night	rel_f0:other	rel_f0		other	2022	
+tabasaran	horse	0033	%	%	%	%				
+tabasaran	horse	0033	jis̊.a-n	night-GEN	np:other	np		other	2022	
+tabasaran	horse	0033	=na	=ADD	=other	=other				
+tabasaran	horse	0033	ʁuˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	horse	0033	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0033	mutmu	thing(ABS)	np:s	np		s	2024	bridging
+tabasaran	horse	0033	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	horse	0034	#	#	##neg	##neg				
+tabasaran	horse	0034	#	#	#cv	#cv				
+tabasaran	horse	0034	0	0_horse	0.d:s_cv	0	d	s_cv	2016	
+tabasaran	horse	0034	du-f-un	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	horse	0034	%	%	%	%				
+tabasaran	horse	0034	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0034	0	0_horse	0.d:a_pc	0	d	a_pc	2016	
+tabasaran	horse	0034	0	0_grave	0:p	0		p	2008	
+tabasaran	horse	0034	kːiri<b>ʁu-z	<NSG>dig_up-INF	v:pred	v		pred		
+tabasaran	horse	0034	quˁʁ-gan	start-PFV.PTCP+TEMP	rv_aux	rv_aux				
+tabasaran	horse	0034	%	%	%	%				
+tabasaran	horse	0034	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0034	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0034	c̊uc̊ː.u	brother(ERG)	np.h:a_cp	np	h	a_cp	2023	
+tabasaran	horse	0034	guč’	fear	other:lvc	other		lvc		
+tabasaran	horse	0034	ap’-u-dar	do-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0035	#	#	##	##				
+tabasaran	horse	0035	#	#	#ac	#ac				
+tabasaran	horse	0035	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0035	gat’-ar-iz	saddle_up-PRS-until	v:pred	v		pred		
+tabasaran	horse	0035	%	%	%	%				
+tabasaran	horse	0035	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0035	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0035	haˁvn.i-in	horse-SUPER	np.d:l	np	d	l	2016	
+tabasaran	horse	0035	ele-uru	(HSG)sit-FUT	v:pred	v		pred		
+tabasaran	horse	0036	#	#	##	##				
+tabasaran	horse	0036	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0036	ele-uru	(HSG)sit-FUT	v:pred	v		pred		
+tabasaran	horse	0036	0	0_horse	0.d:l	0	d	l	2016	
+tabasaran	horse	0036	#	#	##	##				
+tabasaran	horse	0036	0	0_youngest_brother	0.h:a_cp	0	h	a_cp	2023	
+tabasaran	horse	0036	0	0_horse	0.d:p	0	d	p	2016	
+tabasaran	horse	0036	jal-ar	spur-PL	other:lvc	other		lvc		
+tabasaran	horse	0036	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0037	#	#	##	##				
+tabasaran	horse	0037	aˁlamat-ar	astonishment-PL(ABS)	other:lvc	other		lvc		
+tabasaran	horse	0037	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0037	haˁjvn.i	horse(ERG)	np.d:a_cp	np	d	a_cp	2016	
+tabasaran	horse	0038	#	#	##neg	##neg				
+tabasaran	horse	0038	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0038	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	2023	
+tabasaran	horse	0038	ča-k	REFL-CONT	nc	nc				
+tabasaran	horse	0038	ʁit-u-dar	leave-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0038	[UNCLEAR]	NC	nc	nc				
+tabasaran	horse	0039	#	#	##	##				
+tabasaran	horse	0039	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0039	fu	what	intrg_other:p	intrg_other		p		
+tabasaran	horse	0039	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0040	#	#	##	##				
+tabasaran	horse	0040	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0040	0	0_youngest_brother	0.h:p	0	h	p	2023	
+tabasaran	horse	0040	ildip-uru	fling_down-FUT	v:pred	v		pred		
+tabasaran	horse	0040	č’al.a-n	NC-SUPER	nc	nc				
+tabasaran	horse	0041	#	#	##	##				
+tabasaran	horse	0041	mu	PROX(ABS)	dem_pro.d:a	dem_pro	d	a	2016	
+tabasaran	horse	0041	0	0_youngest_brother	0.h:p	0	h	p	2023	
+tabasaran	horse	0041	ildip-uru	(HSG)fling_down-FUT	v:pred	v		pred		
+tabasaran	horse	0041	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0041	jis̊.a-n	night-GEN	np:other	np		other	2022	
+tabasaran	horse	0042	#	#	##	##				
+tabasaran	horse	0042	#	#	#cv	#cv				
+tabasaran	horse	0042	muʁu	PROX(ERG)	dem_pro.h:a_cp_cv	dem_pro	h	a_cp_cv	2023	
+tabasaran	horse	0042	qana	again	other	other				
+tabasaran	horse	0042	=ra	=ADD	=other	=other				
+tabasaran	horse	0042	gʷač’in.ǯi-kː-na	morning-SUB-LAT	np:other	np		other		
+tabasaran	horse	0042	düz	right	other:lvc	other		lvc		
+tabasaran	horse	0042	d-ap’-u	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	horse	0042	nuq’	grave(ABS)	np:p	np		p	2008	
+tabasaran	horse	0042	%	%	%	%				
+tabasaran	horse	0042	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0042	qada<r>k-u	<HSG>turn_back-PCVB	v:pred	v		pred		
+tabasaran	horse	0042	ʁuˁ-ru	come-FUT	rv_aux	rv_aux				
+tabasaran	horse	0042	χul.a-z	house-DAT	np:g	np		g	2025	bridging
+tabasaran	horse	0043	#	#	##	##				
+tabasaran	horse	0043	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0043	fikr-ar.i-kː	thought-PL-SUB	np:g	np		g		
+tabasaran	horse	0043	kː-aq-ru	SUB-(HSG)fall-FUT	v:pred	v		pred		
+tabasaran	horse	0044	#	#	##	##				
+tabasaran	horse	0044	0	0_youngest_brother	0.h:a_cp	0	h	a_cp	2023	
+tabasaran	horse	0044	fikr-ar	thought-PL(ABS)	other:lvc	other		lvc		
+tabasaran	horse	0044	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0045	#	#	#ds_cv	#ds_cv				
+tabasaran	horse	0045	ah	PRT	other	other				
+tabasaran	horse	0045	k’ur	CIT	other	other				
+tabasaran	horse	0045	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2023	
+tabasaran	horse	0045	aba.ji	father(ERG)	np.h:a_cv	np	h	a_cv	2003	
+tabasaran	horse	0045	k’ur	CIT	other	other				
+tabasaran	horse	0045	#	#	#ds_ac_cv	#ds_ac_cv				
+tabasaran	horse	0045	0	0_father	0.h:s_cv	0	h	s_cv	2003	
+tabasaran	horse	0045	uču-z	we.EXCL-DAT	pro.1:obl	pro	1	obl	2004	
+tabasaran	horse	0045	h-a-ǯi-gan	APUD-be-ICVB-TEMP	v:pred	v		pred		
+tabasaran	horse	0045	%	%	%	%				
+tabasaran	horse	0045	ʁa-p-nu	PFV-say-PCVB	v:pred	v		pred		
+tabasaran	horse	0045	k’ur	CIT	other	other				
+tabasaran	horse	0045	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	horse	0045	0	0_sons	0.2:a	0	2	a	2004	
+tabasaran	horse	0045	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss	2003	
+tabasaran	horse	0045	nuq’	grave(ABS)	np:p	np		p	2008	
+tabasaran	horse	0045	uˁ<b>χ	<NSG>save(IMP)	v:pred	v		pred		
+tabasaran	horse	0045	k’uri	CIT	other	other				
+tabasaran	horse	0046	#	#	##ds	##ds				
+tabasaran	horse	0046	hamus	now	other	other				
+tabasaran	horse	0046	hap’	what_do	v:pred	v		pred		
+tabasaran	horse	0046	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0046	=jk’an	=PRT	=rv	=rv				
+tabasaran	horse	0046	k’ur	CIT	other	other				
+tabasaran	horse	0046	uzu	I(ERG)	pro.1:s	pro	1	s	2023	
+tabasaran	horse	0047	#	#	##	##				
+tabasaran	horse	0047	qa	then	other	other				
+tabasaran	horse	0047	=na	=ADD	=other	=other				
+tabasaran	horse	0047	jis̊.a-n	night-GEN	np:other	np		other	2026	bridging
+tabasaran	horse	0047	juq’u-d	four-NSG	ln_num	ln_num				
+tabasaran	horse	0047	k’-uru	say-FUT.PTCP	ln	ln				
+tabasaran	horse	0047	jis̊.a-n	night-GEN	np:other	np		other	2026	
+tabasaran	horse	0047	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0047	c̊uc̊ː.u-n	brother-GEN	ln_np.h:poss	ln_np	h	poss	2011	
+tabasaran	horse	0047	nubat	turn(ABS)	np:s	np		s	2027	bridging
+tabasaran	horse	0047	vu	COP	v:predex	v		predex		
+tabasaran	horse	0048	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0048	qa	then	other	other				
+tabasaran	horse	0048	ja	VOC	other	other				
+tabasaran	horse	0048	c̊i	brother	np.h:voc	np	h	voc	2011	
+tabasaran	horse	0048	k’ur	CIT	other	other				
+tabasaran	horse	0048	uvu	you(ABS)	pro.2:s	pro	2	s	2011	
+tabasaran	horse	0048	m-aˁʁaˁ-n	PROH-go-PROH	v:pred	v		pred		
+tabasaran	horse	0048	k’ur	CIT	other	other				
+tabasaran	horse	0048	#	#	##ds	##ds				
+tabasaran	horse	0048	uzu	I(ABS)	pro.1:s	pro	1	s	2023	
+tabasaran	horse	0048	aˁ-r	go-FUT	v:pred	v		pred		
+tabasaran	horse	0048	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0048	k’ur	CIT	other	other				
+tabasaran	horse	0048	aqli	today	other	other				
+tabasaran	horse	0048	=ra	=ADD	=other	=other				
+tabasaran	horse	0048	uv-q-an-ǯi	you-POST-ELAT-DIR	pro.2:other	pro	2	other	2011	
+tabasaran	horse	0049	#	#	##ds	##ds				
+tabasaran	horse	0049	vaʔ	no	other	other				
+tabasaran	horse	0049	uzu	I(ABS)	pro.1:s	pro	1	s	2011	
+tabasaran	horse	0049	aˁ-r	go-FUT	v:pred	v		pred		
+tabasaran	horse	0049	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0050	#	#	##ds	##ds				
+tabasaran	horse	0050	vaʔ	no	other	other				
+tabasaran	horse	0050	vaʔ	no	other	other				
+tabasaran	horse	0050	k’ur	CIT	other	other				
+tabasaran	horse	0050	uzu	I(ABS)	pro.1:s	pro	1	s	2023	
+tabasaran	horse	0050	aˁ-r	go-FUT	v:pred	v		pred		
+tabasaran	horse	0050	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0050	k’ur	CIT	other	other				
+tabasaran	horse	0050	uv-q-an-ǯi	you-POST-ELAT-DIR	pro.2:other	pro	2	other	2011	
+tabasaran	horse	0051	#	#	##	##				
+tabasaran	horse	0051	aʁ-uˁru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0051	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0052	#	#	##	##				
+tabasaran	horse	0052	aˁʁ-uˁru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0052	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0052	#	#	##	##				
+tabasaran	horse	0052	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0052	ča-n	REFL-GEN	rn	rn			2023	
+tabasaran	horse	0052	uǯu	good	other	other				
+tabasaran	horse	0052	=ji	=COP.PST	=cop	=cop				
+tabasaran	horse	0052	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0052	hamus	now	other	other				
+tabasaran	horse	0052	0	0_youngest_brother	0.1:a	0	1	a	2023	
+tabasaran	horse	0052	guč’	fear	np:p	np		p		
+tabasaran	horse	0052	=ra	=ADD	=other	=other				
+tabasaran	horse	0052	ap’-i-dar	do-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0052	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0052	#	#	#cv	#cv				
+tabasaran	horse	0052	0	0_youngest_brother	0.h:a_ds_cv	0	h	a_ds_cv	2023	
+tabasaran	horse	0052	d-up-u	PFV-say-PCVB	v:pred	v		pred		
+tabasaran	horse	0052	#	#	##	##				
+tabasaran	horse	0052	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0052	kːeʔ-na	(HSG)hide-RES	v:pred	v		pred		
+tabasaran	horse	0053	#	#	##	##				
+tabasaran	horse	0053	qa	then	other	other				
+tabasaran	horse	0053	ʁ-uˁru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0053	ha-mu	EMPH-PROX(ABS)	dem_pro.d:s	dem_pro	d	s	2016	
+tabasaran	horse	0053	#	#	##	##				
+tabasaran	horse	0053	kakraz	right_then	other	other				
+tabasaran	horse	0053	ha-dmu	EMPH-3.P(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0053	vaχt.na	time(ERG)	np:other	np		other		
+tabasaran	horse	0053	qana	PRT	other	other				
+tabasaran	horse	0053	jis̊.nu	night(ERG)	np:other	np		other		
+tabasaran	horse	0053	0	0_horse	0.d:s	0	d	s	2016	
+tabasaran	horse	0053	ʁ-uˁru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0054	#	#	##	##				
+tabasaran	horse	0054	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0054	kːiri<b>ʁ-uz	<NSG>dig_up-INF	v:pred	v		pred		
+tabasaran	horse	0054	quˁʁ-ru	start-FUT	rv_aux	rv_aux				
+tabasaran	horse	0054	ha-mʁa-n	EMPH-PROX-GEN	ln_dem_pro:poss	ln_dem_pro		poss		
+tabasaran	horse	0054	nuq’	grave(ABS)	np:p	np		p	2008	
+tabasaran	horse	0054	#	#	##	##				
+tabasaran	horse	0054	0	0_grave	0:p	0		p	2008	
+tabasaran	horse	0054	raˁ<b>ʁ-uˁz	<NSG>grind-INF	v:pred	v		pred		
+tabasaran	horse	0054	quˁʁ-ru	start-FUT	rv_aux	rv_aux				
+tabasaran	horse	0054	haˁjvn.i	horse(ERG)	dem_pro.d:a	dem_pro	d	a	2016	
+tabasaran	horse	0055	#	#	##	##				
+tabasaran	horse	0055	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0055	0	0_horse	0.d:a_pc	0	d	a_pc	2016	
+tabasaran	horse	0055	0	0_grave	0:p	0		p	2008	
+tabasaran	horse	0055	raˁ<b>ʁ-uˁz	<NSG>grind-INF	v:pred	v		pred		
+tabasaran	horse	0055	quˁʁ-i-gan	start-PFV.PTCP-TEMP	rv_aux	rv_aux				
+tabasaran	horse	0055	%	%	%	%				
+tabasaran	horse	0055	#	#	#cv	#cv				
+tabasaran	horse	0055	mu	PROX(ABS)	dem_pro.h:s_cv	dem_pro	h	s_cv	2023	
+tabasaran	horse	0055	ha-dmu	EMPH-3.P(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0055	jis̊.a-n	night-GEN	np:other	np		other	2026	
+tabasaran	horse	0055	=na	=ADD	=other	=other				
+tabasaran	horse	0055	ha-m-cːi	EMPH-3.P(ATTR)	rn	rn				
+tabasaran	horse	0055	k’at’a<r>g-u	<HSG>hold_on-PCVB	v:pred	v		pred		
+tabasaran	horse	0055	%	%	%	%				
+tabasaran	horse	0055	#	#	#cv	#cv				
+tabasaran	horse	0055	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0055	ele-un	(HSG)sit_on-PCVB	v:pred	v		pred		
+tabasaran	horse	0055	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	horse	0055	%	%	%	%				
+tabasaran	horse	0055	#	#	#cv	#cv				
+tabasaran	horse	0055	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0055	gardan	neck(ABS)	np:p	np		p	2028	bridging
+tabasaran	horse	0055	di-b-is-un	PFV-NSG-catch-PCVB	v:pred	v		pred		
+tabasaran	horse	0055	%	%	%	%				
+tabasaran	horse	0055	sarun	PRT	other	other				
+tabasaran	horse	0055	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0055	kta<r>s-u-dar	<HSG>jump_out-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0055	kta<r>s-u-dar	<HSG>jump_out-FUT-NEG	other	other				
+tabasaran	horse	0056	#	#	##	##				
+tabasaran	horse	0056	#	#	#ac_pc.neg	#ac_pc.neg				
+tabasaran	horse	0056	aˁχir	finally	other	other				
+tabasaran	horse	0056	saru	PRT	other	other				
+tabasaran	horse	0056	fuk’a	nothing(ABS)	np:p	np		p		
+tabasaran	horse	0056	ap’-uz	do-INF	v:pred	v		pred		
+tabasaran	horse	0056	dar-šl-u-gan	NEG-can-FUT.PTCP-TEMP	rv_aux	rv_aux				
+tabasaran	horse	0056	haˁjvn.i	horse(ERG)	np.d:a_pc	np	d	a_pc	2016	
+tabasaran	horse	0056	%	%	%	%				
+tabasaran	horse	0056	mu	PROX(ATTR)	dem_pro.d:a_ds	dem_pro	d	a_ds	2016	
+tabasaran	horse	0056	bal.i-z	boy-DAT	dem_pro.h:g	dem_pro	h	g	2023	
+tabasaran	horse	0056	k’-uru	say-FUT	v:pred	v		pred		
+tabasaran	horse	0056	#	#	##ds	##ds				
+tabasaran	horse	0056	uzu	I(ABS)	dem_pro.d:s	dem_pro	d	s	2016	
+tabasaran	horse	0056	luk’	slave(ABS)	np.d:other	np	d	other		
+tabasaran	horse	0056	iš-ri	(HSG)become-JUSS	v:pred	v		pred		
+tabasaran	horse	0056	k’ur	CIT	other	other				
+tabasaran	horse	0056	#	#	##ds	##ds				
+tabasaran	horse	0056	uvu	you(ABS)	pro.2:s	pro	2	s	2023	
+tabasaran	horse	0056	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2016	
+tabasaran	horse	0056	aʁa	owner(ABS)	np.h:other	np	h	other		
+tabasaran	horse	0057	#	#	##ds	##ds				
+tabasaran	horse	0057	0	0_youngest_brother	0.2:a	0	2	a	2023	
+tabasaran	horse	0057	teet	leave(IMP)	v:pred	v		pred		
+tabasaran	horse	0057	uzu	I(ABS)	pro.1:p	pro	1	p	2016	
+tabasaran	horse	0057	k’ur	CIT	other	other				
+tabasaran	horse	0058	#	#	##ds	##ds				
+tabasaran	horse	0058	qa	then	other	other				
+tabasaran	horse	0058	vaʔ	no	other	other				
+tabasaran	horse	0058	k’ur	CIT	other	other				
+tabasaran	horse	0058	uvu	you(ERG)	pro.2:a	pro	2	a	2016	
+tabasaran	horse	0058	fušvuš	something(ABS)	indef_other:p	indef_other		p		
+tabasaran	horse	0058	jip	say(IMP)	v:pred	v		pred		
+tabasaran	horse	0058	k’ur	CIT	other	other				
+tabasaran	horse	0058	#	#	##ds	##ds				
+tabasaran	horse	0058	uvu	you(ERG)	pro.2:a	pro	2	a	2016	
+tabasaran	horse	0058	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	horse	0058	0	0_horse	0.2:a	0	2	a	2016	
+tabasaran	horse	0058	haz	why	other	other				
+tabasaran	horse	0058	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2023	
+tabasaran	horse	0058	aba.ji-z	father-DAT	np.h:obl	np	h	obl	2003	
+tabasaran	horse	0058	mi-cːi-b	PROX-ADV-NSG	other	other				
+tabasaran	horse	0058	ap’-ura-š	do-PRS-COND	v:pred	v		pred		
+tabasaran	horse	0058	%	%	%	%				
+tabasaran	horse	0058	jip	say(IMP)	v:pred	v		pred		
+tabasaran	horse	0058	k’ur	CIT	other	other				
+tabasaran	horse	0059	#	#	##	##				
+tabasaran	horse	0059	qa	then	other	other				
+tabasaran	horse	0059	muʁu	PROX(ERG)	nc	nc				
+tabasaran	horse	0059	k’ur	CIT	other	other				
+tabasaran	horse	0059	uzu-z	I-DAT	nc	nc				
+tabasaran	horse	0059	k’ur	CIT	nc	nc				
+tabasaran	horse	0059	jav	your	ln_pro.2:poss	ln_pro	2	poss	2023	
+tabasaran	horse	0059	aba.ji	father(ERG)	np.h:a	np	h	a	2003	
+tabasaran	horse	0059	k’ur	CIT	other	other				
+tabasaran	horse	0059	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2016	
+tabasaran	horse	0059	k’ur	CIT	other	other				
+tabasaran	horse	0059	ha-m-cːi-b	EMPH-PROX-ADV-NSG	ln	ln				
+tabasaran	horse	0059	fu	what(ABS)	np:p	np		p	2029	new
+tabasaran	horse	0059	k’ur	CIT	other	other				
+tabasaran	horse	0059	haˁjvn-ar.i-n	horse-PL-GEN	rn_np:poss	rn_np		poss		
+tabasaran	horse	0059	čpː.i-n	REFL.PL-GEN	nc	nc				
+tabasaran	horse	0059	haˁzaʁ	who_knows	nc	nc				
+tabasaran	horse	0059	a-ǯi	(IN)be-ICVB	nc	nc				
+tabasaran	horse	0059	#	#	#cv	#cv				
+tabasaran	horse	0059	0	0_father	0.h:ncs_poss_cv	0	h	ncs_poss_cv	2003	
+tabasaran	horse	0059	ʁa-b-x-un	PFV-NSG-become-PCVB	v:pred	v		pred		
+tabasaran	horse	0059	šul	become.PRS	rv_aux	rv_aux				
+tabasaran	horse	0059	sarun	PRT	other	other				
+tabasaran	horse	0059	ha-cːi-b	EMPH-DIST-ADV-NSG	other	other				
+tabasaran	horse	0059	aˁdat	tradition(ABS)	np:p	np		p	2030	new
+tabasaran	horse	0059	%	%	%	%				
+tabasaran	horse	0059	jiv-uri	hit-ICVB	v:pred	v		pred		
+tabasaran	horse	0059	jiχ-uri	(PL)kill-ICVB	rv_v	rv_v				
+tabasaran	horse	0059	ʁa-x-u	PFV-(PL)become-PST	rv_aux	rv_aux				
+tabasaran	horse	0059	=jiz	=1SG:POSS	=rn_pro.1:poss	=rn_pro	1	poss	2016	
+tabasaran	horse	0059	k’ur	CIT	other	other				
+tabasaran	horse	0060	#	#	##ds	##ds				
+tabasaran	horse	0060	qa	then	other	other				
+tabasaran	horse	0060	0	0_youngest_brother	0.1:a	0	1	a	2023	
+tabasaran	horse	0060	ha-dmu	EMPH-3.P(ABS)	dem_pro.d:p	dem_pro	d	p	2016	
+tabasaran	horse	0060	al-da<b>ʁ-uz	SUPER-<NSG>take_off-INF	v:pred	v		pred		
+tabasaran	horse	0060	ap’-ura	do-PRS	rv_aux	rv_aux				
+tabasaran	horse	0060	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0060	k’ur	CIT	other	other				
+tabasaran	horse	0061	#	#	##ds	##ds				
+tabasaran	horse	0061	qa	then	other	other				
+tabasaran	horse	0061	saru	PRT	other	other				
+tabasaran	horse	0061	hamus	now	other	other				
+tabasaran	horse	0061	k’ur	CIT	other	other				
+tabasaran	horse	0061	uzu	I(ABS)	pro.1:s	pro	1	s	2016	
+tabasaran	horse	0061	k’ur	CIT	other	other				
+tabasaran	horse	0061	uvu-z	you-DAT	pro.2:obl	pro	2	obl	2023	
+tabasaran	horse	0061	luk’	slave(ABS)	np.d:other	np	d	other		
+tabasaran	horse	0061	iš-ri	(HSG)become-JUSS	v:pred	v		pred		
+tabasaran	horse	0061	k’ur	CIT	other	other				
+tabasaran	horse	0061	#	#	##ds	##ds				
+tabasaran	horse	0061	uvu	you	pro.2:s	pro	2	s	2023	
+tabasaran	horse	0061	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2016	
+tabasaran	horse	0061	aʁa	master(ABS)	np.h:other	np	h	other		
+tabasaran	horse	0061	#	#	##ds	##ds				
+tabasaran	horse	0061	0	0_youngest_brother	0.2:a	0	2	a	2023	
+tabasaran	horse	0061	teet	leave(IMP)	v:pred	v		pred		
+tabasaran	horse	0061	uzu	I(ABS)	pro.1:p	pro	1	p	2016	
+tabasaran	horse	0061	k’ur	CIT	other	other				
+tabasaran	horse	0062	#	#	##ds	##ds				
+tabasaran	horse	0062	0	0_youngest_brother	0.2:a	0	2	a	2023	
+tabasaran	horse	0062	0	0_this	0:p	0		p		
+tabasaran	horse	0062	ma	take(IMP)	v:pred	v		pred		
+tabasaran	horse	0062	k’ur	CIT	other	other				
+tabasaran	horse	0062	#	#	#nc	#nc				
+tabasaran	horse	0062	uč’uˁ<r>ʁ-uˁ	<PL>tear_out-PCVB	nc	nc				
+tabasaran	horse	0062	ča-n	REFL.SG-GEN	nc	nc				
+tabasaran	horse	0062	ča-n	REFL.SG-GEN	nc	nc				
+tabasaran	horse	0062	ha-mu	EMPH-PROX(ATTR)	nc	nc				
+tabasaran	horse	0062	f.ǯ-ʔ-an	what-IN-ELAT	nc	nc				
+tabasaran	horse	0062	č’ar-ar	hair-PL(ABS)	nc	nc				
+tabasaran	horse	0062	#	#	##	##				
+tabasaran	horse	0062	#	#	#cv	#cv				
+tabasaran	horse	0062	0	0_horse	0.d:a_cv	0	d	a_cv	2016	
+tabasaran	horse	0062	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	horse	0062	riʒ̊.ni-an	tail-(IN)ELAT	np:l	np		l	2031	bridging
+tabasaran	horse	0062	č’ar-ar	hair-PL(ABS)	np:p	np		p	2032	bridging
+tabasaran	horse	0062	uč’uˁ<r>ʁ-uˁn	<NSG>tear_out-PCVB	v:pred	v		pred		
+tabasaran	horse	0062	%	%	%	%				
+tabasaran	horse	0062	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0062	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	horse	0062	muʁa-x-na	PROX-APUD-LAT	dem_pro.h:g	dem_pro	h	g	2023	
+tabasaran	horse	0063	#	#	##ds	##ds				
+tabasaran	horse	0063	0	0_youngest_brother	0.2:a	0	2	a	2023	
+tabasaran	horse	0063	0	0_hair	0:p	0		p	2032	
+tabasaran	horse	0063	ma	take(IMP)	v:pred	v		pred		
+tabasaran	horse	0063	k’ur	CIT	other	other				
+tabasaran	horse	0063	#	#	##ds	##ds				
+tabasaran	horse	0063	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	horse	0063	0	0_youngest_brother	0.2:a_pc	0	2	a_pc	2023	
+tabasaran	horse	0063	hamu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0063	č’ar	hair(ABS)	np:p	np		p	2032	
+tabasaran	horse	0063	ʁ-u<b>g-i-gan	PFV-<NSG>burn-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0063	k’ur	CIT	other	other				
+tabasaran	horse	0063	%	%	%	%				
+tabasaran	horse	0063	uzu	I(ABS)	pro.1:s	pro	1	s	2016	
+tabasaran	horse	0063	#	#	#ds_ac	#ds_ac				
+tabasaran	horse	0063	0	0_horse	0.1:s	0	1	s	2016	
+tabasaran	horse	0063	naan	where	other:pred_l	other		pred_l		
+tabasaran	horse	0063	a-š	(IN)be-COND	cop	cop				
+tabasaran	horse	0063	%	%	%	%				
+tabasaran	horse	0063	jav	your	ln_pro.2:poss	ln_pro	2	poss	2023	
+tabasaran	horse	0063	fǯ.i-z	what-DAT	intrg_other:g	intrg_other		g		
+tabasaran	horse	0063	ʁi<b>ǯi	<NSG>come-FUT	v:pred	v		pred		
+tabasaran	horse	0063	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0063	k’ur	CIT	other	other				
+tabasaran	horse	0063	#	#	##ds	##ds				
+tabasaran	horse	0063	0	0_horse	0.1:s	0	1	s	2016	
+tabasaran	horse	0063	jav	your	ln_pro.2:poss	ln_pro	2	poss	2023	
+tabasaran	horse	0063	ʁuˁlaʁ.na-z	service-DAT	np:obl	np		obl		
+tabasaran	horse	0063	ʁi<b>ǯi	<NSG>come-FUT	v:pred	v		pred		
+tabasaran	horse	0063	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0063	k’ur	CIT	other	other				
+tabasaran	horse	0064	#	#	#nc	#nc				
+tabasaran	horse	0064	qa	then	nc	nc				
+tabasaran	horse	0064	i<b>š-ri	<NSG>become-JUSS	nc	nc				
+tabasaran	horse	0064	k’ur	CIT	nc	nc				
+tabasaran	horse	0065	#	#	##	##				
+tabasaran	horse	0065	#	#	#cv	#cv				
+tabasaran	horse	0065	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0065	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0065	č’ar-ar	hair-PL(ABS)	np:p	np		p	2032	
+tabasaran	horse	0065	=ra	=ADD	=other	=other				
+tabasaran	horse	0065	de-d-erǯ-un	PFV-PL-roll-PCVB	v:pred	v		pred		
+tabasaran	horse	0065	%	%	%	%				
+tabasaran	horse	0065	#	#	#cv	#cv				
+tabasaran	horse	0065	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0065	eldeǯ-un	(HSG)get_off-PCVB	v:pred	v		pred		
+tabasaran	horse	0065	%	%	%	%				
+tabasaran	horse	0065	#	#	#cv	#cv				
+tabasaran	horse	0065	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0065	0	0_hair	0:p	0		p	2032	
+tabasaran	horse	0065	kː-iv-un	SUB-put-PCVB	v:pred	v		pred		
+tabasaran	horse	0065	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2023	
+tabasaran	horse	0065	bafajka.ji-n	jacket-GEN	ln_np:poss	ln_np		poss	2033	new
+tabasaran	horse	0065	ʁultχ.i-k-in-ǯi	inside_pocket-CONT-LAT-DIR	np:g	np		g	2034	bridging
+tabasaran	horse	0065	%	%	%	%				
+tabasaran	horse	0065	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0065	baž	boy(ABS)	np.h:s	np	h	s	2023	
+tabasaran	horse	0066	#	#	##	##				
+tabasaran	horse	0066	qana	again	other	other				
+tabasaran	horse	0066	=ra	=ADD	=other	=other				
+tabasaran	horse	0066	herχ-ru	ask-FUT	v:pred	v		pred		
+tabasaran	horse	0066	muʁ-x-an	PROX-APUD-ELAT	dem_pro.h:g	dem_pro	h	g		
+tabasaran	horse	0066	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0066	c̊i-jr.i	brother-PL(ERG)	np.h:a_ds	np	h	a_ds	2035	bridging
+tabasaran	horse	0066	#	#	##ds	##ds				
+tabasaran	horse	0066	0	0_youngest_brother	0.2:ncs	0	2	ncs	2023	
+tabasaran	horse	0066	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	horse	0066	ʁaˁ<b>qː-uˁ	<NSG>see-AOR	v:pred	v		pred		
+tabasaran	horse	0066	=vu-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	horse	0066	k’ur	CIT	other	other				
+tabasaran	horse	0067	#	#	##ds	##ds				
+tabasaran	horse	0067	fuk’a	nothing(ABS)	np:s	np		s		
+tabasaran	horse	0067	a-ji-n	(IN)be-IPFV-Q	v:predex	v		predex		
+tabasaran	horse	0067	k’ur	CIT	other	other				
+tabasaran	horse	0067	nuq’-ar.i-ʁˤ	grave-PL-INTER	np:l	np		l	2036	bridging
+tabasaran	horse	0067	#	#	##ds	##ds				
+tabasaran	horse	0067	0	0_youngest_brother	0.2:ncs	0	2	ncs	2023	
+tabasaran	horse	0067	fužk’a	nobody(ABS)	np.h:p	np	h	p		
+tabasaran	horse	0067	ʁaˁ<r>qːi-n	<HSG>see-Q	v:pred	v		pred		
+tabasaran	horse	0067	=u-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	horse	0067	k’ur	CIT	other	other				
+tabasaran	horse	0068	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0068	vaʔ	no	other	other				
+tabasaran	horse	0068	vaʔ	no	other	other				
+tabasaran	horse	0068	c̊-jir	brother-PL(ABS)	np.h:voc	np	h	voc	2035	
+tabasaran	horse	0068	k’ur	CIT	other	other				
+tabasaran	horse	0068	fu-k’a	nothing(ABS)	ln	ln				
+tabasaran	horse	0068	ʁaˁ<b>qː-uˁb	<NSG>see-MSD	np:s	np		s		
+tabasaran	horse	0068	0	0_youngest_brother	0.1:obl	0	1	obl	2023	
+tabasaran	horse	0068	a-dar	(IN)be-PRS.NEG	v:predex	v		predex		
+tabasaran	horse	0068	=zu-z	=1SG-DAT	=rv-pro_1_obl	=rv-pro_1_obl				
+tabasaran	horse	0068	k’ur	CIT	other	other				
+tabasaran	horse	0068	#	#	##	##				
+tabasaran	horse	0068	muʁu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	2023	
+tabasaran	horse	0069	#	#	##	##				
+tabasaran	horse	0069	qa	then	other	other				
+tabasaran	horse	0069	uže	yet	other	other				
+tabasaran	horse	0069	mu	PROX	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0069	kː-aq-u	SUB-(HSG)fall-PCVB	v:pred	v		pred		
+tabasaran	horse	0069	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0069	fikr-ar.i-kː	thought-PL-SUB	np:g	np		g		
+tabasaran	horse	0070	#	#	##	##				
+tabasaran	horse	0070	nu	well	other	other				
+tabasaran	horse	0070	mu-rar.i	PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a	2004	
+tabasaran	horse	0070	čpːi-n	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	2004	
+tabasaran	horse	0070	nubat-ar	turn-PL(ABS)	np:p	np		p	2037	bridging
+tabasaran	horse	0070	=ra	=ADD	=other	=other				
+tabasaran	horse	0070	ildip-uru	(PL)throw-FUT	v:pred	v		pred		
+tabasaran	horse	0071	#	#	##neg	##neg				
+tabasaran	horse	0071	qa	then	other	other				
+tabasaran	horse	0071	c̊-jir.i	brother(ERG)	np.h:a_cp	np	h	a_cp	2004	
+tabasaran	horse	0071	sa-r	one-HSG	refl.h:g	refl	h	g	2004	
+tabasaran	horse	0071	sa-r.i-z	one-HSG-DAT	rn	rn				
+tabasaran	horse	0071	ačmiš	open	other:lvc	other		lvc		
+tabasaran	horse	0071	ap’-u-dar	do-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0071	#	#	#cc:p	#cc		p		
+tabasaran	horse	0071	fu	what(ABS)	intrg_other:s	intrg_other		s		
+tabasaran	horse	0071	ʁa-b-x-nu-š	PFV-NSG-become-PST-COND	v:predex	v		predex		
+tabasaran	horse	0072	#	#	#	#				
+tabasaran	horse	0072	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0072	ara.ji-ǯi	time_span-(IN)DIR	np:other	np		other		
+tabasaran	horse	0072	ha-mu	EMPH-PROX	ln_dem	ln_dem				
+tabasaran	horse	0072	čpːi-n	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	2004	
+tabasaran	horse	0072	ha-mu	EMPH-PROX	ln_dem	ln_dem				
+tabasaran	horse	0072	vilajat.ǯi-n	country-GEN	np:l	np		l	2038	new
+tabasaran	horse	0072	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0072	bagah	near	adp	adp				
+tabasaran	horse	0072	sa-b	one-N	ln_num	ln_num				
+tabasaran	horse	0072	šahr.i-n	town-GEN	np:l	np		l		
+tabasaran	horse	0072	ʁul.a-n	village-GEN	np:l	np		l	2039	new
+tabasaran	horse	0072	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	horse	0072	šub-ar.i-n	girl-PL-GEN	ln_np.h:poss	ln_np	h	poss		
+tabasaran	horse	0072	vič	apple(ABS)	np:p	np		p		
+tabasaran	horse	0072	jiv-ub	hit-MSD	v:pred	v		pred		
+tabasaran	horse	0072	#	#	##	##				
+tabasaran	horse	0072	šubu-r	three-HSG	ln_num	ln_num				
+tabasaran	horse	0072	či	sister(ABS)	np.h:s	np	h	s	2040	new
+tabasaran	horse	0072	a-ǯi	(IN)be-ICVB	v:predex	v		predex		
+tabasaran	horse	0072	#	#	##	##				
+tabasaran	horse	0072	#	#	#cc:a	#cc		a		
+tabasaran	horse	0072	ha-dmu	EMPH-3.P(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0072	čpːir.i-n	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	2040	
+tabasaran	horse	0072	vič	apple(ABS)	np:p	np		p		
+tabasaran	horse	0072	jiv-ub	hit-MSD	v:pred	v		pred		
+tabasaran	horse	0072	%	%	%	%				
+tabasaran	horse	0072	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0072	0	0	0.h:a	0	h	a		
+tabasaran	horse	0072	vič	apple(ABS)	np:p	np		p		
+tabasaran	horse	0072	ʁ-iv-gan	PFV-hit-PFV.PTCP+TEMP	v:pred	v		pred		
+tabasaran	horse	0072	ha-dmin-ga	EMPH-3.P-TEMP	other	other				
+tabasaran	horse	0072	%	%	%	%				
+tabasaran	horse	0072	q’ismat	fate(ABS)	np:other	np		other		
+tabasaran	horse	0072	vu	COP	lv	lv				
+tabasaran	horse	0072	k’uri	CIT	other	other				
+tabasaran	horse	0072	ʁa-x-nu	PFV-(HSG)become-PCVB	v:pred	v		pred		
+tabasaran	horse	0073	#	#	#nc	#nc				
+tabasaran	horse	0073	ha-dmu	EMPH-3.P(ATTR)	nc	nc				
+tabasaran	horse	0073	vič	apple(ABS)	nc	nc				
+tabasaran	horse	0073	ʁ-iv-u	INTER-hit-PCVB	nc	nc				
+tabasaran	horse	0073	ʁ-iv-uru-jiz	INTER-hit-FUT-until	nc	nc				
+tabasaran	horse	0073	q’ismat	fate(ABS)	nc	nc				
+tabasaran	horse	0073	šl-u-b	become-FUT.PTCP-NSG	nc	nc				
+tabasaran	horse	0073	vu	COP	nc	nc				
+tabasaran	horse	0073	k’uri	CIT	nc	nc				
+tabasaran	horse	0073	ʁa-x-nu	PFV-(HSG)become-PCVB	nc	nc				
+tabasaran	horse	0074	#	#	##	##				
+tabasaran	horse	0074	qa	then	other	other				
+tabasaran	horse	0074	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0074	mu-rar	PROX-PL(ABS)	dem_pro.h:ncs_pc	dem_pro	h	ncs_pc	2004	
+tabasaran	horse	0074	#	#	#cc_pc:p	#cc_pc		p		
+tabasaran	horse	0074	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	horse	0074	fu	what(ABS)	np:s_pc	np		s_pc		
+tabasaran	horse	0074	di-b-ik’-na-ji-b	PFV-NSG-write-RES-PTCP-NSG	v:pred	v		pred		
+tabasaran	horse	0074	%	%	%	%				
+tabasaran	horse	0074	ʁe-e<b>x-gan	PFV-<NSG>hear-PFV.PTCP+TEMP	v:pred	v		pred		
+tabasaran	horse	0074	%	%	%	%				
+tabasaran	horse	0074	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0074	0	0_brothers	0.h:a_pc	0	h	a_pc	2004	
+tabasaran	horse	0074	0	0_announcement	0:p	0		p		
+tabasaran	horse	0074	ʁ-urχ-gan	PFV-read-PFV.PTCP+TEMP	v:pred	v		pred		
+tabasaran	horse	0074	%	%	%	%				
+tabasaran	horse	0074	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0074	c̊uc̊ː.u-z	brother-DAT	np.h:ncs_cp	np	h	ncs_cp	2011	
+tabasaran	horse	0074	#	#	#cc_in	#cc_in				
+tabasaran	horse	0074	0	0_eldest_brother	f0.h:s_in	f0	h	s_in	2011	
+tabasaran	horse	0074	aˁʁ-uˁz	(HSG)go-INF	vother:pred	vother		pred		
+tabasaran	horse	0074	%	%	%	%				
+tabasaran	horse	0074	kːun	want	other:lvc	other		lvc		
+tabasaran	horse	0074	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0075	#	#	##	##				
+tabasaran	horse	0075	muʁu	PROX(ERG)	nc_dem_pro.h	nc_dem_pro	h		2011	
+tabasaran	horse	0075	mu-rar	PROX-ABS(PL)	dem_pro.h:s	dem_pro	h	s	2035	
+tabasaran	horse	0075	aˁʁ-uˁru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0075	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0075	c̊-jir	brother-PL(ABS)	np.h:dt	np	h	dt	2011	
+tabasaran	horse	0076	#	#	##ds	##ds				
+tabasaran	horse	0076	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0076	c̊i	brother(ABS)	np.h:s	np	h	s	2023	
+tabasaran	horse	0076	kečel	bald	other:pred	other		pred		
+tabasaran	horse	0076	vu	COP	cop	cop				
+tabasaran	horse	0076	k’uri	CIT	other	other				
+tabasaran	horse	0077	#	#	##neg	##neg				
+tabasaran	horse	0077	mu-rar.i-z	PROX(PL)-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	2035	
+tabasaran	horse	0077	haˁspi-kː	idea-SUB	np:p	np		p		
+tabasaran	horse	0077	kː-a-dar	SUB-be-PRS.NEG	v:pred	v		pred		
+tabasaran	horse	0078	#	#	##ds	##ds				
+tabasaran	horse	0078	kasib	poor	np.h:s	np	h	s	2023	
+tabasaran	horse	0078	kečel	bald	other:pred	other		pred		
+tabasaran	horse	0078	vu	COP	cop	cop				
+tabasaran	horse	0078	k’uri	CIT	other	other				
+tabasaran	horse	0079	#	#	##	##				
+tabasaran	horse	0079	#	#	#cv	#cv				
+tabasaran	horse	0079	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0079	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0079	c̊i	brother(ABS)	np.h:s_cv	np	h	s_cv	2023	
+tabasaran	horse	0079	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0079	jersi	old	ln_adj	ln_adj				
+tabasaran	horse	0079	f-jir.i-h-na	what-PL-APUD-LAT	np:g	np		g	2041	new
+tabasaran	horse	0079	d-uš-un	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0079	%	%	%	%				
+tabasaran	horse	0079	#	#	#pc	#pc				
+tabasaran	horse	0079	0	0_youngest_brother	0.h:s_pc	0	h	s_pc	2023	
+tabasaran	horse	0079	ha-cːi-b	EMPH-(DIST)ADV-NSG	other	other				
+tabasaran	horse	0079	kː-adax-na-ji	SUB-(HSG)hide-RES-PTCP	v:pred	v		pred		
+tabasaran	horse	0079	ʁuˁrǯ-er.i-h-na	debris-PL-APUD-LAT	np:l	np		l	2042	bridging
+tabasaran	horse	0079	%	%	%	%				
+tabasaran	horse	0079	#	#	#pc	#pc				
+tabasaran	horse	0079	0	0_youngest_brother	0.h:a_pc	0	h	a_pc	2023	
+tabasaran	horse	0079	ʁʷan-ir	stone-PL(ABS)	np:p	np		p	2043	bridging
+tabasaran	horse	0079	adaʁ-na-ji	(PL)put_out-RES-PTCP	v:pred	v		pred		
+tabasaran	horse	0079	ha-cːi-b	EMPH-(DIST)ADV-NSG	other	other				
+tabasaran	horse	0079	%	%	%	%				
+tabasaran	horse	0079	#	#	#cv	#cv				
+tabasaran	horse	0079	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0079	jis̊.a-ʁˤ-na	place-INTER-LAT	np:g	np		g	2043	
+tabasaran	horse	0079	d-uš-un	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0079	%	%	%	%				
+tabasaran	horse	0079	#	#	#cv	#cv				
+tabasaran	horse	0079	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0079	javaš-ǯi	calm-ADV	other	other				
+tabasaran	horse	0079	ka<b>x-u	<NSG>light-PCVB	v:pred	v		pred		
+tabasaran	horse	0079	kelput	match(ABS)	np:p	np		p	2044	new
+tabasaran	horse	0079	%	%	%	%				
+tabasaran	horse	0079	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0079	u<b>g-uru	<NSG>burn-FUT	v:pred	v		pred		
+tabasaran	horse	0079	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0079	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0079	č’ar	hair(ABS)	np:p	np		p	2045	bridging
+tabasaran	horse	0080	#	#	##	##				
+tabasaran	horse	0080	ha-mi-na	EMPH-PROX-LAT	dem_pro:g	dem_pro		g	2041	
+tabasaran	horse	0080	#	#	#ac	#ac				
+tabasaran	horse	0080	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0080	c’ajlapan	lightning	np:s	np		s		
+tabasaran	horse	0080	=si	=like	=other	=other				
+tabasaran	horse	0080	%	%	%	%				
+tabasaran	horse	0080	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2023	
+tabasaran	horse	0080	haˁjvan	horse(ABS)	np:s	np		s	2016	
+tabasaran	horse	0080	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0081	#	#	##	##				
+tabasaran	horse	0081	sarun	PRT	other	other				
+tabasaran	horse	0081	0	0_I	0.1:a	0	1	a		
+tabasaran	horse	0081	0	0_you	0.2:g	0	2	g		
+tabasaran	horse	0081	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	horse	0081	k’-u	say-FUT	v:pred	v		pred		
+tabasaran	horse	0081	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0081	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	horse	0081	#	#	#cv	#cv				
+tabasaran	horse	0081	0	0_horse	0.d:a_cv	0	d	a_cv	2016	
+tabasaran	horse	0081	ha-cːi-b	EMPH-(DIST)ADV-NSG	other	other				
+tabasaran	horse	0081	c’a	fire(ABS)	np:p	np		p		
+tabasaran	horse	0081	qere<b>č-uri	POST-<NSG>leave_behind-ICVB	v:pred	v		pred		
+tabasaran	horse	0082	#	#	##	##				
+tabasaran	horse	0082	qa	then	other	other				
+tabasaran	horse	0082	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0082	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0082	hajˁvan	horse(ABS)	np:s_pc	np		s_pc	2016	
+tabasaran	horse	0082	ʁa-f-i-gan	PFV-come-PFV.PTCP+TEMP	v:pred	v		pred		
+tabasaran	horse	0082	%	%	%	%				
+tabasaran	horse	0082	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0082	derdi	trouble(ABS)	np:p	np		p		
+tabasaran	horse	0082	herχ-ru	ask-FUT	v:pred	v		pred		
+tabasaran	horse	0083	#	#	##ds	##ds				
+tabasaran	horse	0083	fu	what(ABS)	intrg_other:pred	intrg_other		pred		
+tabasaran	horse	0083	vu	COP	cop	cop				
+tabasaran	horse	0083	=jav	=2SG:POSS	=ln_pro.2:poss	=ln_pro	2	poss	2023	
+tabasaran	horse	0083	derdi	trouble	np:s	np		s		
+tabasaran	horse	0083	k’uri	CIT	other	other				
+tabasaran	horse	0084	#	#	##ds	##ds				
+tabasaran	horse	0084	0	0	0.h:a	0	h	a		
+tabasaran	horse	0084	fla-nu	certain-FOC	ln_adj	ln_adj				
+tabasaran	horse	0084	pačːih.ǯi-n	king-GEN	ln_np.h:poss	ln_np	h	poss	2046	new
+tabasaran	horse	0084	šur.a-n	girl(PL)-GEN	ln_np.h:poss	ln_np	h	poss	2040	
+tabasaran	horse	0084	k’ur	CIT	other	other				
+tabasaran	horse	0084	vič	apple(ABS)	np:p	np		p		
+tabasaran	horse	0084	jiv-ura	hit-PRS	v:pred	v		pred		
+tabasaran	horse	0084	k’ur	CIT	other	other				
+tabasaran	horse	0085	#	#	##ds	##ds				
+tabasaran	horse	0085	uzu	I(ABS)	pro.1:s	pro	1	s	2023	
+tabasaran	horse	0085	ha-di-na	EMPH-3.P-LAT	dem_pro:g	dem_pro		g		
+tabasaran	horse	0085	d-uš-un	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0085	kːun-ǯu	need-FUT	rv_aux	rv_aux				
+tabasaran	horse	0085	k’ur	CIT	other	other				
+tabasaran	horse	0086	#	#	##	##				
+tabasaran	horse	0086	qa	then	other	other				
+tabasaran	horse	0086	haˁjvn.i	horse(ERG)	np.d:a	np	d	a	2016	
+tabasaran	horse	0086	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	horse	0086	#	#	##	##				
+tabasaran	horse	0086	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0086	haˁjvan	horse(ABS)	np.d:s	np	d	s	2016	
+tabasaran	horse	0086	=ra	=ADD	=other	=other				
+tabasaran	horse	0086	ha-cːi-b	EMPH-(DIST)ADV-NSG	ln	ln				
+tabasaran	horse	0086	mutmu	thing(ABS)	np:pred	np		pred		
+tabasaran	horse	0086	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	horse	0086	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0087	#	#	##ds	##ds				
+tabasaran	horse	0087	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2016	
+tabasaran	horse	0087	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0087	ib-an-ǯi	ear-(IN)ELAT-DIR	np:g	np		g	2047	bridging
+tabasaran	horse	0087	uc̊’	(HSG)go_in(IMP)	v:pred	v		pred		
+tabasaran	horse	0087	k’ur	CIT	other	other				
+tabasaran	horse	0087	uvu	you(ABS)	pro.2:s	pro	2	s	2023	
+tabasaran	horse	0087	#	#	##ds	##ds				
+tabasaran	horse	0087	0	0_youngest_brother	0.2:s	0	2	s	2023	
+tabasaran	horse	0087	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0087	ib-an-ǯi	ear-(IN)ELAT-DIR	np:obl	np		obl	2048	bridging
+tabasaran	horse	0087	uduc̊’	(HSG)go_out(IMP)	v:pred	v		pred		
+tabasaran	horse	0087	k’ur	CIT	other	other				
+tabasaran	horse	0088	#	#	##	##				
+tabasaran	horse	0088	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0088	ib-an-ǯi	ear-(IN)ELAT-DIR	np:g	np		g	2047	
+tabasaran	horse	0088	uс̊’-uru	(HSG)go_in-FUT	v:pred	v		pred		
+tabasaran	horse	0088	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0088	baž	boy(ABS)	np:s	np		s	2023	
+tabasaran	horse	0089	#	#	##	##				
+tabasaran	horse	0089	#	#	#pc	#pc				
+tabasaran	horse	0089	0	0_youngest_brother	0.h:s_pc	0	h	s_pc	2023	
+tabasaran	horse	0089	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0089	ib-an-ǯi	ear-(IN)ELAT-DIR	np:obl	np		obl	2048	
+tabasaran	horse	0089	uduc̊’-u-r	(HSG)go_out-PFV.PTCP-HSG	v:pred	v		pred		
+tabasaran	horse	0089	%	%	%	%				
+tabasaran	horse	0089	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0089	uc̊ːu-r	nice-HSG	ln_adj	ln_adj				
+tabasaran	horse	0089	ǯihil	young(ABS)	np.h:pred	np	h	pred		
+tabasaran	horse	0089	#	#	##	##				
+tabasaran	horse	0089	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0089	alaxu-na-ji	(PL)dress-RES-PTCP	other	other				
+tabasaran	horse	0089	ha-cːi-r	EMPH-(DIST)ADV-HSG	other	other				
+tabasaran	horse	0089	baž	boy(ABS)	np.h:other	np	h	other		
+tabasaran	horse	0089	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0089	muʁ-k-an	PROX-CONT-ELAT	rn	rn				
+tabasaran	horse	0090	#	#	##ds	##ds				
+tabasaran	horse	0090	ari	PRT	other	other				
+tabasaran	horse	0090	hamus	now	other	other				
+tabasaran	horse	0090	0	0_youngest_brother	0.2:s	0	2	s	2023	
+tabasaran	horse	0090	eleʔ	(HSG)sit_on(IMP)	v:pred	v		pred		
+tabasaran	horse	0090	k’ur	CIT	other	other				
+tabasaran	horse	0090	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2016	
+tabasaran	horse	0090	q’aˁl.ʔ-in	back-SUPER	np:l	np		l	2049	bridging
+tabasaran	horse	0090	#	#	##	##				
+tabasaran	horse	0090	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0090	ele-uru	(HSG)sit_on-FUT	v:pred	v		pred		
+tabasaran	horse	0091	#	#	##	##				
+tabasaran	horse	0091	sarun	PRT	other	other				
+tabasaran	horse	0091	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2050	new
+tabasaran	horse	0091	#	#	#rc_pc	#rc_pc				
+tabasaran	horse	0091	#	#	#ac_in	#ac_in				
+tabasaran	horse	0091	0	0_people	0.h:a_in	0	h	a_in	2050	
+tabasaran	horse	0091	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0091	vič	apple(ABS)	np:p	np		p	2051	bridging
+tabasaran	horse	0091	jivu-z	hit-INF	vother:pred	vother		pred		
+tabasaran	horse	0091	%	%	%	%				
+tabasaran	horse	0091	0	0_people	rel_f0.h:s_pc	rel_f0	h	s_pc	2050	
+tabasaran	horse	0091	aˁʁ-uˁra-ji	(HSG)go-PRS-PTCP	v:pred	v		pred		
+tabasaran	horse	0091	%	%	%	%				
+tabasaran	horse	0091	ha-mu-n-dar	EMPH-PROX-FOC-PL	ln_dem	ln_dem				
+tabasaran	horse	0091	gizaf	many	ln	ln				
+tabasaran	horse	0091	χalq’-ar	folk-PL(ABS)	np.h:pred	np	h	pred	2050	
+tabasaran	horse	0091	a-ǯi	(IN)be-ICVB	cop	cop				
+tabasaran	horse	0091	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0092	#	#	##	##				
+tabasaran	horse	0092	#	#	#ac	#ac				
+tabasaran	horse	0092	hac’	half	ln_adj	ln_adj				
+tabasaran	horse	0092	raˁqː.uˁ-z	road-DAT	np:other	np		other		
+tabasaran	horse	0092	aˁʁ-a-jiz	(HSG)go-PRS-until	v:pred	v		pred		
+tabasaran	horse	0092	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0092	#	#	#cv	#cv				
+tabasaran	horse	0092	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0092	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0092	luf	pigeon(ABS)	np:other	np		other		
+tabasaran	horse	0092	=si	=like	=other	=other				
+tabasaran	horse	0092	d-uš-u	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0092	%	%	%	%				
+tabasaran	horse	0092	%	%	%	%				
+tabasaran	horse	0092	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0092	jiv-nu	hit-PST	v:pred	v		pred		
+tabasaran	horse	0092	vič	apple(ABS)	np:p	np		p	2051	
+tabasaran	horse	0092	#	#	##	##				
+tabasaran	horse	0092	#	#	#cv	#cv				
+tabasaran	horse	0092	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0092	0	0_apple	0:p	0		p	2051	
+tabasaran	horse	0092	qada<b>k-u	<NSG>grip-PCVB	v:pred	v		pred		
+tabasaran	horse	0092	%	%	%	%				
+tabasaran	horse	0092	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0092	ʁuˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	horse	0093	#	#	##	##				
+tabasaran	horse	0093	qa	then	other	other				
+tabasaran	horse	0093	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0093	#	#	#cv	#cv				
+tabasaran	horse	0093	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0093	0	0_apple	0:p	0		p	2051	
+tabasaran	horse	0093	qada<b>k-u	<NSG>grip-PCVB	v:pred	v		pred		
+tabasaran	horse	0093	%	%	%	%				
+tabasaran	horse	0093	0	0_youngest_brother	0.h:s_pc	0	h	s_pc	2023	
+tabasaran	horse	0093	ʁ-uˁra-ji-gan	go-PRS-PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0093	%	%	%	%				
+tabasaran	horse	0093	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	horse	0093	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0093	bal.i	boy(ERG)	np.h:a	np	h	a	2023	
+tabasaran	horse	0094	#	#	##	##				
+tabasaran	horse	0094	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0094	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0094	c̊ːuc̊ːu	brother(ERG)	np.h:a	np	h	a	2023	
+tabasaran	horse	0094	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss	2023	
+tabasaran	horse	0094	c̊uc̊ː.u-n	brother-GEN	ln_np.h:poss	ln_np	h	poss	2011	
+tabasaran	horse	0094	ʁaˁč’.ni-q-in-ǯi	armpit-POST-LAT-DIR	np:g	np		g	2052	bridging
+tabasaran	horse	0094	q-ip-ru	POST-<NSG>throw-FUT	v:pred	v		pred		
+tabasaran	horse	0094	ha-dmu	EMPH-3.P(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0094	vič	apple(ABS)	np:p	np		p	2051	
+tabasaran	horse	0094	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0094	c̊uc̊ːu-n	brother-GEN	np:appos	np		appos	2011	
+tabasaran	horse	0095	#	#	##	##				
+tabasaran	horse	0095	#	#	#cv	#cv				
+tabasaran	horse	0095	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0095	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0095	c̊uc̊ːu-n	brother-GEN	ln_np.h:poss	ln_np	h	poss	2016	
+tabasaran	horse	0095	ʁaˁč’.ni-q-in-ǯi	armpit-POST-LAT-DIR	np:g	np		g	2052	
+tabasaran	horse	0095	q-ip-u	POST-<NSG>throw-PCVB	v:pred	v		pred		
+tabasaran	horse	0095	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0095	vič	apple(ABS)	np:p	np		p	2051	
+tabasaran	horse	0095	%	%	%	%				
+tabasaran	horse	0095	#	#	#cv	#cv				
+tabasaran	horse	0095	ič	NC	nc	nc				
+tabasaran	horse	0095	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0095	ult’uc̊ː-un	(HSG)jump_off-PCVB	v:pred	v		pred		
+tabasaran	horse	0095	%	%	%	%				
+tabasaran	horse	0095	#	#	#cv	#cv				
+tabasaran	horse	0095	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0095	du-f-un	PFV-go-PCVB	v:pred	v		pred		
+tabasaran	horse	0095	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2023	
+tabasaran	horse	0095	al-i-s̊i-n	(SUPER)be-PTCP-place-SUPER	np:g	np		g	2025	
+tabasaran	horse	0095	%	%	%	%				
+tabasaran	horse	0095	#	#	#cv	#cv				
+tabasaran	horse	0095	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0095	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss		
+tabasaran	horse	0095	al-i	(SUPER)be-PTCP	ln	ln				
+tabasaran	horse	0095	forma.ji-z	form-DAT	np:other	np		other		
+tabasaran	horse	0095	du-f-un	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	horse	0095	%	%	%	%				
+tabasaran	horse	0095	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0095	haˁjvan	horse(ABS)	np:p	np		p	2016	
+tabasaran	horse	0095	tee<b>t-uru	<NSG>let-FUT	v:pred	v		pred		
+tabasaran	horse	0096	#	#	##	##				
+tabasaran	horse	0096	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0096	čuc̊ː.u	brother(ERG)	np.h:a_ds	np	h	a_ds	2011	
+tabasaran	horse	0096	#	#	##ds	##ds				
+tabasaran	horse	0096	0	0_eldest_brother	0.h:a	0	h	a	2011	
+tabasaran	horse	0096	vič	apple(ABS)	np:p	np		p	2051	
+tabasaran	horse	0096	ʁ-iv-un	PFV-put-PST	v:pred	v		pred		
+tabasaran	horse	0096	=za	=1SGːAG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0096	%	%	%	%				
+tabasaran	horse	0096	k’uri	CIT	other	other				
+tabasaran	horse	0097	#	#	##	##				
+tabasaran	horse	0097	#	#	#cv	#cv				
+tabasaran	horse	0097	0	0_eldest_brother	0.h:s_cv	0	h	s_cv	2011	
+tabasaran	horse	0097	šad-ǯi	gladness-ADV	other	other				
+tabasaran	horse	0097	du-f-un	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	horse	0097	%	%	%	%				
+tabasaran	horse	0097	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0097	pačːih.ǯi-n	king-GEN	ln_np.h:poss	ln_np	h	poss	2046	
+tabasaran	horse	0097	riš	girl(ABS)	np.h:s	np	h	s	2053	bridging
+tabasaran	horse	0097	muʁa-n	PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss		
+tabasaran	horse	0097	q’ismat	fate(ABS)	np:pred	np		pred		
+tabasaran	horse	0097	vu	COP	cop	cop				
+tabasaran	horse	0097	k’uri	CIT	other	other				
+tabasaran	horse	0098	#	#	##	##				
+tabasaran	horse	0098	muʁa-z	PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	2011	
+tabasaran	horse	0098	jiʁ	day(ABS)	np:p	np		p		
+tabasaran	horse	0098	ǯiv-ru	put-FUT	v:pred	v		pred		
+tabasaran	horse	0098	mu-rar.i	PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a	2054	bridging
+tabasaran	horse	0099	#	#	##	##				
+tabasaran	horse	0099	qa	then	other	other				
+tabasaran	horse	0099	#	#	#ac_in	#ac_in				
+tabasaran	horse	0099	0	0	f0.h:a_in	f0	h	a_in		
+tabasaran	horse	0099	q’aˁl.a-n	middle-GEN	ln	ln				
+tabasaran	horse	0099	čučː.u-n	sister-GEN	ln_np.h:poss	ln_np	h	poss	2055	bridging
+tabasaran	horse	0099	vič	apple(ABS)	np:p	np		p	2056	bridging
+tabasaran	horse	0099	jivu-z	hit-INF	vother:pred	vother		pred		
+tabasaran	horse	0099	%	%	%	%				
+tabasaran	horse	0099	0	0	0.h:s	0	h	s		
+tabasaran	horse	0099	aˁʁ-uˁru	(PL)go-FUT	v:pred	v		pred		
+tabasaran	horse	0100	#	#	##	##				
+tabasaran	horse	0100	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0100	#	#	#ac_in	#ac_in				
+tabasaran	horse	0100	0	0	f0.h:a_in	f0	h	a_in		
+tabasaran	horse	0100	q’aˁl.a-n	middle-GEN	ln	ln				
+tabasaran	horse	0100	čučː.u-n	sister-GEN	ln_np.h:poss	ln_np	h	poss	2055	
+tabasaran	horse	0100	vič	apple(ABS)	np:p	np		p	2056	
+tabasaran	horse	0100	jivu-z	hit-INF	vother:pred	vother		pred		
+tabasaran	horse	0100	%	%	%	%				
+tabasaran	horse	0100	0	0	0.h:s_pc	0	h	s_pc		
+tabasaran	horse	0100	ʁ-uš-gan	PFV-(HSG)go-PFV.PTCP+TEMP	v:pred	v		pred		
+tabasaran	horse	0100	%	%	%	%				
+tabasaran	horse	0100	q’aˁl.a-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0100	c̊i	brother(ABS)	np.h:s	np	h	s	2018	
+tabasaran	horse	0100	=ra	=ADD	=other	=other				
+tabasaran	horse	0100	aˁʁ-uˁru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0101	#	#	##	##				
+tabasaran	horse	0101	qa	then	other	other				
+tabasaran	horse	0101	#	#	#cv	#cv				
+tabasaran	horse	0101	mu	PROX(ABS)	dem_pro.h:s_cv	dem_pro	h	s_cv	2023	
+tabasaran	horse	0101	=ra	=ADD	=other	=other				
+tabasaran	horse	0101	d-uš-un	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0101	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0101	ǯin-is̊.a-x-na	secret-place-APUD-LAT	np:g	np		g	2057	new
+tabasaran	horse	0101	%	%	%	%				
+tabasaran	horse	0101	#	#	#cv	#cv				
+tabasaran	horse	0101	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0101	sa<b>san	<NSG>one_more	ln	ln				
+tabasaran	horse	0101	č’ar	hair(ABS)	np:p	np		p	2058	bridging
+tabasaran	horse	0101	d-u<b>g-un	PFV-<NSG>burn-PCVB	v:pred	v		pred		
+tabasaran	horse	0101	%	%	%	%				
+tabasaran	horse	0101	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0101	haˁjvan	horse(ABS)	np.d:s	np	d	s	2016	
+tabasaran	horse	0101	ʁ-uˁru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0102	#	#	##	##				
+tabasaran	horse	0102	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0102	haˁjvan	horse(ABS)	np.d:s	np	d	s	2016	
+tabasaran	horse	0102	ulix-gan	before-TEMP	np:other	np		other		
+tabasaran	horse	0102	=si	=like	=other	=other				
+tabasaran	horse	0102	ha-mu	EMPH-PROX	ln_dem	ln_dem				
+tabasaran	horse	0102	raǯ.nu	time(ERG)	np:other	np		other		
+tabasaran	horse	0102	=ra	=ADD	=other	=other				
+tabasaran	horse	0102	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0102	bal-k-an	boy-CONT-ELAT	np:obl	np		obl	2023	
+tabasaran	horse	0102	uc̊ːu-r	nice-HSG	ln_adj	ln_adj				
+tabasaran	horse	0102	baž	boy(ABS)	np:p	np		p		
+tabasaran	horse	0102	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0102	#	#	#cv	#cv				
+tabasaran	horse	0102	0	0_horse	0.d:a_cv	0	d	a_cv	2016	
+tabasaran	horse	0102	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2016	
+tabasaran	horse	0102	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	2023	
+tabasaran	horse	0102	ib-an-ǯi	ear-(IN)ELAT-DIR	np:g	np		g	2047	
+tabasaran	horse	0102	it-un	(HSG)put-PCVB	v:pred	v		pred		
+tabasaran	horse	0102	%	%	%	%				
+tabasaran	horse	0102	#	#	#cv	#cv				
+tabasaran	horse	0102	0	0_horse	0.d:a_cv	0	d	a_cv	2016	
+tabasaran	horse	0102	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	2023	
+tabasaran	horse	0102	ib-an-ǯi	ear-(IN)ELAT-DIR	np:obl	np		obl	2048	
+tabasaran	horse	0102	adaʁ-un	(HSG)take_out-PCVB	v:pred	v		pred		
+tabasaran	horse	0103	#	#	##	##				
+tabasaran	horse	0103	qa	then	other	other				
+tabasaran	horse	0103	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0103	elet-uru	(HSG)ride-FUT	v:pred	v		pred		
+tabasaran	horse	0103	haˁjvan.i	horse(IN)	np.d:l	np	d	l	2016	
+tabasaran	horse	0103	ča-n	REFL.SG-GEN	ln_refl.d:poss	ln_refl	d	poss	2016	
+tabasaran	horse	0103	q’aˁl.i-n	back-GEN	np:l	np		l	2049	
+tabasaran	horse	0103	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0103	uli-gan	before-TEMP	np:other	np		other		
+tabasaran	horse	0103	=si	=like	=other	=other				
+tabasaran	horse	0104	#	#	##	##				
+tabasaran	horse	0104	#	#	#ac	#ac				
+tabasaran	horse	0104	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0104	ha-cː-ar	EMPH-(DIST)ADV-PL	other	other				
+tabasaran	horse	0104	hac’	half(ABS)	ln	ln				
+tabasaran	horse	0104	q’aˁl.a-z	middle-DAT	np:g	np		g		
+tabasaran	horse	0104	aˁʁ-a-jiz	go-PRS-until	v:pred	v		pred		
+tabasaran	horse	0104	%	%	%	%				
+tabasaran	horse	0104	#	#	#cv	#cv				
+tabasaran	horse	0104	mu	PROX(ABS)	dem_pro.h:s_cv	dem_pro	h	s_cv	2050	
+tabasaran	horse	0104	vari	all(ABS)	np.h:g	np	h	g		
+tabasaran	horse	0104	=č’an	=than	=other	=other				
+tabasaran	horse	0104	ulix-ǯi	before-DIR	adp	adp				
+tabasaran	horse	0104	d-uš-un	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0104	%	%	%	%				
+tabasaran	horse	0104	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0104	jiv-nu	hit-PST	v:pred	v		pred		
+tabasaran	horse	0104	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0104	vič	apple(ABS)	np:p	np		p	2056	
+tabasaran	horse	0105	#	#	##	##				
+tabasaran	horse	0105	ha-cːi-b	EMPH-(DIST)ADV-NSG	other	other				
+tabasaran	horse	0105	obyčaj	custom(ABS)	np:s	np		s		
+tabasaran	horse	0105	vu-ǯi	COP-ICVB	v:predex	v		predex		
+tabasaran	horse	0105	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0105	#	#	#	#				
+tabasaran	horse	0105	vič	apple(ABS)	np:p	np		p		
+tabasaran	horse	0105	jivu-b	hit-MSD	v:pred	v		pred		
+tabasaran	horse	0106	#	#	##	##				
+tabasaran	horse	0106	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0106	#	#	#cv	#cv				
+tabasaran	horse	0106	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0106	0	0_apple	0:p	0		p	2056	
+tabasaran	horse	0106	q-ada<r>k-u	<PL>throw–PCVB	v:pred	v		pred		
+tabasaran	horse	0106	%	%	%	%				
+tabasaran	horse	0106	ʁuˁ-ru	come-PRS	v:pred	v		pred		
+tabasaran	horse	0107	#	#	##	##				
+tabasaran	horse	0107	#	#	#pc	#pc				
+tabasaran	horse	0107	0	0_youngest_brother	0.h:s_pc	0	h	s_pc	2023	
+tabasaran	horse	0107	ʁ-uˁra-ji-r.i	come-PRS-PTCP-HSG(ERG)	v:pred	v		pred		
+tabasaran	horse	0107	%	%	%	%				
+tabasaran	horse	0107	muʁu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	2023	
+tabasaran	horse	0107	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2023	
+tabasaran	horse	0107	qaˁl.a-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0107	c̊uc̊ːu-n	brother-GEN	ln_np.h:poss	ln_np	h	poss	2018	
+tabasaran	horse	0107	ʁaˁč’.ni-q	armpit-POST	np:g	np		g	2059	bridging
+tabasaran	horse	0107	q-iv-ru	POST-put-FUT	v:pred	v		pred		
+tabasaran	horse	0107	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0107	vič	apple(ABS)	np:p	np		p	2056	
+tabasaran	horse	0108	#	#	##	##				
+tabasaran	horse	0108	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0108	0	0_apple	0:p	0		p	2056	
+tabasaran	horse	0108	q’aˁl.a-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0108	c̊uc̊ːu-n	brother-GEN	ln_np.h:poss	ln_np	h	poss	2018	
+tabasaran	horse	0108	ʁaˁč’.ni-q’	armpit-POST	np:g	np		g	2059	
+tabasaran	horse	0108	q’-iv-ru	POST-throw-FUT	v:pred	v		pred		
+tabasaran	horse	0109	#	#	##	##				
+tabasaran	horse	0109	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0109	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0109	χul.a-z	home-DAT	other:g	other		g		
+tabasaran	horse	0110	#	#	#cv	#cv				
+tabasaran	horse	0110	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0110	du-f-un	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	horse	0110	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0110	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2023	
+tabasaran	horse	0110	fuk’a	nothing(ABS)	np:s_pc	np		s_pc		
+tabasaran	horse	0110	dar-š-i-r	NEG-become-PFV.PTCP-HSG	v:predex	v		predex		
+tabasaran	horse	0110	=si	=like	=other	=other				
+tabasaran	horse	0110	#	#	##ds	##ds				
+tabasaran	horse	0110	0	0_youngest_brother	0.1:s	0	1	s	2023	
+tabasaran	horse	0110	ča-n	REFL.SG-GEN	ln	ln			2023	
+tabasaran	horse	0110	kasib	poor	ln_adj	ln_adj				
+tabasaran	horse	0110	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0110	c̊i	brother(ABS)	np.h:pred	np	h	pred		
+tabasaran	horse	0110	vu	COP	cop	cop				
+tabasaran	horse	0110	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0110	k’uri	CIT	other	other				
+tabasaran	horse	0110	#	#	##	##				
+tabasaran	horse	0110	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0110	dus-un	(HSG)sit-PCVB	v:pred	v		pred		
+tabasaran	horse	0110	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0111	#	#	##	##				
+tabasaran	horse	0111	qa	then	other	other				
+tabasaran	horse	0111	q’aˁla-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0111	c̊uc̊ː.u	brother(ERG)	np.h:a_ds	np	h	a_ds	2018	
+tabasaran	horse	0111	#	#	##ds	##ds				
+tabasaran	horse	0111	0	0_middle_brother	0.1:a	0	1	a	2018	
+tabasaran	horse	0111	vic̊	apple(ABS)	np:p	np		p	2056	
+tabasaran	horse	0111	ʁ-iv-un	PFV-hit-PST	v:pred	v		pred		
+tabasaran	horse	0111	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0111	k’uri	CIT	other	other				
+tabasaran	horse	0111	#	#	##	##				
+tabasaran	horse	0111	#	#	#cv	#cv				
+tabasaran	horse	0111	damaχ	pride	np:s_cv	np		s_cv		
+tabasaran	horse	0111	k-a-ǯi	CONT-be-ICVB	v:pred	v		pred		
+tabasaran	horse	0111	%	%	%	%				
+tabasaran	horse	0111	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0111	muʁu	PROX(ERG)	dem_pro.h:a_ds	dem_pro	h	a_ds	2018	
+tabasaran	horse	0111	#	#	##ds	##ds				
+tabasaran	horse	0111	0	0_middle_brother	0.1:s	0	1	s	2018	
+tabasaran	horse	0111	pačːih.ǯi-n	king-GEN	ln_np.h:poss	ln_np	h	poss	2046	
+tabasaran	horse	0111	q’uˤ-r	two-HSG	ln_adj	ln_adj				
+tabasaran	horse	0111	k’-uru	say-FUT.PTCP	ln	ln				
+tabasaran	horse	0111	šur.a-n	girl(PL)-GEN	ln_np.h:poss	ln_np	h	poss	2055	
+tabasaran	horse	0111	juldaš	friend(ABS)	np.h:other	np	h	other		
+tabasaran	horse	0111	šul-a	become-PRS	v:pred	v		pred		
+tabasaran	horse	0111	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0111	k’uri	CIT	other	other				
+tabasaran	horse	0111	#	#	##	##				
+tabasaran	horse	0111	0	0_middle_brother	0.h:ncs_poss	0	h	ncs_poss	2018	
+tabasaran	horse	0111	furs	pride(ABS)	np:p	np		p		
+tabasaran	horse	0111	k-a-ǯi	CONT-be-ICVB	v:pred	v		pred		
+tabasaran	horse	0111	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0112	#	#	##	##				
+tabasaran	horse	0112	han	well	other	other				
+tabasaran	horse	0112	šubu-d	three-NSG	ln_adj	ln_adj				
+tabasaran	horse	0112	k’-uru	say-FUT(PTCP)	ln	ln				
+tabasaran	horse	0112	jiʁ	day(ABS)	np:s	np		s		
+tabasaran	horse	0112	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0112	#	#	##	##				
+tabasaran	horse	0112	šubu-d	three-NSG	ln_adj	ln_adj				
+tabasaran	horse	0112	k’-uru	say-FUT(PTCP)	ln	ln				
+tabasaran	horse	0112	jiʁ.a-n	day-GEN	np:other	np		other		
+tabasaran	horse	0112	#	#	#ac_in	#ac_in				
+tabasaran	horse	0112	0	0	f0.h:a_in	f0	h	a_in		
+tabasaran	horse	0112	bic’i-nu	small-FOC	ln_adj	ln_adj				
+tabasaran	horse	0112	čučː.u-z	sister-DAT	np.h:obl	np	h	obl	2060	bridging
+tabasaran	horse	0112	vič	apple(ABS)	np:p	np		p	2061	bridging
+tabasaran	horse	0112	jiv-uz	hit-INF	vother:pred	vother		pred		
+tabasaran	horse	0112	%	%	%	%				
+tabasaran	horse	0112	0	0	0.h:s	0	h	s		
+tabasaran	horse	0112	aˁʁ-uˁru	(PL)go-FUT	v:pred	v		pred		
+tabasaran	horse	0113	#	#	##	##				
+tabasaran	horse	0113	qa	then	other	other				
+tabasaran	horse	0113	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0113	#	#	#ac_in	#ac_in				
+tabasaran	horse	0113	0	0_youngest_brother	f0.h:a_in	f0	h	a_in	2023	
+tabasaran	horse	0113	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0113	čučː.u-z	sister-DAT	np.h:obl	np	h	obl	2060	
+tabasaran	horse	0113	vič	apple(ABS)	np:p	np		p	2061	
+tabasaran	horse	0113	jiv-uz	hit-INF	vother:pred	vother		pred		
+tabasaran	horse	0113	%	%	%	%				
+tabasaran	horse	0113	0	0_youngest_brother	0.h:s_pc	0	h	s_pc	2023	
+tabasaran	horse	0113	aˁʁ-uru-gan	(HSG)go-FUT.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0113	%	%	%	%				
+tabasaran	horse	0113	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0113	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0113	c̊-jir	brother-PL(ABS)	np:s	np		s	2035	
+tabasaran	horse	0113	arχain-ǯi	calm-ADV	other	other				
+tabasaran	horse	0113	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0113	#	#	#cv.neg	#cv.neg				
+tabasaran	horse	0113	muʁ.a-z	PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	2035	
+tabasaran	horse	0113	χalvat	calm	np:s	np		s		
+tabasaran	horse	0113	kːa-dr-a<b>q-ri	SUB-NEG-<NSG>fall-ICVB	v:predex	v		predex		
+tabasaran	horse	0113	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0113	#	#	#ac_in	#ac_in				
+tabasaran	horse	0113	0	0_youngest_brother	f0.h:s_in	f0	h	s_in	2023	
+tabasaran	horse	0113	aˁʁ-uˁz	(HSG)go-INF	vother:pred	vother		pred		
+tabasaran	horse	0114	#	#	##	##				
+tabasaran	horse	0114	ficːi	how	other	other				
+tabasaran	horse	0114	vu-š	COP-COND	other	other				
+tabasaran	horse	0114	=ra	=ADD	=other	=other				
+tabasaran	horse	0114	#	#	#cv	#cv				
+tabasaran	horse	0114	muʁu	PROX(ERG)	dem_pro.h:a_cv	dem_pro	h	a_cv	2023	
+tabasaran	horse	0114	ča-z	REFL.SG-DAT	refl.h:obl	refl	h	obl	2023	
+tabasaran	horse	0114	ha-cːi-b	EMPH-(DIST)ADV-NSG	other	other				
+tabasaran	horse	0114	raˁqː	road(ABS)	np:p	np		p		
+tabasaran	horse	0114	d-a<b>g-un	PFV-<NSG>search-PCVB	v:pred	v		pred		
+tabasaran	horse	0114	%	%	%	%				
+tabasaran	horse	0114	0	0_youngest_brother	0.h:s	0	h	s	2023	
+tabasaran	horse	0114	aˁʁ-uˁru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0114	#	#	##	##				
+tabasaran	horse	0114	#	#	#cv	#cv				
+tabasaran	horse	0114	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0114	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0114	jarχʷl.a-x-na	far-APUD-LAT	np:g	np		g		
+tabasaran	horse	0114	d-uš-un	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0114	%	%	%	%				
+tabasaran	horse	0114	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0114	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0114	šubu-b	three-NSG	ln_adj	ln_adj				
+tabasaran	horse	0114	k’-uru	say-FUT.PTCP	ln	ln				
+tabasaran	horse	0114	č’ar	hair(ABS)	np:p	np		p	2062	bridging
+tabasaran	horse	0114	=ra	=ADD	=other	=other				
+tabasaran	horse	0114	u<b>g-uru	<NSG>burn-FUT	v:pred	v		pred		
+tabasaran	horse	0115	#	#	##	##				
+tabasaran	horse	0115	qana	again	other	other				
+tabasaran	horse	0115	=ra	=ADD	=other	=other				
+tabasaran	horse	0115	ʁ-uˁru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0115	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0115	haˁjvan	horse(ABS)	np.d:s	np	d	s	2016	
+tabasaran	horse	0116	#	#	##	##				
+tabasaran	horse	0116	#	#	#cv	#cv				
+tabasaran	horse	0116	#	#	#rc_pc	#rc_pc				
+tabasaran	horse	0116	0	0_horse	rel_f0.d:s_pc	rel_f0	d	s_pc	2016	
+tabasaran	horse	0116	ʁa-f-i	PFV-come-PFV.PTCP	v:pred	v		pred		
+tabasaran	horse	0116	%	%	%	%				
+tabasaran	horse	0116	haˁjvn.i	horse(ERG)	np.d:a_cv	np	d	a_cv	2016	
+tabasaran	horse	0116	ha-dmu	EMPH-3.P(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0116	ulix-gan	before-TEMP	np:other	np		other		
+tabasaran	horse	0116	=si	=like	=other	=other				
+tabasaran	horse	0116	qana	again	other	other				
+tabasaran	horse	0116	=ra	=ADD	=other	=other				
+tabasaran	horse	0116	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0116	baž	boy(ABS)	np.h:p	np	h	p	2023	
+tabasaran	horse	0116	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0116	ib-an-ǯi	ear-(IN)ELAT-DIR	np:g	np		g	2047	
+tabasaran	horse	0116	it-u	(HSG)throw-PCVB	v:pred	v		pred		
+tabasaran	horse	0116	%	%	%	%				
+tabasaran	horse	0116	#	#	#cv	#cv				
+tabasaran	horse	0116	0	0_horse	0.d:a_cv	0	d	a_cv	2016	
+tabasaran	horse	0116	0	0_youngest_brother	0.h:p	0	h	p	2023	
+tabasaran	horse	0116	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0116	ib-an-ǯi	ear-(IN)-ELAT-DIR	np:obl	np		obl	2048	
+tabasaran	horse	0116	adaʁ-u	(HSG)take_out-PCVB	v:pred	v		pred		
+tabasaran	horse	0116	%	%	%	%				
+tabasaran	horse	0116	#	#	#cv	#cv				
+tabasaran	horse	0116	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0116	0	0_youngest_brother	0.h:obl	0	h	obl	2023	
+tabasaran	horse	0116	uc̊ːu-r	nice-HSG	ln_adj	ln_adj				
+tabasaran	horse	0116	baž	boy(ABS)	np:p	np		p		
+tabasaran	horse	0116	d-ap’-un	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	horse	0116	%	%	%	%				
+tabasaran	horse	0116	#	#	#cv	#cv				
+tabasaran	horse	0116	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0116	elit-u	(HSG)sit_on-PCVB	v:pred	v		pred		
+tabasaran	horse	0116	%	%	%	%				
+tabasaran	horse	0116	#	#	#cv	#cv				
+tabasaran	horse	0116	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0116	0	0_youngest_brother	0.h:obl	0	h	obl	2023	
+tabasaran	horse	0116	sa-r	one-HSG	ln_num	ln_num				
+tabasaran	horse	0116	princir	prince(ABS)	np.h:p	np	h	p		
+tabasaran	horse	0116	d-ap’-un	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	horse	0116	%	%	%	%				
+tabasaran	horse	0116	#	#	#cv	#cv				
+tabasaran	horse	0116	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0116	elit-un	(HSG)sit_on-PCVB	v:pred	v		pred		
+tabasaran	horse	0116	%	%	%	%				
+tabasaran	horse	0116	0	0_horse	0.d:a	0	d	a	2016	
+tabasaran	horse	0116	0	0_youngest_brother	0.h:p	0	h	p	2023	
+tabasaran	horse	0116	aχ-uru	(HSG)carry-FUT	v:pred	v		pred		
+tabasaran	horse	0117	#	#	##	##				
+tabasaran	horse	0117	#	#	#ac	#ac				
+tabasaran	horse	0117	ho-tmun-dar	EMPH-DIST-PL	dem_pro.h:s	dem_pro	h	s	2035	
+tabasaran	horse	0117	ha-cːi-z	EMPH-(DIST)ADV-DAT	other:g	other		g		
+tabasaran	horse	0117	ʁ-aˁ-jiz	come-PRS-until	v:pred	v		pred		
+tabasaran	horse	0117	%	%	%	%				
+tabasaran	horse	0117	#	#	#cv	#cv				
+tabasaran	horse	0117	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0117	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0117	d-uš-u	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0117	%	%	%	%				
+tabasaran	horse	0117	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0117	vič	apple(ABS)	np:p	np		p	2061	
+tabasaran	horse	0117	jiv-nu	hit-PST	v:pred	v		pred		
+tabasaran	horse	0117	#	#	##	##				
+tabasaran	horse	0117	qada<r>k-un	POST-(HSG)turn_back-PCVB	v:pred	v		pred		
+tabasaran	horse	0117	ʁuˁr-u	come-FUT	rv_v	rv_v				
+tabasaran	horse	0117	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0118	#	#	##	##				
+tabasaran	horse	0118	qada<r>kun	POST-(HSG)turn_back-PCVB	v:pred	v		pred		
+tabasaran	horse	0118	ʁ-uˤru	come-FUT	rv_v	rv_v				
+tabasaran	horse	0118	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0118	#	#	##neg	##neg				
+tabasaran	horse	0118	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0118	#	#	#pc	#pc				
+tabasaran	horse	0118	0	0_youngest_brother	0.h:s_pc	0	h	s_pc	2023	
+tabasaran	horse	0118	ʁa-f-i-r	PFV-come-PFV.PTCP-HSG	v:pred	v		pred		
+tabasaran	horse	0118	%	%	%	%				
+tabasaran	horse	0118	pačːih.ǯi-x-in-ǯi	king-APUD-LAT-DIR	np.h:g	np	h	g	2046	
+tabasaran	horse	0118	aˁʁ-dar	(HSG)go-FUT.NEG	v:pred	v		pred		
+tabasaran	horse	0119	#	#	##	##				
+tabasaran	horse	0119	#	#	#cv	#cv				
+tabasaran	horse	0119	0	0_youngest_brother	0.h:obl	0	h	obl	2023	
+tabasaran	horse	0119	vič	apple(ABS)	np:p	np		p	2061	
+tabasaran	horse	0119	=ra	=ADD	=other	=other				
+tabasaran	horse	0119	x-a-ǯi	APUD-be-ICVB	v:pred	v		pred		
+tabasaran	horse	0119	ča-n	REFL.SG-GEN	rn_refl.h:poss	rn_refl	h	poss	2023	
+tabasaran	horse	0119	%	%	%	%				
+tabasaran	horse	0119	#	#	#	#				
+tabasaran	horse	0119	ǯini-ǯi	secret-ADV	other	other				
+tabasaran	horse	0119	vič	apple(ABS)	np:p	np		p	2061	
+tabasaran	horse	0119	=ra	=ADD	=other	=other				
+tabasaran	horse	0119	hamu	EMPH-PROX(ABS)	np.h:a	np	h	a		
+tabasaran	horse	0119	ča-n	REFL-GEN	rn_refl.h:poss	rn_refl	h	poss	2023	
+tabasaran	horse	0119	#	#	#ds	#ds				
+tabasaran	horse	0119	0	0_youngest_brother	0.1:s	0	1	s	2023	
+tabasaran	horse	0119	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0119	c̊i	brother(ABS)	np.h:pred	np	h	pred		
+tabasaran	horse	0119	vu	COP	cop	cop				
+tabasaran	horse	0119	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	horse	0119	k’uri	CIT	other	other				
+tabasaran	horse	0119	ča-n	REFL.SG-GEN	other	other				
+tabasaran	horse	0119	kečel	bald	other	other				
+tabasaran	horse	0119	=si	=like	=other	=other				
+tabasaran	horse	0119	%	%	%	%				
+tabasaran	horse	0119	0	0_youngest_brother	0.1:s	0	1	s	2023	
+tabasaran	horse	0119	ʁ-uˁru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0120	#	#	##	##				
+tabasaran	horse	0120	qa	then	other	other				
+tabasaran	horse	0120	mu-rar.i-n	PROX-PL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	2040	
+tabasaran	horse	0120	jiʁ	day(ABS)	np:p	np		p		
+tabasaran	horse	0120	ǯiv-ru	put-FUT	v:pred	v		pred		
+tabasaran	horse	0120	pačːih.ǯi	king(ERG)	np.h:a	np	h	a	2046	
+tabasaran	horse	0120	#	#	#ac_in	#ac_in				
+tabasaran	horse	0120	0	0_king	f0.h:a_in	f0	h	a_in	2046	
+tabasaran	horse	0120	sumčir	wedding(ABS)	np:p	np		p		
+tabasaran	horse	0120	ap’-uz	do-INF	vother:pred	vother		pred		
+tabasaran	horse	0120	ča-n	REFL.SG-GEN	rn_refl.h:poss	rn_refl	h	poss	2046	
+tabasaran	horse	0120	šubar.i-n	girl+PL-GEN	rn_np.h:poss	rn_np	h	poss	2040	
+tabasaran	horse	0121	#	#	##	##				
+tabasaran	horse	0121	qa	then	other	other				
+tabasaran	horse	0121	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0121	šubu-r	three-HSG	ln_num	ln_num				
+tabasaran	horse	0121	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0121	c̊j-ir	brother-PL(ABS)	np.h:s	np	h	s	2004	
+tabasaran	horse	0121	aˁʁ-uˁru	(PL)go-FUT	v:pred	v		pred		
+tabasaran	horse	0122	#	#	#nc	#nc				
+tabasaran	horse	0122	qa	then	nc	nc				
+tabasaran	horse	0122	mu	PROX(ATTR)	nc	nc				
+tabasaran	horse	0122	kečel	bald	nc	nc				
+tabasaran	horse	0122	c̊uc̊ːu-z	brother-DAT	nc_np.h	nc_np	h		2023	
+tabasaran	horse	0122	aˁʁ-uˁz	(PL)go-INF	nc	nc				
+tabasaran	horse	0122	#	#	##	##				
+tabasaran	horse	0122	q’uˁ-r	two-HSG	ln_num	ln_num				
+tabasaran	horse	0122	c̊i	brother(ABS)	np.h:s	np	h	s	2035	
+tabasaran	horse	0122	aʁ-uˁru	(PL)go-FUT	v:pred	v		pred		
+tabasaran	horse	0123	#	#	##neg	##neg				
+tabasaran	horse	0123	qa	then	other	other				
+tabasaran	horse	0123	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0123	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0123	c̊uc̊ːu-z	brother-DAT	np.h:ncs_poss	np	h	ncs_poss	2023	
+tabasaran	horse	0123	#	#	#cc_in:p	#cc_in		p		
+tabasaran	horse	0123	0	0_youngest_brother	f0.h:s_in	f0	h	s_in	2023	
+tabasaran	horse	0123	aˁʁ-uˁz	go-INF	vother:pred	vother		pred		
+tabasaran	horse	0123	%	%	%	%				
+tabasaran	horse	0123	hii	simply	other	other				
+tabasaran	horse	0123	dar-ǯi	NEG-COP-ICVB	v:pred	v		pred		
+tabasaran	horse	0123	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0124	#	#	##	##				
+tabasaran	horse	0124	qa	then	other	other				
+tabasaran	horse	0124	aˁʁ-uˁru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0124	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0124	aˁʁ-uˁru	(HSG)go-FUT	other	other				
+tabasaran	horse	0125	#	#	##	##				
+tabasaran	horse	0125	0	0_that	0:p	0		p	2063	bridging
+tabasaran	horse	0125	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0125	mu-rar.i	PROX-PL-(ERG)	dem_pro.h:a	dem_pro	h	a	2004	
+tabasaran	horse	0125	urgu-d	seven-NSG	ln_num	ln_num				
+tabasaran	horse	0125	jiʁ.a-n	day-GEN	np:other	np		other		
+tabasaran	horse	0125	urgu-d	seven-NSG	ln_num	ln_num				
+tabasaran	horse	0125	jiʁa-n	day-GEN	np:other	np		other		
+tabasaran	horse	0125	=na	=ADD	=other	=other				
+tabasaran	horse	0125	urgu-d	seven-NSG	ln_num	ln_num				
+tabasaran	horse	0125	jis̊.a-n	night-GEN	np:other	np		other		
+tabasaran	horse	0125	#	#	#cv	#cv				
+tabasaran	horse	0125	0	0_they	0.h:a_cv	0	h	a_cv	2004	
+tabasaran	horse	0125	iliv-un	put-PCVB	v:pred	v		pred		
+tabasaran	horse	0125	daldabu	drum(ABS)	np:p	np		p		
+tabasaran	horse	0125	#	#	##	##				
+tabasaran	horse	0125	mu-rar.i	PROX-PL-(ERG)	dem_pro.h:a	dem_pro	h	a	2004	
+tabasaran	horse	0125	sumčir	wedding(ABS)	np:p	np		p		
+tabasaran	horse	0125	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0126	#	#	##	##				
+tabasaran	horse	0126	χ-uru	carry-FUT	v:pred	v		pred		
+tabasaran	horse	0126	mu-rar.i	PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a	2004	
+tabasaran	horse	0126	s̊us̊-ar	fiancée-PL(ABS)	np.h:p	np	h	p	2040	
+tabasaran	horse	0127	#	#	##	##				
+tabasaran	horse	0127	qa	then	other	other				
+tabasaran	horse	0127	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0127	0	0_brothers	0.h:a_pc	0	h	a_pc	2004	
+tabasaran	horse	0127	s̊us̊-ar	fiancée-PL	np.h:p	np	h	p	2040	
+tabasaran	horse	0127	ʁa-χ-i-gan	PFV-(PL)carry-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0127	%	%	%	%				
+tabasaran	horse	0127	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0127	pačːih.ǯi	king(ERG)	np.h:a	np	h	a	2046	
+tabasaran	horse	0127	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2046	
+tabasaran	horse	0127	a-ji	(IN)be-PTCP	ln	ln				
+tabasaran	horse	0127	devlet	wealth(ABS)	np:p	np		p	2064	bridging
+tabasaran	horse	0127	ča-n	REFL.SG-GEN	rn	rn				
+tabasaran	horse	0127	a-ji-b	(IN)be-PTCP-NSG	rn_np	rn_np				
+tabasaran	horse	0127	ha-m-rar.i-z	EMPH-PROX-PL-DAT	dem_pro.h:g	dem_pro	h	g		
+tabasaran	horse	0127	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	horse	0128	#	#	##	##				
+tabasaran	horse	0128	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0128	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0128	šubar	girl+PL(ABS)	np.h:s_pc	np	h	s_pc	2040	
+tabasaran	horse	0128	χul.a-ʔ	house-IN	np:g	np		g	2025	
+tabasaran	horse	0128	ʁ-uš-i-gan	PFV-(HPL)go-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0128	%	%	%	%				
+tabasaran	horse	0128	0	0_king	0.h:a	0	h	a	2046	
+tabasaran	horse	0128	mu-rar.i-z	PROX-PL-DAT	dem_pro.h:g	dem_pro	h	g	2040	
+tabasaran	horse	0128	χuˁni-r	cow-PL(ABS)	np:p	np		p	2065	new
+tabasaran	horse	0128	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	horse	0129	#	#	##	##				
+tabasaran	horse	0129	pačːih.ǯi	king(ERG)	dem_pro.h:a_ds	dem_pro	h	a_ds	2046	
+tabasaran	horse	0129	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0129	uc̊u-z	you.PL-DAT	pro.2:ncs_poss	pro	2	ncs_poss	2040	
+tabasaran	horse	0129	ǯan	dear	ln_adj	ln_adj				
+tabasaran	horse	0129	baž	boy(ABS)	np.h:voc	np	h	voc	2040	
+tabasaran	horse	0129	k’ur	CIT	other	other				
+tabasaran	horse	0129	nikː	milk(ABS)	np:p	np		p		
+tabasaran	horse	0129	a-dar-ǯi	(IN)be-NEG-ICVB	v:pred	v		pred		
+tabasaran	horse	0129	dar-i<b>š-ri	NEG-<NSG>become-JUSS	rv_aux	rv_aux				
+tabasaran	horse	0129	%	%	%	%				
+tabasaran	horse	0129	k’ur	say.FUT	v:pred	v		pred		
+tabasaran	horse	0130	#	#	##	##				
+tabasaran	horse	0130	uc̊u-z	you(PL)-DAT	nc	nc				
+tabasaran	horse	0130	har.di-z	each-DAT	np.h:g	np	h	g	2040	
+tabasaran	horse	0130	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0130	χuˤni	cow(ABS)	np:p	np		p	2066	bridging
+tabasaran	horse	0130	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	horse	0130	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0130	pačːih.ǯi	king(ERG)	np.h:a	np	h	a	2046	
+tabasaran	horse	0131	#	#	##	##				
+tabasaran	horse	0131	qa	then	other	other				
+tabasaran	horse	0131	muʁu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	2046	
+tabasaran	horse	0131	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	horse	0131	#	#	##	##				
+tabasaran	horse	0131	χuˁni-r	cow-PL(ABS)	np:p	np		p	2065	
+tabasaran	horse	0131	mu-rar.i	PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a	2004	
+tabasaran	horse	0131	ʁaˁʔ-ru	(PL)drive_into-FUT	v:pred	v		pred		
+tabasaran	horse	0131	liǯ.aˁ-ʁ	herd-INTER	np:g	np		g	2067	new
+tabasaran	horse	0132	#	#	##	##				
+tabasaran	horse	0132	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0132	liǯ.aˁ-ʁ	herd-INTER	np:g	np		g	2067	
+tabasaran	horse	0132	ʁaˁʔ-gan	(PL)drive_into-PFV.PTCP+TEMP	v:pred	v		pred		
+tabasaran	horse	0132	muʁu	PROX(ERG)	dem_pro.h:a_pc	dem_pro	h	a_pc	2023	
+tabasaran	horse	0132	%	%	%	%				
+tabasaran	horse	0132	liǯ.aˁ-q	herd-POST	ln	ln			2067	
+tabasaran	horse	0132	q-a-ji-r.i-x-ǯi	POST-be-PTCP-PL-APUD-DIR	np.h:a_cp	np	h	a_cp	2068	bridging
+tabasaran	horse	0132	maˁslaˁaˁt	agreement	other:lvc	other		lvc		
+tabasaran	horse	0132	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0132	#	#	#cc.neg:p	#cc.neg		p		
+tabasaran	horse	0132	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0132	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0132	c̊uc̊ːu-z	brother-DAT	np.h:ncs_poss	np	h	ncs_poss	2023	
+tabasaran	horse	0132	a-dar	(IN)be-PRS.NEG	v:pred	v		pred		
+tabasaran	horse	0132	fuk’a	nothing(ABS)	indef_other:p	indef_other		p		
+tabasaran	horse	0132	#	#	##	##				
+tabasaran	horse	0132	0	0_they	0.h:a	0	h	a	2068	
+tabasaran	horse	0132	0	0_youngest_brother	0.h:g	0	h	g	2023	
+tabasaran	horse	0132	0	0_anything	0:p	0		p		
+tabasaran	horse	0132	tuv-ru-b	give-FUT.PTCP-NSG	v:pred	v		pred		
+tabasaran	horse	0132	a-dar	(IN)be-PRS.NEG	rv_aux	rv_aux				
+tabasaran	horse	0133	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0133	uzu-z	I-DAT	dem_pro.h:obl	dem_pro	h	obl	2069	bridging
+tabasaran	horse	0133	tuv-ru-b	give-FUT.PTCP-NSG	np:s	np		s		
+tabasaran	horse	0133	a-dar	(IN)be-PRS.NEG	v:pred	v		pred		
+tabasaran	horse	0133	=zu-z	=1SG-DAT	=rv-pro_1_obl	=rv-pro_1_obl				
+tabasaran	horse	0133	k’ur	CIT	other	other				
+tabasaran	horse	0133	gabn.i-z	сowboy-DAT	np.h:g	np	h	g	2023	
+tabasaran	horse	0134	#	#	##ds	##ds				
+tabasaran	horse	0134	qa	then	other	other				
+tabasaran	horse	0134	uvu	you(ABS)	nc_dem_pro.h	nc_dem_pro	h		2023	
+tabasaran	horse	0134	k’ur	CIT	other	other				
+tabasaran	horse	0134	#	#	#ds_cc_pc:s	#ds_cc_pc		s		
+tabasaran	horse	0134	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0134	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2023	
+tabasaran	horse	0134	χuˁni	cow(ABS)	np:dt_obl	np		dt_obl	2070	bridging
+tabasaran	horse	0134	k’ur	CIT	other	other				
+tabasaran	horse	0134	χuˁn.ǯi-q-ǯi	cow-POST-DIR	np:obl	np		obl	2070	
+tabasaran	horse	0134	fuk’an	how_many	ln	ln				
+tabasaran	horse	0134	ǯerd-ar	bull-PL(ABS)	np:s_pc	np		s_pc		
+tabasaran	horse	0134	ʁa-f-i-š	PFV-come-PFV.PTCP-COND	v:pred	v		pred		
+tabasaran	horse	0134	%	%	%	%				
+tabasaran	horse	0134	uzu-z	I-DAT	pro.1:obl	pro	1	obl	2023	
+tabasaran	horse	0134	iš-ri	(PL)become-JUSS	v:pred	v		pred		
+tabasaran	horse	0134	k’ur	CIT	other	other				
+tabasaran	horse	0135	#	#	##ds	##ds				
+tabasaran	horse	0135	qa	then	other	other				
+tabasaran	horse	0135	#	#	#ac_pc.neg	#ac_pc.neg				
+tabasaran	horse	0135	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2023	
+tabasaran	horse	0135	χuˁn.ǯi-q-ǯi	cow-POST-COM	np:obl	np		obl	2070	
+tabasaran	horse	0135	fuk’a	nothing(ABS)	np:s	np		s		
+tabasaran	horse	0135	dar-f-i-š	NEG-come-PFV.PTCP-COND	v:pred	v		pred		
+tabasaran	horse	0135	k’ur	CIT	other	other				
+tabasaran	horse	0135	%	%	%	%				
+tabasaran	horse	0135	#	#	#ac_pc.neg	#ac_pc.neg				
+tabasaran	horse	0135	0	0_cow	0:a_pc	0		a_pc	2070	
+tabasaran	horse	0135	k’ari	calf(ABS)	np:p	np		p		
+tabasaran	horse	0135	dar-ap’-i-š	NEG-do-PFV.PTCP-COND	v:pred	v		pred		
+tabasaran	horse	0135	k’ur	CIT	other	other				
+tabasaran	horse	0135	%	%	%	%				
+tabasaran	horse	0135	0	0_youngest_brother	0.1:a	0	1	a	2023	
+tabasaran	horse	0135	0	0_cow	0:p	0		p	2070	
+tabasaran	horse	0135	uvu-z	you(SG)-DAT	pro.2:g	pro	2	g	2069	
+tabasaran	horse	0135	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	horse	0135	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0135	k’ur	CIT	other	other				
+tabasaran	horse	0136	#	#	#nc	#nc				
+tabasaran	horse	0136	šli-z	who-DAT	nc	nc				
+tabasaran	horse	0137	#	#	##	##				
+tabasaran	horse	0137	gab.ni-z	cow-DAT	nc_np.h	nc_np	h		2069	
+tabasaran	horse	0138	#	#	#nc	#nc				
+tabasaran	horse	0138	han	well	nc	nc				
+tabasaran	horse	0138	ǯiqːi-ǯi	short-ADV	nc	nc				
+tabasaran	horse	0138	muʁu	PROX(ERG)	nc	nc				
+tabasaran	horse	0138	mura-z	PROX-DAT	nc	nc				
+tabasaran	horse	0138	aˁʁuˁ-ǯi	know-ICVB	nc	nc				
+tabasaran	horse	0138	šul-u	become-FUT	nc	nc				
+tabasaran	horse	0139	#	#	##	##				
+tabasaran	horse	0139	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	horse	0139	muʁu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	2023	
+tabasaran	horse	0140	#	#	##	##				
+tabasaran	horse	0140	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0140	mal-ar	cattle-PL(ABS)	np:p	np		p	2067	
+tabasaran	horse	0140	t’aʔ-r-u	(PL)drive-FUT	v:pred	v		pred		
+tabasaran	horse	0140	#	#	##	##				
+tabasaran	horse	0140	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0140	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	horse	0140	kːe<b>ʁ-ru	<NSG>start-FUT	v:pred	v		pred		
+tabasaran	horse	0141	#	#	##	##				
+tabasaran	horse	0141	ha-m-l-i	EMPH-PROX-SUPER-LAT	dem_pro:l	dem_pro		l		
+tabasaran	horse	0141	ho-tmu	EMPH-DIST(ABS)	other	other				
+tabasaran	horse	0141	fǯ.i-z	who-DAT	other	other				
+tabasaran	horse	0141	=si	=like	=other	=other				
+tabasaran	horse	0141	jaχi-ǯi	long-ADV	other	other				
+tabasaran	horse	0141	aˁχuˁ-ǯi	big-ADV	other	other				
+tabasaran	horse	0141	muʁu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	2023	
+tabasaran	horse	0141	uˁ<b>χ-uˁru	<NSG>save-FUT	v:pred	v		pred		
+tabasaran	horse	0141	χuˁni	cow(ABS)	np:p	np		p	2070	
+tabasaran	horse	0141	sarχuš-ǯi	glad-ADV	other	other				
+tabasaran	horse	0141	#	#	#cv	#cv				
+tabasaran	horse	0141	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0141	ala<b>xu-ri	<NSG>pour-ICVB	v:pred	v		pred		
+tabasaran	horse	0141	muχ	barley(ABS)	np:p	np		p	2071	new
+tabasaran	horse	0142	#	#	##	##				
+tabasaran	horse	0142	#	#	#cv	#cv				
+tabasaran	horse	0142	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0142	kː-iv-ri	SUB-put-ICVB	v:pred	v		pred		
+tabasaran	horse	0142	uǯu-b	good-NSG	ln_adj	ln_adj				
+tabasaran	horse	0142	čru	green	ln_adj	ln_adj				
+tabasaran	horse	0142	uk’	grass(ABS)	np:p	np		p	2072	new
+tabasaran	horse	0142	%	%	%	%				
+tabasaran	horse	0142	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0142	0	0_cow	0:p	0		p	2070	
+tabasaran	horse	0142	uˁ<b>χ-uˁru	<NSG>save-FUT	v:pred	v		pred		
+tabasaran	horse	0143	#	#	##	##				
+tabasaran	horse	0143	muʁa-n	PROX-GEN	ln_dem	ln_dem				
+tabasaran	horse	0143	χuˁn.ǯi-q-ǯi	cow-POST-COM	np:obl	np		obl	2070	
+tabasaran	horse	0143	#	#	#rc_pc	#rc_pc			2073	bridging
+tabasaran	horse	0143	0	0_bulls	rel_f0.h:s_pc	rel_f0	h	s_pc	2073	
+tabasaran	horse	0143	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0143	liǯ.aˁ-ʁ	herd-INTER	np:l	np		l	2067	
+tabasaran	horse	0143	ʁ-aˁ-ji	INTER-be-PTCP	v:pred	v		pred		
+tabasaran	horse	0143	%	%	%	%				
+tabasaran	horse	0143	ǯerd-ar	bull-PL(ABS)	np:s	np		s	2073	
+tabasaran	horse	0143	vari	all	rn	rn				
+tabasaran	horse	0143	ʁ-uˁru	go-FUT	v:pred	v		pred		
+tabasaran	horse	0144	#	#	##	##				
+tabasaran	horse	0144	t’ap’-u	<NSG>close-PCVB	v:pred	v		pred		
+tabasaran	horse	0144	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0144	muʁu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	2023	
+tabasaran	horse	0144	rakː	door	np:p	np		p	2074	new
+tabasaran	horse	0144	#	#	##	##				
+tabasaran	horse	0144	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0144	0	0_door	0:p	0		p	2074	
+tabasaran	horse	0144	t’ap’-un	close-PCVB	v:pred	v		pred		
+tabasaran	horse	0144	ʁit-ru	leave-FUT	rv_aux	rv_aux				
+tabasaran	horse	0145	#	#	##	##				
+tabasaran	horse	0145	ha-m-rar	EMPH-PROX-PL(ABS)	dem_pro:s	dem_pro		s	2073	
+tabasaran	horse	0145	vari	all	rn	rn				
+tabasaran	horse	0145	#	#	#cv	#cv				
+tabasaran	horse	0145	0	0_bulls	0:s_cv	0		s_cv	2073	
+tabasaran	horse	0145	du-f-un	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	horse	0145	%	%	%	%				
+tabasaran	horse	0145	uc̊’-ru	(PL)enter-FUT	v:pred	v		pred		
+tabasaran	horse	0145	ha-mʁa-n	EMPH-PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	2023	
+tabasaran	horse	0145	χaˁn.a-ʔ	cowshed-IN	np:g	np		g	2075	bridging
+tabasaran	horse	0146	#	#	##	##				
+tabasaran	horse	0146	muʁa-z	PROX-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	2023	
+tabasaran	horse	0146	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0146	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0146	liǯ	herd(ABS)	np:p	np		p	2076	bridging
+tabasaran	horse	0146	mal-ar	cattle-PL(ABS)	rn_np	rn_np				
+tabasaran	horse	0146	ǯerd-ar	bull-PL(ABS)	rn_np	rn_np			2073	
+tabasaran	horse	0146	k’erq-ar	calf-PL(ABS)	rn_np	rn_np				
+tabasaran	horse	0146	fji-r	what-PL(ABS)	rn	rn				
+tabasaran	horse	0147	#	#	##	##				
+tabasaran	horse	0147	sarun	PRT	other	other				
+tabasaran	horse	0147	gabn.i	cowboy(ERG)	np.h:a_ds	np	h	a_ds	2069	
+tabasaran	horse	0147	muʁa-z	PROX-DAT	dem_pro.h:g	dem_pro	h	g	2023	
+tabasaran	horse	0147	du-p-na	PFV-say-RES	v:pred	v		pred		
+tabasaran	horse	0147	aˁχir	finally	other	other				
+tabasaran	horse	0147	=ra	=ADD	=other	=other				
+tabasaran	horse	0147	#	#	##ds	##ds				
+tabasaran	horse	0147	mu-rar	PROX-PL(ABS)	dem_pro:s	dem_pro		s	2076	
+tabasaran	horse	0147	vari	all	rn	rn				
+tabasaran	horse	0147	k’ur	CIT	other	other				
+tabasaran	horse	0147	jav-dar	your-PL(ABS)	ln_pro.2:poss	ln_pro	2	poss	2023	
+tabasaran	horse	0147	0	0_sheep	0:pred	0		pred		
+tabasaran	horse	0147	vu	COP	cop	cop				
+tabasaran	horse	0147	sarun	PRT	other	other				
+tabasaran	horse	0147	#	#	##	##				
+tabasaran	horse	0147	mu	PROX(ABS)	dem_pro:p	dem_pro		p	2076	
+tabasaran	horse	0147	ha-mʁa-z	EMPH-PROX-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	2023	
+tabasaran	horse	0147	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0148	#	#	##	##				
+tabasaran	horse	0148	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2023	
+tabasaran	horse	0148	šul-u	become-FUT	nc	nc				
+tabasaran	horse	0148	c’ib	little	nc	nc				
+tabasaran	horse	0148	kentχuda	respected	other:pred	other		pred		
+tabasaran	horse	0148	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0149	#	#	##	##				
+tabasaran	horse	0149	aˁχir	finally	other	other				
+tabasaran	horse	0149	kt’e<r>cː-uru	<HSG>become_sick-FUT	v:pred	v		pred		
+tabasaran	horse	0149	pačːih	king(ABS)	np.h:s	np	h	s	2046	
+tabasaran	horse	0150	#	#	##	##				
+tabasaran	horse	0150	icː-ru	ill-FUT.PTCP	other	other				
+tabasaran	horse	0150	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0150	pačːih	king(ABS)	np.h:s	np	h	s	2046	
+tabasaran	horse	0151	#	#	##neg	##neg				
+tabasaran	horse	0151	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0151	pačːih	king(ABS)	np.h:s_pc	np	h	s_pc	2046	
+tabasaran	horse	0151	icː-ru	ill-FUT.PTCP	other	other				
+tabasaran	horse	0151	ʁa-š-i-gan	PFV-(HSG)become-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0151	%	%	%	%				
+tabasaran	horse	0151	muʁa-z	PROX-DAT	dem_pro.h:ncs_cp	dem_pro	h	ncs_cp	2046	
+tabasaran	horse	0151	#	#	#cc_in	#cc_in				
+tabasaran	horse	0151	0	0_king	f0.h:a_in	f0	h	a_in	2046	
+tabasaran	horse	0151	sa-b	one-NSG	ln	ln				
+tabasaran	horse	0151	fuk’a	nothing(ABS)	np:p	np		p		
+tabasaran	horse	0151	ip’-uz	(NSG)eat-INF	vother:pred	vother		pred		
+tabasaran	horse	0151	%	%	%	%				
+tabasaran	horse	0151	kːun	want	other:lvc	other		lvc		
+tabasaran	horse	0151	šul-dar	become-FUT.NEG	v:pred	v		pred		
+tabasaran	horse	0152	#	#	##neg	##neg				
+tabasaran	horse	0152	fuk’a	nothing(ABS)	np:s	np		s		
+tabasaran	horse	0152	kʷ’.a-z	heart-DAT	np:g	np		g		
+tabasaran	horse	0152	zig-u-dar	draw-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0153	#	#	##neg	##neg				
+tabasaran	horse	0153	ja	or	other	other				
+tabasaran	horse	0153	#	#	#cc:p	#cc		p		
+tabasaran	horse	0153	muʁa-z	PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	2046	
+tabasaran	horse	0153	ʁi-lig-u	PFV-(HSG)look-PCVB	v:pred	v		pred		
+tabasaran	horse	0153	duχt-ir.i	doctor-PL(ERG)	np.h:a_cv	np	h	a_cv	2077	new
+tabasaran	horse	0153	=ra	=ADD	=other	=other				
+tabasaran	horse	0153	%	%	%	%				
+tabasaran	horse	0153	0	0_king	0.h:a	0	h	a	2046	
+tabasaran	horse	0153	k’-ur-dar	say-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0154	#	#	##neg	##neg				
+tabasaran	horse	0154	#	#	#cv	#cv				
+tabasaran	horse	0154	#	#	#cc:p	#cc		p		
+tabasaran	horse	0154	0	0_king	0.h:s	0	h	s	2046	
+tabasaran	horse	0154	uǯu	good	other	other				
+tabasaran	horse	0154	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0154	%	%	%	%				
+tabasaran	horse	0154	0	0_king	0.h:a_cv	0	h	a_cv	2046	
+tabasaran	horse	0154	du-p-un	PFV-say-PCVB	v:pred	v		pred		
+tabasaran	horse	0154	%	%	%	%				
+tabasaran	horse	0154	0	0_king	0.h:obl	0	h	obl	2046	
+tabasaran	horse	0154	darman	medicine(ABS)	np:s	np		s	2078	bridging
+tabasaran	horse	0154	šul-dar	become-FUT.NEG	v:pred	v		pred		
+tabasaran	horse	0155	#	#	##	##				
+tabasaran	horse	0155	aˁχir	finally	other	other				
+tabasaran	horse	0155	muʁa-z	PROX-DAT	nc	nc				
+tabasaran	horse	0155	q-a-ǯi	POST-be-ICVB	v:pred	v		pred		
+tabasaran	horse	0155	ʁ-uˁru	come-FUT	rv_aux	rv_aux				
+tabasaran	horse	0155	muʁa-x-na	PROX-APUD-LAT	dem_pro.h:g	dem_pro	h	g	2046	
+tabasaran	horse	0155	sa-r	one-HSG	np.h:s	np	h	s	2079	new
+tabasaran	horse	0155	#	#	#rc_pc	#rc_pc			2079	
+tabasaran	horse	0155	0	0_soothsayer	rel_f0.h:s_pc	rel_f0	h	s_pc	2079	
+tabasaran	horse	0155	ha-cːi	EMPH-(DIST)ADV	other	other				
+tabasaran	horse	0155	aˁʁu	know	other:lvc	other		lvc		
+tabasaran	horse	0155	šl-u-r	become-FUT.PTCP-HSG	v:pred	v		pred		
+tabasaran	horse	0155	%	%	%	%				
+tabasaran	horse	0155	lig-ru-r	(HSG)look-FUT.PTCP-HSG	np.h:appos	np	h	appos	2079	
+tabasaran	horse	0156	#	#	##	##				
+tabasaran	horse	0156	qa	then	other	other				
+tabasaran	horse	0156	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0156	lig-ru-r.i	(HSG)look-FUT.PTCP-HSG(ERG)	np.h:a_ds	np	h	a_ds	2079	
+tabasaran	horse	0156	k’ur	CIT	other	other				
+tabasaran	horse	0156	muʁa-z	PROX-DAT	dem_pro.h:g	dem_pro	h	g	2046	
+tabasaran	horse	0156	#	#	##ds	##ds				
+tabasaran	horse	0156	uvu-z	you(SG)-DAT	pro.2:obl	pro	2	obl	2046	
+tabasaran	horse	0156	#	#	#ds_cc_cv:p	#ds_cc_cv		p		
+tabasaran	horse	0156	0	0_king	0.2:a_cv	0	2	a_cv	2046	
+tabasaran	horse	0156	ǯejran.ǯi-n	gazelle-GEN	ln_np	ln_np				
+tabasaran	horse	0156	jikː	meat(ABS)	np:p	np		p	2080	new
+tabasaran	horse	0156	d-ip’-un	PFV-(NSG)eat-PCVB	v:pred	v		pred		
+tabasaran	horse	0156	%	%	%	%				
+tabasaran	horse	0156	kːun-ǯu	need-FUT	v:pred	v		pred		
+tabasaran	horse	0156	k’ur	CIT	other	other				
+tabasaran	horse	0157	#	#	##ds	##ds				
+tabasaran	horse	0157	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	horse	0157	0	0_king	0.2:a_pc	0	2	a_pc	2046	
+tabasaran	horse	0157	ǯejran.ǯi-n	gazelle-GEN	ln_np	ln_np				
+tabasaran	horse	0157	jikː	meat(ABS)	np:p	np		p	2080	
+tabasaran	horse	0157	ʁ-ip’-i-š	PFV-(NSG)eat-PFV.PTCP-COND	v:pred	v		pred		
+tabasaran	horse	0157	k’ur	CIT	other	other				
+tabasaran	horse	0157	%	%	%	%				
+tabasaran	horse	0157	0	0_king	0.2:s_cp	0	2	s_cp	2046	
+tabasaran	horse	0157	saʁ	healthy	other:lvc	other		lvc		
+tabasaran	horse	0157	šul	become(FUT)	v:pred	v		pred		
+tabasaran	horse	0157	=vu	=2SG:PAT	=rv-pro_2_s	=rv-pro_2_s				
+tabasaran	horse	0157	k’ur	CIT	other	other				
+tabasaran	horse	0158	#	#	##neg	##neg				
+tabasaran	horse	0158	qa	then	other	other				
+tabasaran	horse	0158	muʁa-z	PROX-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	2046	
+tabasaran	horse	0158	sarun	PRT	other	other				
+tabasaran	horse	0158	baž	boy(ABS)	np.h:p	np	h	p		
+tabasaran	horse	0158	a-dar	(IN)be-PRS.NEG	v:pred	v		pred		
+tabasaran	horse	0158	#	#	##	##				
+tabasaran	horse	0158	šub-ar	girl.PL(ABS)	np.h:s	np	h	s	2040	
+tabasaran	horse	0158	vu	COP	v:predex	v		predex		
+tabasaran	horse	0159	#	#	##	##				
+tabasaran	horse	0159	šubar.i-z	girl+PL-DAT	np.h:obl	np	h	obl	2040	
+tabasaran	horse	0159	ǯaχ	call	other:lvc	other		lvc		
+tabasaran	horse	0159	ap’-ru	do-FUT	v:pred	v		pred		
+tabasaran	horse	0159	muʁu	PROX(ERG)	dem_pro.h:a_cp	dem_pro	h	a_cp	2046	
+tabasaran	horse	0160	#	#	##ds	##ds				
+tabasaran	horse	0160	uzu-z	I-DAT	pro.1:obl	pro	1	obl	2046	
+tabasaran	horse	0160	k’ur	CIT	other	other				
+tabasaran	horse	0160	ǯan	dear	ln_adj	ln_adj				
+tabasaran	horse	0160	baž	boy	np.h:voc	np	h	voc	2040	
+tabasaran	horse	0160	k’ur	CIT	other	other				
+tabasaran	horse	0160	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	horse	0160	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0160	0	0_king	0.1:a_pc	0	1	a_pc	2046	
+tabasaran	horse	0160	ǯejran.ǯi-n	gazelle-GEN	ln_np	ln_np				
+tabasaran	horse	0160	jikː	meat(ABS)	np:p	np		p	2080	
+tabasaran	horse	0160	ʁ-ip’-i-š	PFV-(NSG)eat-PFV.PTCP-COND	v:pred	v		pred		
+tabasaran	horse	0160	k’ur	CIT	other	other				
+tabasaran	horse	0160	%	%	%	%				
+tabasaran	horse	0160	0	0_king	0.1:s_cp	0	1	s_cp	2046	
+tabasaran	horse	0160	saʁ	health	other:lvc	other		lvc		
+tabasaran	horse	0160	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0160	%	%	%	%				
+tabasaran	horse	0160	0	0_soothsayer	0.h:a	0	h	a	2079	
+tabasaran	horse	0160	ʁa-p-un	PFV-say-PST	v:pred	v		pred		
+tabasaran	horse	0160	=zu-z	=1SG-DAT	=rv-pro_1_g	=rv-pro_1_g				
+tabasaran	horse	0160	k’ur	CIT	other	other				
+tabasaran	horse	0161	#	#	##ds	##ds				
+tabasaran	horse	0161	qa	then	other	other				
+tabasaran	horse	0161	#	#	#ds_cc_in	#ds_cc_in				
+tabasaran	horse	0161	ha-dmu	EMPH-3.P(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0161	ǯejran.ǯi-n	gazelle-GEN	ln_np	ln_np				
+tabasaran	horse	0161	jikː	meat(ABS)	np:p	np		p	2080	
+tabasaran	horse	0161	k’ur	CIT	other	other				
+tabasaran	horse	0161	uzu-z	I-DAT	pro.1:g	pro	1	g	2046	
+tabasaran	horse	0161	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0161	ic̊	your(PL)	ln_pro.2:poss	ln_pro	2	poss	2040	
+tabasaran	horse	0161	ǯil-ar.i-x-ǯi	husband-PL-APUD-DIR	np.h:obl	np	h	obl	2004	
+tabasaran	horse	0161	0	0_brothers	f0.h:a_in	f0	h	a_in	2040	
+tabasaran	horse	0161	χu-z	carry-INF	vother:pred	vother		pred		
+tabasaran	horse	0161	%	%	%	%				
+tabasaran	horse	0161	0	0_sisters	0.2:a	0	2	a	2040	
+tabasaran	horse	0161	ʁit-aj	let-IMP	v:pred	v		pred		
+tabasaran	horse	0161	k’ur	CIT	other	other				
+tabasaran	horse	0162	#	#	##neg	##neg				
+tabasaran	horse	0162	qa	then	other	other				
+tabasaran	horse	0162	mu-rar.i-n	PROX-PL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	2081	bridging
+tabasaran	horse	0162	ʁul	village(ABS)	np:dt	np		dt	2082	bridging
+tabasaran	horse	0162	χal	house(ABS)	np:s	np		s	2025	
+tabasaran	horse	0162	har	each	rn	rn				
+tabasaran	horse	0162	a-ji	(IN)be-PTCP	rn	rn				
+tabasaran	horse	0162	=s̊	=place	=rn_np	=rn_np				
+tabasaran	horse	0162	dar-ži	NEG-COP-PCVB	cop	cop				
+tabasaran	horse	0162	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0162	bagax	near	other:pred	other		pred		
+tabasaran	horse	0163	#	#	##	##				
+tabasaran	horse	0163	ha-cːi	EMPH-(DIST)ADV	other	other				
+tabasaran	horse	0163	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0163	aˁǯuz	orphan	ln_np.h	ln_np	h			
+tabasaran	horse	0163	vatan	homeland(ABS)	np:s	np		s	2038	
+tabasaran	horse	0163	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	horse	0163	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	horse	0164	#	#	##neg	##neg				
+tabasaran	horse	0164	qa	then	other	other				
+tabasaran	horse	0164	mu-rar.i-z	PROX-(PL)DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	2081	
+tabasaran	horse	0164	sarun	PRT	other	other				
+tabasaran	horse	0164	čara	solution(ABS)	np:p	np		p		
+tabasaran	horse	0164	a-dar	(IN)be-PRS.NEG	v:pred	v		pred		
+tabasaran	horse	0165	#	#	##	##				
+tabasaran	horse	0165	pačːih	king(ABS)	np.h:s	np	h	s	2046	
+tabasaran	horse	0165	jik’-ura	(HSG)die-PRS	v:pred	v		pred		
+tabasaran	horse	0166	#	#	##	##				
+tabasaran	horse	0166	#	#	#cc_in	#cc_in				
+tabasaran	horse	0166	0	0_brothers	f0.h:a_in	f0	h	a_in	2004	
+tabasaran	horse	0166	0	0_gazelle	0:p	0		p	2083	bridging
+tabasaran	horse	0166	a<b>gu-z	<NSG>search-INF	vother:pred	vother		pred		
+tabasaran	horse	0166	%	%	%	%				
+tabasaran	horse	0166	kːun	want	other:lvc	other		lvc		
+tabasaran	horse	0166	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0166	mu-rar.i-z	PROX-PL-DAT	dem_pro.h:ncs_cp	dem_pro	h	ncs_cp	2004	
+tabasaran	horse	0167	#	#	##	##				
+tabasaran	horse	0167	0	0_brothers	0.h:s	0	h	s	2004	
+tabasaran	horse	0167	aˁʁ-uˁra	(PL)go-PRS	v:pred	v		pred		
+tabasaran	horse	0167	sa-b	one-NSG	other	other				
+tabasaran	horse	0167	jarχʷ-l-a	long-SUPER-ELAT	other	other				
+tabasaran	horse	0167	ho-tmu	EMPH-DIST(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0167	muč’u	dark	ln_adj	ln_adj				
+tabasaran	horse	0167	jarkʷr-ar.i-z	forest-PL-DAT	np:g	np		g	2084	new
+tabasaran	horse	0168	#	#	##	##				
+tabasaran	horse	0168	ha-cːi-b	EMPH-(DIST)ADV-NSG	ln	ln				
+tabasaran	horse	0168	jis̊-ar.i-z	place-PL-DAT	np:g	np		g	2084	
+tabasaran	horse	0168	aˁʁ-uˁru	(PL)go-FUT	v:pred	v		pred		
+tabasaran	horse	0168	mu-rar	PROX-PL(ABS)	dem_pro.h:s	dem_pro	h	s	2004	
+tabasaran	horse	0168	šub-r-ed	three-NSG-DEF	ln_num	ln_num				
+tabasaran	horse	0168	c̊-jir	brother-PL(ABS)	np.h:appos	np	h	appos	2004	
+tabasaran	horse	0168	=ra	=ADD	=other	=other				
+tabasaran	horse	0169	#	#	##	##				
+tabasaran	horse	0169	qa	then	other	other				
+tabasaran	horse	0169	#	#	#cv	#cv				
+tabasaran	horse	0169	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	horse	0169	c̊uc̊ːu	brother(ERG)	np.h:a_cv	np	h	a_cv	2011	
+tabasaran	horse	0169	0	0_gazelle	0:p	0		p	2085	bridging
+tabasaran	horse	0169	jiv-nu	hit-PCVB	lv_v	lv_v				
+tabasaran	horse	0169	dišlaji	immediately	other	other				
+tabasaran	horse	0169	du-b-k’-u	PFV-NSG-kill-PCVB	v:pred	v		pred		
+tabasaran	horse	0169	%	%	%	%				
+tabasaran	horse	0169	0	0_eldest_brother	0.h:a	0	h	a	2011	
+tabasaran	horse	0169	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0169	ǯejran	gazelle(ABS)	np:p	np		p	2085	
+tabasaran	horse	0169	χ-uru	carry-FUT	v:pred	v		pred		
+tabasaran	horse	0170	#	#	##	##				
+tabasaran	horse	0170	#	#	#cv	#cv				
+tabasaran	horse	0170	0	0_eldest_brother	0.h:a_cv	0	h	a_cv	2011	
+tabasaran	horse	0170	0	0_gazelle	0:p	0		p	2085	
+tabasaran	horse	0170	ʁ-a<b>χ-iri	PFV-<NSG>bring-PCVB	v:pred	v		pred		
+tabasaran	horse	0170	%	%	%	%				
+tabasaran	horse	0170	muʁu	PROX(ERG)	dem_pro.h:a_ds	dem_pro	h	a_ds	2011	
+tabasaran	horse	0170	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss		
+tabasaran	horse	0170	χpːir.i-z	wife-DAT	np.h:g	np	h	g	2053	
+tabasaran	horse	0170	k’ur	CIT	other	other				
+tabasaran	horse	0170	#	#	##ds	##ds				
+tabasaran	horse	0170	0	0_eldest_sister	0.2:a	0	2	a	2053	
+tabasaran	horse	0170	ap’-in	do-IMP	v:pred	v		pred		
+tabasaran	horse	0170	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2086	bridging
+tabasaran	horse	0170	k’ur	CIT	other	other				
+tabasaran	horse	0171	#	#	##ds	##ds				
+tabasaran	horse	0171	#	#	#ds_cv	#ds_cv				
+tabasaran	horse	0171	0	0_eldest_sister	0.2:a_cv	0	2	a_cv	2053	
+tabasaran	horse	0171	vari	all	ln	ln				
+tabasaran	horse	0171	=č’an	=than	=other	=other				
+tabasaran	horse	0171	uǯu-b	good-NSG	ln_adj	ln_adj				
+tabasaran	horse	0171	jis̊-k-an	place-CONT-ELAT	np:obl	np		obl	2087	bridging
+tabasaran	horse	0171	jikː	meat(ABS)	np:p	np		p	2088	bridging
+tabasaran	horse	0171	kta<b>t-uri	<NSG>cut-ICVB	v:pred	v		pred		
+tabasaran	horse	0171	%	%	%	%				
+tabasaran	horse	0171	0	0_eldest_sister	0.2:a	0	2	a	2053	
+tabasaran	horse	0171	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2086	
+tabasaran	horse	0171	ap’-in	do-IMP	v:pred	v		pred		
+tabasaran	horse	0171	k’ur	CIT	other	other				
+tabasaran	horse	0172	#	#	##	##				
+tabasaran	horse	0172	#	#	#cv	#cv				
+tabasaran	horse	0172	0	0_eldest_sister	0.2:a_cv	0	2	a_cv	2053	
+tabasaran	horse	0172	d-ap’-un	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	horse	0172	ip’-ru-b	<NSG>еat-FUT.PTCP-NSG	np:p	np		p	2086	
+tabasaran	horse	0172	%	%	%	%				
+tabasaran	horse	0172	0	0_eldest_sister	0.h:a	0	h	a	2053	
+tabasaran	horse	0172	0	0_food	0:p	0		p	2086	
+tabasaran	horse	0172	a<b>χ-uru	<NSG>carry-FUT	v:pred	v		pred		
+tabasaran	horse	0173	#	#	##	##				
+tabasaran	horse	0173	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0173	0	0_eldest_sister	0.2:a_pc	0	2	a_pc	2053	
+tabasaran	horse	0173	ʁa-b-χ-i-gan	PFV-<NSG>carry-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0173	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0173	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2086	
+tabasaran	horse	0173	%	%	%	%				
+tabasaran	horse	0173	pačːih	king(ABS)	np.h:s	np	h	s	2046	
+tabasaran	horse	0173	ti-n-ǯi	DIST-LAT-DIR	dem_pro:l	dem_pro		l		
+tabasaran	horse	0173	ilč’ik’-uru	(HSG)turn_back-FUT	v:pred	v		pred		
+tabasaran	horse	0173	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0173	0	0_king	0.1:ncs	0	1	ncs	2046	
+tabasaran	horse	0173	0	0_food	0:p	0		p	2086	
+tabasaran	horse	0173	kːun-dar	want-FUT.NEG	v:pred	v		pred		
+tabasaran	horse	0173	=zu-z	=1SG-DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	horse	0173	k’ur	CIT	other	other				
+tabasaran	horse	0174	#	#	##	##				
+tabasaran	horse	0174	muʁa-z	PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	2046	
+tabasaran	horse	0174	miǯ-x-an	(NSG)PROX-APUD-ELAT	dem_pro:obl	dem_pro		obl		
+tabasaran	horse	0174	ha-cːi-b	EMPH-(DIST)ADV-NSG	ln	ln				
+tabasaran	horse	0174	χaˁvi	bad	ln_adj	ln_adj				
+tabasaran	horse	0174	dad	taste(ABS)	np:s	np		s	2089	new
+tabasaran	horse	0174	ʁ-uˁri	come-ICVB	v:pred	v		pred		
+tabasaran	horse	0174	ʁa-b-x-nu	PFV-NSG-become-PST	rv_aux	rv_aux				
+tabasaran	horse	0175	#	#	##	##				
+tabasaran	horse	0175	qa	PRT	other	other				
+tabasaran	horse	0175	q’aˁl.a-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0175	c̊uc̊ːu	brother(ERG)	np.h:a	np	h	a	2018	
+tabasaran	horse	0175	=ra	=ADD	=other	=other				
+tabasaran	horse	0175	χ-uru	carry-FUT	v:pred	v		pred		
+tabasaran	horse	0175	sa-b	one-NSG	np:p	np		p	2090	new
+tabasaran	horse	0176	#	#	##	##				
+tabasaran	horse	0176	q’aˁl.a-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0176	c̊uc̊ːu	brother(ERG)	np.h:a	np	h	a	2018	
+tabasaran	horse	0176	=ra	=ADD	=other	=other				
+tabasaran	horse	0176	#	#	#cv	#cv				
+tabasaran	horse	0176	0	0_middle_brother	0.h:a_cv	0	h	a_cv	2018	
+tabasaran	horse	0176	0	0_gazelle	0:p	0		p	2090	
+tabasaran	horse	0176	du-b-k’-un	PFV-NSG-kill-PCVB	v:pred	v		pred		
+tabasaran	horse	0176	%	%	%	%				
+tabasaran	horse	0176	χ-uru	carry-FUT	v:pred	v		pred		
+tabasaran	horse	0176	ǯejran	gazelle(ABS)	np:p	np		p	2090	
+tabasaran	horse	0177	#	#	##	##				
+tabasaran	horse	0177	#	#	#cv	#cv				
+tabasaran	horse	0177	q’aˁl.a-n	middle-GEN	ln_np	ln_np				
+tabasaran	horse	0177	c̊uc̊ːun	brother-GEN	ln_np.h:poss	ln_np	h	poss	2018	
+tabasaran	horse	0177	χpːir	wife(ABS)	np.h:s_cv	np	h	s_cv	2055	
+tabasaran	horse	0177	=ra	=ADD	=other	=other				
+tabasaran	horse	0177	d-ap’-u	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	horse	0177	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2091	bridging
+tabasaran	horse	0177	%	%	%	%				
+tabasaran	horse	0177	aˁʁ-uˁru	(PL)come-FUT	v:pred	v		pred		
+tabasaran	horse	0177	mu-rar	PROX-PL(ABS)	dem_pro.h:s	dem_pro	h	s	2092	bridging
+tabasaran	horse	0177	#	#	#cv	#cv				
+tabasaran	horse	0177	0	0_they	0.h:s_cv	0	h	s_cv	2092	
+tabasaran	horse	0177	c’ib	little	other	other				
+tabasaran	horse	0177	furs	proud	other:pred	other		pred		
+tabasaran	horse	0177	k-a-ǯi	CONT-be-ICVB	cop	cop				
+tabasaran	horse	0177	=si	=like	=other	=other				
+tabasaran	horse	0177	#	#	#cv	#cv				
+tabasaran	horse	0177	ǯejran.ǯi-n	gazelle-GEN	ln_np	ln_np			2090	
+tabasaran	horse	0177	jikː.u-n	meat-GEN	ln_np	ln_np			2093	bridging
+tabasaran	horse	0177	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:s_cv	np		s_cv	2091	
+tabasaran	horse	0177	x-a-ǯi	APUD-be-ICVB	v:pred	v		pred		
+tabasaran	horse	0177	pačːih.ǯi-z	king-DAT	np.h:g	np	h	g	2046	
+tabasaran	horse	0178	#	#	##neg	##neg				
+tabasaran	horse	0178	qa	then	other	other				
+tabasaran	horse	0178	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0178	pačːih.ǯi-z	king-DAT	np.h:obl	np	h	obl	2046	
+tabasaran	horse	0178	qa	then	other	other				
+tabasaran	horse	0178	=na	=ADD	=other	=other				
+tabasaran	horse	0178	q’abul	satisfied	other	other				
+tabasaran	horse	0178	šul-dar	become-FUT.NEG	v:pred	v		pred		
+tabasaran	horse	0179	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0179	0	0_king	0.1:ncs	0	1	ncs	2046	
+tabasaran	horse	0179	0	0_food	0:p	0		p	2091	
+tabasaran	horse	0179	kːun-dar	want-FUT.NEG	v:pred	v		pred		
+tabasaran	horse	0179	=zu-z	=1SG-DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	horse	0179	k’ur	CIT	other	other				
+tabasaran	horse	0179	#	#	##neg	##neg				
+tabasaran	horse	0179	0	0_king	0.h:a	0	h	a	2046	
+tabasaran	horse	0179	bagah	near	other	other				
+tabasaran	horse	0179	=q’a	=PRT	=other	=other				
+tabasaran	horse	0179	ap’-u-dar	do-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0180	#	#	##	##				
+tabasaran	horse	0180	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0180	c̊uc̊ːu	brother(ERG)	np.h:a	np	h	a	2023	
+tabasaran	horse	0180	#	#	#cv	#cv				
+tabasaran	horse	0180	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0180	d-uš-un	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	horse	0180	%	%	%	%				
+tabasaran	horse	0180	0	0_gazelle	0:p	0		p	2094	new
+tabasaran	horse	0180	χ-uru	carry-FUT	v:pred	v		pred		
+tabasaran	horse	0181	#	#	##	##				
+tabasaran	horse	0181	šubu-d	three-NSG	ln_num	ln_num				
+tabasaran	horse	0181	jiʁ	day(ABS)	np:s	np		s		
+tabasaran	horse	0181	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0181	#	#	#cv	#cv				
+tabasaran	horse	0181	bic’i	small	ln_adj	ln_adj				
+tabasaran	horse	0181	c̊uc̊ːu-n	brother-GEN	np.h:ncs_cv	np	h	ncs_cv	2023	
+tabasaran	horse	0181	ǯejran.ǯi-q	gazelle-POST	np:obl	np		obl	2094	
+tabasaran	horse	0181	lic-uri	(HSG)search-ICVB	v:pred	v		pred		
+tabasaran	horse	0181	%	%	%	%				
+tabasaran	horse	0181	šubu-d	three-NSG	ln_num	ln_num				
+tabasaran	horse	0181	jis̊	night(ABS)	np:other	np		other		
+tabasaran	horse	0181	šubu-d	three-NSG	ln_num	ln_num				
+tabasaran	horse	0181	jiʁ	day(ABS)	np:other	np		other		
+tabasaran	horse	0182	#	#	##	##				
+tabasaran	horse	0182	qada<r>k-un	<HSG>turn_back-PCVB	v:pred	v		pred		
+tabasaran	horse	0182	ʁ-uˁru	come-FUT	rv_v	rv_v				
+tabasaran	horse	0182	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0182	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0182	c̊i	brother(ABS)	np.h:s	np	h	s	2023	
+tabasaran	horse	0182	#	#	#cv	#cv				
+tabasaran	horse	0182	0	0_youngest_brother	0.h:s_cv	0	h	s_cv	2023	
+tabasaran	horse	0182	c’ib	little	other	other				
+tabasaran	horse	0182	damaχ	proud	other:pred	other		pred		
+tabasaran	horse	0182	=ra	=ADD	=other	=other				
+tabasaran	horse	0182	k-a-ǯi	CONT-be-ICVB	cop	cop				
+tabasaran	horse	0182	#	#	#cv	#cv				
+tabasaran	horse	0182	0	0_youngest_brother	0.h:a_cv	0	h	a_cv	2023	
+tabasaran	horse	0182	ǯejran	gazelle(ABS)	np:p	np		p	2094	
+tabasaran	horse	0182	=ra	=ADD	=other	=other				
+tabasaran	horse	0182	du-b-k’-u	PFV-NSG-kill-PCVB	v:pred	v		pred		
+tabasaran	horse	0183	#	#	##	##				
+tabasaran	horse	0183	qa	then	other	other				
+tabasaran	horse	0183	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0183	0	0_youngest_brother	0.h:a_pc	0	h	a_pc	2023	
+tabasaran	horse	0183	0	0_gazelle	0:p	0		p	2094	
+tabasaran	horse	0183	ʁ-a<b>χ-i-gan	PFV-<NSG>bring-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0183	%	%	%	%				
+tabasaran	horse	0183	k’-uru	say-FUT	v:pred	v		pred		
+tabasaran	horse	0183	muʁu	PROX(ERG)	dem_pro.h:a_ds	dem_pro	h	a_ds	2023	
+tabasaran	horse	0183	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2023	
+tabasaran	horse	0183	χpːir.i-z	wife-DAT	np.h:g	np	h	g	2060	
+tabasaran	horse	0183	#	#	##ds	##ds				
+tabasaran	horse	0183	0	0_youngest_sister	0.2:a	0	2	a	2060	
+tabasaran	horse	0183	ǯejran.ǯi-n	gazelle-GEN	ln	ln			2094	
+tabasaran	horse	0183	jikː	meat(ABS)	np:p	np		p	2095	bridging
+tabasaran	horse	0183	uxu-z	we.INCL-DAT	nc_pro.1	nc_pro	1		2096	bridging
+tabasaran	horse	0183	ke<b>χ	<NSG>hang_up(IMP)	v:pred	v		pred		
+tabasaran	horse	0183	k’ur	CIT	other	other				
+tabasaran	horse	0183	ix	our.INCL	ln_pro.1:poss	ln_pro	1	poss	2096	
+tabasaran	horse	0183	kːum.ri-k	nail-CONT	np:l	np		l	2097	new
+tabasaran	horse	0183	#	#	##ds	##ds				
+tabasaran	horse	0183	qa	then	other	other				
+tabasaran	horse	0183	0	0_youngest_sister	0.2:a	0	2	a	2060	
+tabasaran	horse	0183	#	#	#rc_pc	#rc_pc			2098	bridging
+tabasaran	horse	0183	0	0_innards	rel_f0:s_pc	rel_f0		s_pc	2098	
+tabasaran	horse	0183	haǯi-ʔ	EMPH-<NSG>PROX-IN	dem_pro:pred_l	dem_pro		pred_l		
+tabasaran	horse	0183	a-ji	(IN)be-PTCP	cop	cop				
+tabasaran	horse	0183	%	%	%	%				
+tabasaran	horse	0183	jukw’-ar	heart-PL(ABS)	np:obl	np		obl	2099	bridging
+tabasaran	horse	0183	lik’-ar.i-k-an	liver-PL-CONT-ELAT	rn_np	rn_np			2100	bridging
+tabasaran	horse	0183	k’ur	CIT	other	other				
+tabasaran	horse	0183	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2101	bridging
+tabasaran	horse	0183	ap’-in	do-IMP	v:pred	v		pred		
+tabasaran	horse	0183	k’ur	CIT	other	other				
+tabasaran	horse	0184	#	#	##	##				
+tabasaran	horse	0184	vaʔ	no	other	other				
+tabasaran	horse	0184	[UNCLEAR]	NC	nc	nc				
+tabasaran	horse	0184	pačːih.ǯi-n	king-GEN	ln_np.h:poss	ln_np	h	poss	2046	
+tabasaran	horse	0184	šur.u	girl(ERG)	np.h:a_ds	np	h	a_ds	2060	
+tabasaran	horse	0184	k’ur	CIT	other	other				
+tabasaran	horse	0184	#	#	##ds	##ds				
+tabasaran	horse	0184	uvu	you(ERG)	pro.2:a	pro	2	a	2023	
+tabasaran	horse	0184	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	horse	0184	k’-ura	say-PRS	v:pred	v		pred		
+tabasaran	horse	0184	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	horse	0184	k’ur	CIT	other	other				
+tabasaran	horse	0184	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0184	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2060	
+tabasaran	horse	0184	aba.ji-z	father-DAT	np.h:g	np	h	g	2046	
+tabasaran	horse	0184	uzu	I(ERG)	pro.1:a	pro	1	a	2060	
+tabasaran	horse	0184	jukʷ’-ar	heart-PL(ABS)	np:p	np		p	2099	
+tabasaran	horse	0184	lik’-ar	liver-PL(ABS)	rn_np	rn_np			2100	
+tabasaran	horse	0184	aχ-u-dar	(PL)bring-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0184	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0184	k’ur	CIT	other	other				
+tabasaran	horse	0185	#	#	##ds	##ds				
+tabasaran	horse	0185	uvu	you(ERG)	pro.2:a	pro	2	a	2023	
+tabasaran	horse	0185	ha.ǯi-n	EMPH-<NSG>PROX-GEN	ln_dem	ln_dem				
+tabasaran	horse	0185	jukʷ’-ar	heart-PL(ABS)	np:obl	np		obl	2099	
+tabasaran	horse	0185	lik’-ar.i-kː-an	liver-PL-CONT-ELAT	rn_np	rn_np			2100	
+tabasaran	horse	0185	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2101	
+tabasaran	horse	0185	ap’-in	do-IMP	v:pred	v		pred		
+tabasaran	horse	0185	k’ur	CIT	other	other				
+tabasaran	horse	0185	#	#	##ds	##ds				
+tabasaran	horse	0185	qa	then	other	other				
+tabasaran	horse	0185	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	horse	0185	fu	what(ABS)	intrg_other:s	intrg_other		s		
+tabasaran	horse	0185	šul-u-š	become-FUT-COND	v:pred	v		pred		
+tabasaran	horse	0185	%	%	%	%				
+tabasaran	horse	0185	0	0_youngest_brother	0.1:a	0	1	a	2023	
+tabasaran	horse	0185	lig-ur	look-FUT	v:pred	v		pred		
+tabasaran	horse	0185	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0186	#	#	##neg	##neg				
+tabasaran	horse	0186	sarun	PRT	other	other				
+tabasaran	horse	0186	0	0_youngest_brother	0.h:a	0	h	a	2023	
+tabasaran	horse	0186	0	0_youngest_sister	0.h:p	0	h	p	2060	
+tabasaran	horse	0186	ʁit-u-dar	leave-FUT-NEG	v:pred	v		pred		
+tabasaran	horse	0186	#	#	#cc_in:obl	#cc_in		obl		
+tabasaran	horse	0186	0	0_youngest_sister	f0.h:s_in	f0	h	s_in	2060	
+tabasaran	horse	0186	muʁa-x-ǯi	PROX-APUD-DIR	dem_pro:obl	dem_pro		obl	2094	
+tabasaran	horse	0186	jikː	meat(ABS)	np:p	np		p	2102	bridging
+tabasaran	horse	0186	kta<b>t’-uz	<NSG>cut_out-INF	vother:pred	vother		pred		
+tabasaran	horse	0187	#	#	##	##				
+tabasaran	horse	0187	#	#	#cv	#cv				
+tabasaran	horse	0187	0	0_youngest_sister	0.h:a_cv	0	h	a_cv	2060	
+tabasaran	horse	0187	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0187	jukʷ’-ar	heart-PL(ABS)	np:p	np		p	2099	
+tabasaran	horse	0187	jukʷ’	heart(ABS)	rn_np	rn_np			2099	
+tabasaran	horse	0187	k’aru	black	rn_adj	rn_adj				
+tabasaran	horse	0187	lik’	liver	rn_np	rn_np			2100	
+tabasaran	horse	0187	ha-m-rar	EMPH-PROX-PL(ABS)	rn_dem_pro	rn_dem_pro				
+tabasaran	horse	0187	k-adat’-un	CONT-(PL)cut_out-PCVB	v:pred	v		pred		
+tabasaran	horse	0187	%	%	%	%				
+tabasaran	horse	0187	#	#	#cv	#cv				
+tabasaran	horse	0187	0	0_youngest_sister	0.h:a_cv	0	h	a_cv	2060	
+tabasaran	horse	0187	d-ap’-un	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	horse	0187	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2101	
+tabasaran	horse	0187	=ra	=ADD	=other	=other				
+tabasaran	horse	0187	%	%	%	%				
+tabasaran	horse	0187	saru	PRT	other	other				
+tabasaran	horse	0187	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	2060	
+tabasaran	horse	0187	aˁǯuˁz	poor	np.h:other	np	h	other		
+tabasaran	horse	0187	=si	=like	=other	=other				
+tabasaran	horse	0187	aˁʁuˁ-ru	(HSG)go-FUT	v:pred	v		pred		
+tabasaran	horse	0187	nač-ǯi	shame-ADV	other	other				
+tabasaran	horse	0188	#	#	##	##				
+tabasaran	horse	0188	aˁʁ-uˁru	(PL)go-FUT	v:pred	v		pred		
+tabasaran	horse	0188	mu-rar	PROX-PL(ABS)	dem_pro.h:s	dem_pro	h	s	2096	
+tabasaran	horse	0189	#	#	##	##				
+tabasaran	horse	0189	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0189	0	0_they	0.h:s_pc	0	h	s_pc	2096	
+tabasaran	horse	0189	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0189	karidur.i-ǯi	corridor-(IN)DIR	np:l	np		l	2103	new
+tabasaran	horse	0189	ʁa-f-i-gan	PFV-come-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0189	%	%	%	%				
+tabasaran	horse	0189	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0189	pačːih	king(ABS)	np.h:s	np	h	s	2046	
+tabasaran	horse	0189	za	up	other	other				
+tabasaran	horse	0189	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0189	#	#	##	##				
+tabasaran	horse	0189	0	0_king	0.h:s	0	h	s	2046	
+tabasaran	horse	0189	ʁuduʒ̊-uru	(HSG)stand_up-FUT	v:pred	v		pred		
+tabasaran	horse	0190	#	#	##ds	##ds				
+tabasaran	horse	0190	pah	INTERJ	other	other				
+tabasaran	horse	0190	k’ur	CIT	other	other				
+tabasaran	horse	0190	ja	VOC	other	other				
+tabasaran	horse	0190	χpːir	woman(ABS)	np.h:voc	np	h	voc	2104	new
+tabasaran	horse	0190	k’ur	CIT	other	other				
+tabasaran	horse	0190	0	0_king	0.1:g	0	1	g	2046	
+tabasaran	horse	0190	niʔ	smell(ABS)	np:s	np		s	2105	bridging
+tabasaran	horse	0190	ʁ-uˁra	come-PRS	v:pred	v		pred		
+tabasaran	horse	0190	=zu-z	=1SG-DAT	=rv-pro_1_g	=rv-pro_1_g				
+tabasaran	horse	0190	k’ur	CIT	other	other				
+tabasaran	horse	0190	ha-cːi-b	EMPH-(DIST)ADV-NSG	other	other				
+tabasaran	horse	0190	icːi-b	delicious-NSG	other	other				
+tabasaran	horse	0190	k’ur	CIT	other	other				
+tabasaran	horse	0191	#	#	##ds	##ds				
+tabasaran	horse	0191	qa	then	other	other				
+tabasaran	horse	0191	0	0_smell	0:s	0		s	2105	
+tabasaran	horse	0191	fu	what	intrg_other:pred	intrg_other		pred		
+tabasaran	horse	0191	a	(IN)be	cop	cop				
+tabasaran	horse	0191	k’ur	CIT	other	other				
+tabasaran	horse	0191	#	#	##ds.neg	##ds.neg				
+tabasaran	horse	0191	ix	our.INCL	ln_pro.1:poss	ln_pro	1	poss	2106	bridging
+tabasaran	horse	0191	χul.a-ʔ	house-IN	np:l	np		l	2107	bridging
+tabasaran	horse	0191	fuk’a	nothing(ABS)	np:s	np		s		
+tabasaran	horse	0191	a-dar	(IN)be-PRS.NEG	v:predex	v		predex		
+tabasaran	horse	0191	k’ur	CIT	other	other				
+tabasaran	horse	0192	#	#	##	##				
+tabasaran	horse	0192	#	#	#cv	#cv				
+tabasaran	horse	0192	0	0_they	0.h:a_cv	0	h	a_cv	2096	
+tabasaran	horse	0192	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	horse	0192	ara.ji-ʔ-ǯi	space-IN-DIR	np:l	np		l		
+tabasaran	horse	0192	t’ap’-u	<NSG>close-PCVB	v:pred	v		pred		
+tabasaran	horse	0192	rakː	door(ABS)	np:p	np		p	2108	bridging
+tabasaran	horse	0192	%	%	%	%				
+tabasaran	horse	0192	ʁ-uˁru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0192	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0192	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0192	c̊i	brother(ABS)	np.h:s	np	h	s	2023	
+tabasaran	horse	0192	=na	=ADD	=other	=other				
+tabasaran	horse	0192	ha-mʁa-n	EMPH-GEN	rn_dem_pro.h:poss	rn_dem_pro	h	poss	2023	
+tabasaran	horse	0192	χpːir	wife(ABS)	rn_np.h	rn_np	h		2060	
+tabasaran	horse	0193	#	#	##	##				
+tabasaran	horse	0193	qa	then	other	other				
+tabasaran	horse	0193	muʁa-z	PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	2060	
+tabasaran	horse	0193	nač-ǯi	shame-ADV	other	other				
+tabasaran	horse	0193	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0194	#	#	##	##				
+tabasaran	horse	0194	#	#	#ac_pc	#ac_pc				
+tabasaran	horse	0194	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2060	
+tabasaran	horse	0194	daši.ji-z	father-DAT	np.h:g	np	h	g	2046	
+tabasaran	horse	0194	jukʷ’-ar	heart-PL(ABS)	nc_np	nc_np			2099	
+tabasaran	horse	0194	lik’-ar	liver-PL(ABS)	nc_np	nc_np			2100	
+tabasaran	horse	0194	[UNCLEAR]	NC	nc	nc				
+tabasaran	horse	0194	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2101	
+tabasaran	horse	0194	d-ap’-un	PFV-do-PCVB	rn	rn				
+tabasaran	horse	0194	0	0_youngest_sister	0.h:a_pc	0	h	a_pc	2060	
+tabasaran	horse	0194	χ-ura-ji-gan	carry-PRS-PTCP-TEMP	v:pred	v		pred		
+tabasaran	horse	0194	%	%	%	%				
+tabasaran	horse	0194	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0194	pačːih.ǯi-n	king-GEN	ln_np.h:poss	ln_np	h	poss	2046	
+tabasaran	horse	0194	riš	girl(ABS)	np.h:s	np	h	s	2060	
+tabasaran	horse	0194	aˁǯuˁz	poor	np.h:other	np	h	other		
+tabasaran	horse	0194	=si	=like	=other	=other				
+tabasaran	horse	0194	qʁuz̊-uri	POST-hesitate-ICVB	other	other				
+tabasaran	horse	0194	=si	=like	=other	=other				
+tabasaran	horse	0194	ʁ-uˁru	come-FUT	v:pred	v		pred		
+tabasaran	horse	0195	#	#	##ds	##ds				
+tabasaran	horse	0195	qa	then	other	other				
+tabasaran	horse	0195	k’ur	CIT	other	other				
+tabasaran	horse	0195	0	0_king	0.h:a	0	h	a	2046	
+tabasaran	horse	0195	0	0_food	0:p	0		p	2101	
+tabasaran	horse	0195	ma	take(IMP)	v:pred	v		pred		
+tabasaran	horse	0195	aba	father(ABS)	np.h:voc	np	h	voc	2046	
+tabasaran	horse	0195	k’ur	CIT	other	other				
+tabasaran	horse	0195	#	#	##ds	##ds				
+tabasaran	horse	0195	0	0_king	0.h:a	0	h	a	2046	
+tabasaran	horse	0195	0	0_food	0:p	0		p	2101	
+tabasaran	horse	0195	ip’-in	eat-IMP	v:pred	v		pred		
+tabasaran	horse	0195	k’ur	CIT	other	other				
+tabasaran	horse	0196	#	#	##	##				
+tabasaran	horse	0196	qa	then	other	other				
+tabasaran	horse	0196	#	#	#cv	#cv				
+tabasaran	horse	0196	pačːih	king(ABS)	np.h:s_cv	np	h	s_cv	2046	
+tabasaran	horse	0196	ʁuduʒ̊-un	(HSG)stand_up-PCVB	v:pred	v		pred		
+tabasaran	horse	0196	%	%	%	%				
+tabasaran	horse	0196	#	#	#cv	#cv				
+tabasaran	horse	0196	0	0_king	0.h:a_cv	0	h	a_cv	2046	
+tabasaran	horse	0196	ʁada<b>ʁ-u	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	horse	0196	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	horse	0196	muc̊ːur	spoon(ABS)	np:p	np		p	2109	new
+tabasaran	horse	0196	%	%	%	%				
+tabasaran	horse	0196	#	#	#nc	#nc				
+tabasaran	horse	0196	ha-m.ǯi-ʔ	EMPH-<NSG>PROX-IN	nc	nc				
+tabasaran	horse	0196	a-ji-b	(IN)be-PTCP-NSG	nc	nc				
+tabasaran	horse	0196	kːudu<b>k’-a-jiz	<NSG>finish-PRS-until	nc	nc				
+tabasaran	horse	0196	%	%	%	%				
+tabasaran	horse	0196	0	0_king	0.h:a	0	h	a	2046	
+tabasaran	horse	0196	ip’-uru	(NSG)eat-FUT	v:pred	v		pred		
+tabasaran	horse	0197	#	#	##	##				
+tabasaran	horse	0197	qa	then	other	other				
+tabasaran	horse	0197	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0197	pačːih.ǯi-n	king-GEN	ln_np.h:poss	ln_np	h	poss	2046	
+tabasaran	horse	0197	riš	girl(ABS)	np.h:s	np	h	s	2060	
+tabasaran	horse	0197	šad	glad	other	other				
+tabasaran	horse	0197	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0198	#	#	##	##				
+tabasaran	horse	0198	qa	then	other	other				
+tabasaran	horse	0198	kečl.i	bald(ERG)	np.h:a	np	h	a	2023	
+tabasaran	horse	0198	k’ur	CIT	other	other				
+tabasaran	horse	0198	#	#	##ds	##ds				
+tabasaran	horse	0198	uzu	I(ERG)	pro.1:a	pro	1	a	2023	
+tabasaran	horse	0198	uvu-z	you-DAT	pro.2:g	pro	2	g	2060	
+tabasaran	horse	0198	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	horse	0198	ʁ-ap-niji	PFV-say-IPFV	v:pred	v		pred		
+tabasaran	horse	0198	k’ur	CIT	other	other				
+tabasaran	horse	0199	#	#	##	##				
+tabasaran	horse	0199	pačːih	king(ABS)	np.h:s_cp	np	h	s_cp	2046	
+tabasaran	horse	0199	saʁ	health	other:lvc	other		lvc		
+tabasaran	horse	0199	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0199	#	#	##	##				
+tabasaran	horse	0199	0	0_king	0.h:s	0	h	s	2046	
+tabasaran	horse	0199	uǯu	good	other	other				
+tabasaran	horse	0199	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0200	#	#	##	##				
+tabasaran	horse	0200	pačːih.ǯi	king(ERG)	np.h:a	np	h	a	2046	
+tabasaran	horse	0200	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	2046	
+tabasaran	horse	0200	χazna	treasure(ABS)	np:p	np		p	2110	bridging
+tabasaran	horse	0200	ča-n	REFL.SG-GEN	rn_refl.h:poss	rn_refl	h	poss	2046	
+tabasaran	horse	0200	devlet	wealth(ABS)	rn_np	rn_np			2064	
+tabasaran	horse	0200	ča-n	REFL.SG-GEN	rn_refl.h:poss	rn_refl	h	poss	2046	
+tabasaran	horse	0200	a-ji-b	(IN)be-PTCP-NSG	rn_np	rn_np			2111	bridging
+tabasaran	horse	0200	vari	all(ABS)	rn	rn				
+tabasaran	horse	0200	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	horse	0200	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0200	c̊uc̊ːu-z	brother-DAT	np.h:g	np	h	g	2023	
+tabasaran	horse	0201	#	#	##	##				
+tabasaran	horse	0201	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0201	c̊i	brother(ABS)	np.h:s	np	h	s	2023	
+tabasaran	horse	0201	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	horse	0201	pačːih	king(ABS)	np.h:other	np	h	other		
+tabasaran	horse	0201	pačːih	king(ABS)	other	other				
+tabasaran	horse	0202	#	#	##	##				
+tabasaran	horse	0202	qa	then	other	other				
+tabasaran	horse	0202	0	0	0.h:a_ds	0	h	a_ds		
+tabasaran	horse	0202	dumu	3.P(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0202	kečel	bald	ln_adj	ln_adj				
+tabasaran	horse	0202	c̊uc̊ːu-z	brother-DAT	np.h:g	np	h	g	2023	
+tabasaran	horse	0202	k’-uru	say-FUT	v:pred	v		pred		
+tabasaran	horse	0202	#	#	##ds	##ds				
+tabasaran	horse	0202	uvu	you(ABS)	pro.2:s	pro	2	s	2023	
+tabasaran	horse	0202	k’ur	CIT	other	other				
+tabasaran	horse	0202	ficːi	how	other	other				
+tabasaran	horse	0202	pačːih	king(ABS)	np.h:other	np	h	other		
+tabasaran	horse	0202	ʁa-x-un	PFV-(HSG)become-PST	v:pred	v		pred		
+tabasaran	horse	0202	=vu	=2SG:PAT	=rv-pro_2_s	=rv-pro_2_s				
+tabasaran	horse	0202	k’ur	CIT	other	other				
+tabasaran	horse	0202	#	#	##ds	##ds				
+tabasaran	horse	0202	uvu-z	you-DAT	pro.2:ncs_poss	pro	2	ncs_poss	2023	
+tabasaran	horse	0202	ficːi	how	other	other				
+tabasaran	horse	0202	ʁa-b-x-un	PFV-NSG-become-PST	v:pred	v		pred		
+tabasaran	horse	0202	=vu-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	horse	0202	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	horse	0202	devlet	wealth(ABS)	np:p	np		p	2112	bridging
+tabasaran	horse	0202	k’ur	CIT	other	other				
+tabasaran	horse	0203	#	#	##ds	##ds				
+tabasaran	horse	0203	uzu	I(ERG)	pro.1:a	pro	1	a	2023	
+tabasaran	horse	0203	saban	first	other	other				
+tabasaran	horse	0203	jiz	my	ln	ln				
+tabasaran	horse	0203	uzu	I(ABS)	refl.1:p	refl	1	p	2023	
+tabasaran	horse	0203	pačːih	king(ABS)	np.h:obl	np	h	obl		
+tabasaran	horse	0203	ʁ-ap’-un	PFV-do-PST	v:pred	v		pred		
+tabasaran	horse	0203	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	horse	0203	k’ur	CIT	other	other				
+tabasaran	horse	0203	#	#	##ds	##ds				
+tabasaran	horse	0203	qa	then	other	other				
+tabasaran	horse	0203	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2023	
+tabasaran	horse	0203	χpːir.i	wife(ERG)	np.h:a	np	h	a	2060	
+tabasaran	horse	0203	0	0_youngest_brother	0.1:p	0	1	p	2023	
+tabasaran	horse	0203	0	0_king	0.h:obl	0	h	obl		
+tabasaran	horse	0203	ʁ-ap’-un	PFV-do-PST	v:pred	v		pred		
+tabasaran	horse	0203	=zu	=1SG:PAT	=rv-pro_1_p	=rv-pro_1_p				
+tabasaran	horse	0203	k’ur	CIT	other	other				
+tabasaran	horse	0203	#	#	##ds	##ds				
+tabasaran	horse	0203	qa	then	other	other				
+tabasaran	horse	0203	jiz	my	ln_pro.1:poss	ln_pro	1	poss	2023	
+tabasaran	horse	0203	χpːir.i-n	wife-GEN	ln_np.h:poss	ln_np	h	poss	2060	
+tabasaran	horse	0203	daši.ji	father(ERG)	np.h:a	np	h	a	2046	
+tabasaran	horse	0203	0	0_youngest_brother	0.1:p	0	1	p	2023	
+tabasaran	horse	0203	0	0_king	0.h:obl	0	h	obl		
+tabasaran	horse	0203	ʁ-ap’-un	PFV-do-PST	v:pred	v		pred		
+tabasaran	horse	0203	=zu	=1SG:PAT	=rv-pro_1_p	=rv-pro_1_p				
+tabasaran	horse	0203	k’ur	CIT	other	other				

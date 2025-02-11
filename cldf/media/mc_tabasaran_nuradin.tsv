@@ -1,0 +1,955 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tabasaran	nuradin	0001	#	#	##	##				
+tabasaran	nuradin	0001	﻿malla	mullah	ln	ln				
+tabasaran	nuradin	0001	aˁleskr.a-z	Aleskar-DAT	pn_np.h:ncs_poss	pn_np	h	ncs_poss	4001	new
+tabasaran	nuradin	0001	a-di	(IN)be-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0001	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	nuradin	0001	sa-r	one-HSG	ln_num	ln_num				
+tabasaran	nuradin	0001	baj	boy(ABS)	np.h:p	np	h	p	4002	new
+tabasaran	nuradin	0001	nuradin	Nuradin(ABS)	pn_np.h:appos	pn_np	h	appos	4002	
+tabasaran	nuradin	0002	#	#	##	##				
+tabasaran	nuradin	0002	nuradin	Nuradin(ABS)	pn_np.h:voc	pn_np	h	voc	4002	
+tabasaran	nuradin	0002	dumu	3.P(ABS)	dem_pro.h:s	dem_pro	h	s	4002	
+tabasaran	nuradin	0002	a-x-nu	PFV-(HSG)-become-PST	v:pred	v		pred		
+tabasaran	nuradin	0002	aʁzur	thousand	ln	ln				
+tabasaran	nuradin	0002	=na	=ADD	=ln	=ln				
+tabasaran	nuradin	0002	miržidvaž	eight_hundred	ln	ln				
+tabasaran	nuradin	0002	=na	=ADD	=ln	=ln				
+tabasaran	nuradin	0002	miržc’ur	eighty	=ln	=ln				
+tabasaran	nuradin	0002	=na	=ADD	=ln	=ln				
+tabasaran	nuradin	0002	urgu-b-pːi	seven-NSG-ORD	ln_adj	ln_adj				
+tabasaran	nuradin	0002	jis.a-n	year-GEN	np:other	np		other		
+tabasaran	nuradin	0003	#	#	##	##				
+tabasaran	nuradin	0003	#	#	#cv	#cv				
+tabasaran	nuradin	0003	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0003	lap	very	other	other				
+tabasaran	nuradin	0003	bic’i-ǯi	small-ADV	other	other				
+tabasaran	nuradin	0003	imi-ǯi	stay-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0003	%	%	%	%				
+tabasaran	nuradin	0003	#	#	#cv	#cv				
+tabasaran	nuradin	0003	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0003	baj-ǯi	boy-ADV	np:other	np		other		
+tabasaran	nuradin	0003	imi-ǯi	stay-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0003	%	%	%	%				
+tabasaran	nuradin	0003	mu	PROX(ABS)	dem_pro.h:s_cp	dem_pro	h	s_cp	4002	
+tabasaran	nuradin	0003	maˁʁrum	lack	other:lvc	other		lvc		
+tabasaran	nuradin	0003	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	nuradin	0003	adaš.i-q	father-POST	np.h:obl	np	h	obl	4001	
+tabasaran	nuradin	0003	=ra	=ADD	=rn	=rn				
+tabasaran	nuradin	0003	va	and	rn	rn				
+tabasaran	nuradin	0003	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0003	c’ib	little	ln_adj	ln_adj				
+tabasaran	nuradin	0003	vaχt.n-al-an	time-SUPER-ELAT	np:other	np		other		
+tabasaran	nuradin	0003	dadaj.i-q	mother-POST	np.h:obl	np	h	obl	4003	bridging
+tabasaran	nuradin	0003	=ra	=ADD	=rn	=rn				
+tabasaran	nuradin	0004	#	#	##	##				
+tabasaran	nuradin	0004	#	#	#cv.neg	#cv.neg				
+tabasaran	nuradin	0004	#	#	#cv	#cv				
+tabasaran	nuradin	0004	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0004	marcːi	clean	other	other				
+tabasaran	nuradin	0004	jitim	orphan(ABS)	np.h:other	np	h	other		
+tabasaran	nuradin	0004	du-x-nu	PFV-HSG-become-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0004	%	%	%	%				
+tabasaran	nuradin	0004	k’ul-ǯi	head-ADV	other	other				
+tabasaran	nuradin	0004	χla-ʔ	house-IN	np:l	np		l	4004	bridging
+tabasaran	nuradin	0004	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0004	#	#	#cc_cv:p	#cc_cv		p		
+tabasaran	nuradin	0004	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0004	hap’-ru-š	what_do-FUT-COND	v:pred	v		pred		
+tabasaran	nuradin	0004	%	%	%	%				
+tabasaran	nuradin	0004	aˁj-dar-ǯi	know-NEG-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0004	#	#	#cv.neg	#cv.neg				
+tabasaran	nuradin	0004	#	#	#cc:p	#cc		p		
+tabasaran	nuradin	0004	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0004	fu	what	ln	ln				
+tabasaran	nuradin	0004	kespi	craft(ABS)	np:p	np		p		
+tabasaran	nuradin	0004	ap’-uru-š	do-FUT-COND	v:pred	v		pred		
+tabasaran	nuradin	0004	%	%	%	%				
+tabasaran	nuradin	0004	#	#	#cc:other	#cc		other		
+tabasaran	nuradin	0004	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0004	0	0_what	0:p	0		p		
+tabasaran	nuradin	0004	d-u<b>ʁ-uru-š	PFV-<NSG>study-FUT-COND	v:pred	v		pred		
+tabasaran	nuradin	0004	%	%	%	%				
+tabasaran	nuradin	0004	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0004	aˁj-dar-ǯi	know-NEG-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0004	%	%	%	%				
+tabasaran	nuradin	0004	#	#	#cv	#cv				
+tabasaran	nuradin	0004	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0004	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0004	kasib-val.i	poor-ABSTR(IN)	np:other	np		other		
+tabasaran	nuradin	0004	aˁǯuz-val.i	helpless-ABSTR(IN)	np:other	np		other		
+tabasaran	nuradin	0004	darval.i	need(IN)	np:other	np		other		
+tabasaran	nuradin	0004	a-ǯi	(IN)be-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0004	%	%	%	%				
+tabasaran	nuradin	0004	#	#	#cv	#cv				
+tabasaran	nuradin	0004	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0004	dus-nu	(HSG)sit-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0004	%	%	%	%				
+tabasaran	nuradin	0004	fikr-ar	thought-PL(ABS)	other:lvc	other		lvc		
+tabasaran	nuradin	0004	ap’-ura-ji	do-PRS-PST	v:pred	v		pred		
+tabasaran	nuradin	0004	nuradin-ǯi	Nuradin-ERG	pn_np.h:a_cp	pn_np	h	a_cp	4002	
+tabasaran	nuradin	0005	#	#	##	##				
+tabasaran	nuradin	0005	k’ul.i-z	head-DAT	np:g	np		g	4005	bridging
+tabasaran	nuradin	0005	ʁ-uˁru	come-FUT	v:pred	v		pred		
+tabasaran	nuradin	0005	#	#	##ds	##ds				
+tabasaran	nuradin	0005	uzu	I(ERG)	pro.1:a	pro	1	a	4002	
+tabasaran	nuradin	0005	k’ur	CIT	other	other				
+tabasaran	nuradin	0005	vallah	INTERJ	other	other				
+tabasaran	nuradin	0005	k’ur	CIT	other	other				
+tabasaran	nuradin	0005	usta-val	master-ABSTR(ABS)	np.h:p	np	h	p		
+tabasaran	nuradin	0005	du<b>ʁ-iǯi	<NSG>study-FUT	v:pred	v		pred		
+tabasaran	nuradin	0005	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	nuradin	0005	k’ur	CIT	other	other				
+tabasaran	nuradin	0006	#	#	##neg	##neg				
+tabasaran	nuradin	0006	#	#	#ac.neg	#ac.neg				
+tabasaran	nuradin	0006	haz	because	adp	adp				
+tabasaran	nuradin	0006	ʁa-p-i-š	PFV-say-PFV.PTCP-COND	ln	ln				
+tabasaran	nuradin	0006	čara	solution(ABS)	np:s	np		s	4006	bridging
+tabasaran	nuradin	0006	a-dar	(IN)be-PRS.NEG	v:predex	v		predex		
+tabasaran	nuradin	0006	%	%	%	%				
+tabasaran	nuradin	0006	muva-z	PROX-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	4002	
+tabasaran	nuradin	0006	dus-ru	(HSG)sit-FUT.PTCP	ln	ln				
+tabasaran	nuradin	0006	χal	house(ABS)	np:p	np		p		
+tabasaran	nuradin	0006	a-dar	(IN)be-PRS.NEG	v:pred	v		pred		
+tabasaran	nuradin	0007	#	#	#pc.neg	#pc.neg				
+tabasaran	nuradin	0007	ja	or	other	other				
+tabasaran	nuradin	0007	muva-z	PROX-DAT	dem_pro.h:ncs	dem_pro	h	ncs	4002	
+tabasaran	nuradin	0007	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	4002	
+tabasaran	nuradin	0007	aba.ji-l-an-ti-na	old_man-SUPER-ELAT-DIST-LAT	np.h:obl	np	h	obl	4001	
+tabasaran	nuradin	0007	#	#	#ac	#ac				
+tabasaran	nuradin	0007	0	0_Aleskar	0.h:s	0	h	s		
+tabasaran	nuradin	0007	malla	mullah(ABS)	np.h:pred	np	h	pred		
+tabasaran	nuradin	0007	vu	COP	cop	cop				
+tabasaran	nuradin	0007	du-p-nu	PFV-say-PST	other	other				
+tabasaran	nuradin	0007	%	%	%	%				
+tabasaran	nuradin	0007	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0007	č’ur	pasture(ABS)	np:p_pc	np		p_pc		
+tabasaran	nuradin	0007	ilib-ru-b	put-FUT.PTCP-NSG	v:pred	v		pred		
+tabasaran	nuradin	0007	=si	=like	=other	=other				
+tabasaran	nuradin	0007	jis̊	place(ABS)	rn_np	rn_np				
+tabasaran	nuradin	0007	=ra	=ADD	=other	=other				
+tabasaran	nuradin	0007	#	#	#cv.neg	#cv.neg				
+tabasaran	nuradin	0007	0	0_Nuradin	0.2:ncs_poss_cv	0	2	ncs_poss_cv	4002	
+tabasaran	nuradin	0007	maz̊g˳l-ar.i-n	Mežgül-PL-GEN	ln_pn_np:poss	ln_pn_np		poss	4007	unused
+tabasaran	nuradin	0007	č’ur.ǯi-k	pasture-CONT	np:p	np		p		
+tabasaran	nuradin	0007	k-tar-ǯi	CONT-be.NEG-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0007	%	%	%	%				
+tabasaran	nuradin	0007	#	#	#cv.neg	#cv.neg				
+tabasaran	nuradin	0007	0	0_Nuradin	0.h:ncs_poss_cv	0	h	ncs_poss_cv	4002	
+tabasaran	nuradin	0007	paj	part(ABS)	np:p	np		p		
+tabasaran	nuradin	0007	=ra	=ADD	=other	=other				
+tabasaran	nuradin	0007	k-tar-ǯi	CONT-be.NEG-ICVB	v:predex	v		predex		
+tabasaran	nuradin	0008	#	#	##neg	##neg				
+tabasaran	nuradin	0008	ja	or	other	other				
+tabasaran	nuradin	0008	χaˁn.a	cowshed(IN)	np:l	np		l	4008	new
+tabasaran	nuradin	0008	mal	cattle(ABS)	np:s	np		s		
+tabasaran	nuradin	0008	a-dar	(IN)be-PRS.NEG	v:predex	v		predex		
+tabasaran	nuradin	0008	muva-n	PROX-GEN	rn_dem_pro.h:poss	rn_dem_pro	h	poss	4002	
+tabasaran	nuradin	0008	#	#	##neg	##neg				
+tabasaran	nuradin	0008	ja	or	other	other				
+tabasaran	nuradin	0008	rakːn.i-in	coop-SUPER	np:l	np		l	4009	new
+tabasaran	nuradin	0008	peʔ	hen(ABS)	np:s	np		s		
+tabasaran	nuradin	0008	šuˁq	chicken(ABS)	rn_np	rn_np				
+tabasaran	nuradin	0008	#	#	##	##				
+tabasaran	nuradin	0008	#	#	#cv.neg	#cv.neg				
+tabasaran	nuradin	0008	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0008	mutmu	thing(ABS)	np:s_cv	np		s_cv		
+tabasaran	nuradin	0008	al-dar-ǯi	SUPER-be.NEG-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0008	%	%	%	%				
+tabasaran	nuradin	0008	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0008	lap	very	other	other				
+tabasaran	nuradin	0008	aˁǯuz-val.i-in-ǯi	helpless-ABSTR-SUPER-DIR	other	other				
+tabasaran	nuradin	0008	#	#	#cv	#cv				
+tabasaran	nuradin	0008	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0008	jitim	orphan(ABS)	np.h:other	np	h	other		
+tabasaran	nuradin	0008	du-x-nu	PFV-(HSG)become-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0008	%	%	%	%				
+tabasaran	nuradin	0008	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0008	gaˁ<b>ʁ-ru	<NSG>start-FUT	v:pred	v		pred		
+tabasaran	nuradin	0008	muva-n	PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	4002	
+tabasaran	nuradin	0008	uˁmur	life(ABS)	np:p	np		p	4010	bridging
+tabasaran	nuradin	0009	#	#	##neg	##neg				
+tabasaran	nuradin	0009	jitim	orphan(ABS)	ln	ln				
+tabasaran	nuradin	0009	nuradin.ǯi	Nuradin(ERG)	pn_np.h:a_cp	pn_np	h	a_cp	4002	
+tabasaran	nuradin	0009	k’ul	head(ABS)	np:p	np		p	4005	
+tabasaran	nuradin	0009	is-k-an	inclination-CONT-ELAT	other:lvc	other		lvc		
+tabasaran	nuradin	0009	ap’-ur-dar	do-FUT-NEG	v:pred	v		pred		
+tabasaran	nuradin	0009	#	#	##neg	##neg				
+tabasaran	nuradin	0009	0	0_Nuradin	0.h:a_cp	0	h	a_cp	4002	
+tabasaran	nuradin	0009	k’ul	head(ABS)	np:p	np		p	4005	
+tabasaran	nuradin	0009	is	inclination	other:lvc	other		lvc		
+tabasaran	nuradin	0009	ap’-ur-dar	do-FUT-NEG	v:pred	v		pred		
+tabasaran	nuradin	0010	#	#	##	##				
+tabasaran	nuradin	0010	muvu	PROX(ERG)	dem_pro.h:a_cp	dem_pro	h	a_cp	4002	
+tabasaran	nuradin	0010	quˁʁ-nuˁ	start-PCVB	lv_v	lv_v				
+tabasaran	nuradin	0010	bašlamiš	start	other:lvc	other		lvc		
+tabasaran	nuradin	0010	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	nuradin	0010	#	#	#cv	#cv				
+tabasaran	nuradin	0010	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0010	muva-n	PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	4011	new
+tabasaran	nuradin	0010	tva-n	DIST-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	4012	new
+tabasaran	nuradin	0010	bic’i	small	ln_adj	ln_adj				
+tabasaran	nuradin	0010	bic’i	small	ln_adj	ln_adj				
+tabasaran	nuradin	0010	laˁχn-ar	work-PL(ABS)	np:p	np		p	4013	new
+tabasaran	nuradin	0010	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0011	#	#	##	##				
+tabasaran	nuradin	0011	šli-n	who-GEN	ln_indef_other.h:poss	ln_indef_other	h	poss		
+tabasaran	nuradin	0011	piʔ.ri-n	hen-GEN	ln_np:poss	ln_np		poss		
+tabasaran	nuradin	0011	ʁazma	coop(ABS)	np:p	np		p	4014	new
+tabasaran	nuradin	0011	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	nuradin	0011	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0011	#	#	##	##				
+tabasaran	nuradin	0011	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0011	sa-r.i-z	one-HSG-DAT	indef_other.h:obl	indef_other	h	obl		
+tabasaran	nuradin	0011	ǯara	different	rn_adj	rn_adj				
+tabasaran	nuradin	0011	dus-ru	(PL)sit-FUT.PTCP	nc	nc				
+tabasaran	nuradin	0011	χal	house(ABS)	np:p	np		p	4015	new
+tabasaran	nuradin	0011	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	nuradin	0012	#	#	#cv	#cv				
+tabasaran	nuradin	0012	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0012	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0012	bic’i	small	other	other				
+tabasaran	nuradin	0012	bic’i	small	other	other				
+tabasaran	nuradin	0012	usta-val-ar	master-ABSTR-PL(ABS)	np:p	np		p		
+tabasaran	nuradin	0012	du<r>ʁ-uri	<PL>study-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0012	%	%	%	%				
+tabasaran	nuradin	0012	#	#	#cv	#cv				
+tabasaran	nuradin	0012	0	0_Nuradin	0.h:a_cp_cv	0	h	a_cp_cv	4002	
+tabasaran	nuradin	0012	k’ul.i	head(ERG)	np:obl	np		obl	4005	
+tabasaran	nuradin	0012	fikir	thought(ABS)	other:lvc	other		lvc		
+tabasaran	nuradin	0012	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0012	#	#	##	##				
+tabasaran	nuradin	0012	aˁχir	finally	other	other				
+tabasaran	nuradin	0012	muva-n	PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	4002	
+tabasaran	nuradin	0012	im-di-n	uncle-GEN	ln_np.h:poss	ln_np	h	poss	4016	new
+tabasaran	nuradin	0012	baj	boy(ABS)	np.h:s_cp	np	h	s_cp	4017	new
+tabasaran	nuradin	0012	jašamiš	live	other:lvc	other		lvc		
+tabasaran	nuradin	0012	šul-a-ǯi	become-PRS-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0012	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	nuradin	0012	imaǯ	Imaj	pn_np:l	pn_np		l	4018	new
+tabasaran	nuradin	0012	ʁul.a-ʔ	village-IN	rn	rn				
+tabasaran	nuradin	0012	tabasaran	Tabasaran	pn_np:l	pn_np		l	4019	unused
+tabasaran	nuradin	0012	rajon.ǯi-ʔ	district-IN	rn	rn				
+tabasaran	nuradin	0012	#	#	##	##				
+tabasaran	nuradin	0012	imaǯ	Imaj	pn_np:g	pn_np		g	4018	
+tabasaran	nuradin	0012	ʁul.a-ʔ	village-IN	rn	rn				
+tabasaran	nuradin	0012	ha-va-x-na	EMPH-PROX-APUD-LAT	dem_pro.h:g	dem_pro	h	g	4017	
+tabasaran	nuradin	0012	aˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	nuradin	0012	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	4002	
+tabasaran	nuradin	0012	#	#	#ac_in	#ac_in				
+tabasaran	nuradin	0012	0	0_Nuradin	f0.h:a_in	f0	h	a_in	4002	
+tabasaran	nuradin	0012	xad.a-n	summer-GEN	ln_np:poss	ln_np		poss		
+tabasaran	nuradin	0012	vaχtː.na	time(ERG)	np:other	np		other		
+tabasaran	nuradin	0012	liχ-uz	work-INF	vother:pred	vother		pred		
+tabasaran	nuradin	0013	#	#	#cv	#cv				
+tabasaran	nuradin	0013	#	#	#ac	#ac				
+tabasaran	nuradin	0013	xad-ar	summer-PL(ABS)	np:s	np		s		
+tabasaran	nuradin	0013	qu<r>q’-i-ge	<PL>arrive-TEMP	v:pred	v		pred		
+tabasaran	nuradin	0013	%	%	%	%				
+tabasaran	nuradin	0013	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0013	ha-kː-us̊a-ʔ	EMPH-DOWN-place-IN	np:g	np		g	4020	unused
+tabasaran	nuradin	0013	ign-ar.i-z	harvest-PL-DAT	np:obl	np		obl		
+tabasaran	nuradin	0013	du-š-nu	PFV-(HSG)go-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0013	%	%	%	%				
+tabasaran	nuradin	0013	#	#	#cv	#cv				
+tabasaran	nuradin	0013	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0013	ha-kːmu	EMPH-DOWN	other:l	other		l	4020	
+tabasaran	nuradin	0013	ign-ar.i-q	harvest-PL-POST	np:other	np		other		
+tabasaran	nuradin	0013	di-liχ-nu	PFV-work-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0013	lezg-ir.i-q	Lezgin-PL-POST	pn_np.h:obl	pn_np	h	obl	4021	new
+tabasaran	nuradin	0013	%	%	%	%				
+tabasaran	nuradin	0013	#	#	#cv	#cv				
+tabasaran	nuradin	0013	0	0_Nuradin	0.h:a_cp_cv	0	h	a_cp_cv	4002	
+tabasaran	nuradin	0013	ʁazanmiš	earning	other:lvc	other		lvc		
+tabasaran	nuradin	0013	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0013	%	%	%	%				
+tabasaran	nuradin	0013	#	#	#cv	#cv				
+tabasaran	nuradin	0013	ča-z	REFL.SG-DAT	refl.h:ncs_poss	refl	h	ncs_poss	4002	
+tabasaran	nuradin	0013	ip’-ru	(NSG)eat-FUT.PTCP	ln_np	ln_np				
+tabasaran	nuradin	0013	sursat	supply(ABS)	np:p	np		p	4022	new
+tabasaran	nuradin	0013	x-a-ǯi	APUD-be-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0013	%	%	%	%				
+tabasaran	nuradin	0013	#	#	#cv	#cv				
+tabasaran	nuradin	0013	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0013	du-f-nu	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0013	%	%	%	%				
+tabasaran	nuradin	0013	#	#	#cv	#cv				
+tabasaran	nuradin	0013	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other	4023	bridging
+tabasaran	nuradin	0013	gaˁ<b>ʁ-u	<NSG>start-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0013	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0013	ča-n	REFL(SG)-GEN	ln_refl.h:poss	ln_refl	h	poss	4002	
+tabasaran	nuradin	0013	uˁmur	life(ABS)	np:p	np		p	4010	
+tabasaran	nuradin	0014	#	#	##	##				
+tabasaran	nuradin	0014	va	and	other	other				
+tabasaran	nuradin	0014	sa-b-pi-b-ǯi	one-NSG-ORD-NSG-ADV	other	other				
+tabasaran	nuradin	0014	gaˁ<b>ʁ-ru	<NSG>start-FUT	lv_v	lv_v				
+tabasaran	nuradin	0014	nu	PTCL	other	other				
+tabasaran	nuradin	0014	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0014	ča-n	REFL(SG)-GEN	ln_refl.h:poss	ln_refl	h	poss	4002	
+tabasaran	nuradin	0014	χal	house(ABS)	np:p	np		p	4024	new
+tabasaran	nuradin	0014	ap’-uz	do-INF	v:pred	v		pred		
+tabasaran	nuradin	0015	#	#	##	##				
+tabasaran	nuradin	0015	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	nuradin	0015	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0015	ča-z	REFL(SG)-DAT	refl.h:obl	refl	h	obl	4002	
+tabasaran	nuradin	0015	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0015	uǯu-b	good-NSG	ln_adj	ln_adj				
+tabasaran	nuradin	0015	χal	house(ABS)	np:p	np		p	4024	
+tabasaran	nuradin	0015	=la	=ADD	=other	=other				
+tabasaran	nuradin	0016	#	#	#cv	#cv				
+tabasaran	nuradin	0016	0	0_Nuradin	0.h:a_cp_cv	0	h	a_cp_cv	4002	
+tabasaran	nuradin	0016	0	0_builder	0.h:p	0	h	p	4025	new
+tabasaran	nuradin	0016	ǯaχ	call	other:lvc	other		lvc		
+tabasaran	nuradin	0016	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0016	%	%	%	%				
+tabasaran	nuradin	0016	#	#	#cv	#cv				
+tabasaran	nuradin	0016	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0016	ust-ir.i-x-an	builder-PL-APUD-ELAT	np.h:obl	np	h	obl	4025	
+tabasaran	nuradin	0016	herχ-nu	ask-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0016	%	%	%	%				
+tabasaran	nuradin	0016	#	#	#cv	#cv				
+tabasaran	nuradin	0016	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0016	qerχ-nu	ask-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0016	#	#	##ds	##ds				
+tabasaran	nuradin	0016	ficːi	how	other	other				
+tabasaran	nuradin	0016	ǯib-ru	put-FUT	v:pred	v		pred		
+tabasaran	nuradin	0016	uzu	I(ERG)	pro.1:a	pro	1	a	4002	
+tabasaran	nuradin	0016	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	nuradin	0016	ʁan	stone(ABS)	np:p	np		p	4026	new
+tabasaran	nuradin	0016	#	#	##ds	##ds				
+tabasaran	nuradin	0016	ficːi	how	other	other				
+tabasaran	nuradin	0016	ǯib-ru	put-FUT	v:pred	v		pred		
+tabasaran	nuradin	0016	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0016	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	nuradin	0016	murc̊.a-ʔ	corner-IN	np:l	np		l	4027	new
+tabasaran	nuradin	0016	ʁan	stone(ABS)	np:p	np		p	4028	bridging
+tabasaran	nuradin	0016	#	#	##ds	##ds				
+tabasaran	nuradin	0016	ficːi	how	other	other				
+tabasaran	nuradin	0016	ǯib-ru	put-FUT	v:pred	v		pred		
+tabasaran	nuradin	0016	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0016	ulǯ	window(ABS)	np:p	np		p	4029	bridging
+tabasaran	nuradin	0016	#	#	##	##				
+tabasaran	nuradin	0016	ficːi	how	other	other				
+tabasaran	nuradin	0016	0	0_builders	0.h:a	0	h	a	4025	
+tabasaran	nuradin	0016	0	0_window	0:p	0		p	4029	
+tabasaran	nuradin	0016	di<b>k-r-u	<NSG>put-FUT	v:pred	v		pred		
+tabasaran	nuradin	0016	#	#	##	##				
+tabasaran	nuradin	0016	0	0_builders	0.h:a	0	h	a	4025	
+tabasaran	nuradin	0016	fuq’an	how_much	ln	ln				
+tabasaran	nuradin	0016	jaʁli-šin	high-NMLZ(ABS)	np:p	np		p		
+tabasaran	nuradin	0016	di<b>k-ru	<NSG>put-FUT	v:pred	v		pred		
+tabasaran	nuradin	0016	#	#	##	##				
+tabasaran	nuradin	0016	0	0_builders	0.h:a	0	h	a	4025	
+tabasaran	nuradin	0016	fuq’an	how_much	ln	ln				
+tabasaran	nuradin	0016	jarq’u-šin	wide-NMLZ(ABS)	np:p	np		p		
+tabasaran	nuradin	0016	di<b>k-ru	<NSG>put-FUT	v:pred	v		pred		
+tabasaran	nuradin	0017	#	#	##	##				
+tabasaran	nuradin	0017	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0017	vari	all	ln	ln				
+tabasaran	nuradin	0017	ha-dmu	EMPH-3.P(ATTR)	ln_dem	ln_dem				
+tabasaran	nuradin	0017	vaχt.nanǯin	time	np:other	np		other		
+tabasaran	nuradin	0017	uǯu-dar	good-PL	ln_adj	ln_adj				
+tabasaran	nuradin	0017	ust-jir	builder-PL(ABS)	np.h:s	np	h	s	4030	bridging
+tabasaran	nuradin	0017	a-ǯi	(IN)be-ICVB	v:predex	v		predex		
+tabasaran	nuradin	0017	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	nuradin	0017	ʁul.a-ʔ	village-IN	np:l	np		l	4031	unused
+tabasaran	nuradin	0017	#	#	##	##				
+tabasaran	nuradin	0017	efendi	Efendi	pn_np.h:s	pn_np	h	s	4032	bridging
+tabasaran	nuradin	0017	baχčaˤli	Bahchali	rn_pn_np.h	rn_pn_np	h		4033	bridging
+tabasaran	nuradin	0017	va	and	rn	rn				
+tabasaran	nuradin	0017	#	#	#rc_pc	#rc_pc				
+tabasaran	nuradin	0017	0	0_craftsmen	rel_f0.h:s_pc	rel_f0	h	s_pc	4034	bridging
+tabasaran	nuradin	0017	ǯürbeǯür	various	ln_adj	ln_adj				
+tabasaran	nuradin	0017	ha-cː-dar	EMPH-(DIST)-ADV-PL	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0017	uǯu-b	good-NSG	ln_adj	ln_adj				
+tabasaran	nuradin	0017	laˁχn.i-n	work-GEN	np:other	np		other		
+tabasaran	nuradin	0017	k-a-ji	CONT-be-IPFV.PTCP	v:predex	v		predex		
+tabasaran	nuradin	0017	%	%	%	%				
+tabasaran	nuradin	0017	ust-jir	master-PL(ABS)	rn_np.h	rn_np	h		4034	
+tabasaran	nuradin	0017	a-ǯi	(IN)be-ICVB	v:predex	v		predex		
+tabasaran	nuradin	0017	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	nuradin	0018	#	#	##	##				
+tabasaran	nuradin	0018	#	#	#cv	#cv				
+tabasaran	nuradin	0018	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0018	ha-m-rar.i-x-a	EMPH-PROX-PL-APUD-ELAT	dem_pro.h:obl	dem_pro	h	obl	4025	
+tabasaran	nuradin	0018	herχ-ri	ask-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0018	%	%	%	%				
+tabasaran	nuradin	0018	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0018	ča-z	REFL.SG-DAT	refl.h:obl	refl	h	obl	4002	
+tabasaran	nuradin	0018	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0018	χal	house(ABS)	np:p	np		p	4024	
+tabasaran	nuradin	0018	ǯib-ru	put-FUT	v:pred	v		pred		
+tabasaran	nuradin	0019	#	#	##	##				
+tabasaran	nuradin	0019	#	#	#cv	#cv				
+tabasaran	nuradin	0019	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0019	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	nuradin	0019	χal	house(ABS)	np:p	np		p	4024	
+tabasaran	nuradin	0019	ǯib-nu	put-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0019	qa	then	other	other				
+tabasaran	nuradin	0019	čpːi-n	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	4002	
+tabasaran	nuradin	0019	miras-ar.i-n	relative-PL-GEN	ln_np.h:poss	ln_np	h	poss	4035	new
+tabasaran	nuradin	0019	kümek.ni-in-ǯi	help-SUPER-DIR	np:other	np		other		
+tabasaran	nuradin	0019	%	%	%	%				
+tabasaran	nuradin	0019	#	#	#nc	#nc				
+tabasaran	nuradin	0019	sa-r	one-HSG	nc	nc				
+tabasaran	nuradin	0019	ča-z	REFL(SG)-DAT	nc_refl.h	nc_refl	h		4002	
+tabasaran	nuradin	0019	ʁi-lig-u	PFV-(HSG)look-PFV.PTCP	nc	nc				
+tabasaran	nuradin	0019	#	#	#cv	#cv				
+tabasaran	nuradin	0019	dišahli	woman(ABS)	np.h:p	np	h	p	4036	new
+tabasaran	nuradin	0019	=ra	=ADD	=other	=other				
+tabasaran	nuradin	0019	du-χ-nu	PFV-(HSG)bring-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0019	%	%	%	%				
+tabasaran	nuradin	0019	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0019	gaˁ<b>ʁ-ru	<NSG>start-FUT	v:pred	v		pred		
+tabasaran	nuradin	0019	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	4002	
+tabasaran	nuradin	0019	χizan	family(ABS)	np.h:p	np	h	p	4037	bridging
+tabasaran	nuradin	0020	#	#	##	##				
+tabasaran	nuradin	0020	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	nuradin	0020	muva-z	PROX-DAT	dem_pro.h:ncs_poss	dem_pro	h	ncs_poss	4036	
+tabasaran	nuradin	0020	ha-v-k-an	EMPH-PROX-CONT-ELAT	rn	rn				
+tabasaran	nuradin	0020	sa-r	one-HSG	ln_num	ln_num				
+tabasaran	nuradin	0020	baž	boy(ABS)	np.h:p	np	h	p	4038	new
+tabasaran	nuradin	0021	#	#	##	##				
+tabasaran	nuradin	0021	anǯaʁ	only	other	other				
+tabasaran	nuradin	0021	ha-m-cːi-b	EMPH-PROX-ADV-NSG	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0021	a-b-x-nu	PFV-NSG-become-PST	v:pred	v		pred		
+tabasaran	nuradin	0021	mu-rar.i-n	PROX-PL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	4039	bridging
+tabasaran	nuradin	0021	q’ismat	fate(ABS)	np:s	np		s	4040	new
+tabasaran	nuradin	0021	#	#	##	##				
+tabasaran	nuradin	0021	#	#	#ac_pc	#ac_pc				
+tabasaran	nuradin	0021	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	nuradin	0021	baž	boy(ABS)	np.h:s_pc	np	h	s_pc	4038	
+tabasaran	nuradin	0021	a-x-i-gan	PFV-(HSG)become-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	nuradin	0021	%	%	%	%				
+tabasaran	nuradin	0021	mu-rar	PROX-PL(ABS)	dem_pro.h:s	dem_pro	h	s	4039	
+tabasaran	nuradin	0021	huduc̊’-uru	(PL)separate-FUT	v:pred	v		pred		
+tabasaran	nuradin	0022	#	#	##	##				
+tabasaran	nuradin	0022	aˁχir	finally	other	other				
+tabasaran	nuradin	0022	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	4002	
+tabasaran	nuradin	0022	q-aq-ru	POST-(HSG)fall-FUT	v:pred	v		pred		
+tabasaran	nuradin	0022	sa-r	one-HSG	ln_num	ln_num				
+tabasaran	nuradin	0022	ič	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	4041	bridging
+tabasaran	nuradin	0022	ʁul.a	village(IN)	np:l	np		l	4031	
+tabasaran	nuradin	0022	sa-r	one-HSG	ln_num	ln_num				
+tabasaran	nuradin	0022	admi-q-ǯi	man-POST-DIR	np.h:obl	np	h	obl	4042	new
+tabasaran	nuradin	0022	#	#	##	##				
+tabasaran	nuradin	0022	0	0_Nuradin	0.h:s	0	h	s	4002	
+tabasaran	nuradin	0022	jaraˁli	Yarali	ln_pn_np.h	ln_pn_np	h			
+tabasaran	nuradin	0022	k’-uru	call-FUT.PTCP	ln	ln				
+tabasaran	nuradin	0022	χalu.di-q-ǯi	uncle-POST-DIR	np.h:obl	np	h	obl	4042	
+tabasaran	nuradin	0022	q-aq-nu	POST-(HSG)fall-PST	v:pred	v		pred		
+tabasaran	nuradin	0023	#	#	##	##				
+tabasaran	nuradin	0023	du<b>ʁ-uru	<NSG>learn-FUT	v:pred	v		pred		
+tabasaran	nuradin	0023	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0023	palt-ar	clothes-PL(ABS)	ln_np	ln_np				
+tabasaran	nuradin	0023	d-irχ-ru	PL-sew-FUT.PTCP	ln	ln				
+tabasaran	nuradin	0023	usta-val	master-ABSTR(ABS)	np:p	np		p	4043	new
+tabasaran	nuradin	0024	#	#	##	##				
+tabasaran	nuradin	0024	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0024	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	nuradin	0024	muv-k-an	PROX-CONT-ELAT	ln_dem	ln_dem				
+tabasaran	nuradin	0024	zurba	strong	ln_adj	ln_adj				
+tabasaran	nuradin	0024	adlu	famous	ln_adj	ln_adj				
+tabasaran	nuradin	0024	#	#	#rc_pc	#rc_pc				
+tabasaran	nuradin	0024	0	0_clothier	rel_f0.h:a_pc	rel_f0	h	a_pc		
+tabasaran	nuradin	0024	palt-ar	clothes-PL(ABS)	np:p	np		p		
+tabasaran	nuradin	0024	d-irχ-ru	PL-sew-FUT.PTCP	v:pred	v		pred		
+tabasaran	nuradin	0024	%	%	%	%				
+tabasaran	nuradin	0024	usta	master(ABS)	np.h:other	np	h	other		
+tabasaran	nuradin	0025	#	#	##	##				
+tabasaran	nuradin	0025	uduc̊-nu	<PL>go_out-PCVB	lv_v	lv_v				
+tabasaran	nuradin	0025	aˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	nuradin	0025	mu-rar	PROX-PL(ABS)	dem_pro.h:s	dem_pro	h	s	4044	bridging
+tabasaran	nuradin	0025	ǯara	different	ln_adj	ln_adj				
+tabasaran	nuradin	0025	lezgi	Lezgian	ln_adj	ln_adj				
+tabasaran	nuradin	0025	ʁul.a-z	village-DAT	np:g	np		g	4045	new
+tabasaran	nuradin	0026	#	#	##	##				
+tabasaran	nuradin	0026	#	#	#cv	#cv				
+tabasaran	nuradin	0026	0	0_Yarali_and_Nuradin	0.h:s_cv	0	h	s_cv	4044	
+tabasaran	nuradin	0026	č’iliqar	Chiliqar	ln_pn_np	ln_pn_np				
+tabasaran	nuradin	0026	k’-uru	say-FUT.PTCP	ln	ln				
+tabasaran	nuradin	0026	ʁul.a-z	village-DAT	np:g	np		g	4045	
+tabasaran	nuradin	0026	du-š-nu	PFV-<PL>go-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0026	%	%	%	%				
+tabasaran	nuradin	0026	#	#	#cv	#cv				
+tabasaran	nuradin	0026	0	0_Yarali_and_Nuradin	0.h:ncs_poss_cv	0	h	ncs_poss_cv	4044	
+tabasaran	nuradin	0026	ha-s̊a	EMPH-place(IN)	np:l	np		l	4045	
+tabasaran	nuradin	0026	čpːi-n	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	4044	
+tabasaran	nuradin	0026	#	#	#rc_pc	#rc_pc				
+tabasaran	nuradin	0026	0	0_Yarali_and_Nuradin	rel_f0.h:a_pc	rel_f0	h	a_pc	4044	
+tabasaran	nuradin	0026	kːurt-ar	dress-PL(ABS)	np:p	np		p	4046	bridging
+tabasaran	nuradin	0026	d-irχ-ru	PL-sew-FUT.PTCP	v:pred	v		pred		
+tabasaran	nuradin	0026	%	%	%	%				
+tabasaran	nuradin	0026	mašin	sewing_machine(ABS)	np:p	np		p	4047	new
+tabasaran	nuradin	0026	=ra	=ADD	=other	=other				
+tabasaran	nuradin	0026	x-a-ǯi	APUD-be-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0026	%	%	%	%				
+tabasaran	nuradin	0026	#	#	#cv	#cv				
+tabasaran	nuradin	0026	0	0_Yarali_and_Nuradin	0.h:s_cv	0	h	s_cv	4044	
+tabasaran	nuradin	0026	du-š-nu	PFV-<PL>go-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0026	%	%	%	%				
+tabasaran	nuradin	0026	#	#	#cv	#cv				
+tabasaran	nuradin	0026	sa-r.i	one-HSG(ERG)	np.h:a_cp_cv	np	h	a_cp_cv	4048	bridging
+tabasaran	nuradin	0026	zakaz-ar	order-PL(ABS)	np:p	np		p	4049	new
+tabasaran	nuradin	0026	q’abul	accept	other:lvc	other		lvc		
+tabasaran	nuradin	0026	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0026	χalq’-ar.i-x-an	people-PL-APUD-ELAT	np.h:obl	np	h	obl	4050	bridging
+tabasaran	nuradin	0026	%	%	%	%				
+tabasaran	nuradin	0026	#	#	#cv	#cv				
+tabasaran	nuradin	0026	tmu-nu-r	DIST-FOC-HSG(ABS)	np.h:s_cv	np	h	s_cv	4051	bridging
+tabasaran	nuradin	0026	d-irχ-uri	PL-sew-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0026	%	%	%	%				
+tabasaran	nuradin	0026	0	0_Yarali_and_Nuradin	0.h:a	0	h	a	4044	
+tabasaran	nuradin	0026	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0026	vaz-ar.i-in-ǯi	month-PL-SUPER-DIR	np:other	np		other		
+tabasaran	nuradin	0026	liχu-ri	work-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0026	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	nuradin	0026	ha-k-š˳.a	EMPH-DOWN-place(IN)	np:l	np		l	4045	
+tabasaran	nuradin	0027	#	#	##	##				
+tabasaran	nuradin	0027	#	#	#cv	#cv				
+tabasaran	nuradin	0027	aˁχir	finally	other	other				
+tabasaran	nuradin	0027	qa	then	other	other				
+tabasaran	nuradin	0027	#	#	#ac_pc	#ac_pc				
+tabasaran	nuradin	0027	ha-dmu	EMPH-3.P(ABS)	ln_dem	ln_dem				
+tabasaran	nuradin	0027	zakaz-ar	order-PL(ABS)	np:s_pc	np		s_pc	4049	
+tabasaran	nuradin	0027	guduk’-i-ge	<PL>finish-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	nuradin	0027	%	%	%	%				
+tabasaran	nuradin	0027	0	0_Yarali_and_Nuradin	0.h:s_cv	0	h	s_cv	4044	
+tabasaran	nuradin	0027	qadak-nu	(HSG)turn_back-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0027	%	%	%	%				
+tabasaran	nuradin	0027	#	#	#cv	#cv				
+tabasaran	nuradin	0027	0	0_Yarali_and_Nuradin	0.h:s_cv	0	h	s_cv	4044	
+tabasaran	nuradin	0027	du-f-nu	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0027	%	%	%	%				
+tabasaran	nuradin	0027	0	0_Yarali_and_Nuradin	0.h:a	0	h	a	4044	
+tabasaran	nuradin	0027	imbu	remaining	ln_adj	ln_adj				
+tabasaran	nuradin	0027	vaχt	time	np:p	np		p		
+tabasaran	nuradin	0027	ʁul.a	village(IN)	np:l	np		l	4031	
+tabasaran	nuradin	0027	hap’-ra-ǯi	what_do-PRS-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0027	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	nuradin	0028	#	#	##	##				
+tabasaran	nuradin	0028	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0028	muv-k-an	PROX-CONT-ELAT	dem_pro.h:s	dem_pro	h	s	4002	
+tabasaran	nuradin	0028	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	nuradin	0028	geleǯeg.di-z	future-DAT	np:other	np		other		
+tabasaran	nuradin	0028	zurba	strong	ln_adj	ln_adj				
+tabasaran	nuradin	0028	usta	master(ABS)	np.h:other	np	h	other		
+tabasaran	nuradin	0029	#	#	##	##				
+tabasaran	nuradin	0029	muv-k-an	PROX-CONT-ELAT	dem_pro.h:p	dem_pro	h	p	4002	
+tabasaran	nuradin	0029	ič	our(EXCL)	ln_pro.1:poss	ln_pro	1	poss	4052	bridging
+tabasaran	nuradin	0029	abaj.i	grandfather(ERG)	np.h:a	np	h	a	4053	new
+tabasaran	nuradin	0029	k’ur	say.FUT	v:pred	v		pred		
+tabasaran	nuradin	0030	#	#	##ds	##ds				
+tabasaran	nuradin	0030	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0030	ha-dmu	PROX-3.P	ln_dem	ln_dem				
+tabasaran	nuradin	0030	=q’an	=PTCL	=other	=other				
+tabasaran	nuradin	0030	quˁʁ-uˁn	(HSG)start-PST	lv_v	lv_v				
+tabasaran	nuradin	0030	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	nuradin	0030	šarvar	trousers(ABS)	np:p	np		p	4054	new
+tabasaran	nuradin	0030	b-irχ-uz	NSG-sew-INF	v:pred	v		pred		
+tabasaran	nuradin	0030	#	#	##neg	##neg				
+tabasaran	nuradin	0030	0	0_Nuradin	0.h:ncs_cp	0	h	ncs_cp	4002	
+tabasaran	nuradin	0030	aˁʁuˁ	know	other:lvc	other		lvc		
+tabasaran	nuradin	0030	šul-dar	become-FUT.NEG	v:pred	v		pred		
+tabasaran	nuradin	0030	k’ur	CIT	other	other				
+tabasaran	nuradin	0031	#	#	##ds	##ds				
+tabasaran	nuradin	0031	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0031	0	0_Nuradin	0.1:a_cv	0	1	a_cv	4002	
+tabasaran	nuradin	0031	aˁχirki	finally	other	other				
+tabasaran	nuradin	0031	ʁada<b>ʁ-u	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0031	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0031	c’iji	new	ln_adj	ln_adj				
+tabasaran	nuradin	0031	šarvar	trousers(ABS)	np:p	np		p	4055	new
+tabasaran	nuradin	0031	magazin.ǯi-an	shop-(IN)-ELAT	np:l	np		l	4056	new
+tabasaran	nuradin	0031	%	%	%	%				
+tabasaran	nuradin	0031	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0031	vari	all(ABS)	ln	ln				
+tabasaran	nuradin	0031	a-ji	(IN)be-PTCP	np:p	np		p	4055	
+tabasaran	nuradin	0031	=si	=like	=other	=other				
+tabasaran	nuradin	0031	k’ur	CIT	other	other				
+tabasaran	nuradin	0031	kta<b>s̊-un	<NSG>rip_up-PST	v:pred	v		pred		
+tabasaran	nuradin	0031	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	nuradin	0031	k’ur	CIT	other	other				
+tabasaran	nuradin	0032	#	#	##ds	##ds				
+tabasaran	nuradin	0032	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0032	kada<b>s̊-nu	<NSG>rip_up-MASD	np:p	np		p	4057	bridging
+tabasaran	nuradin	0032	ǯib-un	put-PST	v:pred	v		pred		
+tabasaran	nuradin	0032	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	nuradin	0032	k’ur	CIT	other	other				
+tabasaran	nuradin	0032	#	#	##ds	##ds				
+tabasaran	nuradin	0032	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0032	0	0_Nuradin	0.1:a_cv	0	1	a_cv	4002	
+tabasaran	nuradin	0032	kaʔ-ri	(PL)draw-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0032	cifri	numbers(ABS)	np:p	np		p	4058	new
+tabasaran	nuradin	0032	=ra	=ADD	=other	=other				
+tabasaran	nuradin	0032	%	%	%	%				
+tabasaran	nuradin	0032	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0032	0	0_Nuradin	0.1:a_cv	0	1	a_cv	4002	
+tabasaran	nuradin	0032	ha-mu	EMPH-PROX(EMPH)	ln_dem	ln_dem				
+tabasaran	nuradin	0032	sa-b	one-NSG	np:other	np		other		
+tabasaran	nuradin	0032	q’uˁ-b	two-NSG	rn_np	rn_np				
+tabasaran	nuradin	0032	k’uri	CIT	other	other				
+tabasaran	nuradin	0032	kavr-i	draw-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0032	cifri	numbers(ABS)	np:p	np		p	4058	
+tabasaran	nuradin	0032	=ra	=ADD	=other	=other				
+tabasaran	nuradin	0032	%	%	%	%				
+tabasaran	nuradin	0032	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0032	ǯib-nu	put-PST	v:pred	v		pred		
+tabasaran	nuradin	0032	šarvar	trousers(ABS)	np:p	np		p	4055	
+tabasaran	nuradin	0032	k’ur	CIT	other	other				
+tabasaran	nuradin	0032	#	#	##ds	##ds				
+tabasaran	nuradin	0032	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	nuradin	0032	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0032	0	0_Nuradin	0.1:a_cv	0	1	a_cv	4002	
+tabasaran	nuradin	0032	0	0_trousers	0:p	0		p	4055	
+tabasaran	nuradin	0032	kada<b>s̊-u	<NSG>rip_up-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0032	%	%	%	%				
+tabasaran	nuradin	0032	0	0_Nuradin	0.1:s_pc	0	1	s_pc	4002	
+tabasaran	nuradin	0032	kːudu<b>k’-i-ge	<NSG>finish-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	nuradin	0032	%	%	%	%				
+tabasaran	nuradin	0032	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0032	qa	then	other	other				
+tabasaran	nuradin	0032	0	0_Nuradin	0.1:s_cv	0	1	s_cv	4002	
+tabasaran	nuradin	0032	0	0_trousers	0:p	0		p	4057	
+tabasaran	nuradin	0032	ʁada<b>ʁ-nu	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0032	k’ur	CIT	other	other				
+tabasaran	nuradin	0032	%	%	%	%				
+tabasaran	nuradin	0032	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0032	0	0_trousers	0:p	0		p	4057	
+tabasaran	nuradin	0032	kpi<r>χ-un	<PL>sew-PST	v:pred	v		pred		
+tabasaran	nuradin	0032	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	nuradin	0032	k’ur	CIT	other	other				
+tabasaran	nuradin	0032	sabasa	again	other	other				
+tabasaran	nuradin	0033	#	#	##ds	##ds				
+tabasaran	nuradin	0033	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0033	ha-ǯi-k-a	EMPH-PROX(NSG)-CONT-ELAT	dem_pro:obl	dem_pro		obl	4057	
+tabasaran	nuradin	0033	ʁ-ap’-un	PFV-do-PST	v:pred	v		pred		
+tabasaran	nuradin	0033	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	nuradin	0033	k’alib-ar	stencil-PL(ABS)	np:p	np		p	4059	new
+tabasaran	nuradin	0034	#	#	##ds	##ds				
+tabasaran	nuradin	0034	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0034	0	0_Nuradin	0.1:a_cv	0	1	a_cv	4002	
+tabasaran	nuradin	0034	k’alb-ar	stencil-PL(ABS)	np:p	np		p	4059	
+tabasaran	nuradin	0034	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0034	%	%	%	%				
+tabasaran	nuradin	0034	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0034	0	0_Nuradin	0.1:a_cv	0	1	a_cv	4002	
+tabasaran	nuradin	0034	0	0_stencils	0:p	0		p	4059	
+tabasaran	nuradin	0034	ǯiv-nu	put-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0034	k’ur	CIT	other	other				
+tabasaran	nuradin	0034	kaʁz.i-in	paper-SUPER	np:g	np		g	4060	bridging
+tabasaran	nuradin	0034	%	%	%	%				
+tabasaran	nuradin	0034	qa	PTCL	other	other				
+tabasaran	nuradin	0034	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0034	šalvar	trousers(ABS)	np:p	np		p	4061	bridging
+tabasaran	nuradin	0034	kpi<r>χ-un	<PL>sew-PST	v:pred	v		pred		
+tabasaran	nuradin	0034	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	nuradin	0034	k’ur	CIT	other	other				
+tabasaran	nuradin	0035	#	#	##ds	##ds				
+tabasaran	nuradin	0035	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0035	0	0_Nuradin	0.1:s_cv	0	1	s_cv	4002	
+tabasaran	nuradin	0035	ha.ǯi-q-a-mi-na	EMPH-PROX(NSG)-POST-ELAT-PROX-LAT	dem_pro:other	dem_pro		other	4062	bridging
+tabasaran	nuradin	0035	k’ur	CIT	other	other				
+tabasaran	nuradin	0035	ha.ǯi-in-ǯi	EMPH-PROX(NSG)-SUPER-DIR	dem_pro:l	dem_pro		l	4059	
+tabasaran	nuradin	0035	e<b>c-uri	<NSG>measure-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0035	%	%	%	%				
+tabasaran	nuradin	0035	#	#	#ds_cv	#ds_cv				
+tabasaran	nuradin	0035	0	0_Nuradin	0.1:a_cv	0	1	a_cv	4002	
+tabasaran	nuradin	0035	kta<b>t’-uri	<NSG>cut_off-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0035	%	%	%	%				
+tabasaran	nuradin	0035	0	0_Nuradin	0.1:a	0	1	a	4002	
+tabasaran	nuradin	0035	b-irχ-uri	NSG-sew-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0035	a-x-un	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	nuradin	0035	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	nuradin	0035	k’ur	CIT	other	other				
+tabasaran	nuradin	0035	χalq’-ar.i-z	people-PL-DAT	np.h:obl	np	h	obl	4063	new
+tabasaran	nuradin	0035	šarvr-ar	trousers-PL(ABS)	np:p	np		p	4064	bridging
+tabasaran	nuradin	0035	qa	then	other	other				
+tabasaran	nuradin	0035	penǯk-ar	waistcoat-PL(ABS)	rn_np	rn_np			4065	new
+tabasaran	nuradin	0035	valǯʁ-ar	kaftan-PL(ABS)	rn_np	rn_np			4066	new
+tabasaran	nuradin	0035	čʷχ-jir	beshmet-PL(ABS)	rn_np	rn_np			4067	new
+tabasaran	nuradin	0036	#	#	##	##				
+tabasaran	nuradin	0036	qa	then	other	other				
+tabasaran	nuradin	0036	aˁχir	finally	other	other				
+tabasaran	nuradin	0036	geleǯeg.di-z	future-DAT	np:other	np		other		
+tabasaran	nuradin	0036	d-irχ-uz	PL-sew-INF	v:pred	v		pred		
+tabasaran	nuradin	0036	quˁʁ-nu	(PL)start-PST	rv_v	rv_v				
+tabasaran	nuradin	0036	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0036	šapk-ir	hat-PL(ABS)	np:p	np		p	4068	new
+tabasaran	nuradin	0036	va	and	rn	rn				
+tabasaran	nuradin	0036	urgm-ar	sheepskin-PL(ABS)	rn_np	rn_np			4069	new
+tabasaran	nuradin	0036	#	#	##ds	##ds				
+tabasaran	nuradin	0036	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0036	ix	our(INCL)	ln_pro.1:poss	ln_pro	1	poss	4041	
+tabasaran	nuradin	0036	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	nuradin	0036	marčː.li-n	sheep-GEN	ln_np:poss	ln_np		poss	4070	bridging
+tabasaran	nuradin	0036	ʁiǯq’.i-n	skin-GEN	ln_np:poss	ln_np		poss	4071	bridging
+tabasaran	nuradin	0036	urgm-ar	sheepskin-PL(ABS)	np:p	np		p	4072	bridging
+tabasaran	nuradin	0036	d-irχ-uri	PL-sew-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0036	a-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
+tabasaran	nuradin	0037	#	#	##	##				
+tabasaran	nuradin	0037	#	#	#ac	#ac				
+tabasaran	nuradin	0037	aˁχirimǯi	last	ln_adj	ln_adj				
+tabasaran	nuradin	0037	vaχt.na	time(ERG)	np:other	np		other		
+tabasaran	nuradin	0037	#	#	#cv	#cv				
+tabasaran	nuradin	0037	lap	very	other	other				
+tabasaran	nuradin	0037	čav	REFL.SG(ABS)	refl.h:s_cv	refl	h	s_cv	4002	
+tabasaran	nuradin	0037	q’abi	old	other	other				
+tabasaran	nuradin	0037	du-x-nu	PFV-HSG-become-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0037	%	%	%	%				
+tabasaran	nuradin	0037	tamam	whole	ln_adj	ln_adj				
+tabasaran	nuradin	0037	urgc’ur	seventy	ln_num	ln_num				
+tabasaran	nuradin	0037	jis-l-an	year-SUPER-ELAT	np:ncs	np		ncs		
+tabasaran	nuradin	0037	ziin-ǯi	up-ADV	other	other				
+tabasaran	nuradin	0037	uldu<b>c̊i-gan	<NSG>pass-TEMP	v:pred	v		pred		
+tabasaran	nuradin	0037	%	%	%	%				
+tabasaran	nuradin	0037	d-irχ-uz	PL-sew-INF	v:pred	v		pred		
+tabasaran	nuradin	0037	quˁʁ-nu	(HSG)start-PST	rv_v	rv_v				
+tabasaran	nuradin	0037	duvu	3.P(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0037	urgm-ar	sheepskin-PL(ABS)	np:p	np		p	4073	bridging
+tabasaran	nuradin	0037	mašin.ǯi-in-ǯi	sewing_machine-SUPER-DIR	np:obl	np		obl	4074	bridging
+tabasaran	nuradin	0038	#	#	#cv	#cv				
+tabasaran	nuradin	0038	fuk’a	anything(ABS)	nc	nc				
+tabasaran	nuradin	0038	=ra	=ADD	nc	nc				
+tabasaran	nuradin	0038	sa-r	one-HSG	nc	nc				
+tabasaran	nuradin	0038	kas.ǯi	person(ERG)	nc	nc				
+tabasaran	nuradin	0038	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0038	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0038	sutki	day(ABS)	np:other	np		other		
+tabasaran	nuradin	0038	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0038	urgam	sheepskin(ABS)	np:p	np		p		
+tabasaran	nuradin	0038	b-irχ-uri	NSG-sew-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0038	wot	PTCL	other	other				
+tabasaran	nuradin	0039	#	#	##ds	##ds				
+tabasaran	nuradin	0039	0	0	0.2:a	0	2	a		
+tabasaran	nuradin	0039	0	0_Nuradin	0.2:g	0	2	g		
+tabasaran	nuradin	0039	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	nuradin	0039	jic’u-b	ten-NSG	ln_num	ln_num				
+tabasaran	nuradin	0039	ʁiǯiq’	skin(ABS)	np:p	np		p	4075	new
+tabasaran	nuradin	0039	aqː-i	(PL)bring(IMP)	v:pred	v		pred		
+tabasaran	nuradin	0039	#	#	##	##				
+tabasaran	nuradin	0039	k’uru	say.FUT	v:pred	v		pred		
+tabasaran	nuradin	0039	muvu	PROX(ERG)	dem_pro.h:a_ds	dem_pro	h	a_ds	4002	
+tabasaran	nuradin	0040	#	#	##neg	##neg				
+tabasaran	nuradin	0040	ha-mu-rar	EMPH-PROX-PL(ABS)	dem_pro:dt	dem_pro		dt	4075	
+tabasaran	nuradin	0040	fuk’a	nothing(ABS)	indef_other:s	indef_other		s		
+tabasaran	nuradin	0040	=ra	=ADD	=other	=other				
+tabasaran	nuradin	0040	x-tar	APUD-be.PRS:NEG	v:predex	v		predex		
+tabasaran	nuradin	0040	muva-x	PROX-APUD	dem_pro.h:obl	dem_pro	h	obl	4002	
+tabasaran	nuradin	0041	#	#	##	##				
+tabasaran	nuradin	0041	#	#	#cv	#cv				
+tabasaran	nuradin	0041	0	0_Nuradin	0.2:obl	0	2	obl		
+tabasaran	nuradin	0041	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	nuradin	0041	ha-m-cːi-b	EMPH-PROX-ADV-NSG	ln	ln				
+tabasaran	nuradin	0041	k’ak’l.i-n	wood-GEN	ln_np:poss	ln_np		poss		
+tabasaran	nuradin	0041	metri	rule(ABS)	np:s_cv	np		s_cv	4076	new
+tabasaran	nuradin	0041	x-a-ǯi	APUD-be-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0041	sanu	else	other	other				
+tabasaran	nuradin	0041	%	%	%	%				
+tabasaran	nuradin	0041	#	#	#cv	#cv				
+tabasaran	nuradin	0041	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0041	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	nuradin	0041	č’ub-ar	span-PL(ABS)	np:p	np		p	4077	bridging
+tabasaran	nuradin	0041	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0041	quˁ-b	two-NSG	rn_dem	rn_dem				
+tabasaran	nuradin	0041	č’ub	span(ABS)	rn_np	rn_np				
+tabasaran	nuradin	0041	ha-m-in-ǯi	EMPH-PROX-SUPER-DIR	dem_pro:l	dem_pro		l		
+tabasaran	nuradin	0041	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0041	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0041	%	%	%	%				
+tabasaran	nuradin	0041	0	0_Nuradin	0.h:s	0	h	s	4002	
+tabasaran	nuradin	0041	zig-ura	draw-PRS	v:pred	v		pred		
+tabasaran	nuradin	0041	ha-m-in-ǯi	EMPH-PROX-SUPER-DIR	dem_pro:g	dem_pro		g		
+tabasaran	nuradin	0041	#	#	##	##				
+tabasaran	nuradin	0041	va	and	other	other				
+tabasaran	nuradin	0041	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0041	0	0_sheepskin	0:p	0		p	4078	bridging
+tabasaran	nuradin	0041	kta<b>t’-ura	<NSG>cut-PRS	v:pred	v		pred		
+tabasaran	nuradin	0042	#	#	##	##				
+tabasaran	nuradin	0042	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0042	0	0_sheepskin	0:p	0		p	4078	
+tabasaran	nuradin	0042	q-ip-ra	POST-(NSG)put-PRS	v:pred	v		pred		
+tabasaran	nuradin	0042	#	#	##	##				
+tabasaran	nuradin	0042	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0042	šul-a	become-PRS	v:pred	v		pred		
+tabasaran	nuradin	0042	urgm.i-n	sheepskin-GEN	ln_np:poss	ln_np		poss	4078	
+tabasaran	nuradin	0042	ʁʷal	side(ABS)	np:s	np		s	4079	bridging
+tabasaran	nuradin	0043	#	#	##	##				
+tabasaran	nuradin	0043	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0043	0	0	0:p	0		p		
+tabasaran	nuradin	0043	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0043	ap’-ura	do-PRS	v:pred	v		pred		
+tabasaran	nuradin	0043	#	#	##	##				
+tabasaran	nuradin	0043	0	0_Nuradin	0.h:s	0	h	s	4002	
+tabasaran	nuradin	0043	je<b>c-ura	<NSG>measure-PRS	v:pred	v		pred		
+tabasaran	nuradin	0043	met’ri-in-ǯi	rule-SUPER-DIR	np:obl	np		obl	4076	
+tabasaran	nuradin	0043	#	#	#cv	#cv				
+tabasaran	nuradin	0043	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0043	ziv-nu	draw-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0043	k’ark’ar	knife(ABS)	nc	nc				
+tabasaran	nuradin	0043	k’ark’r.i-in-ǯi	knife-SUPER-DIR	np:obl	np		obl	4080	bridging
+tabasaran	nuradin	0043	ubris̊-ar	scissors-PL(ABS)	np:other	np		other		
+tabasaran	nuradin	0043	fuk’a	nothing(ABS)	indef_other:other	indef_other		other		
+tabasaran	nuradin	0043	=ra	=ADD	=other	=other				
+tabasaran	nuradin	0043	%	%	%	%				
+tabasaran	nuradin	0043	#	#	#cv	#cv				
+tabasaran	nuradin	0043	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0043	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0043	ziv-nu	draw-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0043	%	%	%	%				
+tabasaran	nuradin	0043	0	0_Nuradin	0.h:a	0	h	a	4002	
+tabasaran	nuradin	0043	0	0_sheepskin	0:p	0		p	4078	
+tabasaran	nuradin	0043	q-ip-ra	POST-put-PRS	v:pred	v		pred		
+tabasaran	nuradin	0043	#	#	##	##				
+tabasaran	nuradin	0043	šul-a	become-PRS	v:pred	v		pred		
+tabasaran	nuradin	0043	urgm.i-n	sheepskin-GEN	ln_np:poss	ln_np		poss	4078	
+tabasaran	nuradin	0043	ʁʷal	side(ABS)	np:s	np		s	4079	
+tabasaran	nuradin	0044	#	#	##	##				
+tabasaran	nuradin	0044	#	#	#ac_pc	#ac_pc				
+tabasaran	nuradin	0044	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0044	značit	PTCL	other	other				
+tabasaran	nuradin	0044	hamus	now	other	other				
+tabasaran	nuradin	0044	fikir	thought	other:lvc	other		lvc		
+tabasaran	nuradin	0044	ʁ-ap’-i-ge	PFV-do-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	nuradin	0044	%	%	%	%				
+tabasaran	nuradin	0044	zurba	strong	ln_adj	ln_adj				
+tabasaran	nuradin	0044	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	nuradin	0044	#	#	#rc_pc	#rc_pc				
+tabasaran	nuradin	0044	fikir	thought(ABS)	np:s_pc	np		s_pc		
+tabasaran	nuradin	0044	a-ji	(IN)be-PTCP	v:predex	v		predex		
+tabasaran	nuradin	0044	%	%	%	%				
+tabasaran	nuradin	0044	k’ul	head(ABS)	np:s	np		s	4005	
+tabasaran	nuradin	0044	vu	COP	v:predex	v		predex		
+tabasaran	nuradin	0045	#	#	##neg	##neg				
+tabasaran	nuradin	0045	0	0_speaker	0.1:ncs	0	1	ncs	4000	unused
+tabasaran	nuradin	0045	aˁj-do	know-PRS.NEG	v:pred	v		pred		
+tabasaran	nuradin	0045	=z	=1SG+DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	nuradin	0045	#	#	#cc:p	#cc		p		
+tabasaran	nuradin	0045	0	0_Nuradin	0.h:ncs_poss_cv	0	h	ncs_poss_cv	4002	
+tabasaran	nuradin	0045	muva-n	PROX-GEN	ln_dem_pro:poss	ln_dem_pro		poss	4002	
+tabasaran	nuradin	0045	ficːi-b	how-NSG	other	other				
+tabasaran	nuradin	0045	hunar	talent(ABS)	np:p	np		p	4081	new
+tabasaran	nuradin	0045	k-a-ǯi	CONT-be-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0045	a-b-x-nu-š	PFV-NSG-become-PST-COND	rv_aux	rv_aux				
+tabasaran	nuradin	0045	#	#	##neg	##neg				
+tabasaran	nuradin	0045	#	#	#cc:p	#cc		p		
+tabasaran	nuradin	0045	duva-n	3.P-GEN	other	other				
+tabasaran	nuradin	0045	ficːi	how	other	other				
+tabasaran	nuradin	0045	a-b-x-nu-š	PFV-NSG-become-PST-COND	v:pred	v		pred		
+tabasaran	nuradin	0045	%	%	%	%				
+tabasaran	nuradin	0045	0	0_speaker	0.1:ncs	0	1	ncs	4000	
+tabasaran	nuradin	0045	aˤj-do	know-PRS.NEG	v:pred	v		pred		
+tabasaran	nuradin	0045	=z	=1SG+DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	nuradin	0045	#	#	##neg	##neg				
+tabasaran	nuradin	0045	0	0_Nuradin	0.h:a_cp	0	h	a_cp	4002	
+tabasaran	nuradin	0045	fǯ.i-in-ǯi	what-SUPER-DIR	other	other				
+tabasaran	nuradin	0045	hisab-ar	count-PL(ABS)	other:lvc	other		lvc		
+tabasaran	nuradin	0045	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	nuradin	0045	a-x-nu-š	PFV-(PL)become-PST-COND	rv_aux	rv_aux				
+tabasaran	nuradin	0045	%	%	%	%				
+tabasaran	nuradin	0045	0	0_speaker	0.1:ncs	0	1	ncs	4000	
+tabasaran	nuradin	0045	aˤj-do	know-PRS.NEG	v:pred	v		pred		
+tabasaran	nuradin	0045	=z	=1SG+DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	nuradin	0045	#	#	##neg	##neg				
+tabasaran	nuradin	0045	0	0_speaker	0.1:ncs_cp	0	1	ncs_cp	4000	
+tabasaran	nuradin	0045	ʁavri	in_mind	other:lvc	other		lvc		
+tabasaran	nuradin	0045	aq-ra-dar	(PL)fall-PRS-NEG	v:pred	v		pred		
+tabasaran	nuradin	0046	#	#	##	##				
+tabasaran	nuradin	0046	#	#	#ac_pc	#ac_pc				
+tabasaran	nuradin	0046	0	0	0.2:s_pc	0	2	s_pc		
+tabasaran	nuradin	0046	ha-mu-saˤaˁt	EMPH-PROX-hour	np:other	np		other		
+tabasaran	nuradin	0046	portnoj.ǯi-x-na	tailor-APUD-LAT	np.h:g	np	h	g	4082	bridging
+tabasaran	nuradin	0046	ʁ-uš-i-ge	PFV-<HSG>go-PFV.PTCP-TEMP	v:pred	v		pred		
+tabasaran	nuradin	0046	%	%	%	%				
+tabasaran	nuradin	0046	0	0_tailor	0.h:a	0	h	a	4082	
+tabasaran	nuradin	0046	jaʁc̊’ur	forty	ln_num	ln_num				
+tabasaran	nuradin	0046	raǯ-ar.i	time-PL(ERG)	np:other	np		other		
+tabasaran	nuradin	0046	je<r>c-ura	<NSG>measure-PRS	v:pred	v		pred		
+tabasaran	nuradin	0046	metr.i-in-ǯi	rule-SUPER-DIR	np:obl	np		obl	4083	bridging
+tabasaran	nuradin	0046	#	#	##neg	##neg				
+tabasaran	nuradin	0046	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0046	ha-m-s̊a	EMPH-PROX-place(IN)	np:l	np		l		
+tabasaran	nuradin	0046	duvu	3.P(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0046	0	0	0:p	0		p		
+tabasaran	nuradin	0046	di-cː-dar	3.P-ADV-PL	other	other				
+tabasaran	nuradin	0046	ap’u-da-j	do-NEG-IPFV	v:pred	v		pred		
+tabasaran	nuradin	0047	#	#	##	##				
+tabasaran	nuradin	0047	#	#	#cv	#cv				
+tabasaran	nuradin	0047	0	0_Nuradin	0.h:s_cv	0	h	s_cv	4002	
+tabasaran	nuradin	0047	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	nuradin	0047	di-lig-nu	PFV-(HSG)look-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0047	#	#	#cv	#cv				
+tabasaran	nuradin	0047	0	0_Nuradin	0.h:a_cv	0	h	a_cv	4002	
+tabasaran	nuradin	0047	č’ub-ar	span-PL(ABS)	np:p	np		p		
+tabasaran	nuradin	0047	je<r>c-nu	<PL>measure-PCVB	v:pred	v		pred		
+tabasaran	nuradin	0047	%	%	%	%				
+tabasaran	nuradin	0047	0	0_Nuradin	0.h:s	0	h	s	4002	
+tabasaran	nuradin	0047	b-irχ-uj	NSG-sew-IPFV	v:pred	v		pred		
+tabasaran	nuradin	0047	ča-n	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	4002	
+tabasaran	nuradin	0047	točna	exactly	ln_adj	ln_adj				
+tabasaran	nuradin	0047	razmer	size(ABS)	np:other	np		other	4084	bridging
+tabasaran	nuradin	0048	#	#	##	##				
+tabasaran	nuradin	0048	ha-m-cː-dar	EMPH-PROX-ADV-PL	ln	ln				
+tabasaran	nuradin	0048	urgm-ar	sheepskin-PL(ABS)	np:p	np		p	4085	bridging
+tabasaran	nuradin	0048	d-irχ-uru	PL-sew-FUT	v:pred	v		pred		
+tabasaran	nuradin	0048	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0049	#	#	##	##				
+tabasaran	nuradin	0049	ha-mu-saˤaˤt.ǯi	EMPH-PROX-hour(ERG)	np:other	np		other		
+tabasaran	nuradin	0049	ix	our.INCL	ln_pro.1:poss	ln_pro	1	poss	4041	
+tabasaran	nuradin	0049	ʁul.a	village(IN)	np:pred_l	np		pred_l	4031	
+tabasaran	nuradin	0049	ha-dmu	EMPH-3.P(ABS)	ln_dem	ln_dem				
+tabasaran	nuradin	0049	#	#	#rc_pc	#rc_pc				
+tabasaran	nuradin	0049	0	0_Nuradin	0.2:a_pc	0	2	a_pc		
+tabasaran	nuradin	0049	0	0_sheepskin	rel_f0:p	rel_f0		p		
+tabasaran	nuradin	0049	di-d-irχ-na-ji	PFV-PL-sew-RES-PTCP	v:pred	v		pred		
+tabasaran	nuradin	0049	%	%	%	%				
+tabasaran	nuradin	0049	urgam-ar	sheepskin-PL	np:s	np		s	4085	
+tabasaran	nuradin	0049	=a	=ADD	=other	=other				
+tabasaran	nuradin	0049	imi-du	remain-FUT	v:pred	v		pred		
+tabasaran	nuradin	0050	#	#	##	##				
+tabasaran	nuradin	0050	gizaf	much	other	other				
+tabasaran	nuradin	0050	duva-z	3.P	other	other				
+tabasaran	nuradin	0050	hamiša	always	other	other				
+tabasaran	nuradin	0050	duˤa	prayer(ABS)	other:lvc	other		lvc		
+tabasaran	nuradin	0050	ap’-ura	do-PRS	v:pred	v		pred		
+tabasaran	nuradin	0050	χalq’.ǯi	people(ERG)	dem_pro.h:a	dem_pro	h	a	4086	bridging
+tabasaran	nuradin	0050	#	#	##ds	##ds				
+tabasaran	nuradin	0050	0	0_Nuradin	0.h:s	0	h	s	4002	
+tabasaran	nuradin	0050	#	#	#rc_pc	#rc_pc				
+tabasaran	nuradin	0050	0	0_person	rel_f0.h:ncs_poss_pc	rel_f0	h	ncs_poss_pc		
+tabasaran	nuradin	0050	ha-cːi-b	EMPH-(DIST)ADV-NSG	ln	ln				
+tabasaran	nuradin	0050	hunar	talent(ABS)	np:p	np		p		
+tabasaran	nuradin	0050	k-a-ji	CONT-be-PTCP	v:pred	v		pred		
+tabasaran	nuradin	0050	%	%	%	%				
+tabasaran	nuradin	0050	insan	person(ABS)	np.h:pred	np	h	pred		
+tabasaran	nuradin	0050	vu	COP	cop	cop				
+tabasaran	nuradin	0050	k’uri	CIT	other	other				
+tabasaran	nuradin	0051	#	#	##	##				
+tabasaran	nuradin	0051	qa	PTCL	other	other				
+tabasaran	nuradin	0051	ix	our.INCL	ln_pro.1:poss	ln_pro	1	poss	4086	
+tabasaran	nuradin	0051	ʁul.a	village(IN)	np:l	np		l	4041	
+tabasaran	nuradin	0051	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss	4002	
+tabasaran	nuradin	0051	χl-ar.i-in-ǯi	hand-PL-SUPER-DIR	np:obl	np		obl	4087	bridging
+tabasaran	nuradin	0051	duvu	3.P(ERG)	dem_pro.h:a	dem_pro	h	a	4002	
+tabasaran	nuradin	0051	χl-ar	house-PL	np:p	np		p	4088	bridging
+tabasaran	nuradin	0051	=a	=ADD	=other	=other				
+tabasaran	nuradin	0051	ʁ-ap’-nu	PFV-do-PST	v:pred	v		pred		
+tabasaran	nuradin	0051	#	#	##	##				
+tabasaran	nuradin	0051	#	#	#rc_pc	#rc_pc				
+tabasaran	nuradin	0051	0	0_man	rel_f0.h:a_pc	rel_f0	h	a_pc		
+tabasaran	nuradin	0051	ha-cː-dar	EMPH-(DIST)ADV-PL	other	other				
+tabasaran	nuradin	0051	zehmet-ar	work-PL(ABS)	np:p	np		p		
+tabasaran	nuradin	0051	ʁi-ziv-u	PFV-draw-PFV.PTCP	v:pred	v		pred		
+tabasaran	nuradin	0051	%	%	%	%				
+tabasaran	nuradin	0051	insan	man(ABS)	np.h:pred	np	h	pred		
+tabasaran	nuradin	0051	a-ji	COP-IPFV	cop	cop				
+tabasaran	nuradin	0051	dumu	3.P(ABS)	dem_pro.h:s	dem_pro	h	s	4002	
+tabasaran	nuradin	0051	raˁhmatlu	deceased	ln_adj	ln_adj				
+tabasaran	nuradin	0051	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	nuradin	0051	aba	old_man(ABS)	np.h:appos	np	h	appos	4002	
+tabasaran	nuradin	0052	#	#	#nc	#nc				
+tabasaran	nuradin	0052	ʁit	(PL)leave(IMP)	nc	nc				
+tabasaran	nuradin	0052	ča-n	REFL.SG-GEN	nc	nc				
+tabasaran	nuradin	0052	raˁhmat	mercy(ABS)	nc	nc				
+tabasaran	nuradin	0052	i<b>š-ri	<NSG>become-JUSS	nc	nc				
+tabasaran	nuradin	0052	ča-z	REFL.SG-DAT	nc	nc				

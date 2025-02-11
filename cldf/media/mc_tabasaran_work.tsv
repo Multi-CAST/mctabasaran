@@ -1,0 +1,3069 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tabasaran	work	0001	#	#	##	##				
+tabasaran	work	0001	sa-r	one-HSG	ln_num	ln_num				
+tabasaran	work	0001	aba.ji-z	grandfather-DAT	np.h:ncs_poss	np	h	ncs_poss	5002	new
+tabasaran	work	0001	a-ǯi	(IN)be-ICVB	v:predex	v		predex		
+tabasaran	work	0001	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0001	šubu-r	three-HSG	ln_num	ln_num				
+tabasaran	work	0001	baž	boy(ABS)	np.h:p	np	h	p	5003	new
+tabasaran	work	0001	pirim	Pirim	pn_np.h:appos	pn_np	h	appos	5004	bridging
+tabasaran	work	0001	=na	=and	=rn	=rn				
+tabasaran	work	0001	kerim	Kerim	rn_pn_np.h	rn_pn_np	h		5005	bridging
+tabasaran	work	0001	=na	=and	=rn	=rn				
+tabasaran	work	0001	selim	Selim	rn_pn_np.h	rn_pn_np	h		5006	bridging
+tabasaran	work	0002	#	#	##	##				
+tabasaran	work	0002	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0002	aba.ji	grandfather(ERG)	np.h:a	np	h	a	5002	
+tabasaran	work	0002	mu-rar	PROX-PL(ABS)	dem_pro.h:p	dem_pro	h	p	5003	
+tabasaran	work	0002	ha-cːi	EMPH-(DIST)ADV	other	other				
+tabasaran	work	0002	uˁ<r>χ-uˁru	<PL>save-FUT	v:pred	v		pred		
+tabasaran	work	0003	#	#	#cv.neg	#cv.neg				
+tabasaran	work	0003	0	0_sons	0.h:ncs_cv	0	h	ncs_cv	5003	
+tabasaran	work	0003	sa-b	one-NSG	ln	ln				
+tabasaran	work	0003	darval	need(ABS)	np:p	np		p		
+tabasaran	work	0003	sa-b	one-NSG	rn	rn				
+tabasaran	work	0003	aˁzjat	misery(ABS)	rn_np	rn_np				
+tabasaran	work	0003	fu-vuš	what-INDEF(ABS)	rn	rn				
+tabasaran	work	0003	=q’a	=PRT	=rn	=rn				
+tabasaran	work	0003	aˁj-dar-ǯi	know-NEG-ICVB	v:pred	v		pred		
+tabasaran	work	0003	#	#	##	##				
+tabasaran	work	0003	aba	grandfather(ABS)	np.h:s	np	h	s	5002	
+tabasaran	work	0003	#	#	#rc_pc	#rc_pc				
+tabasaran	work	0003	0	0	rel_f0.h:s_pc	rel_f0	h	s_pc		
+tabasaran	work	0003	uǯu-b	good-NSG	other:pred	other		pred		
+tabasaran	work	0003	zehmetkeš	industrious	other	other				
+tabasaran	work	0003	a-ji	(IN)be-PTCP	cop	cop				
+tabasaran	work	0003	%	%	%	%				
+tabasaran	work	0003	insan	man(ABS)	np.h:pred	np	h	pred		
+tabasaran	work	0003	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	work	0003	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0003	#	#	#pc	#pc				
+tabasaran	work	0003	0	0_father	0.h:ncs_poss	0	h	ncs_poss	5002	
+tabasaran	work	0003	uǯu-b	good-NSG	ln_adj	ln_adj				
+tabasaran	work	0003	devlet	wealth(ABS)	np:p	np		p		
+tabasaran	work	0003	a-ji	(IN)be-PTCP	v:predex	v		predex		
+tabasaran	work	0003	#	#	##	##				
+tabasaran	work	0003	0	0_father	0.h:ncs_poss	0	h	ncs_poss	5002	
+tabasaran	work	0003	uǯu-r	good-PL	ln_adj	ln_adj				
+tabasaran	work	0003	ha-dmu	EMPH-3.P(ABS)	ln_dem	ln_dem				
+tabasaran	work	0003	=q’an	=PRT	=ln	=ln				
+tabasaran	work	0003	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss		
+tabasaran	work	0003	qu<r>q’u-val-ar	<HSG>reach-ABSTR-PL(ABS)	np:p	np		p		
+tabasaran	work	0003	a-ǯi	(IN)be-ICVB	v:predex	v		predex		
+tabasaran	work	0004	#	#	##	##				
+tabasaran	work	0004	#	#	#cv.neg	#cv.neg				
+tabasaran	work	0004	sa-b.ǯi-k-an	one-NSG-CONT-ELAT	ln	ln				
+tabasaran	work	0004	=q’a	=PRT	=ln	=ln				
+tabasaran	work	0004	fikir	thought(ABS)	np:s_cv	np		s_cv		
+tabasaran	work	0004	k-tːar-ǯi	CONT-be:NEG-ICVB	v:predex	v		predex		
+tabasaran	work	0004	%	%	%	%				
+tabasaran	work	0004	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0004	baž-ar	boy-PL(ABS)	np.h:s	np	h	s	5003	
+tabasaran	work	0004	aˁχuˁ	big	other	other				
+tabasaran	work	0004	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0005	#	#	#cv.neg	#cv.neg				
+tabasaran	work	0005	čpːi	REFL(PL)	refl.h:a	refl	h	a	5003	
+tabasaran	work	0005	#	#	#cc:p	#cc		p		
+tabasaran	work	0005	0	0_sons	0.h:a	0	h	a	5003	
+tabasaran	work	0005	fu	what	intrg_other:p	intrg_other		p		
+tabasaran	work	0005	ʁ-ip’-nu-š	PFV-<NSG>eat-AOR-COND	v:pred	v		pred		
+tabasaran	work	0005	%	%	%	%				
+tabasaran	work	0005	#	#	#cc:p	#cc		p		
+tabasaran	work	0005	0	0_sons	0.h:a	0	h	a	5003	
+tabasaran	work	0005	fu	what	intrg_other:p	intrg_other		p		
+tabasaran	work	0005	ʁ-u<b>q-nu-š	PFV-<NSG>drink-AOR-COND	v:pred	v		pred		
+tabasaran	work	0005	%	%	%	%				
+tabasaran	work	0005	aˁj-dar-ǯi	know-NEG-ICVB	v:pred	v		pred		
+tabasaran	work	0005	#	#	#nc	#nc				
+tabasaran	work	0005	naʔna	where	nc	nc				
+tabasaran	work	0005	ʁa-f-nu-š	PFV-come-AOR-COND	nc	nc				
+tabasaran	work	0005	q’adar	amount(ABS)	nc	nc				
+tabasaran	work	0005	a-dar-ǯi	(IN)be-NEG-ICVB	nc	nc				
+tabasaran	work	0005	ha-m-cːi	EMPH-PROX-ADV	nc	nc				
+tabasaran	work	0005	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0005	čpːi-z	REFL(PL)-DAT	refl.h:ncs_pc	refl	h	ncs_pc	5003	
+tabasaran	work	0005	gun-i	want-PTCP	v:pred	v		pred		
+tabasaran	work	0005	%	%	%	%				
+tabasaran	work	0005	si	as	other	other				
+tabasaran	work	0005	dulanmiš	live	other:lvc	other		lvc		
+tabasaran	work	0005	šul-a-ǯi	become-PRS-ICVB	v:pred	v		pred		
+tabasaran	work	0005	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0005	mu-rar	PROX-PL(ABS)	dem_pro.h:s_cp	dem_pro	h	s_cp	5003	
+tabasaran	work	0006	#	#	##	##				
+tabasaran	work	0006	insan.ǯi-n	person-GEN	ln_np.h:poss	ln_np	h	poss		
+tabasaran	work	0006	uˁmur	life(ABS)	np:s	np		s		
+tabasaran	work	0006	ha-cːi-b	EMPH-DIST+ADV-NSG	other	other				
+tabasaran	work	0006	u	COP	cop	cop				
+tabasaran	work	0006	#	#	#cc.neg:pred	#cc.neg		pred		
+tabasaran	work	0006	aˁχir	end(ABS)	np:s	np		s		
+tabasaran	work	0006	a-dr-ub	(IN)be-NEG-NSG	v:predex	v		predex		
+tabasaran	work	0006	dar	COP:NEG	rv_aux	rv_aux				
+tabasaran	work	0006	#	#	##	##				
+tabasaran	work	0006	vari-b.ǯi-z	all-NSG-DAT	np:ncs_poss	np		ncs_poss		
+tabasaran	work	0006	aˁχir	end(ABS)	np:p	np		p		
+tabasaran	work	0006	a-ji-b	(IN)be-PTCP-NSG	v:predex	v		predex		
+tabasaran	work	0006	vu	COP	rv_aux	rv_aux				
+tabasaran	work	0007	#	#	##	##				
+tabasaran	work	0007	#	#	#cv	#cv				
+tabasaran	work	0007	jiʁ-ar.i-k-an	day-PL-CONT-ELAT	np:other	np		other		
+tabasaran	work	0007	sa-d	one-NSG	ln_num	ln_num				
+tabasaran	work	0007	jiʁ.a-n	day-GEN	np:other	np		other		
+tabasaran	work	0007	aba	grandfather(ABS)	np.h:s_cv	np	h	s_cv	5002	
+tabasaran	work	0007	aldak-nu	<HSG>fall-PCVB	v:pred	v		pred		
+tabasaran	work	0007	%	%	%	%				
+tabasaran	work	0007	0	0_father	0.h:s	0	h	s	5002	
+tabasaran	work	0007	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0007	raˁhmat.ǯi-z	merciful-DAT	np.h:g	np	h	g		
+tabasaran	work	0008	#	#	##	##				
+tabasaran	work	0008	aba	grandfather(ABS)	np.h:s	np	h	s	5002	
+tabasaran	work	0008	raˁhmat.ǯi-z	merciful-DAT	np.h:g	np	h	g		
+tabasaran	work	0008	ʁ-uš-nu	PFV-<HSG>go-AOR	v:pred	v		pred		
+tabasaran	work	0008	#	#	#cv	#cv				
+tabasaran	work	0008	baž-ar.i	boy-PL(ERG)	np.h:a_cv	np	h	a_cv	5003	
+tabasaran	work	0008	vari	all	ln	ln				
+tabasaran	work	0008	aˁdat	custom(ABS)	np:p	np		p		
+tabasaran	work	0008	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	work	0008	#	#	##	##				
+tabasaran	work	0008	0	0_sons	0.h:a	0	h	a	5003	
+tabasaran	work	0008	čpːi-n	REFL(PL)-GEN	ln_refl.h:poss	ln_refl	h	poss	5003	
+tabasaran	work	0008	aba	grandfather(ABS)	np.h:p	np	h	p	5002	
+tabasaran	work	0008	=ra	=ADD	=other	=other				
+tabasaran	work	0008	k-iv-nu	CONT-put-AOR	v:pred	v		pred		
+tabasaran	work	0008	#	#	##	##				
+tabasaran	work	0008	#	#	#cv	#cv				
+tabasaran	work	0008	0	0_sons	0.h:a_cp_cv	0	h	a_cp_cv	5003	
+tabasaran	work	0008	0	0_father	0.h:p	0	h	p	5002	
+tabasaran	work	0008	salamat	quietness(ABS)	other:lvc	other		lvc		
+tabasaran	work	0008	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	work	0008	%	%	%	%				
+tabasaran	work	0008	#	#	#cv	#cv				
+tabasaran	work	0008	0	0_sons	0.h:a_cp_cv	0	h	a_cp_cv	5003	
+tabasaran	work	0008	sadaq’a	alms(ABS)	other:lvc	other		lvc		
+tabasaran	work	0008	=ra	=ADD	=other	=other				
+tabasaran	work	0008	tuv-nu	do-PCVB	v:pred	v		pred		
+tabasaran	work	0008	%	%	%	%				
+tabasaran	work	0008	0	0_sons	0.h:s	0	h	s	5003	
+tabasaran	work	0008	dus-ru	<PL>sit-FUT	v:pred	v		pred		
+tabasaran	work	0009	#	#	##	##				
+tabasaran	work	0009	c’i-b	small-NSG	ln_adj	ln_adj				
+tabasaran	work	0009	vaχt.na-l-an	time-SUPER-ELAT	np:other	np		other		
+tabasaran	work	0009	dada	mother(ABS)	np.h:s	np	h	s	5007	bridging
+tabasaran	work	0009	=ra	=ADD	=other	=other				
+tabasaran	work	0009	raˁhmat.ǯi-z	merciful-DAT	np.h:g	np	h	g		
+tabasaran	work	0009	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0010	#	#	##	##				
+tabasaran	work	0010	0	0_sons	0.h:a_cp	0	h	a_cp	5003	
+tabasaran	work	0010	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	5007	
+tabasaran	work	0010	=ra	=ADD	=other	=other				
+tabasaran	work	0010	salamat	quietness(ABS)	other:lvc	other		lvc		
+tabasaran	work	0010	ap’u-ru	do-FUT	v:pred	v		pred		
+tabasaran	work	0011	#	#	##	##				
+tabasaran	work	0011	#	#	#cv	#cv				
+tabasaran	work	0011	0	0_sons	0.h:a_cp_cv	0	h	a_cp_cv	5003	
+tabasaran	work	0011	muva-n	PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	5003	
+tabasaran	work	0011	=ra	=ADD	=other	=other				
+tabasaran	work	0011	k’an	bottom(ABS)	ln	ln				
+tabasaran	work	0011	k’ul	head(ABS)	other:lvc	other		lvc		
+tabasaran	work	0011	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	work	0011	%	%	%	%				
+tabasaran	work	0011	#	#	#cv	#cv				
+tabasaran	work	0011	0	0_sons	0.h:a_cv	0	h	a_cv	5003	
+tabasaran	work	0011	čpːi-n	REFL(PL)-GEN	ln_refl.h:poss	ln_refl	h	poss	5003	
+tabasaran	work	0011	vari	all	ln	ln				
+tabasaran	work	0011	aˁdat-ar	custom-PL(ABS)	np:p	np		p		
+tabasaran	work	0011	d-uˁ<r>χ-nu	PFV-<PL>save-PCVB	v:pred	v		pred		
+tabasaran	work	0011	%	%	%	%				
+tabasaran	work	0011	#	#	#cv	#cv				
+tabasaran	work	0011	0	0_sons	0.h:a_cv	0	h	a_cv	5003	
+tabasaran	work	0011	lamus	dignity(ABS)	np:p	np		p		
+tabasaran	work	0011	d-uˁ<b>χ-nu	PFV-<NSG>save-PCVB	v:pred	v		pred		
+tabasaran	work	0011	#	#	#cv	#cv				
+tabasaran	work	0011	0	0_sons	0.h:a_cv	0	h	a_cv	5003	
+tabasaran	work	0011	čpːi-n	REFL(PL)-GEN	ln_refl.h:poss	ln_refl	h	poss	5003	
+tabasaran	work	0011	jas	mourning(ABS)	np:p	np		p		
+tabasaran	work	0011	=ra	=ADD	=other	=other				
+tabasaran	work	0011	d-uˁ<b>χ-nu	PFV-<NSG>save-PCVB	v:pred	v		pred		
+tabasaran	work	0011	dada.ji-n	mother-GEN	rn_np.h:poss	rn_np	h	poss	5007	
+tabasaran	work	0011	=ra	=ADD	=rn	=rn				
+tabasaran	work	0011	adaš.i-n	father-GEN	rn_np.h:poss	rn_np	h	poss	5006	
+tabasaran	work	0011	=ra	=ADD	=rn	=rn				
+tabasaran	work	0011	#	#	##	##				
+tabasaran	work	0011	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	work	0011	vaχtː-ar	time-PL(ABS)	np:s	np		s		
+tabasaran	work	0011	ʁ-uš-nu	PFV-<PL>go-AOR	v:pred	v		pred		
+tabasaran	work	0012	#	#	##	##				
+tabasaran	work	0012	qana	then	other	other				
+tabasaran	work	0012	0	0_sons	0.h:a_cp	0	h	a_cp	5003	
+tabasaran	work	0012	čpːi-n	REFL(PL)-GEN	ln_refl.h:poss	ln_refl	h	poss	5003	
+tabasaran	work	0012	dulanmiš	live	other:lvc	other		lvc		
+tabasaran	work	0012	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0012	dus-ru	<PL>sit-FUT	rv_aux	rv_aux				
+tabasaran	work	0013	#	#	#nc	#nc				
+tabasaran	work	0013	χabar	new(ABS)	nc	nc				
+tabasaran	work	0013	naʔna	where	nc	nc				
+tabasaran	work	0014	#	#	##	##				
+tabasaran	work	0014	#	#	#cv.neg	#cv.neg				
+tabasaran	work	0014	čpːi-z	REFL(PL)-DAT	refl.h:ncs_cv	refl	h	ncs_cv	5003	
+tabasaran	work	0014	=ra	=ADD	=other	=other				
+tabasaran	work	0014	aˁj-dar-ǯi	know-NEG-ICVB	v:pred	v		pred		
+tabasaran	work	0014	%	%	%	%				
+tabasaran	work	0014	baž-ar.i-n	boy-PL-GEN	ln_np.h:poss	ln_np	h	poss	5003	
+tabasaran	work	0014	devlet	wealth(ABS)	np:s	np		s	5008	new
+tabasaran	work	0014	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0014	c’i-b	little-NSG	other	other				
+tabasaran	work	0014	#	#	##	##				
+tabasaran	work	0014	0	0_wealth	0:s	0		s	5008	
+tabasaran	work	0014	gudu<b>k’-ura	<NSG>finish-PRS	v:pred	v		pred		
+tabasaran	work	0015	#	#	##	##				
+tabasaran	work	0015	vah	INTERJ	other	other				
+tabasaran	work	0015	0	0_sons	0.h:s	0	h	s	5003	
+tabasaran	work	0015	lig-uru	<PL>look-FUT	v:pred	v		pred		
+tabasaran	work	0015	#	#	##neg	##neg				
+tabasaran	work	0015	0	0	0:s	0		s	5008	
+tabasaran	work	0015	am-dar	(IN)be-PRS:NEG	v:predex	v		predex		
+tabasaran	work	0016	#	#	##ds	##ds				
+tabasaran	work	0016	ja	VOC	ln	ln				
+tabasaran	work	0016	pirim	Pirim	pn_np.h:voc	pn_np	h	voc	5004	
+tabasaran	work	0016	ja	VOC	ln	ln				
+tabasaran	work	0016	kerim	Kerim	pn_np.h:voc	pn_np	h	voc	5005	
+tabasaran	work	0016	ja	VOC	ln	ln				
+tabasaran	work	0016	selim	Selim	pn_np.h:voc	pn_np	h	voc	5006	
+tabasaran	work	0016	0	0_sons	0.1:a	0	1	a	5003	
+tabasaran	work	0016	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	work	0016	#	#	##ds	##ds				
+tabasaran	work	0016	0	0_sons	0.1:a	0	1	a	5003	
+tabasaran	work	0016	ficːi	how	other	other				
+tabasaran	work	0016	ap’-u-ru	do-FUT	v:pred	v		pred		
+tabasaran	work	0017	#	#	##	##				
+tabasaran	work	0017	pirim.ǯi	Pirim(ERG)	pn_np.h:a_ds	pn_np	h	a_ds	5004	
+tabasaran	work	0017	k’-ur	say-FUT	v:pred	v		pred		
+tabasaran	work	0017	#	#	##ds	##ds				
+tabasaran	work	0017	0	0_you	0.2:s	0	2	s	5009	bridging
+tabasaran	work	0017	javaš-ir	hold_on-IMP.PL	v:pred	v		pred		
+tabasaran	work	0017	k’ur	CIT	other	other				
+tabasaran	work	0017	#	#	##ds	##ds				
+tabasaran	work	0017	uzu	I	pro.1:s	pro	1	s	5004	
+tabasaran	work	0017	aˁχuˁ-r	old-HSG	other:pred	other		pred		
+tabasaran	work	0017	vu	COP	cop	cop				
+tabasaran	work	0017	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	work	0017	k’ur	CIT	other	other				
+tabasaran	work	0018	#	#	##ds	##ds				
+tabasaran	work	0018	uc̊u	you(PL)	pro.2:s	pro	2	s	5009	
+tabasaran	work	0018	ʁuz-ir	<PL>stay-IMP.PL	v:pred	v		pred		
+tabasaran	work	0018	k’ur	CIT	other	other				
+tabasaran	work	0018	#	#	##ds	##ds				
+tabasaran	work	0018	uzu	I	pro.1:s	pro	1	s	5004	
+tabasaran	work	0018	#	#	#ds_ac_in	#ds_ac_in				
+tabasaran	work	0018	0	0_Pirim	f0.1:a_in	f0	1	a_in	5004	
+tabasaran	work	0018	uxu-z	we(INCL)-DAT	pro.1:obl	pro	1	obl	5003	
+tabasaran	work	0018	laˁχin	work	np:p	np		p	5010	new
+tabasaran	work	0018	a<b>g-uz	<NSG>search-INF	vother:pred	vother		pred		
+tabasaran	work	0018	%	%	%	%				
+tabasaran	work	0018	aˁr	<HSG>go	v:pred	v		pred		
+tabasaran	work	0018	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	work	0018	k’ur	CIT	other	other				
+tabasaran	work	0019	#	#	#nc	#nc				
+tabasaran	work	0019	i<b>š-ri	<NSG>become-JUSS	nc	nc				
+tabasaran	work	0019	k’ur	CIT	nc	nc				
+tabasaran	work	0020	#	#	##ds	##ds				
+tabasaran	work	0020	lig-ir	<PL>look-IMP.PL	v:pred	v		pred		
+tabasaran	work	0020	ha	PRT	other	other				
+tabasaran	work	0020	uc̊u	you(PL)	pro.2:s	pro	2	s	5009	
+tabasaran	work	0020	#	#	##ds	##ds				
+tabasaran	work	0020	0	0_you	0.2:a_cp	0	2	a_cp	5009	
+tabasaran	work	0020	ix	our(EXCL)	ln_pro.1:poss	ln_pro	1	poss	5003	
+tabasaran	work	0020	χal	house(ABS)	np:p	np		p	5011	bridging
+tabasaran	work	0020	k’ul.i	head(IN)	other:lvc	other		lvc		
+tabasaran	work	0020	ʁe-je<b>χ-ir	PFV-<NSG>bring-IMP.PL	v:pred	v		pred		
+tabasaran	work	0020	k’ur	CIT	other	other				
+tabasaran	work	0020	#	#	##ds	##ds				
+tabasaran	work	0020	0	0_you	0.2:s	0	2	s	5009	
+tabasaran	work	0020	a-ji	(IN)be-PTCP	np:obl	np		obl		
+tabasaran	work	0020	a-dr-u-b.ǯi-z	(IN)be-NEG-PTCP-NSG-DAT	rn_np	rn_np				
+tabasaran	work	0020	lig-ir	<PL>look-IMP.PL	v:pred	v		pred		
+tabasaran	work	0020	k’ur	CIT	other	other				
+tabasaran	work	0021	#	#	##ds	##ds				
+tabasaran	work	0021	uzu	I	pro.1:a	pro	1	a	5004	
+tabasaran	work	0021	uxu-z	we(INCL)-DAT	pro.1:obl	pro	1	obl	5003	
+tabasaran	work	0021	laˁχin	work(ABS)	np:p	np		p	5010	
+tabasaran	work	0021	a<b>g-ur	<NSG>search-FUT	v:pred	v		pred		
+tabasaran	work	0021	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0021	k’ur	CIT	other	other				
+tabasaran	work	0022	#	#	##	##				
+tabasaran	work	0022	#	#	#cv	#cv				
+tabasaran	work	0022	pirim	Pirim	pn_np.h:a_cv	pn_np	h	a_cv	5004	
+tabasaran	work	0022	ʁada<b>ʁ-nu	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0022	ča-z	REFL-DAT	refl.h:g	refl	h	g	5004	
+tabasaran	work	0022	#	#	#rc_pc	#rc_pc			5012	
+tabasaran	work	0022	0	0_Pirim	0.h:a_pc	0	h	a_pc	5004	
+tabasaran	work	0022	0	0_clothes	rel_f0:p	rel_f0		p	5012	
+tabasaran	work	0022	ala<b>x-ru	<NSG>put_on-PTCP	v:pred	v		pred		
+tabasaran	work	0022	%	%	%	%				
+tabasaran	work	0022	palat	clothes(ABS)	np:p	np		p	5012	new
+tabasaran	work	0022	=ra	=ADD	=other	=other				
+tabasaran	work	0022	%	%	%	%				
+tabasaran	work	0022	#	#	#cv	#cv				
+tabasaran	work	0022	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0022	huˁǯuˁχ-ru	change-PTCP	ln	ln				
+tabasaran	work	0022	palat	clothes(ABS)	np:p	np		p	5013	new
+tabasaran	work	0022	=ra	=ADD	=other	=other				
+tabasaran	work	0022	ʁada<b>ʁ-nu	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0022	%	%	%	%				
+tabasaran	work	0022	#	#	#cv	#cv				
+tabasaran	work	0022	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0022	erč-nu	<PL>put-PCVB	v:pred	v		pred		
+tabasaran	work	0022	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss	5004	
+tabasaran	work	0022	hirbin	saddle_bag(ABS)	np:p	np		p	5014	new
+tabasaran	work	0022	ʁuˁn.i	shoulder(IN)	np:g	np		g	5015	bridging
+tabasaran	work	0022	%	%	%	%				
+tabasaran	work	0022	#	#	#nc	#nc				
+tabasaran	work	0022	uc̊’-ru	<HSG>enter-PTCP	nc	nc				
+tabasaran	work	0022	lik.ri	leg(ERG)	nc	nc				
+tabasaran	work	0022	%	%	%	%				
+tabasaran	work	0022	düz	direct	other	other				
+tabasaran	work	0022	šahur	town(ABS)	ln_np	ln_np			5016	new
+tabasaran	work	0022	teref.na-z	side-DAT	np:g	np		g		
+tabasaran	work	0022	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0022	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5004	
+tabasaran	work	0023	#	#	##	##				
+tabasaran	work	0023	0	0_Pirim	0.h:s	0	h	s	5004	
+tabasaran	work	0023	adaqu-ru	<HSG>fall-FUT	v:pred	v		pred		
+tabasaran	work	0023	šahr.i-ǯi	town-(IN)DIR	np:g	np		g	5016	
+tabasaran	work	0024	#	#	##	##				
+tabasaran	work	0024	#	#	#cv	#cv				
+tabasaran	work	0024	0	0_Pirim	0.h:s_cv	0	h	s_cv	5004	
+tabasaran	work	0024	šahr.i-z	town-DAT	np:g	np		g	5016	
+tabasaran	work	0024	adaq-u	<HSG>fall-PCVB	v:pred	v		pred		
+tabasaran	work	0024	%	%	%	%				
+tabasaran	work	0024	pirim	Pirim(ABS)	pn_np.h:s	pn_np	h	s	5004	
+tabasaran	work	0024	e<r>g-ru	<HSG>be_exhausted-FUT	v:pred	v		pred		
+tabasaran	work	0025	#	#	##	##				
+tabasaran	work	0025	#	#	#cv	#cv				
+tabasaran	work	0025	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0025	gaš	hunger(ABS)	np:s_pc	np		s_pc		
+tabasaran	work	0025	=ra	=ADD	=rn	=rn				
+tabasaran	work	0025	d-u<b>x-na-ji-r	PFV-<NSG>become-RES-PTCP-HSG	v:pred	v		pred		
+tabasaran	work	0025	%	%	%	%				
+tabasaran	work	0025	0	0_Pirim	0.h:s_cv	0	h	s_cv	5004	
+tabasaran	work	0025	javaš	slow	other	other				
+tabasaran	work	0025	javaš-ǯi	slow-ADV	other	other				
+tabasaran	work	0025	a<b>g-uri	<NSG>search-ICVB	v:pred	v		pred		
+tabasaran	work	0025	%	%	%	%				
+tabasaran	work	0025	0	0_Pirim	0.h:s	0	h	s	5004	
+tabasaran	work	0025	adaq-uru	<HSG>fall-FUT	v:pred	v		pred		
+tabasaran	work	0025	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0025	čajχani.ǯi	teahouse(IN)	np:g	np		g	5017	new
+tabasaran	work	0026	#	#	#cv	#cv				
+tabasaran	work	0026	0	0_Pirim	0.h:s_cv	0	h	s_cv	5004	
+tabasaran	work	0026	dus-nu	<HSG>sit-PCVB	v:pred	v		pred		
+tabasaran	work	0026	ha-d-in-ǯi	EMPH-DIST-LAT-DIR	other:l	other		l		
+tabasaran	work	0026	%	%	%	%				
+tabasaran	work	0026	#	#	#cv	#cv				
+tabasaran	work	0026	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0026	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0026	čajnik’	tea_pot(ABS)	np:p	np		p	5018	bridging
+tabasaran	work	0026	=ra	=ADD	=other	=other				
+tabasaran	work	0026	ʁada<b>ʁ-nu	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0026	%	%	%	%				
+tabasaran	work	0026	#	#	#cv	#cv				
+tabasaran	work	0026	0	0_Pirim	0.h:a_ds_cp_cv	0	h	a_ds_cp_cv	5004	
+tabasaran	work	0026	fikr-ar	thought-PL	other:lvc	other		lvc		
+tabasaran	work	0026	=a	=ADD	=other	=other				
+tabasaran	work	0026	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0026	#	#	##ds	##ds				
+tabasaran	work	0026	jarabala	INTERJ	other	other				
+tabasaran	work	0026	0	0_Pirim	0.1:a	0	1	a	5004	
+tabasaran	work	0026	hap’	what_do	v:pred	v		pred		
+tabasaran	work	0026	=za-jk’e	=1SG:AG-RHET	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0026	#	#	##ds	##ds				
+tabasaran	work	0026	0	0_Pirim	0.1:s	0	1	s	5004	
+tabasaran	work	0026	ficːi	how	other	other				
+tabasaran	work	0026	ap’u	do	v:pred	v		pred		
+tabasaran	work	0026	=za-jk’e	=1SG:AG-RHET	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0026	#	#	##ds	##ds				
+tabasaran	work	0026	0	0_Pirim	0.h:a	0	h	a	5004	
+tabasaran	work	0026	f.ǯi-l-a	what-SUPER-ELAT	intrg_other:p	intrg_other		p		
+tabasaran	work	0026	gaˁ<b>ʁ	<NSG>start	v:pred	v		pred		
+tabasaran	work	0026	=za-jk’e	=1SG:AG-RHET	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0026	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0026	laˁχin	work(ABS)	np:s	np		s		
+tabasaran	work	0026	#	#	#ds_rc_pc	#ds_rc_pc				
+tabasaran	work	0026	0	0_Pirim	0.1:a_pc	0	1	a_pc	5004	
+tabasaran	work	0026	0	0_work	rel_f0:p	rel_f0		p		
+tabasaran	work	0026	ʁ-ap’-u-r	PFV-do-PTCP-HSG	v:pred	v		pred		
+tabasaran	work	0026	%	%	%	%				
+tabasaran	work	0026	dar	COP:NEG	v:predex	v		predex		
+tabasaran	work	0026	#	#	##ds	##ds				
+tabasaran	work	0026	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	work	0026	0	0_Pirim	0.2:ncs_poss	0	2	ncs_poss	5004	
+tabasaran	work	0026	k-a	CONT-be	v:pred	v		pred		
+tabasaran	work	0026	=vu-k	=2SG-CONT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	work	0026	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	work	0026	0	0	0.h:a_ds_pc	0	h	a_ds_pc	5004	
+tabasaran	work	0026	ʁ-ap-i-ge	PFV-say-PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0026	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0026	0	0_Pirim	0.1:a	0	1	a	5004	
+tabasaran	work	0026	k’u-z	say-INF	v:pred	v		pred		
+tabasaran	work	0026	šul-a-dar	become-PRS-NEG	rv_aux	rv_aux				
+tabasaran	work	0026	kespi-r	profession-PL(ABS)	np:p	np		p	5029	bridging
+tabasaran	work	0026	=a	=ADD	=other	=other				
+tabasaran	work	0026	#	#	##ds	##ds				
+tabasaran	work	0026	0	0_Pirim	0.h:a	0	h	a	5004	
+tabasaran	work	0026	hap’	what_do	v:pred	v		pred		
+tabasaran	work	0026	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0026	k’ur	CIT	other	other				
+tabasaran	work	0026	#	#	#cv	#cv				
+tabasaran	work	0026	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0026	ha-m-cː-dar	EMPH-PROX-ADV-PL	ln	ln				
+tabasaran	work	0026	fikr-ar	thought-PL(ABS)	np:p	np		p		
+tabasaran	work	0026	=a	=ADD	=other	=other				
+tabasaran	work	0026	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0026	%	%	%	%				
+tabasaran	work	0026	#	#	#cv	#cv				
+tabasaran	work	0026	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0026	uq-u-r-i	<PL>drink-ICVB	v:pred	v		pred		
+tabasaran	work	0026	čaj	tea(ABS)	np:p	np		p	5019	bridging
+tabasaran	work	0026	=ra	=ADD	=other	=other				
+tabasaran	work	0026	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0026	0	0_Pirim	0.h:s_pc	0	h	s_pc	5004	
+tabasaran	work	0026	dus-ne-ge	<HSG>sit-RES+PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0027	#	#	##	##				
+tabasaran	work	0027	qa	then	other	other				
+tabasaran	work	0027	ha-va-z	EMPH-PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	5004	
+tabasaran	work	0027	ʁanšar-na	opposite_side-LAT	np:l	np		l		
+tabasaran	work	0027	dus-na-ǯi	<HSG>sit-RES-ICVB	v:pred	v		pred		
+tabasaran	work	0027	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0027	sa-r	one-HSG	ln_num	ln_num				
+tabasaran	work	0027	uǯu-r	good-HSG	ln_adj	ln_adj				
+tabasaran	work	0027	zurba	big	ln	ln				
+tabasaran	work	0027	uǯu-r	good-HSG	ln_adj	ln_adj				
+tabasaran	work	0027	admi	man(ABS)	np.h:s	np	h	s	5020	new
+tabasaran	work	0028	#	#	##	##				
+tabasaran	work	0028	#	#	#cv	#cv				
+tabasaran	work	0028	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0028	ala<b>x-u	<NSG>put_on-PCVB	v:pred	v		pred		
+tabasaran	work	0028	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0028	uǯu-b	good-NSG	ln_adj	ln_adj				
+tabasaran	work	0028	bačuk’	sheepskin_hat(ABS)	np:p	np		p	5021	new
+tabasaran	work	0028	uǯu-b	good-NSG	rn_adj	rn_adj				
+tabasaran	work	0028	palat	dress(ABS)	rn_np	rn_np			5022	bridging
+tabasaran	work	0028	uǯu-b	good-NSG	rn_adj	rn_adj				
+tabasaran	work	0028	us̊.ni	mouth(IN)	rn_np	rn_np			5023	bridging
+tabasaran	work	0028	ʁizil.i-n	gold-GEN	rn_np:poss	rn_np		poss		
+tabasaran	work	0028	spː-ar	tooth-PL(ABS)	rn_np	rn_np			5024	new
+tabasaran	work	0028	t’ub.a-q	finger-POST	rn_np	rn_np			5025	bridging
+tabasaran	work	0028	ʁizil.i-n	gold-GEN	rn_np:poss	rn_np		poss		
+tabasaran	work	0028	t’ulbn-ar	ring-PL(ABS)	rn_np	rn_np			5026	bridging
+tabasaran	work	0028	%	%	%	%				
+tabasaran	work	0028	ha-m-cːi-r	EMPH-PROX-ADV-HSG	ln	ln				
+tabasaran	work	0028	admi	man(ABS)	np.h:s	np	h	s	5020	
+tabasaran	work	0028	dus-na-ǯi	<HSG>sit-RES-ICVB	v:pred	v		pred		
+tabasaran	work	0028	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0029	#	#	##	##				
+tabasaran	work	0029	ha-mu	EMPH-PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5020	
+tabasaran	work	0029	ligu-ra-ǯi	<HSG>look-PRS-ICVB	v:pred	v		pred		
+tabasaran	work	0029	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0029	pirim.ǯi-n	Pirim-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss	5004	
+tabasaran	work	0029	ap’u-ra-ji	do-PRS-PTCP	np:obl	np		obl		
+tabasaran	work	0029	fikr-ar.i-q-ǯi	thought-PL-POST-DIR	rn	rn				
+tabasaran	work	0030	#	#	##	##				
+tabasaran	work	0030	aˁχir	finally	other	other				
+tabasaran	work	0030	0	0_man	0.h:a_cp	0	h	a_cp	5020	
+tabasaran	work	0030	ǯaχ	call(ABS)	other:lvc	other		lvc		
+tabasaran	work	0030	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0030	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	5004	
+tabasaran	work	0031	#	#	##ds	##ds				
+tabasaran	work	0031	ja	VOC	ln	ln				
+tabasaran	work	0031	ǯihil	young(ABS)	np.h:voc	np	h	voc	5004	
+tabasaran	work	0031	k’ur	CIT	other	other				
+tabasaran	work	0031	fu	what	ln	ln				
+tabasaran	work	0031	χabar	news(ABS)	np:s	np		s		
+tabasaran	work	0031	u	COP	v:predex	v		predex		
+tabasaran	work	0031	k’ur	CIT	other	other				
+tabasaran	work	0031	#	#	##ds	##ds				
+tabasaran	work	0031	0	0_Pirim	0.2:a_cp	0	2	a_cp	5004	
+tabasaran	work	0031	jaman	bad	ln_adj	ln_adj				
+tabasaran	work	0031	fikr-ar	thought-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0031	ap’-ura	do-PRS	v:pred	v		pred		
+tabasaran	work	0031	=va	=2SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0031	aˁχir	finally	other	other				
+tabasaran	work	0031	k’ur	CIT	other	other				
+tabasaran	work	0031	#	#	##ds	##ds				
+tabasaran	work	0031	fu	what+COP	intrg_other:pred	intrg_other		pred		
+tabasaran	work	0031	=jav	=2SG:POSS	=ln_pro.2:poss	=ln_pro	2	poss	5004	
+tabasaran	work	0031	derdi	trouble(ABS)	np:s	np		s		
+tabasaran	work	0031	k’ur	CIT	other	other				
+tabasaran	work	0032	#	#	##ds	##ds				
+tabasaran	work	0032	vallah	INTERJ	other	other				
+tabasaran	work	0032	χalu	uncle(ABS)	np.h:voc	np	h	voc	5020	
+tabasaran	work	0032	k’ur	CIT	other	other				
+tabasaran	work	0032	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	work	0032	k’ur	CIT	other	other				
+tabasaran	work	0032	#	#	#ds_ac	#ds_ac				
+tabasaran	work	0032	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0032	laˁχin	work(ABS)	np:s	np		s	5027	bridging
+tabasaran	work	0032	a-b-x-ni-š	PFV-NSG-become-AOR-COND	v:predex	v		predex		
+tabasaran	work	0032	ap’-uz	do-INF	other	other				
+tabasaran	work	0032	k’ur	CIT	other	other				
+tabasaran	work	0032	%	%	%	%				
+tabasaran	work	0032	0	0_Pirim	0.1:s	0	1	s	5004	
+tabasaran	work	0032	uduc̊-ur-ij	<HSG>go_out-FUT-PST	v:pred	v		pred		
+tabasaran	work	0032	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	work	0032	k’ur	CIT	other	other				
+tabasaran	work	0032	#	#	#ds_ac_in	#ds_ac_in				
+tabasaran	work	0032	0	0_Pirim	f0.1:a_in	f0	1	a_in	5004	
+tabasaran	work	0032	0	0_work	0:p	0		p	5027	
+tabasaran	work	0032	ap’-uz	do-INF	vother:pred	vother		pred		
+tabasaran	work	0032	#	#	##ds	##ds				
+tabasaran	work	0032	0	0_Pirim	0.1:ncs	0	1	ncs	5004	
+tabasaran	work	0032	laˁχn.i-q	work-POST	np:obl	np		obl	5028	bridging
+tabasaran	work	0032	lic-ura	<HSG>search-PRS	v:pred	v		pred		
+tabasaran	work	0032	=za	=1SG:AG	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	work	0032	k’ur	CIT	other	other				
+tabasaran	work	0033	#	#	##ds	##ds				
+tabasaran	work	0033	qa	then	other	other				
+tabasaran	work	0033	laˤχin	work(ABS)	np:p	np		p	5027	
+tabasaran	work	0033	uzu	I	pro.1:a	pro	1	a	5020	
+tabasaran	work	0033	0	0_Pirim	0.2:g	0	2	g	5004	
+tabasaran	work	0033	tuv-ur	do-FUT	v:pred	v		pred		
+tabasaran	work	0033	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0033	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0033	k’ur	CIT	other	other				
+tabasaran	work	0033	#	#	#ds_ac	#ds_ac				
+tabasaran	work	0033	eger	if	adp	adp				
+tabasaran	work	0033	k-a-ǯa-š	CONT-be-PRS-COND	v:predex	v		predex		
+tabasaran	work	0033	laˤχin	work(ABS)	np:s	np		s	5027	
+tabasaran	work	0034	#	#	##ds	##ds				
+tabasaran	work	0034	qa	then	other	other				
+tabasaran	work	0034	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	work	0034	0	0_Pirim	0.2:ncs_poss	0	2	ncs_poss	5004	
+tabasaran	work	0034	k-a	CONT-be	v:pred	v		pred		
+tabasaran	work	0034	=vu-k	=2SG-CONT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	work	0034	k’ur	CIT	other	other				
+tabasaran	work	0035	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0035	vallah	INTERJ	other	other				
+tabasaran	work	0035	k’ur	CIT	other	other				
+tabasaran	work	0035	di-cːi	DIST-ADV	other	other				
+tabasaran	work	0035	uzu-k	I-CONT	pro.1:ncs_poss	pro	1	ncs_poss	5004	
+tabasaran	work	0035	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0035	kespi	profession(ABS)	np:p	np		p	5029	
+tabasaran	work	0035	k-tːar	CONT-be:NEG	v:predex	v		predex		
+tabasaran	work	0035	=zu-k	=1SG-CONT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	work	0035	k’ur	CIT	other	other				
+tabasaran	work	0036	#	#	##ds	##ds				
+tabasaran	work	0036	qa	then	other	other				
+tabasaran	work	0036	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	work	0036	fu-nu-b	what-CONTR-NSG	intrg_other:s	intrg_other		s	5027	
+tabasaran	work	0036	vu-š	COP-COND	v:predex	v		predex		
+tabasaran	work	0036	=ra	=ADD	=other	=other				
+tabasaran	work	0036	%	%	%	%				
+tabasaran	work	0036	0	0_Pirim	0.1:a	0	1	a	5004	
+tabasaran	work	0036	ap’-ura	do-PRS	v:pred	v		pred		
+tabasaran	work	0036	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0036	k’ur	CIT	other	other				
+tabasaran	work	0036	a-b-x-i-š	PFV-NSG-become-PTCP-COND	nc	nc				
+tabasaran	work	0037	#	#	##ds	##ds				
+tabasaran	work	0037	qa	then	other	other				
+tabasaran	work	0037	i<b>š-ri	<NSG>become-JUSS	other	other				
+tabasaran	work	0037	k’ur	CIT	other	other				
+tabasaran	work	0037	#	#	#ds_rc_pc	#ds_rc_pc			5027	
+tabasaran	work	0037	vu-ji-ge	COP-PTCP-TEMP	other	other				
+tabasaran	work	0037	uzu	I	pro.1:a_pc	pro	1	a_pc	5020	
+tabasaran	work	0037	ʁa-p-i	PFV-say-PTCP	v:pred	v		pred		
+tabasaran	work	0037	0	0_work	rel_f0:p	rel_f0		p	5027	
+tabasaran	work	0037	%	%	%	%				
+tabasaran	work	0037	laˁχin	work(ABS)	np:p	np		p	5027	
+tabasaran	work	0037	0	0_Pirim	0.2:a	0	2	a	5004	
+tabasaran	work	0037	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	work	0037	k’ur	CIT	other	other				
+tabasaran	work	0038	#	#	##ds	##ds				
+tabasaran	work	0038	uzu	I	pro.1:a	pro	1	a	5020	
+tabasaran	work	0038	uvu-z	you-DAT	pro.2:g	pro	2	g	5004	
+tabasaran	work	0038	pul	money(ABS)	np:p	np		p	5030	bridging
+tabasaran	work	0038	=ra	=ADD	=other	=other				
+tabasaran	work	0038	tur	give+FUT	v:pred	v		pred		
+tabasaran	work	0038	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0038	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0038	k’ur	CIT	other	other				
+tabasaran	work	0039	#	#	##ds	##ds				
+tabasaran	work	0039	uzu	I	pro.1:a	pro	1	a	5020	
+tabasaran	work	0039	uvu-z	you-DAT	pro.2:g	pro	2	g	5004	
+tabasaran	work	0039	daq-ru-s̊	<HSG>lie-PTCP-place(ABS)	np:p	np		p	5031	new
+tabasaran	work	0039	=ra	=ADD	=other	=other				
+tabasaran	work	0039	tuv-ur	give-FUT	v:pred	v		pred		
+tabasaran	work	0039	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0039	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0039	k’ur	CIT	other	other				
+tabasaran	work	0039	ip’-ru	<NSG>eat-PTCP	rn	rn				
+tabasaran	work	0039	ül	bread(ABS)	rn_np	rn_np			5032	new
+tabasaran	work	0039	=la	=ADD	=other	=other				
+tabasaran	work	0040	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0040	i<b>š-ri	<NSG>become-JUSS	other	other				
+tabasaran	work	0040	k’ur	CIT	other	other				
+tabasaran	work	0040	uzu-z	I-DAT	pro.1:ncs	pro	1	ncs	5004	
+tabasaran	work	0040	gun-i-b	want-PTCP-NSG(ABS)	np:p	np		p		
+tabasaran	work	0040	=ra	=ADD	=other	=other				
+tabasaran	work	0040	ha-cːi-b	EMPH-DIST+ADV-NSG(ABS)	dem_pro:other	dem_pro		other	5033	bridging
+tabasaran	work	0040	=č’a	=only	=other	=other				
+tabasaran	work	0040	da	COP:NEG	other	other				
+tabasaran	work	0040	=zu-z	=1SG-DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	work	0040	#	#	##	##				
+tabasaran	work	0040	0	0_Pirim	0.h:a_ds	0	h	a_ds	5004	
+tabasaran	work	0040	ʁa-p-nu	PFV-say-AOR	v:pred	v		pred		
+tabasaran	work	0041	#	#	##ds	##ds				
+tabasaran	work	0041	i<b>š-ri	<NSG>become-JUSS	other	other				
+tabasaran	work	0041	k’ur	CIT	other	other				
+tabasaran	work	0041	0	0_Pirim	0.1:a	0	1	a	5004	
+tabasaran	work	0041	0	0_work	0:p	0		p	5027	
+tabasaran	work	0041	ap’-ar	do-FUTII	v:pred	v		pred		
+tabasaran	work	0041	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0041	χalu	uncle(ABS)	np.h:voc	np	h	voc	5020	
+tabasaran	work	0041	k’ur	CIT	other	other				
+tabasaran	work	0042	#	#	##ds	##ds				
+tabasaran	work	0042	0	0_Pirim	0.2:s	0	2	s	5004	
+tabasaran	work	0042	ʁač	go(IMP)	v:pred	v		pred		
+tabasaran	work	0042	k’ur	CIT	other	other				
+tabasaran	work	0042	vu-ji-ge	COP-PTCP-TEMP	other	other				
+tabasaran	work	0043	#	#	##	##				
+tabasaran	work	0043	aˁ-ru	<PL>go-FUT	v:pred	v		pred		
+tabasaran	work	0043	mu-rar	PROX-PL(ABS)	dem_pro.h:s	dem_pro	h	s	5034	bridging
+tabasaran	work	0043	χʷl.a-z	house-DAT	np:g	np		g	5035	new
+tabasaran	work	0044	#	#	##	##				
+tabasaran	work	0044	0	0_they	0.h:s	0	h	s	5034	
+tabasaran	work	0044	aˁ-ru	<PL>go-FUT	v:pred	v		pred		
+tabasaran	work	0044	χʷl.a-z	house-DAT	np:g	np		g	5035	
+tabasaran	work	0044	#	#	##	##				
+tabasaran	work	0044	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0044	ulup-uru	show-FUT	v:pred	v		pred		
+tabasaran	work	0044	muva-z	PROX-DAT	dem_pro.h:g	dem_pro	h	g	5004	
+tabasaran	work	0044	daq-ru	<HSG>lie-PTCP	ln	ln				
+tabasaran	work	0044	χal	room(ABS)	np:p	np		p	5031	
+tabasaran	work	0044	=la	=ADD	=other	=other				
+tabasaran	work	0044	#	#	##	##				
+tabasaran	work	0044	#	#	#cv	#cv				
+tabasaran	work	0044	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0044	d-u<b>χ-nu	PFV-<NSG>bring-PCVB	v:pred	v		pred		
+tabasaran	work	0044	0	0_bread	0:p	0		p	5036	bridging
+tabasaran	work	0044	%	%	%	%				
+tabasaran	work	0044	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0044	ǯi-b-ru	put-NSG-FUT	v:pred	v		pred		
+tabasaran	work	0044	ül	bread(ABS)	np:p	np		p	5036	
+tabasaran	work	0044	=ra	=ADD	=other	=other				
+tabasaran	work	0044	muva-z	PROX-DAT	dem_pro.h:g	dem_pro	h	g	5004	
+tabasaran	work	0044	#	#	##	##				
+tabasaran	work	0044	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0044	ip’-ru	<NSG>eat-PTCP	ln	ln				
+tabasaran	work	0044	ül	bread(ABS)	np:p	np		p	5036	
+tabasaran	work	0044	=la	=ADD	=other	=other				
+tabasaran	work	0044	ǯi-b-ru	put-NSG-FUT	v:pred	v		pred		
+tabasaran	work	0044	muva-z	PROX-DAT	dem_pro.h:g	dem_pro	h	g	5004	
+tabasaran	work	0045	#	#	#nc	#nc				
+tabasaran	work	0045	maha	here_you_go	nc	nc				
+tabasaran	work	0045	k’ur	CIT	nc	nc				
+tabasaran	work	0045	uvu-z	you.SG-DAT	nc_pro.2	nc_pro	2		5004	
+tabasaran	work	0045	χal	room(ABS)	nc_np	nc_np			5031	
+tabasaran	work	0045	#	#	#nc	#nc				
+tabasaran	work	0045	maha	here_you_go	nc	nc				
+tabasaran	work	0045	ip’-ru-b	<NSG>eat-PTCP-NSG(ABS)	nc_np	nc_np			5036	
+tabasaran	work	0045	=ra	=ADD	nc	nc				
+tabasaran	work	0045	k’ur	CIT	nc	nc				
+tabasaran	work	0046	#	#	##ds	##ds				
+tabasaran	work	0046	#	#	#ds_rc_pc	#ds_rc_pc			5037	new
+tabasaran	work	0046	tːolkːa	only	other	other				
+tabasaran	work	0046	k’ur	CIT	other	other				
+tabasaran	work	0046	uzu	I	pro.1:a_pc	pro	1	a_pc	5020	
+tabasaran	work	0046	k’ur	CIT	other	other				
+tabasaran	work	0046	ʁa-p-i	PFV-say-PTCP	v:pred	v		pred		
+tabasaran	work	0046	0	0_instructions	rel_f0:p	rel_f0		p	5037	
+tabasaran	work	0046	%	%	%	%				
+tabasaran	work	0046	birmiš	instruction(ABS)	np:p	np		p	5037	
+tabasaran	work	0046	0	0_Pirim	0.2:a	0	2	a	5004	
+tabasaran	work	0046	ap’-ur	do-FUT	v:pred	v		pred		
+tabasaran	work	0046	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0046	k’ur	CIT	other	other				
+tabasaran	work	0047	#	#	##	##				
+tabasaran	work	0047	tːolkːa	only	other	other				
+tabasaran	work	0047	sa-b	one-NSG	np:p	np		p		
+tabasaran	work	0047	0	0_man	0.1:a	0	1	a	5020	
+tabasaran	work	0047	0	0_Pirim	0.2:g	0	2	g	5004	
+tabasaran	work	0047	k’-ur	say-FUT	v:pred	v		pred		
+tabasaran	work	0047	=za	=1SG:AG	=rv-pro_a_a	=rv-pro_a_a				
+tabasaran	work	0047	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0047	k’ur	CIT	other	other				
+tabasaran	work	0047	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0047	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0047	ʁuˁ-b	come-NSG	v:pred	v		pred		
+tabasaran	work	0047	dar-i<b>š-ri	NEG-<NSG>become-JUSS	rv_aux	rv_aux				
+tabasaran	work	0047	k’ur	CIT	other	other				
+tabasaran	work	0047	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0047	qaˤl	anger(ABS)	np:s	np		s		
+tabasaran	work	0047	ʁuˤ-b	come-NSG	v:pred	v		pred		
+tabasaran	work	0047	dar-i<b>š-ri	NEG-<NSG>become-JUSS	rv_aux	rv_aux				
+tabasaran	work	0047	k’ur	CIT	other	other				
+tabasaran	work	0047	sa-r	one-HSG	refl.h:obl	refl	h	obl	5034	
+tabasaran	work	0047	sa-r.i-k-a	one-HSG-CONT-ELAT	rn	rn				
+tabasaran	work	0048	#	#	##	##				
+tabasaran	work	0048	i<b>š-ri	<NSG>become-JUSS	other	other				
+tabasaran	work	0048	k’-ur	say-FUT	v:pred	v		pred		
+tabasaran	work	0048	pirim.ǯi	Pirim(ERG)	pn_np.h:a_ds	pn_np	h	a_ds	5004	
+tabasaran	work	0049	#	#	##ds	##ds				
+tabasaran	work	0049	fu	what	intrg_other:pred	intrg_other		pred		
+tabasaran	work	0049	gaf	word(ABS)	np:s	np		s		
+tabasaran	work	0049	vu	COP	cop	cop				
+tabasaran	work	0049	=jav	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss	5020	
+tabasaran	work	0049	k’ur	CIT	other	other				
+tabasaran	work	0050	#	#	##ds	##ds				
+tabasaran	work	0050	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	work	0050	uzu-z	I-DAT	pro.1:g	pro	1	g	5004	
+tabasaran	work	0050	ip’-ru	<NSG>eat-PTCP	ln	ln				
+tabasaran	work	0050	ül	bread(ABS)	np:p	np		p	5036	
+tabasaran	work	0050	=la	=ADD	=rn	=rn				
+tabasaran	work	0050	daq-ru	<HSG>part-PTCP	rn	rn				
+tabasaran	work	0050	χal	room(ABS)	rn_np	rn_np			5031	
+tabasaran	work	0050	=la	=ADD	=rn	=rn				
+tabasaran	work	0050	uvu	you.SG	pro.2:a_pc	pro	2	a_pc		
+tabasaran	work	0050	uzu-z	I-DAT	pro.1:g	pro	1	g		
+tabasaran	work	0050	pul	money(ABS)	rn_np	rn_np			5030	
+tabasaran	work	0050	=la	=ADD	=rn	=rn				
+tabasaran	work	0050	tuv-i-ge	give-PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0050	%	%	%	%				
+tabasaran	work	0050	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0050	haz	why	other	other				
+tabasaran	work	0050	ʁuˤ-ru-qa	come-FUT-NC	v:pred	v		pred		
+tabasaran	work	0050	k’ur	CIT	other	other				
+tabasaran	work	0050	uzu-z	I-DAT	pro.1:g	pro	1	g	5004	
+tabasaran	work	0051	#	#	#nc	#nc				
+tabasaran	work	0051	i<b>š-ri	<NSG>become-JUSS	nc	nc				
+tabasaran	work	0051	k’ur	CIT	nc	nc				
+tabasaran	work	0051	vu-ji-ge	COP-PTCP-TEMP	nc	nc				
+tabasaran	work	0052	#	#	##ds	##ds				
+tabasaran	work	0052	0	0_Pirim	0.2:s	0	2	s	5004	
+tabasaran	work	0052	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0052	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0052	d-ip’-u	PFV-NSG+eat-PCVB	v:pred	v		pred		
+tabasaran	work	0052	ül	bread(ABS)	np:p	np		p	5036	
+tabasaran	work	0052	=la	=ADD	=other	=other				
+tabasaran	work	0052	%	%	%	%				
+tabasaran	work	0052	daq	<HSG>lie(IMP)	v:pred	v		pred		
+tabasaran	work	0052	k’ur	CIT	other	other				
+tabasaran	work	0052	#	#	##ds	##ds				
+tabasaran	work	0052	gač’.ni	morning(ERG)	np:other	np		other		
+tabasaran	work	0052	0	0_Pirim	0.2:s	0	2	s	5004	
+tabasaran	work	0052	izn.i-z	field-DAT	np:g	np		g	5038	new
+tabasaran	work	0052	aˁ-r	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0052	=va	=2SG:AG	=rv-pro_2_s	=rv-pro_2_s				
+tabasaran	work	0052	k’ur	CIT	other	other				
+tabasaran	work	0052	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0052	0	0_Pirim	0.2:a_cv	0	2	a_cv	5004	
+tabasaran	work	0052	jic-ar	ox-PL(ABS)	np:p	np		p	5039	new
+tabasaran	work	0052	=a	=ADD	=other	=other				
+tabasaran	work	0052	git’-nu	<PL>yoke-PCVB	v:pred	v		pred		
+tabasaran	work	0053	#	#	##	##				
+tabasaran	work	0053	daq-ru	<HSG>lie-FUT	v:pred	v		pred		
+tabasaran	work	0053	pirim	Pirim(ABS)	pn_np.h:s	pn_np	h	s	5004	
+tabasaran	work	0053	#	#	#cv	#cv				
+tabasaran	work	0053	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0053	g-iv-nu	SUB-put-PCVB	v:pred	v		pred		
+tabasaran	work	0053	k’ul.i-g	head-SUB	np:g	np		g	5040	bridging
+tabasaran	work	0053	χl-ar	hand-PL(ABS)	np:p	np		p	5041	bridging
+tabasaran	work	0053	=a	=ADD	=other	=other				
+tabasaran	work	0054	#	#	##	##				
+tabasaran	work	0054	gač’in	morning(ABS)	np:other	np		other		
+tabasaran	work	0054	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0055	#	#	##	##				
+tabasaran	work	0055	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0055	riʁ	sun(ABS)	np:s_pc	np		s_pc	5042	unused
+tabasaran	work	0055	ala<b>x-i-mič’la	<NSG>rise-PTCP-NC	v:pred	v		pred		
+tabasaran	work	0055	%	%	%	%				
+tabasaran	work	0055	0	0	0.h:s	0	h	s	5043	new
+tabasaran	work	0055	kuč-ru	knock-FUT	v:pred	v		pred		
+tabasaran	work	0055	hin	NC	nc	nc				
+tabasaran	work	0055	#	#	##ds	##ds				
+tabasaran	work	0055	0	0_Pirim	0.2:s	0	2	s	5004	
+tabasaran	work	0055	ʁuduʒ̊	<HSG>get_up(IMP)	v:pred	v		pred		
+tabasaran	work	0055	k’ur	CIT	other	other				
+tabasaran	work	0056	#	#	##ds	##ds				
+tabasaran	work	0056	jic-ar	ox-PL(ABS)	np:s	np		s	5039	
+tabasaran	work	0056	git’-na	<PL>yoke-RES	v:pred	v		pred		
+tabasaran	work	0056	k’ur	CIT	other	other				
+tabasaran	work	0056	[UNCLEAR]	NC	nc	nc				
+tabasaran	work	0056	#	#	##ds	##ds				
+tabasaran	work	0056	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0056	0	0_Pirim	0.2:s_cv	0	2	s_cv	5004	
+tabasaran	work	0056	d-uš-u	PFV-<HSG>go-PCVB	v:pred	v		pred		
+tabasaran	work	0056	k’ur	CIT	other	other				
+tabasaran	work	0056	%	%	%	%				
+tabasaran	work	0056	0	0_Pirim	0.2:a	0	2	a	5004	
+tabasaran	work	0056	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	work	0056	k’ur	CIT	other	other				
+tabasaran	work	0056	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0057	#	#	##ds	##ds				
+tabasaran	work	0057	0	0_Pirim	0.1:a	0	1	a	5004	
+tabasaran	work	0057	0	0_that	0:p	0		p	5044	bridging
+tabasaran	work	0057	ap’-ur	do-FUT	v:pred	v		pred		
+tabasaran	work	0057	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0057	#	#	##	##				
+tabasaran	work	0057	k’-ur	say-FUT	v:pred	v		pred		
+tabasaran	work	0057	pirim.ǯi	Pirim(ERG)	pn_np.h:a_ds	pn_np	h	a_ds	5004	
+tabasaran	work	0057	#	#	#cv	#cv				
+tabasaran	work	0057	0	0_Pirim	0.1:a_cv	0	1	a_cv	5004	
+tabasaran	work	0057	ʁada<b>ʁ-nu	<NSG>take-PCVB	nc	nc				
+tabasaran	work	0057	jic-ar	ox-PL(ABS)	np:p	np		p	5039	
+tabasaran	work	0057	=a	=ADD	=other	=other				
+tabasaran	work	0057	ʁadaʁ-nu	<PL>take-PCVB	v:pred	v		pred		
+tabasaran	work	0057	%	%	%	%				
+tabasaran	work	0057	#	#	#cv	#cv				
+tabasaran	work	0057	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0057	q-av-nu	POST-drive-PCVB	v:pred	v		pred		
+tabasaran	work	0057	jic-ar	ox-PL(ABS)	np:p	np		p	5039	
+tabasaran	work	0057	=ra	=ADD	=other	=other				
+tabasaran	work	0057	%	%	%	%				
+tabasaran	work	0057	#	#	#cv	#cv				
+tabasaran	work	0057	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0057	il-ip-u	SUPER-put-PCVB	v:pred	v		pred		
+tabasaran	work	0057	duruc	plough(ABS)	np:p	np		p	5045	bridging
+tabasaran	work	0057	=ra	=ADD	=other	=other				
+tabasaran	work	0057	%	%	%	%				
+tabasaran	work	0057	0	0_Pirim	0.h:s	0	h	s	5004	
+tabasaran	work	0057	aˤ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0058	#	#	##	##				
+tabasaran	work	0058	gaˁ<b>ʁ-ru	<NSG>start-FUT	lv_aux	lv_aux				
+tabasaran	work	0058	pirim.ǯi	Pirim(ERG)	pn_np.h:a	pn_np	h	a	5004	
+tabasaran	work	0058	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0058	ap’-uz	do-INF	v:pred	v		pred		
+tabasaran	work	0059	#	#	##	##				
+tabasaran	work	0059	0	0_Pirim	0.h:a	0	h	a	5004	
+tabasaran	work	0059	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0059	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0059	#	#	##	##				
+tabasaran	work	0059	0	0_Pirim	0.h:a	0	h	a	5004	
+tabasaran	work	0059	0	0_field	0:p	0		p	5038	
+tabasaran	work	0059	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0059	#	#	##	##				
+tabasaran	work	0059	riʁ	sun(ABS)	np:s	np		s	5042	
+tabasaran	work	0059	=ra	=ADD	=other	=other				
+tabasaran	work	0059	udu<b>c̊’-uru	<NSG>rise-FUT	v:pred	v		pred		
+tabasaran	work	0060	#	#	##	##				
+tabasaran	work	0060	mani	warm	other	other				
+tabasaran	work	0060	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0060	#	#	##neg	##neg				
+tabasaran	work	0060	a-dar	(IN)be-NEG	v:predex	v		predex		
+tabasaran	work	0060	ül	bread(ABS)	np:s	np		s	5046	new
+tabasaran	work	0060	#	#	##neg	##neg				
+tabasaran	work	0060	0	0	0.h:a	0	h	a	5043	
+tabasaran	work	0060	0	0_bread	0:p	0		p	5046	
+tabasaran	work	0060	χ-ura-dar	bring-PRS-NEG	v:pred	v		pred		
+tabasaran	work	0061	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0061	ja	or	other	other				
+tabasaran	work	0061	0	0	0.h:a	0	h	a		
+tabasaran	work	0061	šid	water(ABS)	np:p	np		p	5047	new
+tabasaran	work	0061	χ-ura-dar	bring-PRS-NEG	v:pred	v		pred		
+tabasaran	work	0061	#	#	##neg	##neg				
+tabasaran	work	0061	fužk’a	nobody(ABS)	indef_other.h:s	indef_other	h	s		
+tabasaran	work	0061	=ra	=ADD	=other	=other				
+tabasaran	work	0061	a-dar	(IN)be-NEG	v:predex	v		predex		
+tabasaran	work	0062	#	#	##	##				
+tabasaran	work	0062	0	0_Pirim	0.h:a	0	h	a	5004	
+tabasaran	work	0062	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0062	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0062	#	#	##	##				
+tabasaran	work	0062	0	0_Pirim	0.h:a_cp	0	h	a_cp	5004	
+tabasaran	work	0062	aˁχ	patience(ABS)	other:lvc	other		lvc		
+tabasaran	work	0062	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0062	#	#	##	##				
+tabasaran	work	0062	aˁχ	patience(ABS)	other:lvc	other		lvc		
+tabasaran	work	0062	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0062	muvu	PROX(ERG)	dem_pro.h:a_cp	dem_pro	h	a_cp	5004	
+tabasaran	work	0062	#	#	##	##				
+tabasaran	work	0062	jiʁ-ar	day-PL(ABS)	np:s	np		s	5048	bridging
+tabasaran	work	0062	lisin	noon(ABS)	np:other	np		other		
+tabasaran	work	0062	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0063	#	#	##neg	##neg				
+tabasaran	work	0063	fužk’a	nobody(ABS)	indef_other.h:s	indef_other	h	s		
+tabasaran	work	0063	=ra	=ADD	=other	=other				
+tabasaran	work	0063	ʁuˁ-ra-dar	come-PRS-NEG	v:pred	v		pred		
+tabasaran	work	0064	#	#	##	##				
+tabasaran	work	0064	aˁχir	finally	other	other				
+tabasaran	work	0064	sanu	yet	other	other				
+tabasaran	work	0064	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0064	jiʁan	day(ABS)	np:other	np		other	5048	
+tabasaran	work	0064	ʁuz-ru	<HSG>stay-FUT	v:pred	v		pred		
+tabasaran	work	0064	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5004	
+tabasaran	work	0064	ficːi-vuš	how-INDEF	other	other				
+tabasaran	work	0064	=ra	=ADD	=other	=other				
+tabasaran	work	0065	#	#	##ds	##ds				
+tabasaran	work	0065	ja	VOC	other	other				
+tabasaran	work	0065	kas	man	other	other				
+tabasaran	work	0065	k’ur	CIT	other	other				
+tabasaran	work	0065	0	0_Pirim	0.1:a_cp	0	1	a_cp	5004	
+tabasaran	work	0065	aˁχ	patience	other:lvc	other		lvc		
+tabasaran	work	0065	ap’-iǯi	do-FUT	v:pred	v		pred		
+tabasaran	work	0065	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0065	k’ur	CIT	other	other				
+tabasaran	work	0065	#	#	##ds	##ds				
+tabasaran	work	0065	fu-k’ara	what-INDEF(ABS)	indef_other:s	indef_other		s		
+tabasaran	work	0065	a-b-x-un	PFV-NSG-become-PCVB	v:pred	v		pred		
+tabasaran	work	0065	šul	become:PRS	rv_aux	rv_aux				
+tabasaran	work	0065	k’ur	CIT	other	other				
+tabasaran	work	0066	#	#	#nc	#nc				
+tabasaran	work	0066	[UNCLEAR]	NC	nc	nc				
+tabasaran	work	0066	sabur	patience(ABS)	nc	nc				
+tabasaran	work	0066	tuv-nu	give-PCVB	nc	nc				
+tabasaran	work	0066	#	#	##	##				
+tabasaran	work	0066	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0066	χaˁbaˁq.ǯi	evening(ERG)	np:other	np		other		
+tabasaran	work	0066	pirim	Pirim(ABS)	pn_np.h:s	pn_np	h	s	5004	
+tabasaran	work	0067	#	#	##	##				
+tabasaran	work	0067	#	#	#cv	#cv				
+tabasaran	work	0067	0	0_Pirim	0.h:a_cv	0	h	a_cv	5004	
+tabasaran	work	0067	q-av-nu	POST-drive-PCVB	v:pred	v		pred		
+tabasaran	work	0067	jic-ar	ox-PL(ABS)	np:p	np		p	5039	
+tabasaran	work	0067	=a	=ADD	=other	=other				
+tabasaran	work	0067	%	%	%	%				
+tabasaran	work	0067	0	0_Pirim	0.h:s	0	h	s	5004	
+tabasaran	work	0067	uc̊’-nu	<PL>enter-AOR	v:pred	v		pred		
+tabasaran	work	0067	urar.ǯi	yard(IN)	np:g	np		g	5049	bridging
+tabasaran	work	0068	#	#	##	##				
+tabasaran	work	0068	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0068	0	0_Pirim	0.h:s_pc	0	h	s_pc	5004	
+tabasaran	work	0068	hajat.ǯi-ǯi	yard-(IN)DIR	np:g	np		g	5049	
+tabasaran	work	0068	uc̊’-i-gen	<HSG>enter-PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0068	%	%	%	%				
+tabasaran	work	0068	qa	then	other	other				
+tabasaran	work	0068	lig-uru	<HSG>look-FUT	v:pred	v		pred		
+tabasaran	work	0068	ha-mu	EMPH-PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5004	
+tabasaran	work	0068	#	#	##	##				
+tabasaran	work	0068	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	work	0068	ijesi	owner(ABS)	np.h:s	np	h	s	5020	
+tabasaran	work	0068	dus-na-ǯi	<HSG>sit-RES-ICVB	v:pred	v		pred		
+tabasaran	work	0068	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0068	ajvan.ǯi-q	balcony-POST	np:l	np		l	5050	bridging
+tabasaran	work	0068	#	#	#cv	#cv				
+tabasaran	work	0068	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0068	čaj	tea(ABS)	np:p	np		p	5051	new
+tabasaran	work	0068	uq-uri	<PL>drink-ICVB	v:pred	v		pred		
+tabasaran	work	0068	#	#	##ds	##ds				
+tabasaran	work	0068	0	0_Pirim	0.2:a	0	2	a	5004	
+tabasaran	work	0068	hap’u	what_do+AOR	v:pred	v		pred		
+tabasaran	work	0068	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0068	#	#	##ds	##ds				
+tabasaran	work	0068	0	0_Pirim	0.2:a	0	2	a	5004	
+tabasaran	work	0068	hap’u	what_do+AOR	v:pred	v		pred		
+tabasaran	work	0068	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0068	pirim	Pirim(ABS)	pn_np.h:voc	pn_np	h	voc	5004	
+tabasaran	work	0068	k’ur	CIT	other	other				
+tabasaran	work	0069	#	#	##	##				
+tabasaran	work	0069	qaˁlq-re	mock-PTCP	np:other	np		other		
+tabasaran	work	0069	si	COMP	adp	adp				
+tabasaran	work	0069	0	0_man	0.h:a_ds_cp	0	h	a_ds_cp	5020	
+tabasaran	work	0069	gaf-ar	word-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0069	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0069	#	#	##ds	##ds				
+tabasaran	work	0069	0	0_Pirim	0.2:a	0	2	a	5004	
+tabasaran	work	0069	hap’u	what_do+AOR	v:pred	v		pred		
+tabasaran	work	0069	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0070	#	#	##ds	##ds				
+tabasaran	work	0070	vallah	INTERJ	other	other				
+tabasaran	work	0070	k’ur	CIT	other	other				
+tabasaran	work	0070	0	0_Pirim	0.2:ncs	0	2	ncs	5004	
+tabasaran	work	0070	mani	warm	other	other				
+tabasaran	work	0070	=ra	=ADD	=other	=other				
+tabasaran	work	0070	a-b-x-u	PFV-NSG-become-AOR	v:pred	v		pred		
+tabasaran	work	0070	=vu-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	work	0070	ha	EMPH	other	other				
+tabasaran	work	0071	#	#	##ds	##ds				
+tabasaran	work	0071	0	0_Pirim	0.2:s	0	2	s	5004	
+tabasaran	work	0071	e<r>g-nu-r	<HSG>become_tired-PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0071	=a	=ADD	=other	=other				
+tabasaran	work	0071	vu	COP	rv_aux	rv_aux				
+tabasaran	work	0071	=va	=2SG:AG	=rv-pro_2_s	=rv-pro_2_s				
+tabasaran	work	0071	ha	PRT	other	other				
+tabasaran	work	0071	k’ur	CIT	other	other				
+tabasaran	work	0072	#	#	##	##				
+tabasaran	work	0072	0	0_Pirim	0.2:s	0	2	s	5004	
+tabasaran	work	0072	e<r>g-nu-r	<HSG>become_tired-PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0072	=a	=ADD	=other	=other				
+tabasaran	work	0072	šul	become:PRS	rv_aux	rv_aux				
+tabasaran	work	0072	k’ur	CIT	other	other				
+tabasaran	work	0072	#	#	##ds	##ds				
+tabasaran	work	0072	#	#	#ds_cv.neg	#ds_cv.neg				
+tabasaran	work	0072	fn.i	belly(IN)	np:l	np		l	5052	bridging
+tabasaran	work	0072	ül	bread(ABS)	np:s_cv	np		s_cv		
+tabasaran	work	0072	=la	=ADD	=other	=other				
+tabasaran	work	0072	a-da-ǯi	(IN)be-NEG-ICVB	v:predex	v		predex		
+tabasaran	work	0072	#	#	##ds	##ds				
+tabasaran	work	0072	hap’-ni-k’e	what_do-AOR-RHET	v:pred	v		pred		
+tabasaran	work	0072	uvu	you	pro.2:a	pro	2	a	5004	
+tabasaran	work	0072	k’ur	CIT	other	other				
+tabasaran	work	0073	#	#	##	##				
+tabasaran	work	0073	pirim.ǯi	Pirim(ERG)	pn_np.h:a_cp	pn_np	h	a_cp	5004	
+tabasaran	work	0073	sanu	PRT	other	other				
+tabasaran	work	0073	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0073	0	0_man	0.h:a_pc	0	h	a_pc	5020	
+tabasaran	work	0073	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	work	0073	ʁa-p-i-ge	PFV-say-PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0073	%	%	%	%				
+tabasaran	work	0073	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0073	#	#	#cc_pc:p	#cc_pc		p		
+tabasaran	work	0073	0	0_man	0.h:a_pc	0	h	a_pc	5020	
+tabasaran	work	0073	ča-k	REFL-CONT	refl.h:obl	refl	h	obl	5004	
+tabasaran	work	0073	kaˁq-ra-ji-b	mock-PRS-PTCP-NSG	v:pred	v		pred		
+tabasaran	work	0073	%	%	%	%				
+tabasaran	work	0073	0	0_Pirim	0.h:a_pc	0	h	a_pc	5004	
+tabasaran	work	0073	aˁʁuˁ	know	v:pred	v		pred		
+tabasaran	work	0073	ʁa-b-x-i-ge	PFV-NSG-become-PTCP-TEMP	rv_aux	rv_aux				
+tabasaran	work	0073	%	%	%	%				
+tabasaran	work	0073	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0073	muva-z	PROX-DAT	dem_pro.h:g	dem_pro	h	g	5020	
+tabasaran	work	0073	nuˁq’n-ar	curse-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0074	#	#	##ds	##ds				
+tabasaran	work	0074	jav	your(PL)	ln_pro.2:poss	ln_pro	2	poss	5020	
+tabasaran	work	0074	devlet.ǯi-k	wealth-CONT	np:s_cp	np		s_cp	5053	bridging
+tabasaran	work	0074	=ra	=ADD	=rn	=rn				
+tabasaran	work	0074	c’a	fire(ABS)	other:lvc	other		lvc		
+tabasaran	work	0074	k-a<b>q-ri	CONT-<NSG>flash-JUSS	v:pred	v		pred		
+tabasaran	work	0074	=jav	=2SG:POSS	=ln_pro.2:poss	=ln_pro	2	poss	5020	
+tabasaran	work	0074	k’ur	CIT	other	other				
+tabasaran	work	0074	#	#	##ds	##ds				
+tabasaran	work	0074	jav	your	ln_dem_pro.h:poss	ln_dem_pro	h	poss	5020	
+tabasaran	work	0074	ha-mu	EMPH-PROX(ABS)	dem_pro:s	dem_pro		s	5053	
+tabasaran	work	0074	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0074	uvu	you	pro.2:s_cv	pro	2	s_cv	5020	
+tabasaran	work	0074	d-uk’-u	PFV-<HSG>die-PCVB	v:pred	v		pred		
+tabasaran	work	0074	%	%	%	%				
+tabasaran	work	0074	sadaq’.i-z	alms-DAT	np:obl	np		obl		
+tabasaran	work	0074	i<b>š-ri	<NSG>become-JUSS	v:pred	v		pred		
+tabasaran	work	0074	=jav	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss	5020	
+tabasaran	work	0074	k’ur	CIT	other	other				
+tabasaran	work	0075	#	#	##	##				
+tabasaran	work	0075	ha-tmu	EMPH-DIST(ABS)	other	other				
+tabasaran	work	0075	ha-mu	EMPH-PROX(ABS)	dem_pro.h:a	dem_pro	h	a	5004	
+tabasaran	work	0075	ix	our(INCL)	ln_pro.1:poss	ln_pro	1	poss		
+tabasaran	work	0075	č’al.i-in-ǯi	language-SUPER-DIR	np:other	np		other		
+tabasaran	work	0075	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0075	muva-z	PROX-DAT	dem_pro.h:g	dem_pro	h	g	5020	
+tabasaran	work	0075	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	work	0075	nuˁq’n-ar	curse-PL(ABS)	np:p	np		p	5054	bridging
+tabasaran	work	0076	#	#	##ds	##ds				
+tabasaran	work	0076	0	0_Pirim	0.2:a	0	2	a	5004	
+tabasaran	work	0076	hap’-nu	what_do-AOR	v:pred	v		pred		
+tabasaran	work	0076	pirim	Pirim	pn_np.h:voc	pn_np	h	voc	5004	
+tabasaran	work	0076	#	#	##ds	##ds				
+tabasaran	work	0076	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0076	0	0_Pirim	0.2:g	0	2	g	5004	
+tabasaran	work	0076	ʁa-f-un	PFV-come-AOR+Q	v:pred	v		pred		
+tabasaran	work	0076	=u-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0076	k’ur	CIT	other	other				
+tabasaran	work	0077	#	#	##	##				
+tabasaran	work	0077	značit	PRT	other	other				
+tabasaran	work	0077	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0077	qaˁl	anger(ABS)	np:s_pc	np		s_pc		
+tabasaran	work	0077	ʁa-f-i-ge	PFV-come-PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0077	mu-rar.i-n	PROX(PL)-GEN	dem_pro.h:obl	dem_pro	h	obl	5034	
+tabasaran	work	0077	%	%	%	%				
+tabasaran	work	0077	značit	PRT	other	other				
+tabasaran	work	0077	jiq’rar	agreement(ABS)	np:s	np		s	5055	new
+tabasaran	work	0077	ha-cːi-b	EMPH-DIST+ADV-NSG	other	other				
+tabasaran	work	0077	vu	COP	v:predex	v		predex		
+tabasaran	work	0077	urχ-ub	read-MSD	other	other				
+tabasaran	work	0077	#	#	#nc	#nc				
+tabasaran	work	0077	gardan	neck(ABS)	nc_np	nc_np			5056	bridging
+tabasaran	work	0077	jiv-ub	hit-MSD	nc	nc				
+tabasaran	work	0078	#	#	##	##				
+tabasaran	work	0078	0	0_man	0.h:a_cp	0	h	a_cp	5020	
+tabasaran	work	0078	birmiš	instruction(ABS)	other:lvc	other		lvc		
+tabasaran	work	0078	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0078	vezir-ar.i-z	servant-PL-DAT	np.h:g	np	h	g	5043	
+tabasaran	work	0078	#	#	##ds	##ds				
+tabasaran	work	0078	0	0_servants	0.2:a	0	2	a	5043	
+tabasaran	work	0078	ʁadaʁ-ir	<HSG>take-IMP.PL	v:pred	v		pred		
+tabasaran	work	0078	k’ur	CIT	other	other				
+tabasaran	work	0078	sanu	PRT	other	other				
+tabasaran	work	0078	uz-x-a	I-APUD-ELAT	pro.1:obl	pro	1	obl	5020	
+tabasaran	work	0078	ha-dmu	EMPH-3.P(ABS)	dem_pro.h:p	dem_pro	h	p	5004	
+tabasaran	work	0079	#	#	##	##				
+tabasaran	work	0079	pirim	Pirim(ABS)	pn_np.h:p	pn_np	h	p	5004	
+tabasaran	work	0079	ʁaˁdav-uru	<HSG>take-FUT	v:pred	v		pred		
+tabasaran	work	0079	mu-rar.i	PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a	5043	
+tabasaran	work	0080	#	#	##	##				
+tabasaran	work	0080	hamus	now	other	other				
+tabasaran	work	0080	kerim	Kerim(ABS)	pn_np.h:s	pn_np	h	s	5005	
+tabasaran	work	0080	=na	=ADD	=rn	=rn				
+tabasaran	work	0080	selim	Selim(ABS)	rn_pn_np.h	rn_pn_np	h		5006	
+tabasaran	work	0080	gilig-ura	look-PRS	v:pred	v		pred		
+tabasaran	work	0080	#	#	##ds	##ds				
+tabasaran	work	0080	pirim	Pirim(ABS)	pn_np.h:s	pn_np	h	s	5004	
+tabasaran	work	0080	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0080	k’ur	CIT	other	other				
+tabasaran	work	0081	#	#	##	##				
+tabasaran	work	0081	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0081	vaz	month(ABS)	np:s	np		s		
+tabasaran	work	0081	aˁ<b>ʁuˁ-ru	<NSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0081	#	#	##	##				
+tabasaran	work	0081	q’uˁ-b	two-NSG	ln_num	ln_num				
+tabasaran	work	0081	vaz	month(ABS)	np:s	np		s		
+tabasaran	work	0081	aˁ-ru	<PL>go-FUT	v:pred	v		pred		
+tabasaran	work	0081	#	#	##neg	##neg				
+tabasaran	work	0081	sis	voice(ABS)	np:s	np		s		
+tabasaran	work	0081	č’uk’	part(ABS)	rn_np	rn_np				
+tabasaran	work	0081	a-dar	(IN)be-PRS:NEG	v:predex	v		predex		
+tabasaran	work	0081	#	#	##neg	##neg				
+tabasaran	work	0081	gaf	word(ABS)	np:s	np		s		
+tabasaran	work	0081	č’al	language(ABS)	rn_np	rn_np				
+tabasaran	work	0081	a-dar	(IN)be-PRS:NEG	v:predex	v		predex		
+tabasaran	work	0081	#	#	##neg	##neg				
+tabasaran	work	0081	ǯaχ	call	np:s	np		s		
+tabasaran	work	0081	ǯik’	RDP	rn_np	rn_np				
+tabasaran	work	0081	a-dar	(IN)be-PRS:NEG	v:predex	v		predex		
+tabasaran	work	0082	#	#	##	##				
+tabasaran	work	0082	aˁχir	finally	other	other				
+tabasaran	work	0082	kerim.ǯi	Kerim(ERG)	pn_np.h:a_ds	pn_np	h	a_ds	5005	
+tabasaran	work	0082	k’ur	say.FUT	v:pred	v		pred		
+tabasaran	work	0082	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0082	uz-x-a	I-APUD-ELAT	pro.1:obl	pro	1	obl	5005	
+tabasaran	work	0082	aˁχ	patience(ABS)	np:s	np		s		
+tabasaran	work	0082	ap’u-z	do-INF	v:pred	v		pred		
+tabasaran	work	0082	šul-a-da	become-PRS-NEG	rv_aux	rv_aux				
+tabasaran	work	0082	=z-x-a	=1SG-APUD-ELAT	=rv-pro_1_obl	=rv-pro_1_obl				
+tabasaran	work	0082	k’ur	CIT	other	other				
+tabasaran	work	0082	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0082	ʁardaš	brother	np.h:s_cv	np	h	s_cv	5004	
+tabasaran	work	0082	d-uš-nu	PFV-<HSG>go-PCVB	v:pred	v		pred		
+tabasaran	work	0083	#	#	##ds	##ds				
+tabasaran	work	0083	muva-z	PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	5004	
+tabasaran	work	0083	k’ur	CIT	other	other				
+tabasaran	work	0083	fu-k’ara	what-INDEF(ABS)	indef_other:s	indef_other		s		
+tabasaran	work	0083	a-b-x-nu	PFV-NSG-become-PCVB	v:predex	v		predex		
+tabasaran	work	0083	šul	become:PRS	rv_aux	rv_aux				
+tabasaran	work	0083	k’ur	CIT	other	other				
+tabasaran	work	0083	#	#	#ds_ac.neg	#ds_ac.neg				
+tabasaran	work	0083	da-š	NEG:COP-COND	v:predex	v		predex		
+tabasaran	work	0083	#	#	#ds_cc_pc:s	#ds_cc_pc		s		
+tabasaran	work	0083	mu	PROX(ABS)	dem_pro.h:s_pc	dem_pro	h	s_pc	5004	
+tabasaran	work	0083	ʁuˁ-ru-r	come-PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0083	%	%	%	%				
+tabasaran	work	0083	u	COP	other	other				
+tabasaran	work	0083	k’ur	CIT	other	other				
+tabasaran	work	0084	#	#	##ds	##ds				
+tabasaran	work	0084	uzu	I	pro.1:s	pro	1	s	5005	
+tabasaran	work	0084	aˁ-ra	<HSG>go-PRS	v:pred	v		pred		
+tabasaran	work	0084	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	work	0084	k’ur	CIT	other	other				
+tabasaran	work	0085	#	#	##	##				
+tabasaran	work	0085	uduc̊’-uru	<HSG>go_out-FUT	v:pred	v		pred		
+tabasaran	work	0085	selim	Selim	nc_pn_np.h	nc_pn_np	h		5006	
+tabasaran	work	0085	kerim	Kerim(ABS)	pn_np.h:s	pn_np	h	s	5005	
+tabasaran	work	0085	#	#	#cv	#cv				
+tabasaran	work	0085	0	0_Kerim	0.h:a_cv	0	h	a_cv	5005	
+tabasaran	work	0085	ʁada<b>ʁ-nu	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0085	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss	5005	
+tabasaran	work	0085	palat	clothes(ABS)	np:p	np		p	5057	new
+tabasaran	work	0085	=ra	=ADD	=other	=other				
+tabasaran	work	0085	%	%	%	%				
+tabasaran	work	0085	#	#	#cv	#cv				
+tabasaran	work	0085	0	0_Kerim	0.h:a_cv	0	h	a_cv	5005	
+tabasaran	work	0085	erč-nu	<PL>put-PCVB	v:pred	v		pred		
+tabasaran	work	0085	ʁuˁn.i	shoulder(IN)	np:g	np		g	5058	bridging
+tabasaran	work	0085	herbi	saddle_bag(ABS)	np:p	np		p	5059	new
+tabasaran	work	0085	=ra	=ADD	=other	=other				
+tabasaran	work	0085	#	#	#pc	#pc				
+tabasaran	work	0085	ha-mu	EMPH-PROX(ABS)	dem_pro.h:s_pc	dem_pro	h	s_pc	5005	
+tabasaran	work	0085	raˁqː.ǯi	road-(IN)	np:g	np		g	5060	bridging
+tabasaran	work	0085	adaq-u-s̊.a-ǯi	<HSG>fall-PTCP-place-(IN)DIR	v:pred	v		pred		
+tabasaran	work	0085	adaq-ri	<HSG>fall-JUSS	rv	rv				
+tabasaran	work	0085	k’ur	CIT	other	other				
+tabasaran	work	0085	#	#	##ds	##ds				
+tabasaran	work	0085	hele	now	other	other				
+tabasaran	work	0085	0	0_Kerim	0.1:s	0	1	s	5005	
+tabasaran	work	0085	aˁ-ǯa	go-PRS	v:pred	v		pred		
+tabasaran	work	0085	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	work	0085	k’ur	CIT	other	other				
+tabasaran	work	0085	#	#	#nc	#nc				
+tabasaran	work	0085	[UNCLEAR]	NC	nc	nc				
+tabasaran	work	0085	i<b>š-ri	<NSG>become-JUSS	nc	nc				
+tabasaran	work	0086	#	#	##	##				
+tabasaran	work	0086	#	#	#cv	#cv				
+tabasaran	work	0086	0	0_Kerim	0.h:s_cv	0	h	s_cv	5005	
+tabasaran	work	0086	lic-uri	<HSG>walk-ICVB	v:pred	v		pred		
+tabasaran	work	0086	%	%	%	%				
+tabasaran	work	0086	#	#	#cv	#cv				
+tabasaran	work	0086	0	0_Kerim	0.h:s_cv	0	h	s_cv	5005	
+tabasaran	work	0086	lic-uri	<HSG>walk-ICVB	v:pred	v		pred		
+tabasaran	work	0086	%	%	%	%				
+tabasaran	work	0086	#	#	#cv	#cv				
+tabasaran	work	0086	0	0_Kerim	0.h:s_cv	0	h	s_cv	5005	
+tabasaran	work	0086	lic-uri	<HSG>walk-ICVB	v:pred	v		pred		
+tabasaran	work	0086	%	%	%	%				
+tabasaran	work	0086	#	#	#cv	#cv				
+tabasaran	work	0086	0	0_Kerim	0.h:s_cv	0	h	s_cv	5005	
+tabasaran	work	0086	lic-uri	walk-ICVB	v:pred	v		pred		
+tabasaran	work	0086	%	%	%	%				
+tabasaran	work	0086	0	0_Kerim	0.h:s	0	h	s	5005	
+tabasaran	work	0086	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0086	#	#	##	##				
+tabasaran	work	0086	0	0_Kerim	0.h:s	0	h	s	5005	
+tabasaran	work	0086	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0086	#	#	##	##				
+tabasaran	work	0086	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5005	
+tabasaran	work	0086	aˁχir	finally	other	other				
+tabasaran	work	0086	adaq-uru	<HSG>fall-FUT	v:pred	v		pred		
+tabasaran	work	0086	mu	PROX(ABS)	ln_dem	ln_dem				
+tabasaran	work	0086	šahr.i-ǯi	town-(IN)DIR	np:g	np		g	5016	
+tabasaran	work	0086	qana	now	other	other				
+tabasaran	work	0086	=ra	=ADD	=other	=other				
+tabasaran	work	0086	ha-mu	EMPH-PROX(ABS)	other	other				
+tabasaran	work	0086	=ra	=ADD	=other	=other				
+tabasaran	work	0087	#	#	#cv	#cv				
+tabasaran	work	0087	ha-mu	EMPH-PROX(ABS)	dem_pro.h:dt_s	dem_pro	h	dt_s	5005	
+tabasaran	work	0087	#	#	#rc_cv	#rc_cv			5017	
+tabasaran	work	0087	pirim	Pirim	pn_np.h:s_cv	pn_np	h	s_cv	5004	
+tabasaran	work	0087	adaq-u	<HSG>fall-PCVB	v:pred	v		pred		
+tabasaran	work	0087	0	0_teahouse	rel_f0:g	rel_f0		g	5017	
+tabasaran	work	0087	%	%	%	%				
+tabasaran	work	0087	čajχain.ǯi	teahouse(IN)	np:g	np		g	5017	
+tabasaran	work	0087	adaq-uru	<HSG>fall-FUT	v:pred	v		pred		
+tabasaran	work	0087	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5005	
+tabasaran	work	0088	#	#	##	##				
+tabasaran	work	0088	#	#	#cv	#cv				
+tabasaran	work	0088	0	0_Kerim	0.h:s_cv	0	h	s_cv	5005	
+tabasaran	work	0088	dus-nu	<HSG>sit-PCVB	v:pred	v		pred		
+tabasaran	work	0088	ha-m-s̊a	EMPH-PROX-LOC.ADV(IN)	dem_pro:l	dem_pro		l	5017	
+tabasaran	work	0088	#	#	#pc	#pc				
+tabasaran	work	0088	0	0_Kerim	0.h:s_pc	0	h	s_pc	5005	
+tabasaran	work	0088	e<r>g-na-ji-r	<HSG>become_tired-RES-PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0088	%	%	%	%				
+tabasaran	work	0088	%	%	%	%				
+tabasaran	work	0088	#	#	#cv	#cv				
+tabasaran	work	0088	0	0_Kerim	0.h:a_cv	0	h	a_cv	5005	
+tabasaran	work	0088	u<b>q-uri	<NSG>drink-ICVB	v:pred	v		pred		
+tabasaran	work	0088	čaj	tea(ABS)	np:p	np		p	5061	bridging
+tabasaran	work	0088	=ra	=ADD	=other	=other				
+tabasaran	work	0088	%	%	%	%				
+tabasaran	work	0088	#	#	#cv	#cv				
+tabasaran	work	0088	0	0_Kerim	0.h:a_cv	0	h	a_cv	5005	
+tabasaran	work	0088	ap’u-ri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0088	fikr-ar	thought-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0088	#	#	##ds	##ds				
+tabasaran	work	0088	0	0_Kerim	0.1:a	0	1	a	5005	
+tabasaran	work	0088	hap’	what_do	v:pred	v		pred		
+tabasaran	work	0088	=za-jk’e	=1SG:AG-RHET	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0088	#	#	##ds	##ds				
+tabasaran	work	0088	0	0_Kerim	0.1:a	0	1	a	5005	
+tabasaran	work	0088	ficːi	how	other	other				
+tabasaran	work	0088	ap’u	do	v:pred	v		pred		
+tabasaran	work	0088	=za-jk’e	=1SG:AG-RHET	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0088	#	#	##ds	##ds				
+tabasaran	work	0088	0	0_Kerim	0.1:a	0	1	a	5005	
+tabasaran	work	0088	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	work	0088	herχu	ask	v:pred	v		pred		
+tabasaran	work	0088	=za-jk’e	=1SG:AG-RHET	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0088	#	#	##ds	##ds				
+tabasaran	work	0088	0	0_Kerim	0.1:a	0	1	a	5005	
+tabasaran	work	0088	šl.i-x-a	who-APUD-ELAT	intrg_other.h:g	intrg_other	h	g		
+tabasaran	work	0088	herχu	ask	v:pred	v		pred		
+tabasaran	work	0088	=za-jk’e	=1SG:AG-RHET	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0088	#	#	##ds	##ds				
+tabasaran	work	0088	0	0_Kerim	0.1:a	0	1	a	5005	
+tabasaran	work	0088	naʔana	where	intrg_other:l	intrg_other		l		
+tabasaran	work	0088	a<b>gu	<NSG>search	v:pred	v		pred		
+tabasaran	work	0088	=za-jk’e	=1SG:AG-RHET	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0088	laˤχin	work(ABS)	np:p	np		p	5062	bridging
+tabasaran	work	0088	k’ur	CIT	other	other				
+tabasaran	work	0089	#	#	##	##				
+tabasaran	work	0089	#	#	#cv	#cv				
+tabasaran	work	0089	0	0_Kerim	0.h:a_cp_cv	0	h	a_cp_cv	5005	
+tabasaran	work	0089	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	work	0089	fikir	thought(ABS)	other:lvc	other		lvc		
+tabasaran	work	0089	ap’-ura-ǯi	do-PRS-ICVB	v:pred	v		pred		
+tabasaran	work	0089	%	%	%	%				
+tabasaran	work	0089	0	0_Kerim	0.h:s	0	h	s	5005	
+tabasaran	work	0089	liv-uru	<HSG>look-FUT	v:pred	v		pred		
+tabasaran	work	0089	#	#	#cv	#cv				
+tabasaran	work	0089	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	work	0089	admi	man(ABS)	np.h:s_cv	np	h	s_cv	5020	
+tabasaran	work	0089	adaqu-ru	<HSG>fall-ICVB	v:pred	v		pred		
+tabasaran	work	0089	qana	now	other	other				
+tabasaran	work	0089	ha-mi-na	EMPH-PROX-LAT	dem_pro:l	dem_pro		l	5017	
+tabasaran	work	0090	#	#	##	##				
+tabasaran	work	0090	0	0_man	0.h:s	0	h	s	5020	
+tabasaran	work	0090	liv-uru	<HSG>look-FUT	v:pred	v		pred		
+tabasaran	work	0090	#	#	##	##				
+tabasaran	work	0090	#	#	#cc_pc:p	#cc_pc		p		
+tabasaran	work	0090	d-uf-na-ji-b	PFV-come-RES-PTCP-NSG	nc	nc				
+tabasaran	work	0090	0	0_Kerim	0.h:s_pc	0	h	s_pc	5005	
+tabasaran	work	0090	ʁiraʁ.ǯi-l-a	edge-SUPER-ELAT	np:l	np		l		
+tabasaran	work	0090	d-uf-na-ji-b	PFV-come-RES-PTCP-NSG	v:pred	v		pred		
+tabasaran	work	0090	%	%	%	%				
+tabasaran	work	0090	aˁʁu	know	other:lvc	other		lvc		
+tabasaran	work	0090	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0090	muva-z	PROX-DAT	dem_pro.h:ncs_cp	dem_pro	h	ncs_cp	5020	
+tabasaran	work	0091	#	#	#nc	#nc				
+tabasaran	work	0091	miʁ-ar.i	PROX+day-PL(ERG)	nc	nc				
+tabasaran	work	0091	mu-s̊a	PROX(ABS)-LOC.ADV(IN)	nc_dem_pro	nc_dem_pro			5016	
+tabasaran	work	0091	a-ji-r	be-PTCP-PL	nc	nc				
+tabasaran	work	0091	dar	COP:NEG	nc	nc				
+tabasaran	work	0091	fu	what	nc	nc				
+tabasaran	work	0091	χabar	news(ABS)	nc	nc				
+tabasaran	work	0091	ǯihil	youth	nc_np.h	nc_np	h		5005	
+tabasaran	work	0091	k’ur	CIT	nc	nc				
+tabasaran	work	0091	#	#	##ds	##ds				
+tabasaran	work	0091	0	0_Kerim	0.2:a_cp	0	2	a_cp	5005	
+tabasaran	work	0091	jaman	bad	ln_adj	ln_adj				
+tabasaran	work	0091	fikr-ar	thought-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0091	ap’-ura	do-PRS	v:pred	v		pred		
+tabasaran	work	0091	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0091	#	#	##ds	##ds				
+tabasaran	work	0091	aˁχir	finally	other	other				
+tabasaran	work	0091	fu	what	intrg_other:pred	intrg_other		pred		
+tabasaran	work	0091	jav	your	ln_pro.2:poss	ln_pro	2	poss	5005	
+tabasaran	work	0091	derdi	concern(ABS)	np:s	np		s		
+tabasaran	work	0091	k’ur	CIT	other	other				
+tabasaran	work	0092	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0092	fu-k’ara	what-INDEF(ABS)	indef_other:s	indef_other		s		
+tabasaran	work	0092	a-dr-u	(IN)be-PRS:NEG-PCVB	v:predex	v		predex		
+tabasaran	work	0092	dar-u-b	COP:NEG-PTCP-NSG	rv	rv				
+tabasaran	work	0092	a-n	(IN)be:PRS-Q	rv	rv				
+tabasaran	work	0092	=ev	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss	5005	
+tabasaran	work	0092	k’ur	CIT	other	other				
+tabasaran	work	0092	#	#	##ds	##ds				
+tabasaran	work	0092	fu-k’ara	what-INDEF(ABS)	indef_other:s	indef_other		s		
+tabasaran	work	0092	a-b-x-i-b	PFV-NSG-become-PTCP-NSG	v:predex	v		predex		
+tabasaran	work	0092	a-ji	be-PST	rv_aux	rv_aux				
+tabasaran	work	0092	k’ur	CIT	other	other				
+tabasaran	work	0093	#	#	##ds	##ds				
+tabasaran	work	0093	χat’a	danger(ABS)	np:s	np		s		
+tabasaran	work	0093	bala	problem(ABS)	rn_np	rn_np				
+tabasaran	work	0093	du-b-x-na-ji	PFV-NSG-become-RES-PST	v:predex	v		predex		
+tabasaran	work	0093	k’ur	CIT	other	other				
+tabasaran	work	0094	#	#	##ds	##ds				
+tabasaran	work	0094	vallah	INTERJ	other	other				
+tabasaran	work	0094	k’ur	CIT	other	other				
+tabasaran	work	0094	ha-m-cːi	EMPH-PROX-ADV	ln	ln				
+tabasaran	work	0094	k’ur	CIT	other	other				
+tabasaran	work	0094	ʁardaš	brother(ABS)	np.h:s	np	h	s	5004	
+tabasaran	work	0094	#	#	#ds_ac_in	#ds_ac_in				
+tabasaran	work	0094	0	0_Pirim	f0.h:s_in	f0	h	s_in	5004	
+tabasaran	work	0094	liχu-z	<HSG>work-INF	vother:pred	vother		pred		
+tabasaran	work	0094	%	%	%	%				
+tabasaran	work	0094	ʁ-uš-nu	PFV-<HSG>go-AOR	v:pred	v		pred		
+tabasaran	work	0094	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0094	ʁardaš	brother(ABS)	np.h:s	np	h	s	5004	
+tabasaran	work	0094	=ra	=ADD	=other	=other				
+tabasaran	work	0094	ʁa-f-un-dar	PFV-come-AOR-NEG	v:pred	v		pred		
+tabasaran	work	0094	k’ur	CIT	other	other				
+tabasaran	work	0095	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0095	ja	or	other	other				
+tabasaran	work	0095	ič	our(EXCL)	ln_pro.1:poss	ln_pro	1	poss	5003	
+tabasaran	work	0095	χʷl.a	house(IN)	np:l	np		l	5011	
+tabasaran	work	0095	ip’-ru-b	<NSG>eat-PTCP-NSG(ABS)	np:s	np		s		
+tabasaran	work	0095	=ra	=ADD	=other	=other				
+tabasaran	work	0095	am-dar	(IN)remain-PRS:NEG	v:pred	v		pred		
+tabasaran	work	0095	k’ur	CIT	other	other				
+tabasaran	work	0096	#	#	#ds_pc	#ds_pc				
+tabasaran	work	0096	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0096	0	0_Kerim	0.1:a_cv	0	1	a_cv	5005	
+tabasaran	work	0096	ha-m-cːi	EMPH-PROX-ADV	ln	ln				
+tabasaran	work	0096	laˁχin	work(ABS)	np:p	np		p	5062	
+tabasaran	work	0096	a<b>gu-ri	<NSG>search-ICVB	v:pred	v		pred		
+tabasaran	work	0096	%	%	%	%				
+tabasaran	work	0096	0	0_Kerim	0.1:s_pc	0	1	s_pc	5005	
+tabasaran	work	0096	uduc̊’-ne-j-r-u	<HSG>go_out-RES-PTCP-HSG-COP	v:pred	v		pred		
+tabasaran	work	0096	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	work	0096	k’ur	CIT	other	other				
+tabasaran	work	0096	%	%	%	%				
+tabasaran	work	0097	#	#	#ds_pc.neg	#ds_pc.neg				
+tabasaran	work	0097	#	#	#ds_ac	#ds_ac				
+tabasaran	work	0097	0	0_brothers	0.1:a	0	1	a	5003	
+tabasaran	work	0097	hap’-ru-š	what_do-FUT-COND	v:pred	v		pred		
+tabasaran	work	0097	=ra	=ADD	=other	=other				
+tabasaran	work	0097	%	%	%	%				
+tabasaran	work	0097	0	0_brothers	0.1:a_pc	0	1	a_pc	5003	
+tabasaran	work	0097	aˁ-ǯu-z	know-FUT-NC	v:pred	v		pred		
+tabasaran	work	0097	du-x-n-e-dar-u	PFV-(PL)become-RES-PTCP-PL-COP	np:p	np		p		
+tabasaran	work	0097	=ča	=1PL(EXCL):AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0097	k’ur	CIT	other	other				
+tabasaran	work	0098	#	#	##ds	##ds				
+tabasaran	work	0098	qa	then	other	other				
+tabasaran	work	0098	#	#	#ds_cc_pc:p	#ds_cc_pc		p		
+tabasaran	work	0098	laˁχin	work(ABS)	np:s_pc	np		s_pc	5062	
+tabasaran	work	0098	a-ji-s̊	(IN)be-PTCP-LOC.ADV	v:pred	v		pred		
+tabasaran	work	0098	%	%	%	%				
+tabasaran	work	0098	uzu	I	pro.1:a	pro	1	a	5020	
+tabasaran	work	0098	0	0_Kerim	0.2:g	0	2	g	5005	
+tabasaran	work	0098	k’-ur	say-FUT	v:pred	v		pred		
+tabasaran	work	0098	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0098	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0098	k’ur	CIT	other	other				
+tabasaran	work	0098	#	#	#ds_ac	#ds_ac				
+tabasaran	work	0098	eger	if	adp	adp				
+tabasaran	work	0098	uvu	you	pro.2:a	pro	2	a	5005	
+tabasaran	work	0098	ap’-ru-š	do-FUT-COND	v:pred	v		pred		
+tabasaran	work	0098	0	0_work	0:p	0		p	5062	
+tabasaran	work	0098	k’ur	CIT	other	other				
+tabasaran	work	0099	#	#	##ds	##ds				
+tabasaran	work	0099	qa	then	other	other				
+tabasaran	work	0099	0	0_Kerim	0.1:a	0	1	a	5005	
+tabasaran	work	0099	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	work	0099	baja	PRT	other	other				
+tabasaran	work	0099	χalu	uncle(ABS)	np.h:voc	np	h	voc	5020	
+tabasaran	work	0099	k’ur	CIT	other	other				
+tabasaran	work	0100	#	#	#ds	#ds				
+tabasaran	work	0100	laˁχin	work(ABS)	np:s	np		s	5063	bridging
+tabasaran	work	0100	k’ur	CIT	other	other				
+tabasaran	work	0100	jiz	my	ln_pro.1:poss	ln_pro	1	poss	5020	
+tabasaran	work	0100	χʷl.a	house(IN)	np:l	np		l	5035	
+tabasaran	work	0100	gun-i	want-PTCP	v:pred	v		pred		
+tabasaran	work	0100	=q’a	=PRT	=rv	=rv				
+tabasaran	work	0100	a	(IN)be:PRS	rv_aux	rv_aux				
+tabasaran	work	0100	=jiz	=1SG:POSS	=rn_pro.1:poss	=rn_pro	1	poss	5020	
+tabasaran	work	0100	k’ur	CIT	other	other				
+tabasaran	work	0101	#	#	##ds	##ds				
+tabasaran	work	0101	#	#	#ds_ac	#ds_ac				
+tabasaran	work	0101	eger	if	adp	adp				
+tabasaran	work	0101	#	#	#ds_cc_pc:p	#ds_cc_pc		p		
+tabasaran	work	0101	uzu	I	pro.1:a_pc	pro	1	a_pc	5020	
+tabasaran	work	0101	ʁa-p-i-b	PFV-say-PTCP-NSG(ABS)	v:pred	v		pred		
+tabasaran	work	0101	%	%	%	%				
+tabasaran	work	0101	0	0_Kerim	0.2:a	0	2	a	5005	
+tabasaran	work	0101	ap’-ru-š	do-FUT-COND	v:pred	v		pred		
+tabasaran	work	0101	k’ur	CIT	other	other				
+tabasaran	work	0101	%	%	%	%				
+tabasaran	work	0101	#	#	#ds_ac	#ds_ac				
+tabasaran	work	0101	#	#	#ds_rc_pc	#ds_rc_pc			5055	
+tabasaran	work	0101	uzu	I	pro.1:a_pc	pro	1	a_pc	5005	
+tabasaran	work	0101	k’-ura-ji	say-PRS-PTCP	v:pred	v		pred		
+tabasaran	work	0101	0	0_agreement	rel_f0:p	rel_f0		p	5055	
+tabasaran	work	0101	%	%	%	%				
+tabasaran	work	0101	jiq’r-ar.i-in-ǯi	agreement-PL-SUPER-DIR	np:obl	np		obl	5055	
+tabasaran	work	0101	uvu	you.SG	pro.2:a_cp	pro	2	a_cp	5005	
+tabasaran	work	0101	laˁχin	work(ABS)	other:lvc	other		lvc		
+tabasaran	work	0101	ap’-uru-š	do-FUT-COND	v:pred	v		pred		
+tabasaran	work	0101	%	%	%	%				
+tabasaran	work	0101	uzu	I	pro.1:a	pro	1	a	5020	
+tabasaran	work	0101	tur	give+FUT	v:pred	v		pred		
+tabasaran	work	0101	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0101	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0101	0	0_Kerim	0.2:g	0	2	g	5005	
+tabasaran	work	0101	k’ur	CIT	other	other				
+tabasaran	work	0101	laˁχin	work(ABS)	np:p	np		p	5063	
+tabasaran	work	0102	#	#	#nc	#nc				
+tabasaran	work	0102	qa	then	nc	nc				
+tabasaran	work	0102	ficː-dar	how-PL(ABS)	nc	nc				
+tabasaran	work	0102	vu	COP	nc	nc				
+tabasaran	work	0102	=jav	=2SG:POSS	nc_pro.2	nc_pro	2		5020	
+tabasaran	work	0102	k’ur	CIT	nc	nc				
+tabasaran	work	0103	#	#	##ds	##ds				
+tabasaran	work	0103	ip’-ru	<NSG>eat-PTCP	ln	ln				
+tabasaran	work	0103	uˁl	bread(ABS)	np:p	np		p	5064	bridging
+tabasaran	work	0103	=la	=ADD	=other	=other				
+tabasaran	work	0103	0	0_man	0.1:a	0	1	a	5020	
+tabasaran	work	0103	tur	give+FUT	v:pred	v		pred		
+tabasaran	work	0103	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0103	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0103	0	0_Kerim	0.2:g	0	2	g	5005	
+tabasaran	work	0103	#	#	##ds	##ds				
+tabasaran	work	0103	dus-ru	<HSG>sit-PTCP	ln	ln				
+tabasaran	work	0103	χal	house(ABS)	np:p	np		p	5031	
+tabasaran	work	0103	=ra	=ADD	=other	=other				
+tabasaran	work	0103	0	0_man	0.1:a	0	1	a	5020	
+tabasaran	work	0103	tur	give+FUT	v:pred	v		pred		
+tabasaran	work	0103	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0103	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0103	0	0_Kerim	0.2:g	0	2	g	5005	
+tabasaran	work	0103	k’ur	CIT	other	other				
+tabasaran	work	0103	#	#	##ds	##ds				
+tabasaran	work	0103	pul	money(ABS)	np:p	np		p	5065	bridging
+tabasaran	work	0103	=ra	=ADD	=other	=other				
+tabasaran	work	0103	0	0_man	0.1:a	0	1	a	5020	
+tabasaran	work	0103	tur	give+FUT	v:pred	v		pred		
+tabasaran	work	0103	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0103	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0103	0	0_Kerim	0.2:g	0	2	g	5005	
+tabasaran	work	0103	#	#	##ds	##ds				
+tabasaran	work	0103	0	0_Kerim	0.2:a	0	2	a	5005	
+tabasaran	work	0103	#	#	#ds_rc_pc	#ds_rc_pc			5063	
+tabasaran	work	0103	uzu	I	pro.1:a_pc	pro	1	a_pc	5020	
+tabasaran	work	0103	ʁ-ap-i	PFV-say-PTCP	v:pred	v		pred		
+tabasaran	work	0103	0	0_work	rel_f0:p	rel_f0		p	5063	
+tabasaran	work	0103	%	%	%	%				
+tabasaran	work	0103	laˁχin	work(ABS)	np:p	np		p	5063	
+tabasaran	work	0103	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	work	0103	k’ur	CIT	other	other				
+tabasaran	work	0104	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0104	anǯaʁ	only	other	other				
+tabasaran	work	0104	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0104	ʁuˁ-b	come-MSD	v:pred	v		pred		
+tabasaran	work	0104	dar-i<b>š-ri	NEG-<NSG>become-JUSS	rv_aux	rv_aux				
+tabasaran	work	0104	k’ur	CIT	other	other				
+tabasaran	work	0104	sa-r	one-HSG	refl.h:other	refl	h	other	5066	bridging
+tabasaran	work	0104	sa-r.i-k-a	one-HSG-CONT-ELAT	rn	rn				
+tabasaran	work	0104	#	#	#ds	#ds				
+tabasaran	work	0104	qaˁl	anger(ABS)	ln_np	ln_np				
+tabasaran	work	0104	ʁa-f-i-r.i-n	PFV-come-PTCP-HSG-GEN	ln_np.h:poss	ln_np	h	poss		
+tabasaran	work	0104	gardan	neck(ABS)	np:s	np		s	5067	bridging
+tabasaran	work	0104	jiv-ub	hit-MSD	v:pred	v		pred		
+tabasaran	work	0105	#	#	##ds	##ds				
+tabasaran	work	0105	vah	VOC	other	other				
+tabasaran	work	0105	fu	what	ln	ln				
+tabasaran	work	0105	gaf	word(ABS)	np:s	np		s		
+tabasaran	work	0105	vu	COP	v:predex	v		predex		
+tabasaran	work	0105	=jav	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss	5020	
+tabasaran	work	0105	χalu	uncle(ABS)	np.h:voc	np	h	voc	5020	
+tabasaran	work	0105	k’ur	CIT	other	other				
+tabasaran	work	0105	#	#	##ds	##ds				
+tabasaran	work	0105	haz	why	other	other				
+tabasaran	work	0105	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0105	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0105	uzu-z	I-DAT	pro.1:g	pro	1	g	5005	
+tabasaran	work	0105	uv-k-a	you-CONT-ELAT	pro.2:obl	pro	2	obl	5020	
+tabasaran	work	0105	k’ur	CIT	other	other				
+tabasaran	work	0105	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	work	0105	0	0_man	0.2:a_pc	0	2	a_pc	5020	
+tabasaran	work	0105	mu-q’an-dar	PROX-DEGR-PL	ln_dem	ln_dem				
+tabasaran	work	0105	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	work	0105	=ra	=ADD	=other	=other				
+tabasaran	work	0105	tur-e-ge	give+FUT-PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0105	%	%	%	%				
+tabasaran	work	0105	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	work	0105	0	0_man	0.2:a_pc	0	2	a_pc	5020	
+tabasaran	work	0105	uǯu-vl-ar	good-ABSTR-PL	np:p	np		p	5068	bridging
+tabasaran	work	0105	0	0_Kerim	0.1:g	0	1	g	5005	
+tabasaran	work	0105	tur-e-ge	give+FUT-PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0106	#	#	##ds	##ds				
+tabasaran	work	0106	0	0_Kerim	0.1:a	0	1	a	5005	
+tabasaran	work	0106	0	0_work	0:p	0		p	5063	
+tabasaran	work	0106	ap’-ur	do-FUT	v:pred	v		pred		
+tabasaran	work	0106	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0106	k’ur	CIT	other	other				
+tabasaran	work	0107	#	#	##ds	##ds				
+tabasaran	work	0107	0	0_Kerim	0.2:s	0	2	s	5005	
+tabasaran	work	0107	ʁač	come(IMP)	v:pred	v		pred		
+tabasaran	work	0107	k’ur	CIT	other	other				
+tabasaran	work	0107	ix	our(INCL)	ln_pro.1:poss	ln_pro	1	poss	5069	bridging
+tabasaran	work	0107	χʷl.a-z	house-DAT	np:g	np		g	5035	
+tabasaran	work	0108	#	#	##	##				
+tabasaran	work	0108	q-a-ǯi	POST-be-ICVB	other	other				
+tabasaran	work	0108	0	0_man	0.h:s	0	h	s	5020	
+tabasaran	work	0108	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0108	kerim	Kerim(ABS)	pn_np.h:obl	pn_np	h	obl	5005	
+tabasaran	work	0108	=ra	=ADD	=rn	=rn				
+tabasaran	work	0108	#	#	#cv	#cv				
+tabasaran	work	0108	q-a-ǯi	POST-be-ICVB	other	other				
+tabasaran	work	0108	0	0_man	0.h:s	0	h	s	5020	
+tabasaran	work	0108	d-uš-nu	PFV-<HSG>go-PCVB	v:pred	v		pred		
+tabasaran	work	0108	#	#	##	##				
+tabasaran	work	0108	#	#	#cv	#cv				
+tabasaran	work	0108	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0108	kerim	Kerim(ABS)	pn_np.h:p	pn_np	h	p	5005	
+tabasaran	work	0108	=ra	=ADD	=other	=other				
+tabasaran	work	0108	dit-nu	<HSG>sit-PCVB	v:pred	v		pred		
+tabasaran	work	0108	#	#	##	##				
+tabasaran	work	0108	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0108	ulup-uru	show-FUT	v:pred	v		pred		
+tabasaran	work	0108	muva-z	PROX-DAT	dem_pro.h:g	dem_pro	h	g	5005	
+tabasaran	work	0108	daq-ru	<HSG>lie-PTCP	ln	ln				
+tabasaran	work	0108	jis̊	place(ABS)	np:p	np		p	5031	
+tabasaran	work	0108	=ra	=ADD	=other	=other				
+tabasaran	work	0109	#	#	#cv	#cv				
+tabasaran	work	0109	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0109	du-b-χ-nu	PFV-NSG-bring-PCVB	v:pred	v		pred		
+tabasaran	work	0109	uˁl	bread(ABS)	np:p	np		p	5070	bridging
+tabasaran	work	0109	=ra	=ADD	=other	=other				
+tabasaran	work	0109	%	%	%	%				
+tabasaran	work	0109	#	#	#cv	#cv				
+tabasaran	work	0109	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0109	0	0_bread	0:p	0		p	5070	
+tabasaran	work	0109	h-ib-u	APUD-put-PCVB	v:pred	v		pred		
+tabasaran	work	0109	ulix	in_front_of	np:g	np		g		
+tabasaran	work	0109	#	#	##ds	##ds				
+tabasaran	work	0109	hamus	now	other	other				
+tabasaran	work	0109	0	0_Kerim	0.2:s	0	2	s	5005	
+tabasaran	work	0109	daq	<HSG>lie(IMP)	v:pred	v		pred		
+tabasaran	work	0109	#	#	##	##				
+tabasaran	work	0109	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0109	k’-ur	say-FUT	v:pred	v		pred		
+tabasaran	work	0110	#	#	##ds	##ds				
+tabasaran	work	0110	zakur	tomorrow	other	other				
+tabasaran	work	0110	gač’ni	morning	other	other				
+tabasaran	work	0110	0	0_Kerim	0.2:s	0	2	s	5005	
+tabasaran	work	0110	haˁzur	ready	other	other				
+tabasaran	work	0110	jix	<HSG>become(IMP)	v:pred	v		pred		
+tabasaran	work	0110	k’ur	CIT	other	other				
+tabasaran	work	0110	#	#	#ds_ac_in	#ds_ac_in				
+tabasaran	work	0110	0	0_Kerim	f0.2:s_in	f0	2	s_in	5005	
+tabasaran	work	0110	ign.i-z	field-DAT	np:g	np		g	5038	
+tabasaran	work	0110	aˁʁ-uz	<HSG>go-INF	vother:pred	vother		pred		
+tabasaran	work	0111	#	#	##	##				
+tabasaran	work	0111	daq-ru	<HSG>lie-FUT	v:pred	v		pred		
+tabasaran	work	0111	kerim	Kerim(ABS)	pn_np.h:s	pn_np	h	s	5005	
+tabasaran	work	0111	#	#	#cv	#cv				
+tabasaran	work	0111	0	0_Kerim	0.h:a_cv	0	h	a_cv	5005	
+tabasaran	work	0111	d-ip’-u	PFV-<NSG>eat-PCVB	v:pred	v		pred		
+tabasaran	work	0111	uˁl	bread(ABS)	np:p	np		p	5070	
+tabasaran	work	0111	=ra	=ADD	=other	=other				
+tabasaran	work	0112	#	#	#ds_pc	#ds_pc				
+tabasaran	work	0112	jarab	VOC	other	other				
+tabasaran	work	0112	allah	Allah	other	other				
+tabasaran	work	0112	k’ur	CIT	other	other				
+tabasaran	work	0112	ha-mu	EMPH-PROX(ABS)	other	other				
+tabasaran	work	0112	uzu-z	I-DAT	pro.1:ncs_pc	pro	1	ncs_pc	5005	
+tabasaran	work	0112	raˁ<b>qː-uˁra-ji-b	<NSG>see-PRS-PTCP-NSG	v:pred	v		pred		
+tabasaran	work	0112	nimk’i	dream(ABS)	np:p	np		p		
+tabasaran	work	0112	k’ur	CIT	other	other				
+tabasaran	work	0112	#	#	##ds	##ds				
+tabasaran	work	0112	#	#	#ds_ac.neg	#ds_ac.neg				
+tabasaran	work	0112	0	0_such	0:s	0		s		
+tabasaran	work	0112	dar-ši-š	NEG-become-COND	v:predex	v		predex		
+tabasaran	work	0112	%	%	%	%				
+tabasaran	work	0112	mu-k’a	PROX(ABS)-DEGR	ln_dem	ln_dem				
+tabasaran	work	0112	uǯu-r	good-HSG	ln_adj	ln_adj				
+tabasaran	work	0112	admi	man(ABS)	np.h:s	np	h	s	5020	
+tabasaran	work	0112	ficːi-r-ik’e	how-HSG(ABS)-COP+RHET	v:predex	v		predex		
+tabasaran	work	0112	k’ur	CIT	other	other				
+tabasaran	work	0112	#	#	##ds	##ds				
+tabasaran	work	0112	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5020	
+tabasaran	work	0112	hap’-ru-r-ik’e	what_do-FUT-HSG(ABS)-COP+RHET	v:predex	v		predex		
+tabasaran	work	0112	mu	PROX(ABS)	other	other				
+tabasaran	work	0113	#	#	#nc	#nc				
+tabasaran	work	0113	daq-ru	<HSG>lie-PTCP	nc	nc				
+tabasaran	work	0113	χal	house(ABS)	nc_np	nc_np			5031	
+tabasaran	work	0113	=ra	=ADD	nc	nc				
+tabasaran	work	0113	k’ur	CIT	nc	nc				
+tabasaran	work	0113	ip’-ru	<NSG>eat-PTCP	nc	nc				
+tabasaran	work	0113	uˁl	bread(ABS)	nc_np	nc_np			5070	
+tabasaran	work	0113	=ra	=ADD	nc	nc				
+tabasaran	work	0113	pul	money(ABS)	nc_np	nc_np			5065	
+tabasaran	work	0113	=ra	=ADD	nc	nc				
+tabasaran	work	0113	k’ur	CIT	nc	nc				
+tabasaran	work	0113	laˁχin	work(ABS)	nc_np	nc_np			5063	
+tabasaran	work	0113	=ra	=ADD	nc	nc				
+tabasaran	work	0113	k’ur	CIT	nc	nc				
+tabasaran	work	0113	jada	PRT	nc	nc				
+tabasaran	work	0113	#	#	##	##				
+tabasaran	work	0113	#	#	#cv	#cv				
+tabasaran	work	0113	0	0_Kerim	0.h:a_cp_cv	0	h	a_cp_cv	5005	
+tabasaran	work	0113	daq-ru	<HSG>lie-PTCP	other	other				
+tabasaran	work	0113	fikr-ar	thought-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0113	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0113	%	%	%	%				
+tabasaran	work	0113	0	0_Kerim	0.h:a	0	h	a	5005	
+tabasaran	work	0113	jis̊	night(ABS)	np:p	np		p		
+tabasaran	work	0113	adap’-uru	<NSG>spend-FUT	v:pred	v		pred		
+tabasaran	work	0114	#	#	##	##				
+tabasaran	work	0114	gač’ni	morning	other	other				
+tabasaran	work	0114	0	0	0.h:a	0	h	a	5043	
+tabasaran	work	0114	kuč-ru	knock-FUT	v:pred	v		pred		
+tabasaran	work	0114	muva-z	PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	5005	
+tabasaran	work	0114	#	#	##ds	##ds				
+tabasaran	work	0114	0	0_Kerim	0.2:s	0	2	s	5005	
+tabasaran	work	0114	gudu<b>k’	<NSG>finish(IMP)	v:pred	v		pred		
+tabasaran	work	0114	kerim	Kerim	pn_np.h:voc	pn_np	h	voc	5005	
+tabasaran	work	0114	#	#	##ds	##ds				
+tabasaran	work	0114	0	0_Kerim	0.2:s	0	2	s	5005	
+tabasaran	work	0114	gudu<b>k’	<NSG>finish(IMP)	v:pred	v		pred		
+tabasaran	work	0114	#	#	##ds	##ds				
+tabasaran	work	0114	#	#	#ds_pc	#ds_pc				
+tabasaran	work	0114	riʁ	sun(ABS)	np:s_pc	np		s_pc	5042	
+tabasaran	work	0114	udu<b>c̊’-ajiz	<NSG>go_out-PTCP-DAT	v:pred	v		pred		
+tabasaran	work	0114	%	%	%	%				
+tabasaran	work	0114	0	0_Kerim	0.2:s	0	2	s	5005	
+tabasaran	work	0114	ʁaraχ	go(IMP)	v:pred	v		pred		
+tabasaran	work	0114	k’ur	CIT	other	other				
+tabasaran	work	0114	izn.i-z	field-DAT	np:g	np		g	5038	
+tabasaran	work	0115	#	#	##	##				
+tabasaran	work	0115	ʁuduʒ̊-uru	<HSG>stand_up-FUT	v:pred	v		pred		
+tabasaran	work	0115	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5005	
+tabasaran	work	0116	#	#	##	##				
+tabasaran	work	0116	haˁjaˁt.ǯi-ʔ	yard-IN	np:l	np		l	5049	
+tabasaran	work	0116	di<r>k-na	<PL>stay-RES	v:pred	v		pred		
+tabasaran	work	0116	zurba	huge	ln_adj	ln_adj				
+tabasaran	work	0116	q’uˤ-b	two-NSG	ln_num	ln_num				
+tabasaran	work	0116	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	work	0116	jic-ar	ox-PL(ABS)	np:s	np		s	5039	
+tabasaran	work	0116	=a	=ADD	=other	=other				
+tabasaran	work	0116	#	#	#cv	#cv				
+tabasaran	work	0116	0	0_oxen	0.h:s_cv	0	h	s_cv	5039	
+tabasaran	work	0116	gada<b>x-u	<NSG>put_out-PCVB	v:pred	v		pred		
+tabasaran	work	0116	puf	IDEOPH	other:lvc	other		lvc		
+tabasaran	work	0116	%	%	%	%				
+tabasaran	work	0116	#	#	#cv	#cv				
+tabasaran	work	0116	il-ip-u	SUPER-put-PCVB	v:pred	v		pred		
+tabasaran	work	0116	duruc	plough(ABS)	np:s_cv	np		s_cv	5045	
+tabasaran	work	0116	=ra	=ADD	=rn	=rn				
+tabasaran	work	0117	#	#	##	##				
+tabasaran	work	0117	kerim	Kerim(ABS)	np.h:s	np	h	s	5005	
+tabasaran	work	0117	=ra	=ADD	=other	=other				
+tabasaran	work	0117	#	#	#rc_pc	#rc_pc				
+tabasaran	work	0117	uǯu-r	good-NSG	ln_adj	ln_adj				
+tabasaran	work	0117	q’uvat	strength(ABS)	np:s	np		s		
+tabasaran	work	0117	a-ji	(IN)be-PTCP	v:predex	v		predex		
+tabasaran	work	0117	%	%	%	%				
+tabasaran	work	0117	baž	boy(ABS)	np.h:pred	np	h	pred		
+tabasaran	work	0117	u-ǯi	COP-ICVB	cop	cop				
+tabasaran	work	0117	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0118	#	#	##	##				
+tabasaran	work	0118	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0118	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5005	
+tabasaran	work	0119	#	#	##	##				
+tabasaran	work	0119	0	0	0.h:a	0	h	a	5043	
+tabasaran	work	0119	ulup-uru	show-FUT	v:pred	v		pred		
+tabasaran	work	0119	muva-z	PROX(ABS)-DAT	dem_pro.h:g	dem_pro	h	g	5005	
+tabasaran	work	0119	ha-k-mu	EMPH-DOWN(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0119	χʷt’il	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0119	#	#	##ds	##ds				
+tabasaran	work	0119	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0119	0	0_Kerim	0.2:s_cv	0	2	s_cv	5005	
+tabasaran	work	0119	d-uš-nu	PFV-<HSG>go-PCVB	v:pred	v		pred		
+tabasaran	work	0119	k’ur	CIT	other	other				
+tabasaran	work	0119	%	%	%	%				
+tabasaran	work	0119	0	0_Kerim	0.2:a	0	2	a	5005	
+tabasaran	work	0119	ha-kmu	EMPH-DOWN(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0119	k’ul.i-a-mi-na	head-(IN)ELAT-PROX-LAT	np:obl	np		obl	5071	bridging
+tabasaran	work	0119	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0119	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	work	0119	k’ur	CIT	other	other				
+tabasaran	work	0120	#	#	##	##				
+tabasaran	work	0120	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0120	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	5005	
+tabasaran	work	0120	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0121	#	#	##	##				
+tabasaran	work	0121	0	0_Kerim	0.h:a	0	h	a	5005	
+tabasaran	work	0121	gaˁb-ru	start-FUT	lv_aux	lv_aux				
+tabasaran	work	0121	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0121	ap’-uz	do-INF	v:pred	v		pred		
+tabasaran	work	0122	#	#	##	##				
+tabasaran	work	0122	ha	PRT	other	other				
+tabasaran	work	0122	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0122	saˤaˁt	hour(ABS)	np:other	np		other		
+tabasaran	work	0122	quˁ-b	two-NSG	ln_num	ln_num				
+tabasaran	work	0122	saˤaˁt	hour(ABS)	np:other	np		other		
+tabasaran	work	0122	šubu-b	three-NSG	ln_num	ln_num				
+tabasaran	work	0122	saˤaˁt	hour(ABS)	np:other	np		other		
+tabasaran	work	0122	riʁ	sun(ABS)	np:s	np		s	5042	
+tabasaran	work	0122	udu<b>c̊’-uru	<NSG>go_out-FUT	v:pred	v		pred		
+tabasaran	work	0123	#	#	##	##				
+tabasaran	work	0123	mani	warm	other	other				
+tabasaran	work	0123	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0123	#	#	##	##				
+tabasaran	work	0123	0	0_Kerim	0.h:obl	0	h	obl	5005	
+tabasaran	work	0123	šid	water(ABS)	np:s_cp	np		s_cp	5072	new
+tabasaran	work	0123	gun	want	other:lvc	other		lvc		
+tabasaran	work	0123	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0124	#	#	##neg	##neg				
+tabasaran	work	0124	jic-ar	ox-PL(ABS)	np:s	np		s	5039	
+tabasaran	work	0124	=a	=ADD	=other	=other				
+tabasaran	work	0124	gah	sometimes	other	other				
+tabasaran	work	0124	aˁ-ra-dar	<PL>go-PRS-NEG	v:pred	v		pred		
+tabasaran	work	0124	muva-n	PROX-GEN	rn_dem_pro.h:poss	rn_dem_pro	h	poss	5005	
+tabasaran	work	0124	#	#	##	##				
+tabasaran	work	0124	0	0_oxen	0:a_cp	0		a_cp	5039	
+tabasaran	work	0124	0	0_Kerim	0.h:p	0	h	p	5005	
+tabasaran	work	0124	bizar	exhausted	other:lvc	other		lvc		
+tabasaran	work	0124	ap’-ura	do-PRS	v:pred	v		pred		
+tabasaran	work	0125	#	#	##neg	##neg				
+tabasaran	work	0125	ja	or	other	other				
+tabasaran	work	0125	ulx-a	in_front_of-ELAT	ln	ln				
+tabasaran	work	0125	b-is-ru-r	NSG-catch-PTCP-HSG(ABS)	np.h:s	np	h	s		
+tabasaran	work	0125	a-dar	(IN)be-NEG	v:predex	v		predex		
+tabasaran	work	0125	#	#	##neg	##neg				
+tabasaran	work	0125	ja	or	other	other				
+tabasaran	work	0125	muva-x-na	PROX-APUD-LAT	dem_pro.h:g	dem_pro	h	g	5005	
+tabasaran	work	0125	ʁuˤ-re-r	come-PTCP-HSG(ABS)	np.h:s	np	h	s		
+tabasaran	work	0125	a-dar	(IN)be-NEG	v:predex	v		predex		
+tabasaran	work	0126	#	#	##neg	##neg				
+tabasaran	work	0126	ja	or	other	other				
+tabasaran	work	0126	salam	greeting(ABS)	np:s	np		s		
+tabasaran	work	0126	a-dar	(IN)be-PRS:NEG	v:predex	v		predex		
+tabasaran	work	0126	#	#	##neg	##neg				
+tabasaran	work	0126	ja	or	other	other				
+tabasaran	work	0126	kalam	word(ABS)	np:s	np		s		
+tabasaran	work	0126	a-dar	(IN)be-PRS:NEG	v:predex	v		predex		
+tabasaran	work	0126	#	#	##neg	##neg				
+tabasaran	work	0126	ja	or	other	other				
+tabasaran	work	0126	šid	water(ABS)	np:s	np		s		
+tabasaran	work	0126	a-dar	(IN)be-PRS:NEG	v:predex	v		predex		
+tabasaran	work	0127	#	#	##ds	##ds				
+tabasaran	work	0127	jada	PRT	other	other				
+tabasaran	work	0127	k’ur	CIT	other	other				
+tabasaran	work	0127	mu	PROX(ABS)	dem_pro:s	dem_pro		s	5005	
+tabasaran	work	0127	fu	what(ABS)	ln	ln				
+tabasaran	work	0127	aˁlamat	miracle(ABS)	np:pred	np		pred		
+tabasaran	work	0127	u	COP	cop	cop				
+tabasaran	work	0127	k’ur	CIT	other	other				
+tabasaran	work	0128	#	#	##ds	##ds				
+tabasaran	work	0128	#	#	#ds_rc_pc	#ds_rc_pc			5073	bridging
+tabasaran	work	0128	ha-vu	EMPH-PROX(ERG)	dem_pro.h:a_pc	dem_pro	h	a_pc	5020	
+tabasaran	work	0128	uzu-z	I-DAT	pro.1:g	pro	1	g	5005	
+tabasaran	work	0128	ʁ-ap-i	PFV-say-PTCP	v:pred	v		pred		
+tabasaran	work	0128	0	0_words	rel_f0:p	rel_f0		p	5073	
+tabasaran	work	0128	%	%	%	%				
+tabasaran	work	0128	gaf-ar	word-PL(ABS)	np:s	np		s	5073	
+tabasaran	work	0128	naani	where	intrg_other:pred_l	intrg_other		pred_l		
+tabasaran	work	0128	k’ur	CIT	other	other				
+tabasaran	work	0129	#	#	##ds	##ds				
+tabasaran	work	0129	#	#	#ds_cc_pc:pred	#ds_cc_pc		pred		
+tabasaran	work	0129	ha-vu	EMPH-PROX(ERG)	dem_pro.h:a_pc	dem_pro	h	a_pc	5020	
+tabasaran	work	0129	ap’-ur-e-b	do-PRS-PTCP-NSG(ABS)	v:pred	v		pred		
+tabasaran	work	0129	%	%	%	%				
+tabasaran	work	0129	fu	what(ABS)	intrg_other:pred	intrg_other		pred		
+tabasaran	work	0129	vu	COP	cop	cop				
+tabasaran	work	0129	k’ur	CIT	other	other				
+tabasaran	work	0130	#	#	##ds	##ds				
+tabasaran	work	0130	hajaman	INTERJ	other	other				
+tabasaran	work	0130	ha-va-z	EMPH-PROX-DAT	dem_pro.h:obl	dem_pro	h	obl	5020	
+tabasaran	work	0130	fu-k’a	what-INDEF(ABS)	indef_other:s	indef_other		s		
+tabasaran	work	0130	a-b-x-un	PFV-NSG-become-PCVB	v:predex	v		predex		
+tabasaran	work	0130	šul	become:PRS	rv_aux	rv_aux				
+tabasaran	work	0130	k’ur	CIT	other	other				
+tabasaran	work	0131	#	#	#cv	#cv				
+tabasaran	work	0131	mu	PROX(ABS)	dem_pro.h:s_cp_cv	dem_pro	h	s_cp_cv	5005	
+tabasaran	work	0131	=ra	=ADD	=other	=other				
+tabasaran	work	0131	sanu	yet	other	other				
+tabasaran	work	0131	aˁχ	patience(ABS)	other:lvc	other		lvc		
+tabasaran	work	0131	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	work	0131	#	#	##neg	##neg				
+tabasaran	work	0131	0	0_Kerim	0.h:a_cp	0	h	a_cp	5005	
+tabasaran	work	0131	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0131	jiʁan	day.ADV	np:other	np		other	5074	bridging
+tabasaran	work	0131	sanu	PRT	other	other				
+tabasaran	work	0131	č’al	language(ABS)	other:lvc	other		lvc		
+tabasaran	work	0131	=q’a	=PRT	=other	=other				
+tabasaran	work	0131	k’-ur-dar	say-FUT-NEG	v:pred	v		pred		
+tabasaran	work	0132	#	#	##	##				
+tabasaran	work	0132	χaˁbaˁq.ǯi-z-x-a	yesterday-DAT-APUD-ELAT	other	other				
+tabasaran	work	0132	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0132	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0132	kerim.ǯi	Kerim(ERG)	pn_np.h:a	pn_np	h	a	5005	
+tabasaran	work	0133	#	#	##	##				
+tabasaran	work	0133	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0133	χʷt’il	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0133	gudu<b>k’-ur-u	<NSG>finish-FUT	v:pred	v		pred		
+tabasaran	work	0133	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	5005	
+tabasaran	work	0134	#	#	##	##				
+tabasaran	work	0134	χaˁbaˤq.ǯi	evening(ERG)	np:other	np		other		
+tabasaran	work	0134	0	0_Kerim	0.h:a	0	h	a	5005	
+tabasaran	work	0134	q-av-nu	POST-<PL>lead-AOR	v:pred	v		pred		
+tabasaran	work	0134	jic-ar	ox-PL(ABS)	np:p	np		p	5039	
+tabasaran	work	0134	=a	=ADD	=other	=other				
+tabasaran	work	0134	#	#	#cv.neg	#cv.neg				
+tabasaran	work	0134	aman	force-PL(ABS)	np:s_cv	np		s_cv		
+tabasaran	work	0134	=na	=ADD	=other	=other				
+tabasaran	work	0134	a-dar-ǯi	(IN)be-NEG-ICVB	v:predex	v		predex		
+tabasaran	work	0134	ǯan.ǯi	body(IN)	np:l	np		l	5075	bridging
+tabasaran	work	0134	#	#	##	##				
+tabasaran	work	0134	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0134	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5005	
+tabasaran	work	0134	javaš	quiet	other	other				
+tabasaran	work	0134	javaš-ǯi	quiet-ADV	other	other				
+tabasaran	work	0134	#	#	#cv	#cv				
+tabasaran	work	0134	0	0_Kerim	0.h:a_cv	0	h	a_cv	5005	
+tabasaran	work	0134	guǯ.na-z	strength-DAT	np:other	np		other		
+tabasaran	work	0134	lik-ar	leg-PL(ABS)	np:p	np		p	5076	bridging
+tabasaran	work	0134	g-adaʁ-uri	SUB-<PL>pull-ICVB	v:pred	v		pred		
+tabasaran	work	0134	#	#	##	##				
+tabasaran	work	0134	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0134	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5005	
+tabasaran	work	0135	#	#	##	##				
+tabasaran	work	0135	#	#	#cv	#cv				
+tabasaran	work	0135	0	0_Kerim	0.h:a_cv	0	h	a_cv	5005	
+tabasaran	work	0135	t’av-nu	<PL>open-PCVB	v:pred	v		pred		
+tabasaran	work	0135	ur-ar	door-PL(ABS)	np:p	np		p	5077	bridging
+tabasaran	work	0135	=a	=ADD	=other	=other				
+tabasaran	work	0135	%	%	%	%				
+tabasaran	work	0135	0	0_Kerim	0.h:s	0	h	s	5005	
+tabasaran	work	0135	uc̊’-ru	<HSG>enter-FUT	v:pred	v		pred		
+tabasaran	work	0135	#	#	##	##				
+tabasaran	work	0135	0	0_Kerim	0.h:s	0	h	s	5005	
+tabasaran	work	0135	lig-uru	<HSG>look-FUT	v:pred	v		pred		
+tabasaran	work	0135	#	#	##	##				
+tabasaran	work	0135	ha-mu	EMPH-PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5020	
+tabasaran	work	0135	dus-na	<HSG>sit-RES	v:pred	v		pred		
+tabasaran	work	0135	ajvan.ǯi-q	balcony-POST	np:l	np		l	5050	
+tabasaran	work	0135	#	#	#cv	#cv				
+tabasaran	work	0135	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0135	u<b>q-uri	<NSG>drink-ICVB	v:pred	v		pred		
+tabasaran	work	0135	čaj	tea(ABS)	np:p	np		p	5078	new
+tabasaran	work	0135	=ra	=ADD	=other	=other				
+tabasaran	work	0135	%	%	%	%				
+tabasaran	work	0135	#	#	#cv	#cv				
+tabasaran	work	0135	0	0_man	0.h:a_cp_cv	0	h	a_cp_cv	5020	
+tabasaran	work	0135	haˁh-jir	laughter-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0135	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0135	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss	5020	
+tabasaran	work	0135	χpːar.i-q-ǯi	wife-POST-DIR	np.h:obl	np	h	obl	5079	bridging
+tabasaran	work	0135	%	%	%	%				
+tabasaran	work	0135	#	#	#cv	#cv				
+tabasaran	work	0135	0	0_man	0.h:a_cp_cv	0	h	a_cp_cv	5020	
+tabasaran	work	0135	zaraft-ar	joke-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0135	=a	=ADD	=other	=other				
+tabasaran	work	0135	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0135	%	%	%	%				
+tabasaran	work	0135	#	#	#cv	#cv				
+tabasaran	work	0135	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0135	χu.ji-z	dog-DAT	np:g	np		g	5080	new
+tabasaran	work	0135	ül-ir	bread-PL(ABS)	np:p	np		p	5081	new
+tabasaran	work	0135	=a	=ADD	=other	=other				
+tabasaran	work	0135	gat’ax-uri	<PL>throw-ICVB	v:pred	v		pred		
+tabasaran	work	0135	ha-mu	EMPH-PROX(ABS)	ln	ln				
+tabasaran	work	0135	ajvan.ǯi-q-a	balcony-POST-ELAT	np:obl	np		obl	5050	
+tabasaran	work	0136	#	#	##	##				
+tabasaran	work	0136	#	#	#cv	#cv				
+tabasaran	work	0136	0	0_man	0.h:a_cv	0	h	a_cv	5020	
+tabasaran	work	0136	0	0_that	0:p	0		p		
+tabasaran	work	0136	ha-m-cː-dar	EMPH-PROX-ADV-PL	dem_pro:other	dem_pro		other		
+tabasaran	work	0136	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0136	%	%	%	%				
+tabasaran	work	0136	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0136	0	0_man	0.h:s_pc	0	h	s_pc	5020	
+tabasaran	work	0136	dus-ni-ge	<HSG>sit-RES+PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0136	%	%	%	%				
+tabasaran	work	0136	kerim.ǯi-z	Kerim-DAT	np.h:obl	np	h	obl	5005	
+tabasaran	work	0136	dünja	world(ABS)	np:s	np		s		
+tabasaran	work	0136	k’aru	black	other	other				
+tabasaran	work	0136	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0137	#	#	##ds	##ds				
+tabasaran	work	0137	0	0_Kerim	0.2:a	0	2	a	5005	
+tabasaran	work	0137	hap’u	what_do+AOR	v:pred	v		pred		
+tabasaran	work	0137	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0137	#	#	##ds	##ds				
+tabasaran	work	0137	vah	PRT	other	other				
+tabasaran	work	0137	vah	PRT	other	other				
+tabasaran	work	0137	kerim	Kerim(ABS)	pn_np.h:s	pn_np	h	s	5005	
+tabasaran	work	0137	ʁuˁ-ra	go-PRS	v:pred	v		pred		
+tabasaran	work	0137	k’ur	CIT	other	other				
+tabasaran	work	0137	#	#	##ds	##ds				
+tabasaran	work	0137	kerim	Kerim(ABS)	pn_np.h:s	pn_np	h	s	5005	
+tabasaran	work	0137	ʁuˤ-ra	go-PRS	v:pred	v		pred		
+tabasaran	work	0138	#	#	##ds	##ds				
+tabasaran	work	0138	0	0_Kerim	0.2:a	0	2	a	5005	
+tabasaran	work	0138	hap’u	what_do+AOR	v:pred	v		pred		
+tabasaran	work	0138	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0138	k’ur	CIT	other	other				
+tabasaran	work	0138	kerim	Kerim	pn_np.h:voc	pn_np	h	voc	5005	
+tabasaran	work	0138	#	#	##ds	##ds				
+tabasaran	work	0138	0	0_Kerim	0.2:a	0	2	a	5005	
+tabasaran	work	0138	hap’u	what_do+AOR	v:pred	v		pred		
+tabasaran	work	0138	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0139	#	#	##ds	##ds				
+tabasaran	work	0139	ej	VOC	other	other				
+tabasaran	work	0139	behem	enough	other	other				
+tabasaran	work	0139	fu	what(ABS)	intrg_other:s	intrg_other		s		
+tabasaran	work	0139	a-b-x-un	PFV-NSG-become-AOR	v:pred	v		pred		
+tabasaran	work	0139	=vu-z	=2SG-DAT	=rv-pro_2_obl	=rv-pro_2_obl				
+tabasaran	work	0139	0	0_Kerim	0.2:obl	0	2	obl	5005	
+tabasaran	work	0139	ha	PRT	other	other				
+tabasaran	work	0139	ǯan	dear	np.h:voc	np	h	voc	5005	
+tabasaran	work	0139	k’ur	CIT	other	other				
+tabasaran	work	0140	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0140	vallah	PRT	other	other				
+tabasaran	work	0140	k’ur	CIT	other	other				
+tabasaran	work	0140	#	#	#ds_rc_pc:s	#ds_rc_pc		s		
+tabasaran	work	0140	0	0	rel_f0.h:a	rel_f0	h	a		
+tabasaran	work	0140	uvu-x-na	you-APUD-LAT	pro.2:g	pro	2	g	5005	
+tabasaran	work	0140	uˁl	bread(ABS)	np:p	np		p		
+tabasaran	work	0140	χ-ru-r	bring-PTCP(ABS)-HSG	v:pred	v		pred		
+tabasaran	work	0140	=ra	=ADD	=other	=other				
+tabasaran	work	0140	%	%	%	%				
+tabasaran	work	0140	a-x-un-dar	PFV-(HSG)become-AOR-NEG	v:predex	v		predex		
+tabasaran	work	0140	k’ur	CIT	other	other				
+tabasaran	work	0140	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0140	#	#	#ds_rc_pc:s	#ds_rc_pc		s		
+tabasaran	work	0140	0	0	rel_f0.h:a	rel_f0	h	a		
+tabasaran	work	0140	šid	water(ABS)	np:p	np		p		
+tabasaran	work	0140	0	0_Kerim	0.h:g	0	h	g	5005	
+tabasaran	work	0140	χ-ru-r	bring-PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0140	=ra	=ADD	=other	=other				
+tabasaran	work	0140	%	%	%	%				
+tabasaran	work	0140	a-x-un-dar	PFV-(HSG)become-AOR-NEG	v:predex	v		predex		
+tabasaran	work	0140	k’ur	CIT	other	other				
+tabasaran	work	0141	#	#	##	##				
+tabasaran	work	0141	hap’-ni-k’e	what_do-AOR-RHET	v:pred	v		pred		
+tabasaran	work	0141	uvu	you	pro.2:a	pro	2	a	5005	
+tabasaran	work	0141	k’ur	CIT	other	other				
+tabasaran	work	0141	#	#	##ds	##ds				
+tabasaran	work	0141	ʁi.ǯi-n	today-GEN	ln_np:poss	ln_np		poss		
+tabasaran	work	0141	jiʁ	day	np:s	np		s	5074	
+tabasaran	work	0141	gizaf	very	other	other				
+tabasaran	work	0141	mani-b	warm-NSG	other:pred	other		pred		
+tabasaran	work	0141	=ra	=ADD	=other	=other				
+tabasaran	work	0141	vu-j	COP-PST	cop	cop				
+tabasaran	work	0141	ha	PRT	other	other				
+tabasaran	work	0141	k’ur	CIT	other	other				
+tabasaran	work	0142	#	#	##	##				
+tabasaran	work	0142	jarab	PRT	other	other				
+tabasaran	work	0142	jic-ar.i	ox-PL(ERG)	np:a_cp	np		a_cp	5039	
+tabasaran	work	0142	=ra	=ADD	=other	=other				
+tabasaran	work	0142	bizar	exhausted	other:lvc	other		lvc		
+tabasaran	work	0142	ʁ-ap’-un	PFV-do-AOR	v:pred	v		pred		
+tabasaran	work	0142	šul	become:PRS	rv_aux	rv_aux				
+tabasaran	work	0142	uvu	you	pro.2:p	pro	2	p	5005	
+tabasaran	work	0142	k’ur	CIT	other	other				
+tabasaran	work	0143	#	#	#cv	#cv				
+tabasaran	work	0143	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	work	0143	sanu	PRT	other	other				
+tabasaran	work	0143	kerim.ǯi-z	Kerim-DAT	np.h:g	np	h	g	5005	
+tabasaran	work	0143	jaman-ǯi	bad-ADV	other	other				
+tabasaran	work	0143	qaˁl	evil(ABS)	np:s_cv	np		s_cv		
+tabasaran	work	0143	du-f-nu	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	work	0144	#	#	##	##				
+tabasaran	work	0144	0	0_Kerim	0.h:a	0	h	a	5005	
+tabasaran	work	0144	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0144	nuˁq’n-ar	swear-PL(ABS)	np:p	np		p		
+tabasaran	work	0144	muva-z	PROX(ABS)-DAT	dem_pro.h:g	dem_pro	h	g	5020	
+tabasaran	work	0145	#	#	##ds	##ds				
+tabasaran	work	0145	uvu-z	you-DAT	pro.2:ncs_poss	pro	2	ncs_poss	5020	
+tabasaran	work	0145	nač	shame(ABS)	np:p	np		p		
+tabasaran	work	0145	i<b>š-ri	<NSG>become-JUSS	v:pred	v		pred		
+tabasaran	work	0145	=vu-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	work	0145	k’ur	CIT	other	other				
+tabasaran	work	0145	#	#	##ds	##ds				
+tabasaran	work	0145	#	#	#ds_rc_pc	#ds_rc_pc			5073	
+tabasaran	work	0145	uvu	you	pro.2:a_pc	pro	2	a_pc	5020	
+tabasaran	work	0145	ʁa-p-i	PFV-say-PTCP	v:pred	v		pred		
+tabasaran	work	0145	0	0_words	rel_f0:p	rel_f0		p	5073	
+tabasaran	work	0145	%	%	%	%				
+tabasaran	work	0145	gaf-ar	word-PL(ABS)	np:s	np		s	5073	
+tabasaran	work	0145	nani	where	intrg_other:pred_l	intrg_other		pred_l		
+tabasaran	work	0145	=jav	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss	5020	
+tabasaran	work	0145	k’ur	CIT	other	other				
+tabasaran	work	0145	#	#	##ds	##ds				
+tabasaran	work	0145	uvu	you	pro.2:a	pro	2	a	5020	
+tabasaran	work	0145	uču-z	we(EXCL)-DAT	pro.1:obl	pro	1	obl	5005	
+tabasaran	work	0145	ha-m-q’an	EMPH-PROX-DEGR	ln_dem	ln_dem				
+tabasaran	work	0145	insafsuz-val	inhuman-ABSTR(ABS)	other	other				
+tabasaran	work	0145	haz	why	other	other				
+tabasaran	work	0145	ʁ-ap’-u	PFV-do-AOR	v:pred	v		pred		
+tabasaran	work	0145	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0145	k’ur	CIT	other	other				
+tabasaran	work	0145	#	#	##	##				
+tabasaran	work	0145	0	0_Kerim	0.h:a_cp	0	h	a_cp	5005	
+tabasaran	work	0145	nuˁq’n-ar	curse-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0145	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0146	#	#	##ds	##ds				
+tabasaran	work	0146	jav	your	ln_pro.2:poss	ln_pro	2	poss	5020	
+tabasaran	work	0146	sadaq.’i-z	alms-DAT	np:g	np		g		
+tabasaran	work	0146	iš-ri	<PL>become-JUSS	v:pred	v		pred		
+tabasaran	work	0146	=jav	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss	5020	
+tabasaran	work	0146	jav	your	ln_pro.2:poss	ln_pro	2	poss	5020	
+tabasaran	work	0146	jic-ar	ox-PL(ABS)	np:s	np		s	5039	
+tabasaran	work	0146	=a	=ADD	=other	=other				
+tabasaran	work	0146	#	#	##ds	##ds				
+tabasaran	work	0146	jav	your	ln_pro.2:poss	ln_pro	2	poss	5020	
+tabasaran	work	0146	devlet.na-k	wealth-CONT	np:g	np		g	5053	
+tabasaran	work	0146	=ra	=ADD	=other	=other				
+tabasaran	work	0146	c’a	fire(ABS)	np:s	np		s		
+tabasaran	work	0146	k-a<b>q-ri	CONT-<NSG>fall-JUSS	v:pred	v		pred		
+tabasaran	work	0146	=jav	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss	5020	
+tabasaran	work	0146	k’ur	CIT	other	other				
+tabasaran	work	0147	#	#	##ds	##ds				
+tabasaran	work	0147	0	0_Kerim	0.1:a	0	1	a	5005	
+tabasaran	work	0147	hap’u	what_do	v:pred	v		pred		
+tabasaran	work	0147	=zi	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0147	=jav	=2SG:POSS	=ln_pro.2:poss	=ln_pro	2	poss	5020	
+tabasaran	work	0147	mi-cːi-b	PROX-ADV-NSG	ln	ln				
+tabasaran	work	0147	devlet	wealth(ABS)	np:p	np		p	5053	
+tabasaran	work	0147	k’ur	CIT	other	other				
+tabasaran	work	0148	#	#	##	##				
+tabasaran	work	0148	0	0_Kerim	0.h:a	0	h	a	5005	
+tabasaran	work	0148	0	0_that	0:p	0		p		
+tabasaran	work	0148	ha-m-cː-dar	EMPH-PROX-ADV-PL	dem_pro:other	dem_pro		other		
+tabasaran	work	0148	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0149	#	#	##ds	##ds				
+tabasaran	work	0149	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0149	a-fu-n	PFV-come-AOR+Q	v:pred	v		pred		
+tabasaran	work	0149	=u-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0149	0	0_Kerim	0.2:g	0	2	g	5005	
+tabasaran	work	0150	#	#	##ds	##ds				
+tabasaran	work	0150	0	0	0.h:a	0	h	a	5043	
+tabasaran	work	0150	hadaʁ-ir	<HSG>take_away-IMP.PL	v:pred	v		pred		
+tabasaran	work	0150	k’ur	CIT	other	other				
+tabasaran	work	0150	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	5005	
+tabasaran	work	0151	#	#	##	##				
+tabasaran	work	0151	0	0	0.h:a	0	h	a	5043	
+tabasaran	work	0151	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	5005	
+tabasaran	work	0151	=ra	=ADD	=other	=other				
+tabasaran	work	0151	jik’-uru	<HSG>kill-FUT	v:pred	v		pred		
+tabasaran	work	0152	#	#	##	##				
+tabasaran	work	0152	χabar	news	np:s	np		s		
+tabasaran	work	0152	naʔ-na	where-LAT	intrg_other:pred_l	intrg_other		pred_l		
+tabasaran	work	0152	χabar	news	np:appos	np		appos		
+tabasaran	work	0152	selim.ǯi-k-a	Selim-CONT-ELAT	pn_np.h:other	pn_np	h	other	5006	
+tabasaran	work	0153	#	#	##	##				
+tabasaran	work	0153	selim.ǯi-z	Selim-DAT	pn_np.h:ncs_cp	pn_np	h	ncs_cp	5006	
+tabasaran	work	0153	χabar	news(ABS)	other:lvc	other		lvc		
+tabasaran	work	0153	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0153	mu	PROX(ABS)	ln_dem	ln_dem				
+tabasaran	work	0153	laˁχ.ni-k-an	work-CONT-ELAT	np:other	np		other	5082	bridging
+tabasaran	work	0154	#	#	##ds	##ds				
+tabasaran	work	0154	vallah	PRT	other	other				
+tabasaran	work	0154	k’ur	CIT	other	other				
+tabasaran	work	0154	#	#	#ds_rc_pc:s	#ds_rc_pc		s	5020	
+tabasaran	work	0154	0	0_man	rel_f0.h:a_cp_pc	rel_f0	h	a_cp_pc	5020	
+tabasaran	work	0154	mu-rar.i-z	PROX-PL-DAT	dem_pro.h:obl	dem_pro	h	obl	5083	bridging
+tabasaran	work	0154	aˁmal	trick(ABS)	other:lvc	other		lvc		
+tabasaran	work	0154	ʁ-ap’-u-r	PFV-do-PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0154	%	%	%	%				
+tabasaran	work	0154	sa-r	one-HSG(ABS)	dem_pro.h:pred	dem_pro	h	pred		
+tabasaran	work	0154	vu	COP	cop	cop				
+tabasaran	work	0154	k’ur	CIT	other	other				
+tabasaran	work	0155	#	#	##	##				
+tabasaran	work	0155	#	#	#cv	#cv				
+tabasaran	work	0155	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	work	0155	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0155	ʁadaʁ-nu	<HSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0155	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss	5006	
+tabasaran	work	0155	palat	clothes(ABS)	np:p	np		p	5084	new
+tabasaran	work	0155	=ra	=ADD	=other	=other				
+tabasaran	work	0155	%	%	%	%				
+tabasaran	work	0155	uduc̊’-uru	<HSG>go_out-FUT	v:pred	v		pred		
+tabasaran	work	0155	selim	Selim(ABS)	pn_np.h:s	pn_np	h	s	5006	
+tabasaran	work	0155	ʁardš-ar.i-n	brother-PL-GEN	ln_np.h:poss	ln_np	h	poss	5083	
+tabasaran	work	0155	šil.na-z	trace-DAT	np:g	np		g	5085	bridging
+tabasaran	work	0156	#	#	##	##				
+tabasaran	work	0156	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0156	selim	Selim(ABS)	pn_np.h:s	pn_np	h	s	5006	
+tabasaran	work	0156	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	work	0156	čajχan.i-z	teahouse-DAT	np:g	np		g	5017	
+tabasaran	work	0157	#	#	##	##				
+tabasaran	work	0157	ha-m-rar	EMPH-PROX-PL(ABS)	dem_pro.h:other	dem_pro	h	other	5006	
+tabasaran	work	0157	si	as	adp	adp				
+tabasaran	work	0157	dus-ru	<HSG>seat-FUT	v:pred	v		pred		
+tabasaran	work	0157	ha-mu	EMPH-PROX(ABS)	dem_pro.h:s	dem_pro	h	s		
+tabasaran	work	0157	ust’l.i-q	table-POST	np:l	np		l	5086	new
+tabasaran	work	0158	#	#	##	##				
+tabasaran	work	0158	ag-uru	<HSG>search-FUT	v:pred	v		pred		
+tabasaran	work	0158	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	5006	
+tabasaran	work	0158	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0158	χalu.di	uncle(ERG)	np.h:a	np	h	a	5020	
+tabasaran	work	0158	ha-mu	EMPH-PROX(ABS)	dem_pro.h:other	dem_pro	h	other		
+tabasaran	work	0158	=ra	=ADD	=other	=other				
+tabasaran	work	0159	#	#	##ds	##ds				
+tabasaran	work	0159	ja	VOC	other	other				
+tabasaran	work	0159	ǯihil	young	np.h:voc	np	h	voc	5006	
+tabasaran	work	0159	fu	what	ln	ln				
+tabasaran	work	0159	χabar	news(ABS)	np:s	np		s		
+tabasaran	work	0159	u	COP	v:predex	v		predex		
+tabasaran	work	0159	k’ur	CIT	other	other				
+tabasaran	work	0160	#	#	##ds	##ds				
+tabasaran	work	0160	0	0_Selim	0.h:a	0	h	a	5006	
+tabasaran	work	0160	laˁχin	work(ABS)	np:p	np		p	5087	bridging
+tabasaran	work	0160	a<b>g-ar-a-n	<NSG>search-PRS-Q	v:pred	v		pred		
+tabasaran	work	0160	=a	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0160	k’ur	CIT	other	other				
+tabasaran	work	0161	#	#	##ds	##ds				
+tabasaran	work	0161	ov	yes	other	other				
+tabasaran	work	0161	χalu	uncle	np.h:voc	np	h	voc	5020	
+tabasaran	work	0161	k’ur	CIT	other	other				
+tabasaran	work	0161	uzu	I	pro.1:s	pro	1	s	5006	
+tabasaran	work	0161	k’ur	CIT	other	other				
+tabasaran	work	0161	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0161	0	0_Selim	0.1:a_cv	0	1	a_cv	5006	
+tabasaran	work	0161	laˁχin	work(ABS)	np:p	np		p	5087	
+tabasaran	work	0161	a<b>g-uri	<NSG>search-ICVB	v:pred	v		pred		
+tabasaran	work	0161	%	%	%	%				
+tabasaran	work	0161	du-f-na	PFV-come-RES	v:pred	v		pred		
+tabasaran	work	0161	=za	=1SG:AG	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	work	0161	k’ur	CIT	other	other				
+tabasaran	work	0162	#	#	##ds	##ds				
+tabasaran	work	0162	uvu	you	pro.2:s	pro	2	s	5020	
+tabasaran	work	0162	#	#	#ds_rc_pc:pred	#ds_rc_pc		pred		
+tabasaran	work	0162	0	0	rel_f0.h:a_pc	rel_f0	h	a_pc		
+tabasaran	work	0162	laχin	work(ABS)	np:p	np		p	5087	
+tabasaran	work	0162	tuv-ra-ji-r	give-PRS-PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0162	%	%	%	%				
+tabasaran	work	0162	vu-n	COP-Q	cop	cop				
+tabasaran	work	0162	=a	=2SG:AG	=rv-pro_2_s	=rv-pro_2_s				
+tabasaran	work	0162	k’ur	CIT	other	other				
+tabasaran	work	0163	ov	yes	nc	nc				
+tabasaran	work	0163	k’ur	CIT	nc	nc				
+tabasaran	work	0164	#	#	##	##				
+tabasaran	work	0164	hin	well	other	other				
+tabasaran	work	0164	qpaˁq-uru	listen-FUT	v:pred	v		pred		
+tabasaran	work	0164	muva-n	PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	5020	
+tabasaran	work	0164	gaf-ar.i-q	word-PL-POST	np:obl	np		obl	5088	bridging
+tabasaran	work	0164	selim	Selim(ABS)	np.h:s	np	h	s	5006	
+tabasaran	work	0164	=ra	=ADD	=other	=other				
+tabasaran	work	0165	#	#	#nc	#nc				
+tabasaran	work	0165	maha	voila	nc	nc				
+tabasaran	work	0165	k’ur	CIT	nc	nc				
+tabasaran	work	0165	dus-ru	<HSG>seat-PTCP	nc	nc				
+tabasaran	work	0165	χal	house(ABS)	nc_np	nc_np			5031	
+tabasaran	work	0165	=la	=ADD	nc	nc				
+tabasaran	work	0165	ip’-ru	<NSG>eat-PTCP	nc	nc				
+tabasaran	work	0165	uˁl	bread(ABS)	nc_np	nc_np			5089	bridging
+tabasaran	work	0165	=la	=ADD	nc	nc				
+tabasaran	work	0166	#	#	##ds	##ds				
+tabasaran	work	0166	0	0_man	0.1:a	0	1	a	5020	
+tabasaran	work	0166	uvu-z	you-DAT	dem_pro.h:g	dem_pro	h	g	5006	
+tabasaran	work	0166	k’ur	CIT	other	other				
+tabasaran	work	0166	ʁi-liχ-u-b.ǯi-a	PFV-work-PTCP-NSG-(IN)ELAT	np:other	np		other		
+tabasaran	work	0166	jav	your	ln_dem_pro.h:poss	ln_dem_pro	h	poss	5006	
+tabasaran	work	0166	pul	money(ABS)	np:p	np		p	5090	bridging
+tabasaran	work	0166	=ra	=ADD	=other	=other				
+tabasaran	work	0166	tuv-ur	give-FUT	v:pred	v		pred		
+tabasaran	work	0166	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0166	=vu-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0166	k’ur	CIT	other	other				
+tabasaran	work	0166	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0166	anǯaʁ	only	other	other				
+tabasaran	work	0166	k’ur	CIT	other	other				
+tabasaran	work	0166	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0166	ʁuˁ-ru-b	come-PTCP-NSG(ABS)	v:pred	v		pred		
+tabasaran	work	0166	dir-i<b>š-ri	NEG-<NSG>become-JUSS	rv_aux	rv_aux				
+tabasaran	work	0166	k’ur	CIT	other	other				
+tabasaran	work	0166	ix	our(INCL)	ln_pro.1:poss	ln_pro	1	poss	5091	bridging
+tabasaran	work	0166	ar.i-ʔ	middle-IN	np:g	np		g		
+tabasaran	work	0167	#	#	##ds	##ds				
+tabasaran	work	0167	vah	PRT	other	other				
+tabasaran	work	0167	fu	what	ln	ln				
+tabasaran	work	0167	gaf	word(ABS)	np:s	np		s		
+tabasaran	work	0167	vu	COP	v:predex	v		predex		
+tabasaran	work	0167	=jav	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss	5020	
+tabasaran	work	0167	χalu	uncle	np.h:voc	np	h	voc	5020	
+tabasaran	work	0167	k’ur	CIT	other	other				
+tabasaran	work	0167	#	#	##ds	##ds				
+tabasaran	work	0167	haz	why	other	other				
+tabasaran	work	0167	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0167	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0167	0	0_Selim	0.h:g	0	h	g	5006	
+tabasaran	work	0167	k’ur	CIT	other	other				
+tabasaran	work	0167	uvu	you	pro.2:other	pro	2	other	5020	
+tabasaran	work	0167	si-r.i-k-a	as-HSG-CONT-ELAT	adp	adp				
+tabasaran	work	0168	#	#	##ds	##ds				
+tabasaran	work	0168	0	0_Selim	0.2:s	0	2	s	5006	
+tabasaran	work	0168	ʁač	come(IMP)	v:pred	v		pred		
+tabasaran	work	0168	k’ur	CIT	other	other				
+tabasaran	work	0168	#	#	##ds	##ds				
+tabasaran	work	0168	0	0_Selim	0.2:s	0	2	s	5006	
+tabasaran	work	0168	huc̊’	<HSG>approach(IMP)	v:pred	v		pred		
+tabasaran	work	0168	k’ur	CIT	other	other				
+tabasaran	work	0168	ulix	in_front_of	other	other				
+tabasaran	work	0169	#	#	##	##				
+tabasaran	work	0169	aˁ-ru	<PL>go-FUT	v:pred	v		pred		
+tabasaran	work	0169	mu-rar	PROX-PL(ABS)	dem_pro.h:s	dem_pro	h	s	5091	
+tabasaran	work	0170	#	#	##	##				
+tabasaran	work	0170	#	#	#cv	#cv				
+tabasaran	work	0170	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0170	d-ip’-u	PFV-<NSG>eat-PCVB	v:pred	v		pred		
+tabasaran	work	0170	uˁl	bread(ABS)	np:p	np		p	5092	bridging
+tabasaran	work	0170	=la	=ADD	=other	=other				
+tabasaran	work	0170	%	%	%	%				
+tabasaran	work	0170	daq-ru	<HSG>lie_down-FUT	v:pred	v		pred		
+tabasaran	work	0170	selim	Selim(ABS)	pn_np.h:s	pn_np	h	s	5006	
+tabasaran	work	0171	#	#	#nc	#nc				
+tabasaran	work	0171	qajiʁ.a	next_day(ERG)	nc	nc				
+tabasaran	work	0171	gač’ni	morning	nc	nc				
+tabasaran	work	0171	ha	PRT	nc	nc				
+tabasaran	work	0171	k’ur	CIT	nc	nc				
+tabasaran	work	0171	#	#	##ds	##ds				
+tabasaran	work	0171	0	0_Selim	0.2:s	0	2	s	5006	
+tabasaran	work	0171	gudu<b>k’	<NSG>finish(IMP)	v:pred	v		pred		
+tabasaran	work	0171	selim	Selim	pn_np.h:voc	pn_np	h	voc	5006	
+tabasaran	work	0171	k’ur	CIT	other	other				
+tabasaran	work	0171	#	#	##ds	##ds				
+tabasaran	work	0171	jic-ar	ox-PL(ABS)	np:s	np		s	5039	
+tabasaran	work	0171	git’-na	<PL>yoke-RES	v:pred	v		pred		
+tabasaran	work	0171	k’ur	CIT	other	other				
+tabasaran	work	0171	#	#	##ds	##ds				
+tabasaran	work	0171	0	0_Selim	0.2:s	0	2	s	5006	
+tabasaran	work	0171	ʁaraχ	go(IMP)	v:pred	v		pred		
+tabasaran	work	0171	izn.i-z	field-DAT	np:g	np		g	5038	
+tabasaran	work	0172	#	#	##ds	##ds				
+tabasaran	work	0172	0	0_we	0.1:s	0	1	s	5091	
+tabasaran	work	0172	aˁ-r	<PL>go-FUT	v:pred	v		pred		
+tabasaran	work	0172	=xa	=1PL:INCL	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	work	0172	χalu	uncle	np.h:voc	np	h	voc	5020	
+tabasaran	work	0172	k’ur	CIT	other	other				
+tabasaran	work	0173	#	#	##	##				
+tabasaran	work	0173	ʁe-ǯe<r>g-nu	PFV-<HSG>jump-AOR	v:pred	v		pred		
+tabasaran	work	0173	selim	Selim	pn_np.h:s	pn_np	h	s	5006	
+tabasaran	work	0173	#	#	##	##				
+tabasaran	work	0173	dirbaš-val	brave-ABSTR(ABS)	np:p	np		p		
+tabasaran	work	0173	=ra	=ADD	=other	=other				
+tabasaran	work	0173	0	0_Selim	0.h:ncs_poss	0	h	ncs_poss	5006	
+tabasaran	work	0173	k-a-ǯi	CONT-be-ICVB	v:pred	v		pred		
+tabasaran	work	0173	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0173	muva-k	PROX-CONT	rn	rn				
+tabasaran	work	0173	ča-n	REFL-GEN	rn_refl.h:poss	rn_refl	h	poss		
+tabasaran	work	0173	uǯu-b	good-NSG	rn_adj	rn_adj				
+tabasaran	work	0174	#	#	##	##				
+tabasaran	work	0174	0	0_Selim	0.h:s	0	h	s	5006	
+tabasaran	work	0174	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0174	izn.i-z	field-DAT	np:g	np		g	5038	
+tabasaran	work	0175	#	#	##	##				
+tabasaran	work	0175	#	#	#cv	#cv				
+tabasaran	work	0175	0	0_Selim	0.h:s_cv	0	h	s_cv	5006	
+tabasaran	work	0175	d-uš-nu	PFV-<HSG>go-PCVB	v:pred	v		pred		
+tabasaran	work	0175	%	%	%	%				
+tabasaran	work	0175	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0175	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	5006	
+tabasaran	work	0175	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0176	#	#	##	##				
+tabasaran	work	0176	sa-b	one-NSG	ln	ln				
+tabasaran	work	0176	c’ib	little	ln_adj	ln_adj				
+tabasaran	work	0176	vaχt.na-l-an	time-SUPER-ELAT	np:other	np		other		
+tabasaran	work	0176	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0176	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	5006	
+tabasaran	work	0176	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0176	#	#	##	##				
+tabasaran	work	0176	0	0_Selim	0.h:s	0	h	s	5006	
+tabasaran	work	0176	lig-uru	<HSG>look-FUT	v:pred	v		pred		
+tabasaran	work	0176	#	#	##	##				
+tabasaran	work	0176	riʁ	sun(ABS)	np:s	np		s	5042	
+tabasaran	work	0176	=ra	=ADD	=other	=other				
+tabasaran	work	0176	udu<b>c̊’-uru	<NSG>go_out-FUT	v:pred	v		pred		
+tabasaran	work	0177	#	#	##	##				
+tabasaran	work	0177	sa-b	one-NSG	other	other				
+tabasaran	work	0177	tki	little	other	other				
+tabasaran	work	0177	si-b	as-NSG	other	other				
+tabasaran	work	0177	mani	warm	other	other				
+tabasaran	work	0177	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0178	#	#	##neg	##neg				
+tabasaran	work	0178	a-dar	(IN)be-PRS:NEG	v:pred	v		pred		
+tabasaran	work	0178	fuž-k’a	who-INDEF(ABS)	indef_other.h:s	indef_other	h	s		
+tabasaran	work	0178	=ra	=ADD	=other	=other				
+tabasaran	work	0178	#	#	#rc_pc	#rc_pc				
+tabasaran	work	0178	0	0_anybody	rel_f0.h:s_pc	rel_f0	h	s_pc		
+tabasaran	work	0178	ʁuˁ-ra-ji-r	come-PRS-PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0179	#	#	##	##				
+tabasaran	work	0179	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	5006	
+tabasaran	work	0179	=ra	=ADD	=other	=other				
+tabasaran	work	0179	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	work	0179	#	#	##	##				
+tabasaran	work	0179	0	0_Selim	0.h:a	0	h	a	5006	
+tabasaran	work	0179	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0179	jic-ar	ox-PL(ABS)	np:p	np		p	5039	
+tabasaran	work	0179	q-av-nu	POST-lead-AOR	v:pred	v		pred		
+tabasaran	work	0180	#	#	##	##				
+tabasaran	work	0180	0	0_Selim	0.h:s	0	h	s	5006	
+tabasaran	work	0180	d-uš-nu	PFV-<HSG>go-AOR	v:pred	v		pred		
+tabasaran	work	0180	#	#	##	##				
+tabasaran	work	0180	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0180	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0180	ʁarz	rock(ABS)	np:s_cv	np		s_cv	5093	new
+tabasaran	work	0180	g-a-ǯi	SUB-be-ICVB	v:predex	v		predex		
+tabasaran	work	0180	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	work	0180	ha-s̊a-g	EMPH-place-SUB	np:l	np		l		
+tabasaran	work	0180	χʷt’l.i-g	field-SUB	np:l	np		l	5038	
+tabasaran	work	0180	ʁun	hill	np:appos	np		appos	5093	
+tabasaran	work	0181	#	#	##	##				
+tabasaran	work	0181	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	work	0181	ʁun.i-l-a-mi-na	hill-SUPER-ELAT-PROX-LAT	np:obl	np		obl	5093	
+tabasaran	work	0181	diš	direct	other:lvc	other		lvc		
+tabasaran	work	0181	a’p-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0181	muvu	PROX(ERG)	dem_pro.h:a_cp	dem_pro	h	a_cp	5006	
+tabasaran	work	0181	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0181	jic-ar	ox-PL(ABS)	np:p	np		p	5039	
+tabasaran	work	0182	#	#	##ds	##ds				
+tabasaran	work	0182	0	0_oxen	0:s	0		s	5039	
+tabasaran	work	0182	ʁaraχ-ir	go-IMP.PL	v:pred	v		pred		
+tabasaran	work	0182	barkavn-ar	blessed-PL	np:voc	np		voc	5039	
+tabasaran	work	0182	k’ur	CIT	other	other				
+tabasaran	work	0182	#	#	##ds	##ds				
+tabasaran	work	0182	uc̊u-z	you-DAT	dem_pro.h:ncs	dem_pro	h	ncs	5039	
+tabasaran	work	0182	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	work	0182	0	0_oxen	0:a_pc	0		a_pc	5039	
+tabasaran	work	0182	mi-cːi	PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	work	0182	liχ-ajiz	work-PTCP-DAT	v:pred	v		pred		
+tabasaran	work	0182	k’ur	CIT	other	other				
+tabasaran	work	0182	%	%	%	%				
+tabasaran	work	0182	#	#	#ds_ac_pc	#ds_ac_pc				
+tabasaran	work	0182	0	0_oxen	0:s_pc	0		s_pc	5039	
+tabasaran	work	0182	ʁi-jiχ-i-š	PFV-<PL>die-PTCP-COND	v:pred	v		pred		
+tabasaran	work	0182	%	%	%	%				
+tabasaran	work	0182	uǯi	good	other:pred	other		pred		
+tabasaran	work	0182	vu	COP	cop	cop				
+tabasaran	work	0182	=c̊u-z	=2PL-DAT	=rv-pro_2_obl	=rv-pro_2_obl				
+tabasaran	work	0182	k’ur	CIT	other	other				
+tabasaran	work	0183	#	#	##	##				
+tabasaran	work	0183	#	#	#cv	#cv				
+tabasaran	work	0183	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0183	erč-nu	<PL>put-PCVB	v:pred	v		pred		
+tabasaran	work	0183	jic-ar	ox-PL(ABS)	np:p	np		p	5039	
+tabasaran	work	0183	=a	=ADD	=other	=other				
+tabasaran	work	0183	%	%	%	%				
+tabasaran	work	0183	#	#	#cv	#cv				
+tabasaran	work	0183	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0183	ʁada<b>ʁ-u	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0183	#	#	#rc_pc	#rc_pc			5094	new
+tabasaran	work	0183	0	0_Selim	0.h:a_pc	0	h	a_pc	5006	
+tabasaran	work	0183	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0183	jic-ar	ox-PL(ABS)	np:p	np		p	5039	
+tabasaran	work	0183	=a	=ADD	=other	=other				
+tabasaran	work	0183	q-a<v>-ra-ji	<NSG>POST-lead-PRS-PTCP	v:pred	v		pred		
+tabasaran	work	0183	0	0_stick	rel_f0:obl	rel_f0		obl	5094	
+tabasaran	work	0183	%	%	%	%				
+tabasaran	work	0183	t’ul	stick(ABS)	np:p	np		p	5094	
+tabasaran	work	0183	=ra	=ADD	=other	=other				
+tabasaran	work	0183	%	%	%	%				
+tabasaran	work	0183	#	#	#cv	#cv				
+tabasaran	work	0183	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0183	q-ib-u	POST-put-PCVB	v:pred	v		pred		
+tabasaran	work	0183	0	0_stick	0:p	0		p	5094	
+tabasaran	work	0183	gardan.ǯi-q	neck-POST	np:g	np		g	5095	bridging
+tabasaran	work	0183	%	%	%	%				
+tabasaran	work	0183	#	#	#cv	#cv				
+tabasaran	work	0183	0	0_Selim	0.h:a_cp_cv	0	h	a_cp_cv	5006	
+tabasaran	work	0183	us̊~us̊	RDP~mouth(ABS)	other:lvc	other		lvc		
+tabasaran	work	0183	jeb-uri	hit-ICVB	v:pred	v		pred		
+tabasaran	work	0183	%	%	%	%				
+tabasaran	work	0183	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0183	selim	Selim(ABS)	pn_np.h:s	pn_np	h	s	5006	
+tabasaran	work	0184	#	#	##	##				
+tabasaran	work	0184	#	#	#cv	#cv				
+tabasaran	work	0184	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0184	jeb-nu	hit-PCVB	v:pred	v		pred		
+tabasaran	work	0184	0	0_door	0:p	0		p	5077	
+tabasaran	work	0184	lik-r.i-k-ǯi	leg-PL-CONT-DIR	np:obl	np		obl	5096	bridging
+tabasaran	work	0184	#	#	#cv	#cv				
+tabasaran	work	0184	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0184	t’ap’-nu	<NSG>open-PCVB	v:pred	v		pred		
+tabasaran	work	0184	rakːin	door(ABS)	np:p	np		p	5077	
+tabasaran	work	0184	=ra	=ADD	=other	=other				
+tabasaran	work	0184	%	%	%	%				
+tabasaran	work	0184	%	%	%	%				
+tabasaran	work	0184	uc̊’-ru	<HSG>enter-FUT	v:pred	v		pred		
+tabasaran	work	0184	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5006	
+tabasaran	work	0185	#	#	#nc	#nc				
+tabasaran	work	0185	assalam	assalam	nc	nc				
+tabasaran	work	0185	alejkum	aleykum	nc	nc				
+tabasaran	work	0185	aˁχu-r	big-HSG(ABS)	nc_np.h	nc_np	h		5020	
+tabasaran	work	0185	k’ur	CIT	nc	nc				
+tabasaran	work	0186	vaalejkum	waaleykum	nc	nc				
+tabasaran	work	0186	salam	salam	nc	nc				
+tabasaran	work	0186	k’ur	CIT	nc	nc				
+tabasaran	work	0187	#	#	##ds	##ds				
+tabasaran	work	0187	hap’-nu	what_do-AOR	other	other				
+tabasaran	work	0187	selim	Selim	pn_np.h:voc	pn_np	h	voc	5006	
+tabasaran	work	0187	k’ur	CIT	other	other				
+tabasaran	work	0187	jic-ar	ox-PL(ABS)	np:s	np		s	5039	
+tabasaran	work	0187	našti	where	intrg_other:pred_l	intrg_other		pred_l		
+tabasaran	work	0187	k’ur	CIT	other	other				
+tabasaran	work	0188	#	#	##ds	##ds				
+tabasaran	work	0188	#	#	#ds_cv.neg	#ds_cv.neg				
+tabasaran	work	0188	jada	PRT	other	other				
+tabasaran	work	0188	k’ur	CIT	other	other				
+tabasaran	work	0188	0	0_Selim	0.1:a_cv	0	1	a_cv	5006	
+tabasaran	work	0188	0	0_oxen	0:p	0		p	5039	
+tabasaran	work	0188	di<r>ku-z	<PL>keep-INF	v:pred	v		pred		
+tabasaran	work	0188	dar-ši-ǯi	NEG-become-PCVB	rv_aux	rv_aux				
+tabasaran	work	0188	%	%	%	%				
+tabasaran	work	0188	ʁarz-l-a-mi-na	rock-SUPER-ELAT-PROX-LAT	np:g	np		g	5093	
+tabasaran	work	0188	ʁ-uš-nu	PFV-<PL>go-AOR	v:pred	v		pred		
+tabasaran	work	0188	k’ur	CIT	other	other				
+tabasaran	work	0188	jic-ar	ox-PL(ABS)	np:s	np		s	5039	
+tabasaran	work	0189	#	#	##	##				
+tabasaran	work	0189	jada	PRT	other	other				
+tabasaran	work	0189	uvu	you	pro.2:a	pro	2	a	5006	
+tabasaran	work	0189	jiz	my	ln_pro.1:poss	ln_pro	1	poss	5020	
+tabasaran	work	0189	χal	house(ABS)	np:p	np		p	5035	
+tabasaran	work	0189	gi-dip-u	SUB-<NSG>ruin-AOR	v:pred	v		pred		
+tabasaran	work	0189	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0189	=ki	=PRT	=rv	=rv				
+tabasaran	work	0189	selim	Selim	pn_np.h:voc	pn_np	h	voc	5006	
+tabasaran	work	0189	k’ur	CIT	other	other				
+tabasaran	work	0189	#	#	##ds	##ds				
+tabasaran	work	0189	0	0_Selim	0.2:a	0	2	a	5006	
+tabasaran	work	0189	hap’-u	what_do-AOR	v:pred	v		pred		
+tabasaran	work	0189	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0189	k’ur	CIT	other	other				
+tabasaran	work	0190	#	#	##ds	##ds				
+tabasaran	work	0190	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0190	0	0_man	0.2:g	0	2	g	5020	
+tabasaran	work	0190	a-f-un	PFV-come-AOR+Q	v:pred	v		pred		
+tabasaran	work	0190	=u-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0190	aˁχu-r	big-HSG(ABS)	np.h:voc	np	h	voc	5020	
+tabasaran	work	0190	k’ur	CIT	other	other				
+tabasaran	work	0191	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0191	vaʔ	no	other	other				
+tabasaran	work	0191	vaʔ	no	other	other				
+tabasaran	work	0191	k’ur	CIT	other	other				
+tabasaran	work	0191	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0191	0	0_man	0.1:g	0	1	g	5020	
+tabasaran	work	0191	ʁa-f-un-d	PFV-come-AOR-NEG	v:pred	v		pred		
+tabasaran	work	0191	=o-z	=1SG-DAT	=rv-pro_1_g	=rv-pro_1_g				
+tabasaran	work	0191	k’ur	CIT	other	other				
+tabasaran	work	0192	#	#	##ds	##ds				
+tabasaran	work	0192	0	0	0.h:a	0	h	a	5043	
+tabasaran	work	0192	aˁ<b>qːi	<NSG>bring(IMP)	v:pred	v		pred		
+tabasaran	work	0192	k’ur	CIT	other	other				
+tabasaran	work	0192	ip’-ru-b	<NSG>eat-PTCP-NSG(ABS)	np:p	np		p	5097	new
+tabasaran	work	0193	#	#	##	##				
+tabasaran	work	0193	#	#	#cv	#cv				
+tabasaran	work	0193	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0193	d-ip’-u	PFV-<NSG>eat-PCVB	v:pred	v		pred		
+tabasaran	work	0193	ip’-ru-b	<NSG>eat-PTCP-NSG(ABS)	np:p	np		p	5097	
+tabasaran	work	0193	=ra	=ADD	=other	=other				
+tabasaran	work	0193	%	%	%	%				
+tabasaran	work	0193	daq-ru	<HSG>lie-FUT	v:pred	v		pred		
+tabasaran	work	0193	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5006	
+tabasaran	work	0193	#	#	#cv	#cv				
+tabasaran	work	0193	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0193	g-iv-u	SUB-put-PCVB	v:pred	v		pred		
+tabasaran	work	0193	k’ul.i-g	head-SUB	np:g	np		g	5098	bridging
+tabasaran	work	0193	χl-ar	hand-PL(ABS)	np:p	np		p	5099	bridging
+tabasaran	work	0193	=a	=ADD	=other	=other				
+tabasaran	work	0194	#	#	##	##				
+tabasaran	work	0194	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0194	jiʁ	day(ABS)	np:s	np		s	5100	bridging
+tabasaran	work	0194	=ra	=ADD	=other	=other				
+tabasaran	work	0194	aˁ<b>ʁ-uru	<NSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0195	#	#	#	#				
+tabasaran	work	0195	qajiʁ.a	next_day(ERG)	other	other				
+tabasaran	work	0195	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0195	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	work	0195	muva-x-na	PROX-APUD-LAT	dem_pro.h:g	dem_pro	h	g	5006	
+tabasaran	work	0195	gamš-ar	buffalo-PL(ABS)	np:p	np		p	5101	new
+tabasaran	work	0196	#	#	##ds	##ds				
+tabasaran	work	0196	0	0_Selim	0.h:s	0	h	s	5006	
+tabasaran	work	0196	lig	<HSG>look(IMP)	v:pred	v		pred		
+tabasaran	work	0196	ha	PRT	other	other				
+tabasaran	work	0196	selim	Selim	pn_np.h:voc	pn_np	h	voc	5006	
+tabasaran	work	0196	k’ur	CIT	other	other				
+tabasaran	work	0197	#	#	##ds	##ds				
+tabasaran	work	0197	0	0_Selim	0.2:a_cp	0	2	a_cp	5006	
+tabasaran	work	0197	mu-rar	PROX-PL(ABS)	dem_pro:p	dem_pro		p	5101	
+tabasaran	work	0197	k’ur	CIT	other	other				
+tabasaran	work	0197	iχtijat-ǯi	care-ADV	other	other				
+tabasaran	work	0197	laˁχin	work(ABS)	other:lvc	other		lvc		
+tabasaran	work	0197	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	work	0197	k’ur	CIT	other	other				
+tabasaran	work	0197	#	#	##ds	##ds				
+tabasaran	work	0197	mu-rar	PROX-PL(ABS)	dem_pro.h:s	dem_pro	h	s	5101	
+tabasaran	work	0197	k’ur	CIT	other	other				
+tabasaran	work	0197	gamš-ar	buffalo-PL(ABS)	np:pred	np		pred		
+tabasaran	work	0197	u	COP	cop	cop				
+tabasaran	work	0197	k’ur	CIT	other	other				
+tabasaran	work	0197	#	#	##ds	##ds				
+tabasaran	work	0197	tünt	violent	other:pred	other		pred		
+tabasaran	work	0197	gamš-ar	buffalo-PL(ABS)	np:s	np		s	5101	
+tabasaran	work	0197	u	COP	cop	cop				
+tabasaran	work	0197	k’ur	CIT	other	other				
+tabasaran	work	0198	#	#	##ds	##ds				
+tabasaran	work	0198	0	0_man	0.2:a_cp	0	2	a_cp	5020	
+tabasaran	work	0198	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0198	fikir	thought(ABS)	other:pred	other		pred		
+tabasaran	work	0198	=a	=ADD	=other	=other				
+tabasaran	work	0198	m-ap’-a	NEG-do-PROH	v:pred	v		pred		
+tabasaran	work	0198	aˁχu-r	big-HSG(ABS)	np.h:voc	np	h	voc	5020	
+tabasaran	work	0198	k’ur	CIT	other	other				
+tabasaran	work	0198	#	#	##ds	##ds				
+tabasaran	work	0198	uzu	I	pro.1:a	pro	1	a	5006	
+tabasaran	work	0198	du-rar.i-n	3P-PL-GEN	ln_dem_pro:poss	ln_dem_pro		poss	5101	
+tabasaran	work	0198	ʁajʁu	concern(ABS)	np:p	np		p		
+tabasaran	work	0198	zig-ar	pull-FUT	v:pred	v		pred		
+tabasaran	work	0198	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0198	k’ur	CIT	other	other				
+tabasaran	work	0199	#	#	##	##				
+tabasaran	work	0199	ʁuˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	work	0199	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5006	
+tabasaran	work	0199	izn.i-z	field-DAT	np:g	np		g	5038	
+tabasaran	work	0199	#	#	##	##				
+tabasaran	work	0199	0	0_Selim	0.h:a	0	h	a	5006	
+tabasaran	work	0199	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0199	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0199	sa	one	ln	ln				
+tabasaran	work	0199	c’i-b	little-NSG	ln	ln				
+tabasaran	work	0199	vaχt.na	time(ERG)	np:other	np		other		
+tabasaran	work	0199	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0199	jiʁan	day.ADV	np:other	np		other	5100	
+tabasaran	work	0199	si	as	adp	adp				
+tabasaran	work	0200	#	#	##	##				
+tabasaran	work	0200	0	0_Selim	0.h:s	0	h	s	5006	
+tabasaran	work	0200	lig-uru	<HSG>look-FUT	v:pred	v		pred		
+tabasaran	work	0200	#	#	##	##				
+tabasaran	work	0200	udu<b>c̊’-uru	<NSG>go_out-FUT	v:pred	v		pred		
+tabasaran	work	0200	riʁ	sun(ABS)	np:s	np		s	5042	
+tabasaran	work	0200	#	#	##	##				
+tabasaran	work	0200	mani	warm	other	other				
+tabasaran	work	0200	šul-a	become-PRS	v:pred	v		pred		
+tabasaran	work	0200	#	#	##neg	##neg				
+tabasaran	work	0200	ʁuˁ-ra-dar	come-PRS-NEG	v:pred	v		pred		
+tabasaran	work	0200	fuž-k’a	who-INDEF(ABS)	indef_other.h:s	indef_other	h	s		
+tabasaran	work	0200	=ra	=ADD	=other	=other				
+tabasaran	work	0201	#	#	##	##				
+tabasaran	work	0201	0	0_Selim	0.h:a	0	h	a	5006	
+tabasaran	work	0201	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	work	0201	jic-ar	ox-PL(ABS)	ln_np	ln_np			5038	
+tabasaran	work	0201	ha-t-s̊-l-a-kːi-na	EMPH-DIST-place-SUPER-ELAT-DOWN-LAT	np:g	np		g	5093	
+tabasaran	work	0201	deet-ura	<PL>let-PRS	v:pred	v		pred		
+tabasaran	work	0201	gamš-ar	buffalo-PL(ABS)	np:p	np		p	5101	
+tabasaran	work	0201	=a	=ADD	=other	=other				
+tabasaran	work	0202	#	#	##	##				
+tabasaran	work	0202	#	#	#cv	#cv				
+tabasaran	work	0202	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0202	erč-nu	<PL>put-PCVB	v:pred	v		pred		
+tabasaran	work	0202	gamš-ar	buffalo-PL(ABS)	np:p	np		p	5101	
+tabasaran	work	0202	=a	=ADD	=other	=other				
+tabasaran	work	0202	%	%	%	%				
+tabasaran	work	0202	#	#	#cv	#cv				
+tabasaran	work	0202	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0202	ʁada<b>ʁ-u	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0202	0	0_stick	0:p	0		p	5094	
+tabasaran	work	0202	#	#	#cv	#cv				
+tabasaran	work	0202	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0202	q-ib-nu	POST-put-PCVB	v:pred	v		pred		
+tabasaran	work	0202	t’ul	stick(ABS)	np:p	np		p	5094	
+tabasaran	work	0202	%	%	%	%				
+tabasaran	work	0202	%	%	%	%				
+tabasaran	work	0202	0	0_Selim	0.h:a_cp	0	h	a_cp	5006	
+tabasaran	work	0202	jeb-uru	hit-FUT	v:pred	v		pred		
+tabasaran	work	0202	us̊~us̊	RDP:mouth(ABS)	other:lvc	other		lvc		
+tabasaran	work	0202	#	#	##	##				
+tabasaran	work	0202	ʁuˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	work	0202	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	5006	
+tabasaran	work	0202	qajiʁan	next_day	other	other				
+tabasaran	work	0202	=na	=ADD	=other	=other				
+tabasaran	work	0203	#	#	#cv	#cv				
+tabasaran	work	0203	ja	VOC	other	other				
+tabasaran	work	0203	k’ur	CIT	other	other				
+tabasaran	work	0203	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0203	t’ap’-nu	<NSG>open-PCVB	v:pred	v		pred		
+tabasaran	work	0203	rakːin	door(ABS)	np:p	np		p	5077	
+tabasaran	work	0203	=ra	=ADD	=other	=other				
+tabasaran	work	0203	ja	VOC	other	other				
+tabasaran	work	0203	aˁχuˁ-r	big-HSG(ABS)	np.h:voc	np	h	voc	5020	
+tabasaran	work	0203	k’ur	CIT	other	other				
+tabasaran	work	0203	assalamu	assalam	other	other				
+tabasaran	work	0203	alejkum	aleykum	other	other				
+tabasaran	work	0203	k’ur	CIT	other	other				
+tabasaran	work	0204	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0204	jada	PRT	other	other				
+tabasaran	work	0204	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	work	0204	fu	what(ABS)	intrg_other:s	intrg_other		s		
+tabasaran	work	0204	a-b-x-nu-š	PFV-NSG-become-AOR-COND	v:predex	v		predex		
+tabasaran	work	0204	%	%	%	%				
+tabasaran	work	0204	0	0_man	0.1:ncs	0	1	ncs	5020	
+tabasaran	work	0204	aˁj-d	know-NEG	v:pred	v		pred		
+tabasaran	work	0204	=oz	=1SG+DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	work	0204	k’ur	CIT	other	other				
+tabasaran	work	0204	#	#	#nc	#nc				
+tabasaran	work	0204	hap’-ru-dar-i	what_do-PTCP-PL-COP	nc	nc				
+tabasaran	work	0204	=jav	=2SG:POSS	nc	nc				
+tabasaran	work	0204	k’ur	CIT	nc	nc				
+tabasaran	work	0205	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0205	#	#	#ds_cc_pc:s	#ds_cc_pc		s		
+tabasaran	work	0205	hamus.ǯi-z	now-DAT	other	other				
+tabasaran	work	0205	0	0_Selim	0.2:a_pc	0	2	a_pc	5006	
+tabasaran	work	0205	0	0_buffalo	0:p	0		p	5101	
+tabasaran	work	0205	č’at.na	outside(IN)	np:g	np		g		
+tabasaran	work	0205	adav-dar	<PL>take_out-PTCP+PL	v:pred	v		pred		
+tabasaran	work	0205	%	%	%	%				
+tabasaran	work	0205	da-n	COP:NEG-Q	v:predex	v		predex		
+tabasaran	work	0205	=ev	=2SG:POSS	=rn_pro.2:poss	=rn_pro	2	poss		
+tabasaran	work	0205	k’ur	CIT	other	other				
+tabasaran	work	0206	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0206	jada	PRT	other	other				
+tabasaran	work	0206	0	0_Selim	0.1:a	0	1	a	5006	
+tabasaran	work	0206	mu-rar	PROX-PL(ABS)	dem_pro:p	dem_pro		p	5101	
+tabasaran	work	0206	ǯi<r>ʁu-z	<PL>stop-INF	v:pred	v		pred		
+tabasaran	work	0206	a-b-x-un-da	PFV-NSG-become-AOR-NEG	rv_aux	rv_aux				
+tabasaran	work	0206	=z-x-a	=1SG-APUD-ELAT	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0206	k’ur	CIT	other	other				
+tabasaran	work	0207	#	#	##ds	##ds				
+tabasaran	work	0207	ʁ-uš-nu	<PL>go-AOR	v:pred	v		pred		
+tabasaran	work	0207	k’ur	CIT	other	other				
+tabasaran	work	0207	jic-ar	ox-PL(ABS)	ln_np	ln_np			5039	
+tabasaran	work	0207	ʁ-uš-u	PFV-<PL>go-PTCP	ln	ln				
+tabasaran	work	0207	s̊-l-a-mi-na	place-SUPER-ELAT-PROX-LAT	np:g	np		g	5093	
+tabasaran	work	0207	gamš-ar	buffalo-PL(ABS)	np:s	np		s	5101	
+tabasaran	work	0207	=a	=ADD	other	other				
+tabasaran	work	0208	#	#	##ds	##ds				
+tabasaran	work	0208	ja	VOC	other	other				
+tabasaran	work	0208	kerim	Kerim	pn_np.h:voc	pn_np	h	voc	5006	
+tabasaran	work	0208	uvu	you	pro.2:a	pro	2	a	5006	
+tabasaran	work	0208	jiz	my	ln_pro.1:poss	ln_pro	1	poss	5020	
+tabasaran	work	0208	χal	house(ABS)	np:p	np		p	5035	
+tabasaran	work	0208	gidip-ura	ruin-PRS	v:pred	v		pred		
+tabasaran	work	0208	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0208	#	#	##ds	##ds				
+tabasaran	work	0208	hajaman	INTERJ	other	other				
+tabasaran	work	0208	k’ur	CIT	other	other				
+tabasaran	work	0208	uvu	you	pro.2:a	pro	2	a	5006	
+tabasaran	work	0208	hap’-re-r	what_do-PRS+PTCP-HSG(ABS)	v:pred	v		pred		
+tabasaran	work	0208	u	COP	rv_aux	rv_aux				
+tabasaran	work	0208	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0208	k’ur	CIT	other	other				
+tabasaran	work	0209	#	#	##	##				
+tabasaran	work	0209	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0209	0	0_man	0.2:g	0	2	g	5020	
+tabasaran	work	0209	ʁa-f-un	PFV-come-AOR+Q	v:pred	v		pred		
+tabasaran	work	0209	=u-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0209	aˁχuˁ-r	big-HSG(ABS)	np.h:voc	np	h	voc	5020	
+tabasaran	work	0209	k’ur	CIT	other	other				
+tabasaran	work	0210	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0210	vaʔ	no	other	other				
+tabasaran	work	0210	vaʔ	no	other	other				
+tabasaran	work	0210	k’ur	CIT	other	other				
+tabasaran	work	0210	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0210	0	0_man	0.1:g	0	1	g	5020	
+tabasaran	work	0210	ʁa-f-un-d	PFV-come-AOR-NEG	v:pred	v		pred		
+tabasaran	work	0210	=oz	=1SG+DAT	=rv-pro_1_g	=rv-pro_1_g				
+tabasaran	work	0210	k’ur	CIT	other	other				
+tabasaran	work	0211	#	#	##	##				
+tabasaran	work	0211	#	#	#cv	#cv				
+tabasaran	work	0211	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0211	d-ip’-u	PFV-<NSG>eat-PCVB	v:pred	v		pred		
+tabasaran	work	0211	uˁl	bread(ABS)	np:p	np		p	5102	new
+tabasaran	work	0211	=la	=ADD	=other	=other				
+tabasaran	work	0211	%	%	%	%				
+tabasaran	work	0211	daqr-u	<HSG>lie-FUT	v:pred	v		pred		
+tabasaran	work	0211	selim	Selim(ABS)	pn_np.h:s	pn_np	h	s	5006	
+tabasaran	work	0212	#	#	##	##				
+tabasaran	work	0212	qajiʁ.a	next_day(ERG)	other	other				
+tabasaran	work	0212	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0212	hav-ru	<HSG>send-FUT	v:pred	v		pred		
+tabasaran	work	0212	marčː-ar.i-q	sheep-PL-POST	np:obl	np		obl	5103	new
+tabasaran	work	0212	selim	Selim(ABS)	pn_np.h:p	pn_np	h	p	5006	
+tabasaran	work	0213	#	#	##ds	##ds				
+tabasaran	work	0213	0	0_Selim	0.2:s	0	2	s	5006	
+tabasaran	work	0213	ʁaraχ	go(IMP)	v:pred	v		pred		
+tabasaran	work	0213	k’ur	CIT	other	other				
+tabasaran	work	0213	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0213	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	work	0213	izan	field(ABS)	np:s	np		s	5038	
+tabasaran	work	0213	bala	problem(ABS)	np:pred	np		pred		
+tabasaran	work	0213	dar	COP:NEG	cop	cop				
+tabasaran	work	0213	k’ur	CIT	other	other				
+tabasaran	work	0213	#	#	##ds	##ds				
+tabasaran	work	0213	izan	field(ABS)	np:p	np		p	5038	
+tabasaran	work	0213	ǯara.dli	other(ERG)	np.h:a	np	h	a		
+tabasaran	work	0213	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0213	k’ur	CIT	other	other				
+tabasaran	work	0213	#	#	##ds	##ds				
+tabasaran	work	0213	uvu	you	pro.2:s	pro	2	s	5006	
+tabasaran	work	0213	marčː-ar.i-x-na	sheep-PL-APUD-LAT	np:obl	np		obl	5103	
+tabasaran	work	0213	ʁaraχ	go(IMP)	v:pred	v		pred		
+tabasaran	work	0213	k’ur	CIT	other	other				
+tabasaran	work	0214	#	#	##	##				
+tabasaran	work	0214	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0214	marčː-ar	sheep-PL(ABS)	np:p	np		p	5103	
+tabasaran	work	0214	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	work	0214	muva-x-na	PROX-APUD-LAT	dem_pro.h:g	dem_pro	h	g		
+tabasaran	work	0214	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0214	aˁχuˁ	big	ln_adj	ln_adj				
+tabasaran	work	0214	zurba	huge	ln_adj	ln_adj				
+tabasaran	work	0214	liǯ	herd(ABS)	np:appos	np		appos	5103	
+tabasaran	work	0214	marčː-ar	sheep-PL(ABS)	rn_np	rn_np				
+tabasaran	work	0214	=a	=ADD	=other	=other				
+tabasaran	work	0214	#	#	##	##				
+tabasaran	work	0214	0	0_man	0.h:a	0	h	a	5020	
+tabasaran	work	0214	hav-ru	<HSG>send-FUT	v:pred	v		pred		
+tabasaran	work	0214	mu	PROX(ABS)	dem_pro.h:p	dem_pro	h	p	5006	
+tabasaran	work	0214	č’ur-ar.i-z	pasture-PL-DAT	np:g	np		g	5104	bridging
+tabasaran	work	0215	#	#	##	##				
+tabasaran	work	0215	#	#	#cv	#cv				
+tabasaran	work	0215	dumu	3.P(ABS)	other	other				
+tabasaran	work	0215	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0215	deet-nu	<PL>leave-PCVB	v:pred	v		pred		
+tabasaran	work	0215	č’ur-ar.i-z	pasture_land-PL-DAT	np:l	np		l	5104	
+tabasaran	work	0215	marčː-ar	sheep-PL(ABS)	np:p	np		p	5103	
+tabasaran	work	0215	=a	=ADD	=other	=other				
+tabasaran	work	0215	%	%	%	%				
+tabasaran	work	0215	#	#	#cv	#cv				
+tabasaran	work	0215	0	0_sheep	0.h:s_cv	0	h	s_cv	5103	
+tabasaran	work	0215	dax-nu	<PL>lie-PCVB	v:pred	v		pred		
+tabasaran	work	0215	%	%	%	%				
+tabasaran	work	0215	0	0_Selim	0.h:s	0	h	s	5006	
+tabasaran	work	0215	daq-ru	<HSG>lie-FUT	v:pred	v		pred		
+tabasaran	work	0215	ha-m-s̊.a-x	EMPH-PROX-place-APUD	np:l	np		l	5105	bridging
+tabasaran	work	0216	#	#	##	##				
+tabasaran	work	0216	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	work	0216	ar.i	middle(IN)	np:other	np		other		
+tabasaran	work	0216	ha-k-li-mi-na	EMPH-DOWN-SUPER-PROX-LAT	dem_pro:g	dem_pro		g		
+tabasaran	work	0216	haˁjvn-ar.i-in-ǯi	horse-PL-SUPER-DIR	np:l	np		l	5106	new
+tabasaran	work	0216	ʁuˁ-ra	come-PRS	v:pred	v		pred		
+tabasaran	work	0216	admi-r	man-PL(ABS)	np.h:s	np	h	s	5107	new
+tabasaran	work	0216	#	#	##	##				
+tabasaran	work	0216	šubu-r	three-HSG	ln_num	ln_num				
+tabasaran	work	0216	juq’u-r	four-HSG	ln_num	ln_num				
+tabasaran	work	0216	kas	person	np.h:s	np	h	s	5107	
+tabasaran	work	0216	ʁuˁ-ra	come-PRS	v:pred	v		pred		
+tabasaran	work	0217	#	#	#cv	#cv				
+tabasaran	work	0217	mu-rar	PROX-PL(ABS)	dem_pro.h:s_cp_cv	dem_pro	h	s_cp_cv	5107	
+tabasaran	work	0217	ha-k-li-mi-na	EMPH-DOWN-SUPER-PROX-LAT	dem_pro:l	dem_pro		l	5104	
+tabasaran	work	0217	gaf-ar	word-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0217	ap’-uri	do-ICVB	v:pred	v		pred		
+tabasaran	work	0217	#	#	##ds.neg	##ds.neg				
+tabasaran	work	0217	jarab	PRT	other	other				
+tabasaran	work	0217	allah	Allah	other	other				
+tabasaran	work	0217	#	#	#ds_rc_pc	#ds_rc_pc			5108	new
+tabasaran	work	0217	uxu-z	we(EXCL)-DAT	pro.1:g	pro	1	g	5107	
+tabasaran	work	0217	tuv-ru	give-PTCP	v:pred	v		pred		
+tabasaran	work	0217	0	0_sheep	rel_f0:p	rel_f0		p	5108	
+tabasaran	work	0217	%	%	%	%				
+tabasaran	work	0217	marčː-ar	sheep-PL(ABS)	np:p	np		p	5108	
+tabasaran	work	0217	d-iqu-da-jk’e	PL-find-NEG-RHET	v:pred	v		pred		
+tabasaran	work	0217	uxu-z	we(EXCL)	pro.1:a	pro	1	a	5107	
+tabasaran	work	0217	k’ur	CIT	other	other				
+tabasaran	work	0218	#	#	##ds	##ds				
+tabasaran	work	0218	ma-ha	voila	other	other				
+tabasaran	work	0218	k’ur	CIT	other	other				
+tabasaran	work	0218	ha-m-s̊a-x	EMPH-PROX-LOC.ADV-APUD	dem_pro:l	dem_pro		l	5104	
+tabasaran	work	0218	=ra	=ADD	=other	=other				
+tabasaran	work	0218	marčː-ar	sheep-PL(ABS)	np:s	np		s	5103	
+tabasaran	work	0218	x-a-ǯa	APUD-be-PRS	v:predex	v		predex		
+tabasaran	work	0218	k’ur	CIT	other	other				
+tabasaran	work	0219	#	#	##ds	##ds				
+tabasaran	work	0219	hajaman	INTERJ	other	other				
+tabasaran	work	0219	ha-m-rar.i	EMPH-PROX-PL(ERG)	dem_pro.h:a	dem_pro	h	a		
+tabasaran	work	0219	marčː-ar	sheep-PL(ABS)	np:p	np		p	5103	
+tabasaran	work	0219	0	0_people	0.h:g	0	h	g	5107	
+tabasaran	work	0219	tuv-re-dar	give-PRS+PTCP-PL(ABS)	v:pred	v		pred		
+tabasaran	work	0219	vu	COP	rv_aux	rv_aux				
+tabasaran	work	0219	šul	become:PRS	rv_aux	rv_aux				
+tabasaran	work	0219	ha	PRT	other	other				
+tabasaran	work	0219	k’ur	CIT	other	other				
+tabasaran	work	0220	ja	VOC	other	other				
+tabasaran	work	0220	χalu	uncle	np:voc	np		voc	5006	
+tabasaran	work	0221	#	#	##ds	##ds				
+tabasaran	work	0221	0	0_people	0.2:ncs	0	2	ncs	5107	
+tabasaran	work	0221	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	work	0221	gun-ǯa	want-PRS	v:pred	v		pred		
+tabasaran	work	0221	=c̊u-z	=2PL-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	work	0221	k’ur	CIT	other	other				
+tabasaran	work	0222	#	#	##ds	##ds				
+tabasaran	work	0222	0	0_people	0.1:ncs	0	1	ncs	5107	
+tabasaran	work	0222	marčː-ar	sheep-PL(ABS)	np:p	np		p	5108	
+tabasaran	work	0222	gun-ǯa	want-PRS	v:pred	v		pred		
+tabasaran	work	0222	=ču-z	=1PL.EXCL-DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	work	0222	k’ur	CIT	other	other				
+tabasaran	work	0223	#	#	#nc	#nc				
+tabasaran	work	0223	maha	voila	nc	nc				
+tabasaran	work	0223	k’ur	CIT	nc	nc				
+tabasaran	work	0223	marčː-ar	sheep-PL(ABS)	nc_np	nc_np			5103	
+tabasaran	work	0224	#	#	##ds	##ds				
+tabasaran	work	0224	qa	then	other	other				
+tabasaran	work	0224	0	0_Selim	0.2:a	0	2	a	5006	
+tabasaran	work	0224	0	0_people	0.1:g	0	1	g	5107	
+tabasaran	work	0224	fu-q’a	what-DEGR	intrg_other:p	intrg_other		p		
+tabasaran	work	0224	tuv-uz	give-INF	v:pred	v		pred		
+tabasaran	work	0224	šul	become	rv_aux	rv_aux				
+tabasaran	work	0224	=c̊-x-a	=2PL-APUD-ELAT	=rv-pro_1_g	=rv-pro_1_g				
+tabasaran	work	0224	k’ur	CIT	other	other				
+tabasaran	work	0225	#	#	##ds	##ds				
+tabasaran	work	0225	0	0_people	0.2:ncs	0	2	ncs	5107	
+tabasaran	work	0225	fu-q’a	what-DEGR	intrg_other:p	intrg_other		p		
+tabasaran	work	0225	gun-ǯa	want-PRS	v:pred	v		pred		
+tabasaran	work	0225	=c̊u-z	=2PL-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	work	0225	k’ur	CIT	other	other				
+tabasaran	work	0226	#	#	#ds_pc	#ds_pc				
+tabasaran	work	0226	qa	then	other	other				
+tabasaran	work	0226	uču-z	we(INCL)-DAT	pro.1:ncs_poss_pc	pro	1	ncs_poss_pc	5107	
+tabasaran	work	0226	a-x-i-š	PFV-<PL>become-PTCP-COND	v:pred	v		pred		
+tabasaran	work	0226	ha-m-rar	EMPH-PROX-PL(ABS)	ln_dem	ln_dem				
+tabasaran	work	0226	vari	all	np:p	np		p	5103	
+tabasaran	work	0226	k’ur	CIT	other	other				
+tabasaran	work	0227	#	#	##ds	##ds				
+tabasaran	work	0227	vari	all	np:p	np		p	5103	
+tabasaran	work	0227	uc̊u-z	you-DAT	pro.2:ncs_poss	pro	2	ncs_poss	5107	
+tabasaran	work	0227	=i	=COP	=v:predex	=v		predex		
+tabasaran	work	0227	-z	-1SG:POSS	=rn_pro.1:poss	=rn_pro	1	poss	5006	
+tabasaran	work	0227	k’ur	CIT	other	other				
+tabasaran	work	0228	#	#	##ds	##ds				
+tabasaran	work	0228	0	0_people	0.2:a	0	2	a	5107	
+tabasaran	work	0228	0	0_Selim	0.1:g	0	1	g	5006	
+tabasaran	work	0228	pul	money(ABS)	np:p	np		p	5109	new
+tabasaran	work	0228	=ra	=ADD	=other	=other				
+tabasaran	work	0228	čav-ir	give-IMP.PL	v:pred	v		pred		
+tabasaran	work	0228	k’ur	CIT	other	other				
+tabasaran	work	0228	#	#	##ds	##ds				
+tabasaran	work	0228	0	0_people	0.2:a	0	2	a	5107	
+tabasaran	work	0228	ʁejeχ-ir	<PL>drive_away-IMP.PL	v:pred	v		pred		
+tabasaran	work	0228	marčː-ar	sheep-PL(ABS)	np:p	np		p	5103	
+tabasaran	work	0229	#	#	##	##				
+tabasaran	work	0229	#	#	#cv	#cv				
+tabasaran	work	0229	0	0_Selim	0.h:a_cp_cv	0	h	a_cp_cv	5006	
+tabasaran	work	0229	hisab	account(ABS)	other:lvc	other		lvc		
+tabasaran	work	0229	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	work	0229	%	%	%	%				
+tabasaran	work	0229	#	#	#cv.neg	#cv.neg				
+tabasaran	work	0229	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0229	0	0_sheep	0:p	0		p	5103	
+tabasaran	work	0229	čpː.i-n	REFL(PL)-GEN	ln_refl.h:poss	ln_refl	h	poss	5103	
+tabasaran	work	0229	ʁul.a-ǯi-q’a	village-(IN)DIR-DEGR	np:g	np		g	5110	bridging
+tabasaran	work	0229	ga-da~dav-ǯi	SUB-NEG~send-PCVB	v:pred	v		pred		
+tabasaran	work	0229	%	%	%	%				
+tabasaran	work	0229	#	#	#cv	#cv				
+tabasaran	work	0229	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0229	tuv-nu	give-PCVB	v:pred	v		pred		
+tabasaran	work	0229	marčː-ar	sheep-PL(ABS)	np:p	np		p	5103	
+tabasaran	work	0229	%	%	%	%				
+tabasaran	work	0229	0	0_Selim	0.h:a	0	h	a	5006	
+tabasaran	work	0229	javaš	slowly	other	other				
+tabasaran	work	0229	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	work	0229	χanuχri	NC	nc	nc				
+tabasaran	work	0230	#	#	##	##				
+tabasaran	work	0230	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	work	0230	selim	Selim(ABS)	pn_np.h:s	pn_np	h	s	5006	
+tabasaran	work	0230	ha-k-li-mi-na	EMPH-DOWN-SUPER-PROX-LAT	dem_pro:l	dem_pro		l	5104	
+tabasaran	work	0230	#	#	##	##				
+tabasaran	work	0230	#	#	#cv	#cv				
+tabasaran	work	0230	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0230	ʁada<b>ʁ-u	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0230	pul	money(ABS)	np:p	np		p	5109	
+tabasaran	work	0230	=la	=ADD	=other	=other				
+tabasaran	work	0230	%	%	%	%				
+tabasaran	work	0230	#	#	#cv	#cv				
+tabasaran	work	0230	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0230	ib-u	(IN)put-PCVB	v:pred	v		pred		
+tabasaran	work	0230	0	0_money	0:p	0		p	5109	
+tabasaran	work	0230	ǯib.ǯi	pocket(IN)	np:g	np		g	5111	new
+tabasaran	work	0230	%	%	%	%				
+tabasaran	work	0230	#	#	#cv	#cv				
+tabasaran	work	0230	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0230	q-ib-u	POST-put-PCVB	v:pred	v		pred		
+tabasaran	work	0230	t’ul	stick(ABS)	np:p	np		p	5112	new
+tabasaran	work	0230	=ra	=ADD	=other	=other				
+tabasaran	work	0230	gardan.ǯi-q	neck-POST	np:g	np		g	5095	
+tabasaran	work	0230	%	%	%	%				
+tabasaran	work	0230	#	#	#cv	#cv				
+tabasaran	work	0230	0	0_Selim	0.h:a_cp_cv	0	h	a_cp_cv	5006	
+tabasaran	work	0230	jeb-uri	hit-ICVB	v:pred	v		pred		
+tabasaran	work	0230	us̊~us̊	RDP~mouth(ABS)	other:lvc	other		lvc		
+tabasaran	work	0230	%	%	%	%				
+tabasaran	work	0230	χaˁbaˁq.ǯi	evening(ERG)	np:other	np		other		
+tabasaran	work	0230	ʁuˁr-u	come-FUT	v:pred	v		pred		
+tabasaran	work	0230	selim	Selim(ABS)	pn_np.h:s	pn_np	h	s	5006	
+tabasaran	work	0231	#	#	##	##				
+tabasaran	work	0231	uduc̊’-uru	<HSG>go_out-FUT	v:pred	v		pred		
+tabasaran	work	0231	admi	man(ABS)	np.h:s	np	h	s	5020	
+tabasaran	work	0231	ulix-na	in_front_of-LAT	np:g	np		g		
+tabasaran	work	0232	#	#	##ds	##ds				
+tabasaran	work	0232	ja	VOC	other	other				
+tabasaran	work	0232	selim	Selim(ABS)	pn_np.h:voc	pn_np	h	voc	5006	
+tabasaran	work	0232	marčː-ar	sheep-PL(ABS)	np:s	np		s	5103	
+tabasaran	work	0232	naštːi	where	intrg_other:pred_l	intrg_other		pred_l		
+tabasaran	work	0232	a	(IN)be:PRS	cop	cop				
+tabasaran	work	0232	k’ur	CIT	other	other				
+tabasaran	work	0233	#	#	##ds	##ds				
+tabasaran	work	0233	0	0_Selim	0.1:a	0	1	a	5006	
+tabasaran	work	0233	t-un	give-AOR	v:pred	v		pred		
+tabasaran	work	0233	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0233	k’ur	CIT	other	other				
+tabasaran	work	0233	marčː-ar	sheep-PL(ABS)	np:p	np		p	5103	
+tabasaran	work	0234	#	#	##ds	##ds				
+tabasaran	work	0234	0	0_Selim	0.2:a	0	2	a	5006	
+tabasaran	work	0234	0	0_sheep	0:p	0		p	5103	
+tabasaran	work	0234	šl.i-z	who-DAT	intrg_other.h:g	intrg_other	h	g		
+tabasaran	work	0234	t-u	give+AOR	v:pred	v		pred		
+tabasaran	work	0234	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0234	k’ur	CIT	other	other				
+tabasaran	work	0235	#	#	#ds	#ds				
+tabasaran	work	0235	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0235	jada	PRT	other	other				
+tabasaran	work	0235	ha-k-s̊a	EMPH-DOWN-LOC.ADV(IN)	dem_pro:l	dem_pro		l		
+tabasaran	work	0235	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0235	χanuχri-r	friend-PL(ABS)	np.h:p	np	h	p	5107	
+tabasaran	work	0235	alax-nu	<PL>meet-PCVB	v:pred	v		pred		
+tabasaran	work	0235	k’ur	CIT	other	other				
+tabasaran	work	0235	%	%	%	%				
+tabasaran	work	0235	0	0_Selim	0.1:a	0	1	a	5006	
+tabasaran	work	0235	0	0_sheep	0:p	0		p	5103	
+tabasaran	work	0235	0	0_people	0.h:g	0	h	g	5107	
+tabasaran	work	0235	t-un	give-AOR	v:pred	v		pred		
+tabasaran	work	0235	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	work	0235	k’ur	CIT	other	other				
+tabasaran	work	0236	#	#	##ds	##ds				
+tabasaran	work	0236	ficːi	how	other	other				
+tabasaran	work	0236	0	0_Selim	0.2:a	0	2	a	5006	
+tabasaran	work	0236	0	0_sheep	0:p	0		p	5103	
+tabasaran	work	0236	t-u	give-AOR	v:pred	v		pred		
+tabasaran	work	0236	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0236	k’ur	CIT	other	other				
+tabasaran	work	0237	#	#	##ds	##ds				
+tabasaran	work	0237	jiz	my	ln_pro.1:poss	ln_pro	1	poss	5020	
+tabasaran	work	0237	marčː-ar	sheep-PL(ABS)	np:p	np		p	5103	
+tabasaran	work	0237	uvu	you	pro.2:a	pro	2	a	5006	
+tabasaran	work	0237	ficːi	how	other	other				
+tabasaran	work	0237	t-u	give-AOR	v:pred	v		pred		
+tabasaran	work	0237	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0237	k’ur	CIT	other	other				
+tabasaran	work	0238	#	#	##ds	##ds				
+tabasaran	work	0238	0	0_Selim	0.1:a	0	1	a	5006	
+tabasaran	work	0238	0	0_sheep	0:p	0		p	5103	
+tabasaran	work	0238	ha-cːi	EMPH-PROX.ADV	dem_pro:other	dem_pro		other		
+tabasaran	work	0238	t-un	give-AOR	v:pred	v		pred		
+tabasaran	work	0238	=za	=1SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	work	0238	k’ur	CIT	other	other				
+tabasaran	work	0239	#	#	##ds	##ds				
+tabasaran	work	0239	qaˁl	anger(ABS)	np:s	np		s		
+tabasaran	work	0239	0	0_man	0.2:g	0	2	g	5020	
+tabasaran	work	0239	ʁa-f-un	PFV-come-AOR+Q	v:pred	v		pred		
+tabasaran	work	0239	=u-z	=2SG-DAT	=rv-pro_2_g	=rv-pro_2_g				
+tabasaran	work	0239	k’ur	CIT	other	other				
+tabasaran	work	0240	#	#	##neg	##neg				
+tabasaran	work	0240	aˁχ	patience(ABS)	other:lvc	other		lvc		
+tabasaran	work	0240	ap’-un-dar	do-AOR-NEG	v:pred	v		pred		
+tabasaran	work	0240	muvu	PROX(ERG)	dem_pro.h:a_cp	dem_pro	h	a_cp	5020	
+tabasaran	work	0240	sanu	PRT	other	other				
+tabasaran	work	0241	#	#	##ds	##ds				
+tabasaran	work	0241	uvu	you	pro.2:s	pro	2	s	5006	
+tabasaran	work	0241	fu	what(ABS)	intrg_other:other	intrg_other		other		
+tabasaran	work	0241	a-b-x-id	PFV-NSG-become-FUTII	v:pred	v		pred		
+tabasaran	work	0241	=a	=2SG:AG	=rv-pro_2_s	=rv-pro_2_s				
+tabasaran	work	0241	#	#	#ds_cv	#ds_cv				
+tabasaran	work	0241	jiz	my	ln_pro.1:poss	ln_pro	1	poss	5020	
+tabasaran	work	0241	k’ul.ʔ-in	head-SUPER	np:g	np		g	5113	bridging
+tabasaran	work	0241	al-a<b>q-u	SUPER-<NSG>fall-PCVB	v:pred	v		pred		
+tabasaran	work	0241	bala	problem(ABS)	np:s_cv	np		s_cv		
+tabasaran	work	0241	#	#	#cv	#cv				
+tabasaran	work	0241	#	#	#ac_pc	#ac_pc				
+tabasaran	work	0241	ha-tmu	EMPH-DIST(ABS)	dem_pro:other	dem_pro		other		
+tabasaran	work	0241	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	work	0241	qaˁl	anger(ABS)	np:s_pc	np		s_pc		
+tabasaran	work	0241	0	0_man	0.h:g	0	h	g	5020	
+tabasaran	work	0241	ʁa-f-i-ge	PFV-come-PTCP-TEMP	v:pred	v		pred		
+tabasaran	work	0241	%	%	%	%				
+tabasaran	work	0241	0	0_man	0.h:a_cp_cv	0	h	a_cp_cv	5020	
+tabasaran	work	0241	0	0_Selim	0.h:g	0	h	g	5006	
+tabasaran	work	0241	nuˁq’n-ar	curse-PL(ABS)	other:lvc	other		lvc		
+tabasaran	work	0241	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	work	0242	#	#	##	##				
+tabasaran	work	0242	#	#	#cv	#cv				
+tabasaran	work	0242	ʁada<b>ʁ-u	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0242	selim.ǯi	Selim(ERG)	pn_np.h:a_cv	pn_np	h	a_cv	5006	
+tabasaran	work	0242	k’ark’ar	knife(ABS)	np:p	np		p	5114	new
+tabasaran	work	0242	%	%	%	%				
+tabasaran	work	0242	#	#	#cv	#cv				
+tabasaran	work	0242	0	0_Selim	0.h:s_cv	0	h	s_cv	5006	
+tabasaran	work	0242	u<b>c̊’-nu	<NSG>go_in-PCVB	v:pred	v		pred		
+tabasaran	work	0242	fn.i-ʔ	belly-IN	np:g	np		g	5115	bridging
+tabasaran	work	0242	%	%	%	%				
+tabasaran	work	0243	#	#	#cv	#cv				
+tabasaran	work	0243	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0243	du-k’-u	PFV-<HSG>kill-PCVB	v:pred	v		pred		
+tabasaran	work	0243	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	work	0243	admi	man(ABS)	np.h:p	np	h	p	5020	
+tabasaran	work	0243	%	%	%	%				
+tabasaran	work	0243	#	#	#cv	#cv				
+tabasaran	work	0243	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0243	ha-dmu	EMPH-3.P(ABS)	ln_dem	ln_dem				
+tabasaran	work	0243	devlet	wealth(ABS)	np:p	np		p	5053	
+tabasaran	work	0243	=ra	=ADD	=other	=other				
+tabasaran	work	0243	ʁada<b>ʁ-nu	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	work	0243	%	%	%	%				
+tabasaran	work	0243	#	#	#cv	#cv				
+tabasaran	work	0243	d-u<b>χ-nu	PFV-<NSG>bring-PCVB	v:pred	v		pred		
+tabasaran	work	0243	selim.ǯi	Selim(ERG)	pn_np.h:a_cv	pn_np	h	a_cv	5006	
+tabasaran	work	0243	a-ji-b-č’a	(IN)be-PTCP-NSG-COMP	np:p	np		p	5116	new
+tabasaran	work	0243	uǯu-dar	good-PL	rn_adj	rn_adj				
+tabasaran	work	0243	%	%	%	%				
+tabasaran	work	0243	#	#	#cv	#cv				
+tabasaran	work	0243	0	0_Selim	0.h:a_cv	0	h	a_cv	5006	
+tabasaran	work	0243	fi	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	work	0243	=ra	=ADD	=other	=other				
+tabasaran	work	0243	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	work	0243	χʷl.a	house(IN)	np:l	np		l	5035	
+tabasaran	work	0243	=ra	=ADD	=other	=other				
+tabasaran	work	0243	%	%	%	%				
+tabasaran	work	0243	jis̊.a	place(IN)	np:l	np		l	5035	
+tabasaran	work	0243	=ra	=ADD	=other	=other				
+tabasaran	work	0243	0	0_Selim	0.h:s_cp	0	h	s_cp	5006	
+tabasaran	work	0243	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	work	0243	dulanmiš	live	other:lvc	other		lvc		
+tabasaran	work	0243	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	work	0244	#	#	##	##				
+tabasaran	work	0244	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other		
+tabasaran	work	0244	laˤχn-ar	work-PL(ABS)	np:s	np		s		
+tabasaran	work	0244	u	COP	v:predex	v		predex		

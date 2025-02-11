@@ -1,0 +1,1032 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tabasaran	belt	0001	#	#	##	##				
+tabasaran	belt	0001	q’uˁ-r	two-HSG	ln_num	ln_num				
+tabasaran	belt	0001	dustː	friend(ABS)	np.h:s	np	h	s	1002	new
+tabasaran	belt	0001	a-x-nu	PFV-HSG-become-PST	v:predex	v		predex		
+tabasaran	belt	0002	#	#	##	##				
+tabasaran	belt	0002	sa-r	one-HSG	np.h:s	np	h	s	1003	bridging
+tabasaran	belt	0002	maz̊gli-ʔin	Mezhgul-SUPER	pn_np:pred_l	pn_np		pred_l	1004	new
+tabasaran	belt	0002	#	#	##	##				
+tabasaran	belt	0002	sa-r-sa	one-HSG-else	np.h:s	np	h	s	1005	bridging
+tabasaran	belt	0002	=na	=ADD	=other	=other				
+tabasaran	belt	0002	a-x-nu	PFV-HSG-become-PST	v:pred	v		pred		
+tabasaran	belt	0002	ʁaˁrac’an.ǯi	Qaratsan(IN)	pn_np:l	pn_np		l	1006	new
+tabasaran	belt	0003	#	#	##	##				
+tabasaran	belt	0003	maz̊gli-ʔin	Mezhgul-SUPER	ln_pn_np	ln_pn_np			1004	
+tabasaran	belt	0003	al-i-r.i-n	(SUPER)be-PTCP-HSG-GEN	ln	ln				
+tabasaran	belt	0003	c̊ur	name(ABS)	np:s	np		s		
+tabasaran	belt	0003	vu	COP	cop	cop				
+tabasaran	belt	0003	nüraˤli	Nurali	pn_np:pred	pn_np		pred	1003	
+tabasaran	belt	0003	#	#	##	##				
+tabasaran	belt	0003	ʁaˁrac’an.ǯi	Qaratsan(IN)	ln_pn_np	ln_pn_np			1006	
+tabasaran	belt	0003	a-ji-r.i-n	(IN)be-PTCP-HSG-GEN	ln	ln				
+tabasaran	belt	0003	0	0_name	0:s	0		s		
+tabasaran	belt	0003	rabadan	Rabadan	pn_np:pred	pn_np		pred	1005	
+tabasaran	belt	0004	#	#	##	##				
+tabasaran	belt	0004	mur-ar	PROX(ABS)-PL	dem_pro.h:s	dem_pro	h	s	1002	
+tabasaran	belt	0004	#	#	#rc_pc	#rc_pc				
+tabasaran	belt	0004	0	0_friends	rel_f0.h:s_cp_pc	rel_f0	h	s_cp_pc		
+tabasaran	belt	0004	lap	very	lv	lv				
+tabasaran	belt	0004	juk’ʷ	heart	other:lvc	other		lvc		
+tabasaran	belt	0004	al-i	(SUPER)be-PTCP	v:pred	v		pred		
+tabasaran	belt	0004	%	%	%	%				
+tabasaran	belt	0004	dustː-ar	friend(ABS)-PL	np.h:pred	np	h	pred		
+tabasaran	belt	0004	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	belt	0004	a-x-nu	PFV-HSG-become-PST	rv_aux	rv_aux				
+tabasaran	belt	0005	#	#	##	##				
+tabasaran	belt	0005	#	#	#cv	#cv				
+tabasaran	belt	0005	0	0_friends	0.h:s_cv	0	h	s_cv	1002	
+tabasaran	belt	0005	sa-r	one-HSG	refl.h:obl	refl	h	obl	1002	
+tabasaran	belt	0005	sa-r.i-x-na	one-HSG-APUD-LAT	rn	rn				
+tabasaran	belt	0005	ʁuˁ-ri	go-ICVB	v:pred	v		pred		
+tabasaran	belt	0005	aˁ-ri	come-ICVB	rv_v	rv_v				
+tabasaran	belt	0005	%	%	%	%				
+tabasaran	belt	0005	#	#	#cv	#cv				
+tabasaran	belt	0005	0	0_friends	0.h:a_cp_cv	0	h	a_cp_cv	1002	
+tabasaran	belt	0005	χaˁluz̊-val	host-ABSTR(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0005	ap’u-ri	do-ICVB	v:pred	v		pred		
+tabasaran	belt	0005	%	%	%	%				
+tabasaran	belt	0005	#	#	#cv	#cv				
+tabasaran	belt	0005	0	0_friends	0.h:a_cp_cv	0	h	a_cp_cv	1002	
+tabasaran	belt	0005	a-ji-b	(IN)be-PTCP-N(ABS)	np:p	np		p		
+tabasaran	belt	0005	paj	part	other:lvc	other		lvc		
+tabasaran	belt	0005	ap’u-ri	do-ICVB	v:pred	v		pred		
+tabasaran	belt	0005	%	%	%	%				
+tabasaran	belt	0005	#	#	#cv	#cv				
+tabasaran	belt	0005	0	0_friends	0.h:a_cp_cv	0	h	a_cp_cv	1002	
+tabasaran	belt	0005	huˁrmat	respect(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0005	ap’u-ri	do-ICVB	v:pred	v		pred		
+tabasaran	belt	0005	%	%	%	%				
+tabasaran	belt	0005	#	#	#cv	#cv				
+tabasaran	belt	0005	0	0_friends	0.h:s_cp_cv	0	h	s_cp_cv	1002	
+tabasaran	belt	0005	sa-r	one-HSG	refl.h:obl	refl	h	obl	1002	
+tabasaran	belt	0005	sa-r.i-q-ǯi	one-HSG-POST-DIR	rn	rn				
+tabasaran	belt	0005	dus-ri	<HSG>seat-ICVB	v:pred	v		pred		
+tabasaran	belt	0005	ʁuduʒ̊u-ri	<HSG>stand_up-ICVB	rv_v	rv_v				
+tabasaran	belt	0005	%	%	%	%				
+tabasaran	belt	0005	0	0_friends	0.h:s	0	h	s	1002	
+tabasaran	belt	0005	#	#	#rc_pc	#rc_pc				
+tabasaran	belt	0005	0	0_friends	0.h:s_cp_pc	0	h	s_cp_pc		
+tabasaran	belt	0005	gizaf	many	ln	ln				
+tabasaran	belt	0005	uǯu-dar	good-PL	ln	ln				
+tabasaran	belt	0005	juk’ʷ	heart(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0005	al-i	(SUPER)be-PTCP	v:pred	v		pred		
+tabasaran	belt	0005	%	%	%	%				
+tabasaran	belt	0005	dustː-ar	friend(ABS)-PL	np.h:pred	np	h	pred		
+tabasaran	belt	0005	vu-ǯi	COP-ICVB	cop	cop				
+tabasaran	belt	0005	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	belt	0006	#	#	#pc	#pc				
+tabasaran	belt	0006	ha-cːi-b	EMPH-DIST+ADV-N	other:pred_other	other		pred_other		
+tabasaran	belt	0006	vaχtː	time(ABS)	np:s_pc	np		s_pc		
+tabasaran	belt	0006	vu-ji	COP-PTCP	cop	cop				
+tabasaran	belt	0007	#	#	##	##				
+tabasaran	belt	0007	sa-b	one-N	ln_num	ln_num				
+tabasaran	belt	0007	vaχt-na	time-TEMP	np:other	np		other		
+tabasaran	belt	0007	maz̊gl-ar.i	Mezhgul-PL(ERG)	np.h:a	np	h	a	1007	bridging
+tabasaran	belt	0007	nüraˤli	Nurali(ABS)	pn_np.h:p	pn_np	h	p	1003	
+tabasaran	belt	0007	ktaʁ-uru	<HSG>choose-FUT	v:pred	v		pred		
+tabasaran	belt	0007	zamina	reliable	ln_adj	ln_adj				
+tabasaran	belt	0007	ʁaravul.ǯi	guard(ERG)	np.h:obl	np	h	obl		
+tabasaran	belt	0007	ʁul.a-n	village-GEN	rn_np:poss	rn_np		poss	1004	
+tabasaran	belt	0008	#	#	#nc	#nc				
+tabasaran	belt	0008	zamina	reliable	nc	nc				
+tabasaran	belt	0008	ʁaravul	guard(ABS)	nc	nc				
+tabasaran	belt	0008	ʁa-pi-gan	PFV-say-TEMP	nc	nc				
+tabasaran	belt	0008	značit	that_is	nc	nc				
+tabasaran	belt	0008	ha-mu	EMPH-PROX(ABS)	nc	nc				
+tabasaran	belt	0008	ʁul.a-n	village-GEN	nc	nc				
+tabasaran	belt	0008	vari	all	nc	nc				
+tabasaran	belt	0008	har	each	nc	nc				
+tabasaran	belt	0008	sa-b	one-N	nc	nc				
+tabasaran	belt	0008	χl.a	house(IN)	nc	nc				
+tabasaran	belt	0008	a-ji	(IN)be-IPFV	nc	nc				
+tabasaran	belt	0008	značit	that_is	nc	nc				
+tabasaran	belt	0008	šej.na-n	thing-GEN	nc	nc				
+tabasaran	belt	0008	ejsi-val	owner-ABSTR(ABS)	nc	nc				
+tabasaran	belt	0008	ap’-uru	do-FUT	nc	nc				
+tabasaran	belt	0008	uduq’r-uru	<HSG>manage-FUT	nc	nc				
+tabasaran	belt	0008	du-p-nu	PFV-say-PCVB	nc	nc				
+tabasaran	belt	0008	#	#	##	##				
+tabasaran	belt	0008	0	0_villagers	0.h:a	0	h	a	1007	
+tabasaran	belt	0008	nüräli-k-an	Nuriali-CONT-ELAT	pn_np.h:obl	pn_np	h	obl	1003	
+tabasaran	belt	0008	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	belt	0008	zamina	reliable	ln_adj	ln_adj				
+tabasaran	belt	0008	ʁaravul	guard(ABS)	np.h:p	np	h	p		
+tabasaran	belt	0009	#	#	##	##				
+tabasaran	belt	0009	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	belt	0009	vaχtː-na	time-TEMP	np:other	np		other		
+tabasaran	belt	0009	značit	that_is	other	other				
+tabasaran	belt	0009	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	belt	0009	ʁul.a-ʔ	village-IN	np:l	np		l	1004	
+tabasaran	belt	0009	šul-u	become-FUT	v:predex	v		predex		
+tabasaran	belt	0009	sa-b	one-N	ln_num	ln_num				
+tabasaran	belt	0009	haˁdisa	incident(ABS)	np:s	np		s		
+tabasaran	belt	0010	#	#	##	##				
+tabasaran	belt	0010	#	#	#cv	#cv				
+tabasaran	belt	0010	#	#	#rc_pc	#rc_pc				
+tabasaran	belt	0010	ʁaˁrac’an.ǯi-z	Qaratsan-DAT	pn_np.h:g	pn_np	h	g	1006	
+tabasaran	belt	0010	#	#	#cc_in	#cc_in				
+tabasaran	belt	0010	0	0_Shaban	f0.h:s_in	f0	h	s_in	1008	new
+tabasaran	belt	0010	liχu-z	work-INF	vother:pred	vother		pred		
+tabasaran	belt	0010	%	%	%	%				
+tabasaran	belt	0010	0	0_Shaban	rel_f0.h:s_pc	rel_f0	h	s_pc	1008	
+tabasaran	belt	0010	ʁ-uš-u	PFV-<HSG>go-PTCP	v:pred	v		pred		
+tabasaran	belt	0010	%	%	%	%				
+tabasaran	belt	0010	ʁulandar.i	village_inhabitant(ERG)	np.h:a_cv	np	h	a_cv	1008	
+tabasaran	belt	0010	šaˁjb.nu	Shaban(ERG)	pn_np.h:appos	pn_np	h	appos	1008	
+tabasaran	belt	0010	rabadan.ǯi-n	Rabadan-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss	1005	
+tabasaran	belt	0010	χpːir.i-n	wife-GEN	ln_np.h:poss	ln_np	h	poss	1009	new
+tabasaran	belt	0010	kamar	silver_belt(ABS)	np:p	np		p	1010	new
+tabasaran	belt	0010	hiči<b>k’-nu	<N>steal-PCVB	v:pred	v		pred		
+tabasaran	belt	0010	%	%	%	%				
+tabasaran	belt	0010	0	0_Shaban	0.h:s	0	h	s	1008	
+tabasaran	belt	0010	ʁuˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	belt	0010	ha-t-l-in	EMPH-DIST-SUPER-ELAT	dem_pro:obl	dem_pro		obl	1006	
+tabasaran	belt	0011	#	#	##	##				
+tabasaran	belt	0011	#	#	#ac_pc	#ac_pc				
+tabasaran	belt	0011	0	0_Shaban	0.h:s_pc	0	h	s_pc	1008	
+tabasaran	belt	0011	ʁa-f-i-ge	PFV-come-TEMP	v:pred	v		pred		
+tabasaran	belt	0011	%	%	%	%				
+tabasaran	belt	0011	#	#	#cv	#cv				
+tabasaran	belt	0011	0	0_Shaban	0.h:a_cv	0	h	a_cv	1008	
+tabasaran	belt	0011	kamar	silver_belt(ABS)	np:p	np		p	1010	
+tabasaran	belt	0011	hiči<b>k’-nu	<N>steal-PCVB	v:pred	v		pred		
+tabasaran	belt	0011	%	%	%	%				
+tabasaran	belt	0011	#	#	#cv.neg	#cv.neg				
+tabasaran	belt	0011	0	0_Shaban	0.h:s_cv	0	h	s_cv	1008	
+tabasaran	belt	0011	sa-r.i-z	one-HSG-DAT	indef_other.h:g	indef_other	h	g		
+tabasaran	belt	0011	=k’a	=PRT	=other	=other				
+tabasaran	belt	0011	dar-pi-ǯi	NEG-say-ICVB	v:pred	v		pred		
+tabasaran	belt	0011	%	%	%	%				
+tabasaran	belt	0011	#	#	#cv	#cv				
+tabasaran	belt	0011	muvu	PROX(ERG)	dem_pro.h:a_cv	dem_pro	h	a_cv	1008	
+tabasaran	belt	0011	ǯini-ǯi.ʁit-u	secret-ADV	other	other				
+tabasaran	belt	0011	ča-n	leave-PCVB	v:pred	v		pred		
+tabasaran	belt	0011	%	%	%	%				
+tabasaran	belt	0011	0	0_Shaban	0.h:a	0	h	a	1008	
+tabasaran	belt	0011	χl.a	self-GEN	ln_refl.h:poss	ln_refl	h	poss	1008	
+tabasaran	belt	0011	uˁ<b>χ	house(IN)	np:l	np		l	1011	bridging
+tabasaran	belt	0011	0	0_belt	0:p	0		p	1010	
+tabasaran	belt	0011	uˁ-ra-ǯi	<N>keep-PRS-ICVB	v:pred	v		pred		
+tabasaran	belt	0011	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	belt	0012	#	#	##neg	##neg				
+tabasaran	belt	0012	rabadan.ǯi-z	Rabadan-DAT	pn_np.h:ncs_cp	pn_np	h	ncs_cp	1005	
+tabasaran	belt	0012	χabar	news(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0012	šul-dar	become-(PRS)NEG	v:pred	v		pred		
+tabasaran	belt	0012	q’an.a-z	late-DAT	other	other				
+tabasaran	belt	0013	#	#	#nc	#nc				
+tabasaran	belt	0013	qa	then	nc	nc				
+tabasaran	belt	0013	ligu	<HSG>look	nc	nc				
+tabasaran	belt	0013	#	#	##	##				
+tabasaran	belt	0013	#	#	#rc_pc	#rc_pc				
+tabasaran	belt	0013	sa-b	one-N	ln_num	ln_num				
+tabasaran	belt	0013	vaχtː-na	time-TEMP	np:other	np		other		
+tabasaran	belt	0013	0	0_Rabadan	0.h:ncs_cp_pc	0	h	ncs_cp_pc	1005	
+tabasaran	belt	0013	χabar	news(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0013	a-b-x-i	PFV-N-become-PTCP	v:pred	v		pred		
+tabasaran	belt	0013	%	%	%	%				
+tabasaran	belt	0013	rabadan	Rabadan(ABS)	pn_np.h:s	pn_np	h	s	1005	
+tabasaran	belt	0013	lig-uru	<HSG>look-FUT	v:pred	v		pred		
+tabasaran	belt	0013	#	#	##	##				
+tabasaran	belt	0013	0	0_Rabadan	0.h:a_cp	0	h	a_cp	1005	
+tabasaran	belt	0013	fikir	think(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0013	ap’u-ru	do-FUT	v:pred	v		pred		
+tabasaran	belt	0013	#	#	#cc:p	#cc		p		
+tabasaran	belt	0013	fuž	who(ABS)	intrg_other.h:pred	intrg_other	h	pred		
+tabasaran	belt	0013	u	COP	cop	cop				
+tabasaran	belt	0013	#	#	#rc:s	#rc		s		
+tabasaran	belt	0013	0	0_who	rel_f0.h:a	rel_f0	h	a		
+tabasaran	belt	0013	kamar	silver_belt(ABS)	np:p	np		p	1010	
+tabasaran	belt	0013	hič’i<b>k’u-ru	<N>steal-FUT	v:pred	v		pred		
+tabasaran	belt	0013	#	#	##	##				
+tabasaran	belt	0013	šli-x-a	who-APUD-ELAT	intrg_other.h:ncs	intrg_other	h	ncs		
+tabasaran	belt	0013	ap’u-z	do-INF	v:pred	v		pred		
+tabasaran	belt	0013	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	belt	0013	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	belt	0013	laˁχin	work(ABS)	np:p	np		p	1012	bridging
+tabasaran	belt	0014	#	#	##	##				
+tabasaran	belt	0014	aˁχir	finally	other	other				
+tabasaran	belt	0014	rabadan	Rabadan(ABS)	pn_np.h:s_cp	pn_np	h	s_cp	1005	
+tabasaran	belt	0014	ʁav.ri	consciousness(IN)	other:lvc	other		lvc		
+tabasaran	belt	0014	aq-ru	<HSG>fall-FUT	v:pred	v		pred		
+tabasaran	belt	0015	#	#	##	##				
+tabasaran	belt	0015	vallah	wallah	other	other				
+tabasaran	belt	0015	0	0_Rabadan	0.h:a_ds	0	h	a_ds	1005	
+tabasaran	belt	0015	k’u-ru	say-FUT	v:pred	v		pred		
+tabasaran	belt	0015	#	#	##ds	##ds				
+tabasaran	belt	0015	mu	PROX(ABS)	dem_pro:p	dem_pro		p	1012	
+tabasaran	belt	0015	šl.i-vuš	who(ERG)-INDEF	indef_other.h:a	indef_other	h	a		
+tabasaran	belt	0015	=ra	=ADD	=other	=other				
+tabasaran	belt	0015	ʁ-ap’-nu	PFV-do-PST	v:pred	v		pred		
+tabasaran	belt	0015	=ki	=PRT	=rv	=rv				
+tabasaran	belt	0015	#	#	##ds	##ds				
+tabasaran	belt	0015	maz̊gl-ar.i	Mezhgul-PL(ERG)	pn_np.h:a	pn_np	h	a	1007	
+tabasaran	belt	0015	0	0_deed	0:p	0		p	1012	
+tabasaran	belt	0015	ʁ-ap’-nu	PFV-do-PST	v:pred	v		pred		
+tabasaran	belt	0016	#	#	#nc	#nc				
+tabasaran	belt	0016	χabar	news(ABS)	nc	nc				
+tabasaran	belt	0016	naʔna	where	nc	nc				
+tabasaran	belt	0016	χabar	news(ABS)	nc	nc				
+tabasaran	belt	0016	značit	that_is	nc	nc				
+tabasaran	belt	0016	maz̊gl-ar.i-k-an	Mezhgul-PL-CONT-ELAT	nc_np.h	nc_np	h		1007	
+tabasaran	belt	0017	#	#	##	##				
+tabasaran	belt	0017	qa	then	other	other				
+tabasaran	belt	0017	=na	=ADD	=other	=other				
+tabasaran	belt	0017	#	#	#cv	#cv				
+tabasaran	belt	0017	0	0_Bachan	0.h:s_cv	0	h	s_cv	1013	new
+tabasaran	belt	0017	ʁaˁrac’an.ǯi-z	Qaratsan-DAT	pn_np:g	pn_np		g	1006	
+tabasaran	belt	0017	#	#	#ac_in	#ac_in				
+tabasaran	belt	0017	0	0_Bachan	f0.h:s_in	f0	h	s_in	1013	
+tabasaran	belt	0017	liχu-z	work-INF	v:pred	v		pred		
+tabasaran	belt	0017	%	%	%	%				
+tabasaran	belt	0017	ʁ-uš-u	PFV-<HSG>go-PCVB	vother:pred	vother		pred		
+tabasaran	belt	0017	%	%	%	%				
+tabasaran	belt	0017	ʁaˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	belt	0017	bačan	Bachan(ABS)	pn_np.h:s	pn_np	h	s	1013	
+tabasaran	belt	0018	#	#	##	##				
+tabasaran	belt	0018	#	#	#rc_pc	#rc_pc				
+tabasaran	belt	0018	0	0_Bachan	rel_f0.h:s_pc	rel_f0	h	s_pc	1013	
+tabasaran	belt	0018	ʁ-uš-u	PFV-<HSG>go-PFV.PTCP	v:pred	v		pred		
+tabasaran	belt	0018	%	%	%	%				
+tabasaran	belt	0018	bačn.a-z	Bachan-DAT	pn_np.h:g	pn_np	h	g	1013	
+tabasaran	belt	0018	k’ur-u	say-FUT	v:pred	v		pred		
+tabasaran	belt	0018	rabadan.ǯi	Rabadan(ERG)	pn_np.h:a_ds	pn_np	h	a_ds	1005	
+tabasaran	belt	0018	#	#	#nc	#nc				
+tabasaran	belt	0018	ma	PRT	nc	nc				
+tabasaran	belt	0018	uvu-z	you-DAT	nc_dem_pro.h	nc_dem_pro	h		1013	
+tabasaran	belt	0018	pul	money(ABS)	nc_np	nc_np				
+tabasaran	belt	0018	#	#	##ds.neg	##ds.neg				
+tabasaran	belt	0018	#	#	#ds_cc_pc:s	#ds_cc_pc		s		
+tabasaran	belt	0018	uvu	you(ABS)	pro.2:s_pc	pro	2	s_pc	1013	
+tabasaran	belt	0018	ʁi-liχ-u-b	PFV-work-PTCP-N	v:pred	v		pred		
+tabasaran	belt	0018	%	%	%	%				
+tabasaran	belt	0018	gerek	necessary	other:pred	other		pred		
+tabasaran	belt	0018	a-dar	(IN)be-NEG	cop	cop				
+tabasaran	belt	0019	#	#	##ds	##ds				
+tabasaran	belt	0019	0	0_Bachan	0.2:s	0	2	s	1013	
+tabasaran	belt	0019	ʁaraχ	go(IMP)	v:pred	v		pred		
+tabasaran	belt	0019	ʁul.a-z	village-DAT	np:g	np		g	1004	
+tabasaran	belt	0019	#	#	##ds	##ds				
+tabasaran	belt	0019	ha-m-cːi-b	EMPH-PROX-ADV-N	ln	ln				
+tabasaran	belt	0019	kamar	silver_belt(ABS)	np:s	np		s	1010	
+tabasaran	belt	0019	du-du<b>g-na	PFV-<NSG>lose-RES	v:pred	v		pred		
+tabasaran	belt	0019	#	#	##ds	##ds				
+tabasaran	belt	0019	#	#	#ds_cv	#ds_cv				
+tabasaran	belt	0019	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	belt	0019	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	belt	0019	kamar	silver_belt(ABS)	np:s	np		s	1010	
+tabasaran	belt	0019	šl.i-n	who-GEN	ln_intrg_other.h:poss	ln_intrg_other	h	poss		
+tabasaran	belt	0019	χʷl.a	house(IN)	np:pred_l	np		pred_l	1014	bridging
+tabasaran	belt	0019	a-ǯa-š	(IN)be-PRS-COND	cop	cop				
+tabasaran	belt	0019	%	%	%	%				
+tabasaran	belt	0019	#	#	#ds_cc:other	#ds_cc		other		
+tabasaran	belt	0019	šl.i	who(ERG)	intrg_other.h:a	intrg_other	h	a		
+tabasaran	belt	0019	0	0_belt	0:p	0		p	1010	
+tabasaran	belt	0019	hič’i<b>k’-nu-š	<NSG>steal-PST-COND	v:pred	v		pred		
+tabasaran	belt	0019	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0019	%	%	%	%				
+tabasaran	belt	0019	#	#	#ds_cc:other	#ds_cc		other		
+tabasaran	belt	0019	ha-mrar.i-k-a	EMPH-PROX(PL)-CONT-ELAT	dem_pro:s	dem_pro		s	1010	
+tabasaran	belt	0019	šl.i-n	who-GEN	ln_intrg_other.h:poss	ln_intrg_other	h	poss		
+tabasaran	belt	0019	χʷl.a	house(IN)	np:pred_l	np		pred_l	1014	
+tabasaran	belt	0019	a-ǯa-š	(IN)be-PRS-COND	cop	cop				
+tabasaran	belt	0019	%	%	%	%				
+tabasaran	belt	0019	0	0_Bachan	0.2:a_cp_cv	0	2	a_cp_cv	1013	
+tabasaran	belt	0019	aˁʁuˁ	know	other:lvc	other		lvc		
+tabasaran	belt	0019	d-ap’-nu	PFV-do-PCVB	v:pred	v		pred		
+tabasaran	belt	0019	%	%	%	%				
+tabasaran	belt	0019	0	0_Bachan	0.2:a	0	2	a	1013	
+tabasaran	belt	0019	uzu-z	I-DAT	pro.1:g	pro	1	g	1005	
+tabasaran	belt	0019	χabar	news(ABS)	np:p	np		p		
+tabasaran	belt	0019	tuv	give(IMP)	v:pred	v		pred		
+tabasaran	belt	0020	#	#	#nc	#nc				
+tabasaran	belt	0020	0	0_Bachan	nc_0.2	nc_0	2		1013	
+tabasaran	belt	0020	aχtːarmiš	check	nc	nc				
+tabasaran	belt	0020	ap’-i	do-IMP	nc	nc				
+tabasaran	belt	0021	#	#	##ds	##ds				
+tabasaran	belt	0021	0	0_Bachan	0.2:s_cp	0	2	s_cp	1013	
+tabasaran	belt	0021	aχtːarmiš	check	other:lvc	other		lvc		
+tabasaran	belt	0021	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	belt	0022	#	#	##	##				
+tabasaran	belt	0022	a-f-nu	PFV-come-PST	v:pred	v		pred		
+tabasaran	belt	0022	bačan	Bachan	pn_np.h:s	pn_np	h	s	1013	
+tabasaran	belt	0023	#	#	##	##				
+tabasaran	belt	0023	jiʁ-ar.i-k-an	day-PL-CONT-ELAT	np:other	np		other		
+tabasaran	belt	0023	sa-d	one-NSG	ln_num	ln_num				
+tabasaran	belt	0023	jiʁ.a-n	day-GEN	np:other	np		other		
+tabasaran	belt	0023	šul-u	become-FUT	v:predex	v		predex		
+tabasaran	belt	0023	ʁul.a	village(IN)	np:l	np		l	1004	
+tabasaran	belt	0023	sumčir	wedding(ABS)	np:s	np		s	1015	new
+tabasaran	belt	0024	#	#	##	##				
+tabasaran	belt	0024	#	#	#ac	#ac				
+tabasaran	belt	0024	sumčir	wedding(ABS)	np:s	np		s	1015	
+tabasaran	belt	0024	a-b-x-i-gan	PFV-NSG-become-TEMP	v:predex	v		predex		
+tabasaran	belt	0024	%	%	%	%				
+tabasaran	belt	0024	fu	what	intrg_other:p	intrg_other		p		
+tabasaran	belt	0024	0	0_you	0.2:a	0	2	a		
+tabasaran	belt	0024	lig-ur	<NSG>look-FUT	v:pred	v		pred		
+tabasaran	belt	0024	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	belt	0024	#	#	##	##				
+tabasaran	belt	0024	#	#	#cv	#cv				
+tabasaran	belt	0024	šaˤjb.na-n	Shaban-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss	1008	
+tabasaran	belt	0024	χpːir	wife(ABS)	np.h:a	np	h	a	1016	new
+tabasaran	belt	0024	idi<b>t’-u	<NSG>tie_on-PCVB	v:pred	v		pred		
+tabasaran	belt	0024	kamar	belt(ABS)	np:p	np		p	1010	
+tabasaran	belt	0024	=a	=ADD	=rn	=rn				
+tabasaran	belt	0024	#	#	#rc_pc.neg:appos	#rc_pc.neg		appos		
+tabasaran	belt	0024	0	0_wife	rel_f0.h:ncs_poss_pc	rel_f0	h	ncs_poss_pc	1016	
+tabasaran	belt	0024	muk’a	much	other	other				
+tabasaran	belt	0024	gehnaz	up_until_now	other	other				
+tabasaran	belt	0024	zat’	thing(ABS)	np:p	np		p		
+tabasaran	belt	0024	a-dr-u	(IN)be-NEG-PTCP	v:pred	v		pred		
+tabasaran	belt	0024	%	%	%	%				
+tabasaran	belt	0024	#	#	#rc_pc.neg:appos	#rc_pc.neg		appos		
+tabasaran	belt	0024	0	0_wife	0.h:ncs_poss_pc	0	h	ncs_poss_pc	1016	
+tabasaran	belt	0024	uˁl	bread(ABS)	np:p	np		p	1017	new
+tabasaran	belt	0024	=q’a	=PRT	=other	=other				
+tabasaran	belt	0024	#	#	#cc_in	#cc_in				
+tabasaran	belt	0024	0	0_wife	f0.h:s_in	f0	h	s_in	1016	
+tabasaran	belt	0024	0	0_bread	0:p	0		p	1017	
+tabasaran	belt	0024	ip’-uz	<NSG>eat-INF	vother:pred	vother		pred		
+tabasaran	belt	0024	%	%	%	%				
+tabasaran	belt	0024	a-dr-u	(IN)be-NEG-PTCP	v:pred	v		pred		
+tabasaran	belt	0024	%	%	%	%				
+tabasaran	belt	0024	%	%	%	%				
+tabasaran	belt	0024	#	#	#cv	#cv				
+tabasaran	belt	0024	0	0_wife	0.h:a_cv	0	h	a_cv	1016	
+tabasaran	belt	0024	idi<b>t’-u	<NSG>tie_on-PCVB	v:pred	v		pred		
+tabasaran	belt	0024	kamar	belt(ABS)	np:p	np		p	1010	
+tabasaran	belt	0024	=a	=ADD	=other	=other				
+tabasaran	belt	0024	%	%	%	%				
+tabasaran	belt	0024	#	#	#cv	#cv				
+tabasaran	belt	0024	0	0_wife	0.h:s_cv	0	h	s_cv	1016	
+tabasaran	belt	0024	kabalč-nu	decorate-PCVB	v:pred	v		pred		
+tabasaran	belt	0024	%	%	%	%				
+tabasaran	belt	0024	značit	that_is	other	other				
+tabasaran	belt	0024	lap	very	other	other				
+tabasaran	belt	0024	χan.ǯi-n	khan-GEN	ln_np.h:poss	ln_np	h	poss		
+tabasaran	belt	0024	χpːir	wife	np.h:other	np	h	other		
+tabasaran	belt	0024	si	like	adp	adp				
+tabasaran	belt	0024	0	0_wife	0.h:s	0	h	s	1016	
+tabasaran	belt	0024	ʁuˁ-ru	go-FUT	v:pred	v		pred		
+tabasaran	belt	0024	mu	PROX(ATTR)	ln_dem	ln_dem				
+tabasaran	belt	0024	maˁrak.i-z	feast-DAT	np:g	np		g	1015	
+tabasaran	belt	0025	#	#	##	##				
+tabasaran	belt	0025	#	#	#ac_pc	#ac_pc				
+tabasaran	belt	0025	bačan	Bachan(ABS)	pn_np.h:s_cp_pc	pn_np	h	s_cp_pc	1013	
+tabasaran	belt	0025	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	belt	0025	laˁχn.i-k-a	work-CONT-ELAT	np:obl	np		obl		
+tabasaran	belt	0025	χabar	news(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0025	a-b-x-i-r	PFV-NSG-become-PTCP-HSG	v:pred	v		pred		
+tabasaran	belt	0025	%	%	%	%				
+tabasaran	belt	0025	0	0_Bachan	0.h:s	0	h	s	1013	
+tabasaran	belt	0025	diš	quick	other	other				
+tabasaran	belt	0025	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	belt	0025	ʁaˁrac’an.ǯi-z	Qaratsan-DAT	pn_np:g	pn_np		g	1006	
+tabasaran	belt	0026	#	#	##	##				
+tabasaran	belt	0026	#	#	#cv	#cv				
+tabasaran	belt	0026	0	0_Bachan	0.h:s_cv	0	h	s_cv	1013	
+tabasaran	belt	0026	d-uš-nu	PFV-<HSG>go-PCVB	v:pred	v		pred		
+tabasaran	belt	0026	%	%	%	%				
+tabasaran	belt	0026	0	0_Bachan	0.h:a	0	h	a	1013	
+tabasaran	belt	0026	χabar	news(ABS)	np:p	np		p		
+tabasaran	belt	0026	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	belt	0026	rabadan.ǯi-z	Rabadan-DAT	pn_np.h:g	pn_np	h	g	1005	
+tabasaran	belt	0027	#	#	##	##				
+tabasaran	belt	0027	rabadan	Rabadan	pn_np.h:voc	pn_np	h	voc	1005	
+tabasaran	belt	0027	0	0_Bachan	0.h:a_ds	0	h	a_ds	1013	
+tabasaran	belt	0027	k’-ur	say-FUT	v:pred	v		pred		
+tabasaran	belt	0027	#	#	##ds	##ds				
+tabasaran	belt	0027	kamar	belt(ABS)	np:s	np		s	1010	
+tabasaran	belt	0027	flan-ur.i-n	such-HSG-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	1008	
+tabasaran	belt	0027	χʷl.a	house(IN)	np:pred_l	np		pred_l	1011	
+tabasaran	belt	0027	a-ǯa	(IN)be-PRS	cop	cop				
+tabasaran	belt	0028	#	#	##ds.neg	##ds.neg				
+tabasaran	belt	0028	sarun	PRT	other	other				
+tabasaran	belt	0028	uzu-z	I-DAT	pro.1:ncs	pro	1	ncs	1005	
+tabasaran	belt	0028	uvu	you	pro.2:p	pro	2	p	1013	
+tabasaran	belt	0028	aˁj-da	know-NEG(PRS)	v:pred	v		pred		
+tabasaran	belt	0028	=zu-z	=1SG-DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	belt	0028	#	#	##ds.neg	##ds.neg				
+tabasaran	belt	0028	uvu-z	2SG-DAT	pro.2:ncs	pro	2	ncs	1013	
+tabasaran	belt	0028	=ra	=ADD	=other	=other				
+tabasaran	belt	0028	uzu	I	pro.1:p	pro	1	p	1005	
+tabasaran	belt	0028	aˁj-dar	know-NEG(PRS)	v:pred	v		pred		
+tabasaran	belt	0028	=u-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
+tabasaran	belt	0028	fsʲo	that's_it	other	other				
+tabasaran	belt	0029	#	#	##	##				
+tabasaran	belt	0029	#	#	#cv	#cv				
+tabasaran	belt	0029	0	0_Rabadan	0.h:s_cv	0	h	s_cv	1005	
+tabasaran	belt	0029	ha-m-cːi	EMPH-PROX-ADV	other	other				
+tabasaran	belt	0029	du-p-nu	PFV-say-PCVB	v:pred	v		pred		
+tabasaran	belt	0029	%	%	%	%				
+tabasaran	belt	0029	bačan	Bachan(ABS)	pn_np.h:s	pn_np	h	s	1013	
+tabasaran	belt	0029	qada<r>q’n-u	<HSG>return-PCVB	v:pred	v		pred		
+tabasaran	belt	0029	ʁuˁ-ru	go-FUT	rv_v	rv_v				
+tabasaran	belt	0030	#	#	##	##				
+tabasaran	belt	0030	#	#	#rc_pc	#rc_pc				
+tabasaran	belt	0030	0	0_Rabadan	rel_f0.h:ncs_cp	rel_f0	h	ncs_cp	1005	
+tabasaran	belt	0030	χabar	news(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0030	a-b-x-i	PFV-NSG-become-PTCP	v:pred	v		pred		
+tabasaran	belt	0030	%	%	%	%				
+tabasaran	belt	0030	rabadan	Rabadan(ABS)	pn_np.h:s	pn_np	h	s	1005	
+tabasaran	belt	0030	jiʁ-ar.i-k-an	day-PL-CONT-ELAT	np:other	np		other		
+tabasaran	belt	0030	sa-d	one-NSG	ln_num	ln_num				
+tabasaran	belt	0030	jiʁ.a-n	day-GEN	np:other	np		other		
+tabasaran	belt	0030	ʁuˁ-ru	come-FUT	v:pred	v		pred		
+tabasaran	belt	0030	maz̊gl-ar.i-n	Mezhgul-PL-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss	1007	
+tabasaran	belt	0030	ʁul.a-z	village-DAT	np:g	np		g	1004	
+tabasaran	belt	0031	#	#	##	##				
+tabasaran	belt	0031	#	#	#cv.neg	#cv.neg				
+tabasaran	belt	0031	qaˁbaˁq-ǯi	evening-ADV	np:other	np		other		
+tabasaran	belt	0031	sa-r.i-z	one-HSG-DAT	dem_pro.h:ncs_poss_cv	dem_pro	h	ncs_poss_cv	1005	
+tabasaran	belt	0031	=q’a	=PRT	=other	=other				
+tabasaran	belt	0031	χabar	news(ABS)	np:p	np		p		
+tabasaran	belt	0031	a-dar-ǯi	(IN)be-NEG-ICVB	v:pred	v		pred		
+tabasaran	belt	0031	%	%	%	%				
+tabasaran	belt	0031	#	#	#cv	#cv				
+tabasaran	belt	0031	0	0_Rabadan	0.h:s_cv	0	h	s_cv	1005	
+tabasaran	belt	0031	du-f-nu	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	belt	0031	%	%	%	%				
+tabasaran	belt	0031	0	0_Rabadan	0.h:s	0	h	s	1005	
+tabasaran	belt	0031	dus-ru	<HSG>sit-FUT	v:pred	v		pred		
+tabasaran	belt	0031	šaˁjbn.a-n	Shaban-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss	1008	
+tabasaran	belt	0031	umbr-ar.i-n	stair-PL-GEN	ln_np:poss	ln_np		poss	1018	bridging
+tabasaran	belt	0031	k’an.a	bottom(IN)	np:l	np		l	1019	bridging
+tabasaran	belt	0032	#	#	#nc	#nc				
+tabasaran	belt	0032	hamus	now	nc	nc				
+tabasaran	belt	0032	šaˤjban	Shaban(ABS)	nc_pn_np.h	nc_pn_np	h		1008	
+tabasaran	belt	0032	uduc̊’-iš	<HSG>go_out-COND	nc	nc				
+tabasaran	belt	0033	#	#	#nc	#nc				
+tabasaran	belt	0033	ha-mu	EMPH-PROX(ABS)	nc_dem_pro.h	nc_dem_pro	h			
+tabasaran	belt	0033	ča-n	REFL-GEN	nc_refl.h	nc_refl	h			
+tabasaran	belt	0033	χanuk.ri-n	friend-GEN	nc_np.h	nc_np	h			
+tabasaran	belt	0034	#	#	#nc	#nc				
+tabasaran	belt	0034	ov	yes	nc	nc				
+tabasaran	belt	0034	ha-mu	EMPH-PROX(ABS)	nc_dem_pro.h	nc_dem_pro	h		1005	
+tabasaran	belt	0034	ča-q	REFL-POST	nc_refl.h	nc_refl	h		1005	
+tabasaran	belt	0034	#	#	#nc	#nc				
+tabasaran	belt	0034	0	0_Bachan	nc_0.h	nc_0	h		1013	
+tabasaran	belt	0034	liχu-z	work-INF	nc	nc				
+tabasaran	belt	0034	%	%	%	%				
+tabasaran	belt	0034	0	0_Bachan	nc_0.h	nc_0	h		1013	
+tabasaran	belt	0034	ʁa-f-i-r	PFV-come-PTCP-HSG	nc	nc				
+tabasaran	belt	0034	u	COP	nc	nc				
+tabasaran	belt	0035	#	#	#nc	#nc				
+tabasaran	belt	0035	ha	INTERJ	nc	nc				
+tabasaran	belt	0035	liχu-z	work-INF	nc	nc				
+tabasaran	belt	0035	ʁa-f-i-r	PFV-come-PTCP-HSG	nc	nc				
+tabasaran	belt	0036	#	#	##	##				
+tabasaran	belt	0036	ov	yes	nc	nc				
+tabasaran	belt	0036	0	0_Rabadan	0.h:s	0	h	s	1005	
+tabasaran	belt	0036	ha-va-n	EMPH-PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	1008	
+tabasaran	belt	0036	umbr-ar.i-n	stair-PL-GEN	ln_np:poss	ln_np		poss	1018	
+tabasaran	belt	0036	k’ana	bottom(IN)	np:l	np		l	1019	
+tabasaran	belt	0036	dus-ru	<HSG>sit-FUT	v:pred	v		pred		
+tabasaran	belt	0036	#	#	#cv	#cv				
+tabasaran	belt	0036	0	0_Shaban	0.h:s_cv	0	h	s_cv	1008	
+tabasaran	belt	0036	uduc̊’-uri	<HSG>go_out-PTCP-ICVB	v:pred	v		pred		
+tabasaran	belt	0036	%	%	%	%				
+tabasaran	belt	0036	#	#	#cv	#cv				
+tabasaran	belt	0036	0	0_Rabadan	0.h:a_cv	0	h	a_cv	1005	
+tabasaran	belt	0036	jab-nu	hit-PCVB	v:pred	v		pred		
+tabasaran	belt	0036	0	0_Shaban	0.h:p	0	h	p	1008	
+tabasaran	belt	0036	#	#	##ds	##ds				
+tabasaran	belt	0036	0	0_Rabadan	0.1:a	0	1	a	1005	
+tabasaran	belt	0036	jik’-ur	<HSG>kill-FUT	v:pred	v		pred		
+tabasaran	belt	0036	=za	=1SG:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	belt	0036	0	0_Shaban	0.h:p	0	h	p	1008	
+tabasaran	belt	0036	k’uri	CIT	other	other				
+tabasaran	belt	0037	#	#	##	##				
+tabasaran	belt	0037	rabadan	Rabadan(ABS)	nc	nc				
+tabasaran	belt	0037	=na	=ADD	nc	nc				
+tabasaran	belt	0037	rabadan	Rabadan(ABS)	pn_np.h:s	pn_np	h	s	1005	
+tabasaran	belt	0037	vu	COP	cop	cop				
+tabasaran	belt	0037	dimi-gan.ǯi-n	3.P-TEMP-GEN	np:other	np		other		
+tabasaran	belt	0037	ča-n	REFL-GEN	ln_refl.h:poss	ln_refl	h	poss	1005	
+tabasaran	belt	0037	ʁaˁracan.ǯi	Qaratsan(IN)	pn_np:l	pn_np		l	1006	
+tabasaran	belt	0037	vari	all(ABS)	ln	ln				
+tabasaran	belt	0037	=č’a	=COMP	=ln	=ln				
+tabasaran	belt	0037	avtoritetnɨ	authoritative[R]	ln_adj	ln_adj				
+tabasaran	belt	0037	admi	man(ABS)	np.h:pred	np	h	pred		
+tabasaran	belt	0037	rabadan	Rabadan(ABS)	other	other				
+tabasaran	belt	0037	u	COP	other	other				
+tabasaran	belt	0038	#	#	##	##				
+tabasaran	belt	0038	#	#	#	#				
+tabasaran	belt	0038	fi-cːi	what-ADV	other	other				
+tabasaran	belt	0038	a-b-x-nu-š	PFV-NSG-become-PST-COND	v:pred	v		pred		
+tabasaran	belt	0038	%	%	%	%				
+tabasaran	belt	0038	mu	PROX(ABS)	dem_pro:p	dem_pro		p		
+tabasaran	belt	0038	sa-r	one-HSG	other	other				
+tabasaran	belt	0038	allah.ǯi-z	Allah-DAT	pn_np:ncs	pn_np		ncs		
+tabasaran	belt	0038	aˁǯ-u	know-FUT	v:pred	v		pred		
+tabasaran	belt	0039	#	#	##	##				
+tabasaran	belt	0039	ili	or	other	other				
+tabasaran	belt	0039	ha-va-n	EMPH-PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	1008	
+tabasaran	belt	0039	baχtː.na-an	happiness-(IN)ELAT	np:l	np		l		
+tabasaran	belt	0039	a-b-x-n-i	PFV-NSG-become-IPFV	v:pred	v		pred		
+tabasaran	belt	0039	#	#	#pc.neg	#pc.neg				
+tabasaran	belt	0039	ili	or	other	other				
+tabasaran	belt	0039	ha-va-n	EMPH-PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	1008	
+tabasaran	belt	0039	kef-er	mood-PL(ABS)	np:s_pc	np		s_pc		
+tabasaran	belt	0039	a-da-ǯi	(IN)be-NEG-ICVB	v:pred	v		pred		
+tabasaran	belt	0039	a<b>x-i	PFV<NSG>become-PTCP	rv_aux	rv_aux				
+tabasaran	belt	0039	#	#	##neg	##neg				
+tabasaran	belt	0039	#	#	#ac	#ac				
+tabasaran	belt	0039	fi-cːi	what-ADV	other	other				
+tabasaran	belt	0039	a-b-x-nu-š	PFV-NSG-become-PST-COND	v:pred	v		pred		
+tabasaran	belt	0039	%	%	%	%				
+tabasaran	belt	0039	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	belt	0039	jis̊.a-n	night-GEN	np:other	np		other		
+tabasaran	belt	0039	šaˁjban	Shaban(ABS)	pn_np.h:s	pn_np	h	s	1008	
+tabasaran	belt	0039	č’at-in-ǯi	yard-SUPER-DIR	np:g	np		g	1020	bridging
+tabasaran	belt	0039	uduc̊’-un-dar	<HSG>go_out-PST-NEG	v:pred	v		pred		
+tabasaran	belt	0039	#	#	##	##				
+tabasaran	belt	0039	#	#	#ac	#ac				
+tabasaran	belt	0039	0	0_Shaban	0.h:ncs	0	h	ncs	1008	
+tabasaran	belt	0039	aˁjan	known	other:lvc	other		lvc		
+tabasaran	belt	0039	a-b-x-nu-š	PFV-NSG-become-PST-COND	v:pred	v		pred		
+tabasaran	belt	0039	%	%	%	%				
+tabasaran	belt	0039	0	0_Shaban	0.h:ncs	0	h	ncs	1008	
+tabasaran	belt	0039	aˁj-dar	know-NEG(PRS)	v:pred	v		pred		
+tabasaran	belt	0040	#	#	##neg	##neg				
+tabasaran	belt	0040	#	#	#	#				
+tabasaran	belt	0040	fi-cːi	what-ADV	other	other				
+tabasaran	belt	0040	a-b-x-nu-š	PFV-NSG-become-PST-COND	v:pred	v		pred		
+tabasaran	belt	0040	%	%	%	%				
+tabasaran	belt	0040	sa-r.i-z	one-HSG-DAT	indef_other.h:ncs	indef_other	h	ncs		
+tabasaran	belt	0040	=q’a	=PRT	=other	=other				
+tabasaran	belt	0040	aˁj-dar	know-NEG(PRS)	v:pred	v		pred		
+tabasaran	belt	0041	#	#	##neg	##neg				
+tabasaran	belt	0041	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0041	anǯaχ	only	other	other				
+tabasaran	belt	0041	mu	PROX(ABS)	dem_pro.h:s	dem_pro	h	s	1008	
+tabasaran	belt	0041	uduc̊’-un-dar	<HSG>go_out-PST-NEG	v:pred	v		pred		
+tabasaran	belt	0042	#	#	##	##				
+tabasaran	belt	0042	#	#	#ac.neg	#ac.neg				
+tabasaran	belt	0042	ha-mu	EMPH-PROX(ABS)	dem_pro.h:s	dem_pro	h	s	1008	
+tabasaran	belt	0042	u<du>duc̊’-i-ge	<HSG><NEG>go_out-TEMP	v:pred	v		pred		
+tabasaran	belt	0042	%	%	%	%				
+tabasaran	belt	0042	rabadan.ǯi	Rabadan(ERG)	pn_np.h:a	pn_np	h	a	1005	
+tabasaran	belt	0042	hap’-ru	what_do-FUT	v:pred	v		pred		
+tabasaran	belt	0042	#	#	##	##				
+tabasaran	belt	0042	#	#	#cv	#cv				
+tabasaran	belt	0042	0	0_Rabadan	0.h:a_cv	0	h	a_cv	1005	
+tabasaran	belt	0042	#	#	#rc_pc	#rc_pc			1021	new
+tabasaran	belt	0042	0	0_oxen	rel_f0:s_pc	rel_f0		s_pc	1021	
+tabasaran	belt	0042	ha-va-n	EMPH-PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	1008	
+tabasaran	belt	0042	χaˁn.a	shed(IN)	np:pred_l	np		pred_l	1022	new
+tabasaran	belt	0042	a-ji	(IN)be-PTCP	cop	cop				
+tabasaran	belt	0042	%	%	%	%				
+tabasaran	belt	0042	q’uˁ-beb	two-NSG	ln_num	ln_num				
+tabasaran	belt	0042	jic	ox(ABS)	np:p	np		p	1021	
+tabasaran	belt	0042	=ra	=ADD	=other	=other				
+tabasaran	belt	0042	qaʔ-nu	<PL>drive-PCVB	v:pred	v		pred		
+tabasaran	belt	0042	%	%	%	%				
+tabasaran	belt	0042	0	0_Rabadan	0.h:s	0	h	s	1005	
+tabasaran	belt	0042	diš	quick	other	other				
+tabasaran	belt	0042	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	belt	0043	ʁaˤrac’an.ǯi-z	Qaratsan-DAT	nc_pn_np	nc_pn_np			1006	
+tabasaran	belt	0044	ʁaˁracan.ǯi-z	Qaratsan-DAT	pn_np:g	pn_np		g	1006	
+tabasaran	belt	0045	#	#	##	##				
+tabasaran	belt	0045	#	#	#ac_pc	#ac_pc				
+tabasaran	belt	0045	0	0_Rabadan	0.h:s_pc	0	h	s_pc	1005	
+tabasaran	belt	0045	tabasaran.ǯi-z	Tabasaran-DAT	pn_np:g	pn_np		g	1023	new
+tabasaran	belt	0045	ʁ-uš-u-r	PFV-<HSG>go-PTCP-HSG	v:pred	v		pred		
+tabasaran	belt	0045	%	%	%	%				
+tabasaran	belt	0045	#	#	#cv	#cv				
+tabasaran	belt	0045	muvu	PROX(ERG)	dem_pro.h:a_cv	dem_pro	h	a_cv	1005	
+tabasaran	belt	0045	sa-b	one-NSG	ln_num	ln_num				
+tabasaran	belt	0045	jic	ox(ABS)	np:p	np		p	1024	bridging
+tabasaran	belt	0045	d-u<b>kː-u	PFV-<NSG>slaughter-PCVB	v:pred	v		pred		
+tabasaran	belt	0045	%	%	%	%				
+tabasaran	belt	0045	0	0_Rabadan	0.h:a	0	h	a	1005	
+tabasaran	belt	0045	tuv-ru	give-FUT	v:pred	v		pred		
+tabasaran	belt	0045	mas.u	price(ERG)	np:p	np		p		
+tabasaran	belt	0045	#	#	##	##				
+tabasaran	belt	0045	0	0_Rabadan	0.h:s	0	h	s	1005	
+tabasaran	belt	0045	tabasaran	Tabasaran	pn_np:g	pn_np		g	1023	
+tabasaran	belt	0045	ʁ-uš-nu	PFV-<HSG>go-PST	v:pred	v		pred		
+tabasaran	belt	0045	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0046	#	#	##	##				
+tabasaran	belt	0046	#	#	#cv	#cv				
+tabasaran	belt	0046	ha-vu	EMPH-PROX(ERG)	dem_pro.h:a_cv	dem_pro	h	a_cv	1005	
+tabasaran	belt	0046	pul	money(ABS)	v:pred	v		pred	1025	bridging
+tabasaran	belt	0046	ʁada<b>ʁ-u	<NSG>take-PCVB	v:pred	v		pred		
+tabasaran	belt	0046	%	%	%	%				
+tabasaran	belt	0046	#	#	#cv	#cv				
+tabasaran	belt	0046	0	0_Rabadan	0.h:a_cv	0	h	a_cv	1005	
+tabasaran	belt	0046	tmu-nu	DIST(ABS)-FOC	ln_dem	ln_dem				
+tabasaran	belt	0046	jic	ox(ABS)	np:p	np		p	1026	bridging
+tabasaran	belt	0046	=ra	=ADD	=other	=other				
+tabasaran	belt	0046	qap’-u	<NSG>drive-PCVB	v:pred	v		pred		
+tabasaran	belt	0046	%	%	%	%				
+tabasaran	belt	0046	0	0_Rabadan	0.h:s	0	h	s	1005	
+tabasaran	belt	0046	aˁ-ru	<HSG>go-FUT	v:pred	v		pred		
+tabasaran	belt	0046	düz	direct	other	other				
+tabasaran	belt	0046	χla-z	house-DAT	np:g	np		g	1027	bridging
+tabasaran	belt	0047	#	#	##	##				
+tabasaran	belt	0047	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0047	šul-u	become-FUT	nc	nc				
+tabasaran	belt	0047	0	0_Shaban_and_wife	0.h:ncs	0	h	ncs	1028	bridging
+tabasaran	belt	0047	χabar	news(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0047	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	belt	0047	#	#	#cc_pc	#cc_pc				
+tabasaran	belt	0047	jic-ar	ox(ABS)-PL	np:s_pc	np		s_pc	1021	
+tabasaran	belt	0047	du<r>g-u-b	<PL>lose-PTCP-NSG	v:pred	v		pred		
+tabasaran	belt	0048	#	#	##	##				
+tabasaran	belt	0048	zamina	reliable	ln_adj	ln_adj				
+tabasaran	belt	0048	ʁaravul	guard(ABS)	np.h:s	np	h	s		
+tabasaran	belt	0048	nüraˤli	Nurali(ABS)	pn_np.h:pred	pn_np	h	pred	1003	
+tabasaran	belt	0048	vu	COP	cop	cop				
+tabasaran	belt	0049	#	#	##	##				
+tabasaran	belt	0049	0	0_people	0.h:s	0	h	s	1028	
+tabasaran	belt	0049	ǯa<r>ʁur-u	<PL>run-FUT	v:pred	v		pred		
+tabasaran	belt	0049	nüraˤl.ǯi-x-na	Nurali-APUD-LAT	pn_np.h:g	pn_np	h	g	1003	
+tabasaran	belt	0049	#	#	##ds	##ds				
+tabasaran	belt	0049	wallah	wallah	other	other				
+tabasaran	belt	0049	k’ur	CIT	other	other				
+tabasaran	belt	0049	sana	PTCP	other	other				
+tabasaran	belt	0049	0	0	0.h:a	0	h	a		
+tabasaran	belt	0049	jic-ar	ox-PL(ABS)	np:p	np		p	1021	
+tabasaran	belt	0049	hič’ik’-nu	<PL>steal-PST	v:pred	v		pred		
+tabasaran	belt	0049	k’uri	CIT	other	other				
+tabasaran	belt	0049	#	#	#ds_rc_pc	#ds_rc_pc			1021	
+tabasaran	belt	0049	0	0_oxen	rel_f0:s_pc	rel_f0		s_pc	1021	
+tabasaran	belt	0049	χaˁn-a	shed(IN)	np:pred_l	np		pred_l	1022	
+tabasaran	belt	0049	a-ji	(IN)be-PTCP	cop	cop				
+tabasaran	belt	0049	%	%	%	%				
+tabasaran	belt	0049	q’u-beb	two-NSG	ln_num	ln_num				
+tabasaran	belt	0049	jic-ar	ox-PL(ABS)	np:appos	np		appos	1021	
+tabasaran	belt	0050	#	#	#nc	#nc				
+tabasaran	belt	0050	dar-šul	NEG-become(PTCP)	nc	nc				
+tabasaran	belt	0050	ha-m-in-ǯi	EMPH-PROX-SUPER-DIR	nc	nc				
+tabasaran	belt	0050	t-in-ǯi	DIST-SUPER-DIR	nc	nc				
+tabasaran	belt	0050	qa	PRT	nc	nc				
+tabasaran	belt	0050	#	#	##ds	##ds				
+tabasaran	belt	0050	#	#	#ds_rc_pc	#ds_rc_pc				
+tabasaran	belt	0050	0	0_who	rel_f0.h:s	rel_f0	h	s		
+tabasaran	belt	0050	ix	our:INCL	ln_pro.1:poss	ln_pro	1	poss	1028	
+tabasaran	belt	0050	χʷl.a-z	house-DAT	np:g	np		g	1011	
+tabasaran	belt	0050	ʁa-f-i-r	PFV-come-PTCP-HSG	v:pred	v		pred		
+tabasaran	belt	0050	%	%	%	%				
+tabasaran	belt	0050	fuž	who(ABS)	intrg_other.h:pred	intrg_other	h	pred		
+tabasaran	belt	0050	0	0	0.h:s	0	h	s		
+tabasaran	belt	0050	a-ǯa	(IN)be-PRS	cop	cop				
+tabasaran	belt	0050	#	#	##ds	##ds				
+tabasaran	belt	0050	0	0	0.h:a	0	h	a		
+tabasaran	belt	0050	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	belt	0050	ap’-nu	do-PST	v:pred	v		pred		
+tabasaran	belt	0050	#	#	##ds	##ds				
+tabasaran	belt	0050	0	0	0.h:s	0	h	s		
+tabasaran	belt	0050	fuž	who(ABS)	intrg_other.h:pred	intrg_other	h	pred		
+tabasaran	belt	0050	u	COP	cop	cop				
+tabasaran	belt	0051	#	#	#nc	#nc				
+tabasaran	belt	0051	wallah	wallah	nc	nc				
+tabasaran	belt	0051	k’ur	CIT	nc	nc				
+tabasaran	belt	0051	ha-m-cːi-b	EMPH-PROX-ADV-NSG	nc	nc				
+tabasaran	belt	0051	laˤχin	work(ABS)	nc_np	nc_np			1029	bridging
+tabasaran	belt	0051	u	COP	nc	nc				
+tabasaran	belt	0052	#	#	##	##				
+tabasaran	belt	0052	0	0_Nurali	0.h:a_ds_cp	0	h	a_ds_cp	1003	
+tabasaran	belt	0052	fikir	thought(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0052	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	belt	0052	#	#	##ds	##ds				
+tabasaran	belt	0052	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	1003	
+tabasaran	belt	0052	gizaf	much	other	other				
+tabasaran	belt	0052	fu	what(ABS)	intrg_other:p	intrg_other		p		
+tabasaran	belt	0052	ap’-uru	do-FUT	v:pred	v		pred		
+tabasaran	belt	0052	#	#	##ds	##ds				
+tabasaran	belt	0052	šl.i-x-a	who-APUD-ELAT	intrg_other.h:a	intrg_other	h	a		
+tabasaran	belt	0052	ap’u-z	do-INF	v:pred	v		pred		
+tabasaran	belt	0052	šul-u	become-FUT	rv_aux	rv_aux				
+tabasaran	belt	0052	ha-cːi-b	EMPH-DIST+ADV-NSG	ln	ln				
+tabasaran	belt	0052	laˁχin	work(ABS)	np:p	np		p	1029	
+tabasaran	belt	0053	#	#	##ds	##ds				
+tabasaran	belt	0053	anǯaχ	only	other	other				
+tabasaran	belt	0053	k’ur	CIT	other	other				
+tabasaran	belt	0053	rabadan	Rabadan(ABS)	pn_np.h:s	pn_np	h	s	1005	
+tabasaran	belt	0053	u	COP	v:predex	v		predex		
+tabasaran	belt	0053	k’ur	CIT	other	other				
+tabasaran	belt	0054	#	#	#nc	#nc				
+tabasaran	belt	0054	diš	direct	other	other				
+tabasaran	belt	0054	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	belt	0054	nüraˤli	Nurali(ABS)	pn_np.h:s	pn_np	h	s	1003	
+tabasaran	belt	0054	ha-mi-l-i	EMPH-PROX-SUPER-ELAT	nc	nc				
+tabasaran	belt	0054	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0054	düz	straight	other	other				
+tabasaran	belt	0054	ʁaˁrac’an.ǯi-z	Qaratsan-DAT	np:g	np		g	1006	
+tabasaran	belt	0055	#	#	##	##				
+tabasaran	belt	0055	ov	yes	other	other				
+tabasaran	belt	0055	ha-mu	EMPH-PROX(ABS)	dem_pro.h:s	dem_pro	h	s	1003	
+tabasaran	belt	0055	=ra	=ADD	=rn	=rn				
+tabasaran	belt	0055	sa-b	one-NSG	rn_np	rn_np			1030	new
+tabasaran	belt	0055	=si	=like	=rn	=rn				
+tabasaran	belt	0055	qu<r>q’-ru	<PL>reach-FUT	v:pred	v		pred		
+tabasaran	belt	0055	ha-tmu	EMPH-DIST(ABS)	other	other				
+tabasaran	belt	0055	=ra	=ADD	other	other				
+tabasaran	belt	0056	#	#	##	##				
+tabasaran	belt	0056	#	#	#ac_pc	#ac_pc				
+tabasaran	belt	0056	0	0_they	0.h:a_cp_pc	0	h	a_cp_pc	1031	bridging
+tabasaran	belt	0056	ǯaχ	sound(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0056	ap’i-ge	do-TEMP	v:pred	v		pred		
+tabasaran	belt	0056	rabadan	Rabadan(ABS)	pn_np.h:p	pn_np	h	p	1005	
+tabasaran	belt	0056	%	%	%	%				
+tabasaran	belt	0056	#	#	#cv	#cv				
+tabasaran	belt	0056	0	0_they	0.h:a_cv	0	h	a_cv	1031	
+tabasaran	belt	0056	d-up-u	PFV-say-PCVB	v:pred	v		pred		
+tabasaran	belt	0056	%	%	%	%				
+tabasaran	belt	0056	#	#	#ac_pc	#ac_pc				
+tabasaran	belt	0056	0	0_they	0.h:a_cp_pc	0	h	a_cp_pc	1031	
+tabasaran	belt	0056	0	0_Rabadan	0.h:p	0	h	p	1005	
+tabasaran	belt	0056	ǯaχ	sound(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0056	ap’i-ge	do-TEMP	v:pred	v		pred		
+tabasaran	belt	0056	%	%	%	%				
+tabasaran	belt	0056	uduc̊’-uru	<HSG>go_out-FUT	v:pred	v		pred		
+tabasaran	belt	0056	muva-n	PROX-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	1005	
+tabasaran	belt	0056	χpːir	wife(ABS)	np.h:s	np	h	s	1009	
+tabasaran	belt	0057	#	#	##	##				
+tabasaran	belt	0057	#	#	#cv	#cv				
+tabasaran	belt	0057	0	0_wife	0.h:ncs_cv	0	h	ncs_cv	1009	
+tabasaran	belt	0057	nüraˤli	Nurali(ABS)	pn_np.h:p	pn_np	h	p	1003	
+tabasaran	belt	0057	ʁ-aˁ<r>q:-u	PFV-<HSG>see-PCVB	v:pred	v		pred		
+tabasaran	belt	0057	%	%	%	%				
+tabasaran	belt	0057	χpːir.i	wife(ERG)	np.h:a_cp	np	h	a_cp	1009	
+tabasaran	belt	0057	maš-ar	face-PL(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0057	č’ur	bad	other	other				
+tabasaran	belt	0057	ap’u-ru	do-FUT	v:pred	v		pred		
+tabasaran	belt	0058	#	#	#nc	#nc				
+tabasaran	belt	0058	haz	why	nc	nc				
+tabasaran	belt	0058	ʁ-ap-iš	PFV-say-COND	nc	nc				
+tabasaran	belt	0058	#	#	##	##				
+tabasaran	belt	0058	maz̊ʁl-ar.i	Mezhgul-PL(ERG)	pn_np.h:a	pn_np	h	a	1007	
+tabasaran	belt	0058	hič’i<b>k’-nu	<NSG>steal-PST	v:pred	v		pred		
+tabasaran	belt	0058	0	0_belt	0:p	0		p	1010	
+tabasaran	belt	0058	aˁχir	end	other	other				
+tabasaran	belt	0058	=a	=ADD	=other	=other				
+tabasaran	belt	0059	#	#	#nc	#nc				
+tabasaran	belt	0059	muva-z	PROX-DAT	nc_dem_pro.h	nc_dem_pro	h		1009	
+tabasaran	belt	0059	vari-dar.i-k-a	all-PL-CONT-ELAT	nc_np.h	nc_np	h		1007	
+tabasaran	belt	0059	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0059	qaˁl	evil(ABS)	nc	nc				
+tabasaran	belt	0059	k-a-[ǯa]	CONT-be-PRS	nc	nc				
+tabasaran	belt	0060	#	#	#nc	#nc				
+tabasaran	belt	0060	nu	PRT	nc	nc				
+tabasaran	belt	0060	uže	already	nc	nc				
+tabasaran	belt	0060	0	0_wife	nc_0.h	nc_0	h		1009	
+tabasaran	belt	0060	vari-dar.i-k-a	all-PL-CONT-ELAT	nc_np.h	nc_np	h		1007	
+tabasaran	belt	0060	qaˤl	evil(ABS)	nc	nc				
+tabasaran	belt	0060	k-a-ǯa	CONT-be-PRS	nc	nc				
+tabasaran	belt	0060	maz̊gʷl-ar.i-k-a	Mezhgul-PL-CONT-ELAT	nc_np.h	nc_np	h		1007	
+tabasaran	belt	0061	#	#	##	##				
+tabasaran	belt	0061	#	#	#cv	#cv				
+tabasaran	belt	0061	0	0_wife	0.h:a_cv	0	h	a_cv	1009	
+tabasaran	belt	0061	č’al	speech(ABS)	np:p	np		p		
+tabasaran	belt	0061	=k’a	=PRT	=other	=other				
+tabasaran	belt	0061	dar-pi-ǯi	NEG-say-PCVB	v:pred	v		pred		
+tabasaran	belt	0061	%	%	%	%				
+tabasaran	belt	0061	0	0_wife	0.h:s	0	h	s	1009	
+tabasaran	belt	0061	aˁr-a	<HSG>go-PRS	v:pred	v		pred		
+tabasaran	belt	0061	χʷl.a-z	house-DAT	np:g	np		g	1027	
+tabasaran	belt	0062	#	#	##ds	##ds				
+tabasaran	belt	0062	0	0_wife	0.2:a_cp	0	2	a_cp	1009	
+tabasaran	belt	0062	rabadan.ǯi-z	Rabadan-DAT	pn_np.h:g	pn_np	h	g	1005	
+tabasaran	belt	0062	ǯaχ	sound(ABS)	other:lvc	other		lvc		
+tabasaran	belt	0062	ap’-i	do-IMP	v:pred	v		pred		
+tabasaran	belt	0062	k’ur	CIT	other	other				
+tabasaran	belt	0063	#	#	##	##				
+tabasaran	belt	0063	uduc̊u-ru	<HSG>go_out-FUT	v:pred	v		pred		
+tabasaran	belt	0063	rabadan	Rabadan(ABS)	pn_np.h:s	pn_np	h	s	1005	
+tabasaran	belt	0064	#	#	##ds	##ds				
+tabasaran	belt	0064	haz	why	other	other				
+tabasaran	belt	0064	0	0_Nurali	0.2:s	0	2	s	1003	
+tabasaran	belt	0064	ʁa-f-u	PFV-come-PST	v:pred	v		pred		
+tabasaran	belt	0064	=va	=2SG:AG	=rv-pro_2_s	=rv-pro_2_s				
+tabasaran	belt	0064	nüraˤli	Nurali(ABS)	pn_np.h:voc	pn_np	h	voc	1003	
+tabasaran	belt	0064	k’ur	CIT	other	other				
+tabasaran	belt	0065	#	#	##ds	##ds				
+tabasaran	belt	0065	0	0_Nurali	0.2:s	0	2	s	1003	
+tabasaran	belt	0065	havajinǯi	in_vain	other	other				
+tabasaran	belt	0065	ʁa-f-u	PFV-come-PST	v:pred	v		pred		
+tabasaran	belt	0065	=va	=2SG:AG	=rv-pro_2_s	=rv-pro_2_s				
+tabasaran	belt	0065	nüräli	Nurali(ABS)	pn_np.h:voc	pn_np	h	voc	1003	
+tabasaran	belt	0065	k’ur	CIT	other	other				
+tabasaran	belt	0066	#	#	##ds	##ds				
+tabasaran	belt	0066	rabadan	Rabadan(ABS)	pn_np.h:voc	pn_np	h	voc	1005	
+tabasaran	belt	0066	k’ur	CIT	other	other				
+tabasaran	belt	0066	0	0_Rabadan	0.2:a	0	2	a	1005	
+tabasaran	belt	0066	jic	ox(ABS)	np:p	np		p	1026	
+tabasaran	belt	0066	adap’	<HSG>lead_out(IMP)	v:pred	v		pred		
+tabasaran	belt	0066	ha-m-in-ǯi	EMPH-PROX-SUPER-DIR	dem_pro:g	dem_pro		g		
+tabasaran	belt	0067	#	#	#nc	#nc				
+tabasaran	belt	0067	ha	well	nc	nc				
+tabasaran	belt	0067	ha-vu	EMPH-PROX(ERG)	nc	nc				
+tabasaran	belt	0067	sa-b	one-NSG	nc	nc				
+tabasaran	belt	0067	ha-t-vu	EMPH-DIST-PROX(ERG)	nc	nc				
+tabasaran	belt	0067	sa-b	one-NSG	nc	nc				
+tabasaran	belt	0067	ha-vu	EMPH-PROX(ERG)	nc	nc				
+tabasaran	belt	0067	sa-b	one-NSG	nc	nc				
+tabasaran	belt	0067	ha-t-vu	EMPH-DIST-PROX(ERG)	nc	nc				
+tabasaran	belt	0067	sa-b	one-NSG	nc	nc				
+tabasaran	belt	0067	#	#	##ds	##ds				
+tabasaran	belt	0067	rabadan	Rabadan(ABS)	pn_np.h:voc	pn_np	h	voc	1005	
+tabasaran	belt	0067	k’ur	CIT	other	other				
+tabasaran	belt	0067	uxu	we(INCL)	pro.1:a	pro	1	a	1002	
+tabasaran	belt	0067	uˁl	bread(ABS)	np:p	np		p		
+tabasaran	belt	0067	d-ip’-na	PFV-eat-RES	v:pred	v		pred		
+tabasaran	belt	0067	=xa	=1PL.INCL:AG	=rv-pro_1_a	=rv-pro_1_a				
+tabasaran	belt	0067	k’ur	CIT	other	other				
+tabasaran	belt	0067	#	#	#ds	#ds				
+tabasaran	belt	0067	uzu-z	I-DAT	pro.1:ncs	pro	1	ncs	1003	
+tabasaran	belt	0067	k’ur	CIT	other	other				
+tabasaran	belt	0067	#	#	#ds_cc:p	#ds_cc		p		
+tabasaran	belt	0067	jav	your	ln_pro.2:poss	ln_pro	2	poss	1005	
+tabasaran	belt	0067	derdi	trouble(ABS)	np:s	np		s		
+tabasaran	belt	0067	fu	what(ABS)	intrg_other:pred	intrg_other		pred		
+tabasaran	belt	0067	vu-š	COP-COND	cop	cop				
+tabasaran	belt	0067	%	%	%	%				
+tabasaran	belt	0067	aˁǯ-u	know-FUT	v:pred	v		pred		
+tabasaran	belt	0067	=zu-z	=1SG-DAT	=rv-pro_1_ncs	=rv-pro_1_ncs				
+tabasaran	belt	0067	#	#	##ds	##ds				
+tabasaran	belt	0067	0	0_Rabadan	0.2:a	0	2	a	1005	
+tabasaran	belt	0067	jip	say(IMP)	v:pred	v		pred		
+tabasaran	belt	0067	k’ur	CIT	other	other				
+tabasaran	belt	0067	fu-vuš	what-INDEF	indef_other:p	indef_other		p		
+tabasaran	belt	0068	#	#	##ds	##ds				
+tabasaran	belt	0068	uzu	I(ABS)	pro.1:s	pro	1	s	1003	
+tabasaran	belt	0068	k’ur	CIT	other	other				
+tabasaran	belt	0068	jav	your	ln_pro.2:poss	ln_pro	2	poss	1005	
+tabasaran	belt	0068	derd.na-q	trouble-POST	np:obl	np		obl		
+tabasaran	belt	0068	qu<r>q’-un	<HSG>reach-PST	v:pred	v		pred		
+tabasaran	belt	0068	=zu	=1SG:PAT	=rv-pro_1_s	=rv-pro_1_s				
+tabasaran	belt	0068	k’ur	CIT	other	other				
+tabasaran	belt	0068	#	#	##ds	##ds				
+tabasaran	belt	0068	0	0_Rabadan	0.2:a	0	2	a	1005	
+tabasaran	belt	0068	jic	ox(ABS)	np:p	np		p	1026	
+tabasaran	belt	0068	adap’	<NSG>lead_out(IMP)	v:pred	v		pred		
+tabasaran	belt	0068	ha-mi-n-ǯi	EMPH-PROX-SUPER-DIR	dem_pro:g	dem_pro		g		
+tabasaran	belt	0069	#	#	##neg	##neg				
+tabasaran	belt	0069	aˁχir	end(ABS)	np:other	np		other		
+tabasaran	belt	0069	qa	then	other	other				
+tabasaran	belt	0069	sanu	more	other	other				
+tabasaran	belt	0069	rabadan.ǯi-n	Rabadan-GEN	pn_np.h:ncs	pn_np	h	ncs	1005	
+tabasaran	belt	0069	huˁ<b>ʁuˁ-dar	<NSG>endure-PRS:NEG	v:pred	v		pred		
+tabasaran	belt	0069	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0070	#	#	##	##				
+tabasaran	belt	0070	čav	REFL(ABS)	refl.h:s	refl	h	s	1003	
+tabasaran	belt	0070	#	#	#cc_pc:p	#cc_pc		p		
+tabasaran	belt	0070	0	0	0.h:s_pc	0	h	s_pc		
+tabasaran	belt	0070	0	0_Rabadan	0.h:pred	0	h	pred	1005	
+tabasaran	belt	0070	vu-ji-b	COP-PTCP-NSG	cop	cop				
+tabasaran	belt	0070	%	%	%	%				
+tabasaran	belt	0070	aˁʁuˁ	know	v:pred	v		pred		
+tabasaran	belt	0070	ʁa-b-x-nu	PFV-NSG-become-PST	rv_aux	rv_aux				
+tabasaran	belt	0070	#	#	#nc	#nc				
+tabasaran	belt	0070	sanu	more	nc	nc				
+tabasaran	belt	0070	ov	yes	nc	nc				
+tabasaran	belt	0070	dar-š-iš	NEG-become-COND	nc	nc				
+tabasaran	belt	0070	sanu	more	nc	nc				
+tabasaran	belt	0070	mu-s̊.a	PROX(ABS)-place(IN)	nc	nc				
+tabasaran	belt	0070	šul-a-ji-b	become-PRS-PTCP-NSG	nc	nc				
+tabasaran	belt	0070	ǯara-b	other-NSG	nc	nc				
+tabasaran	belt	0070	u	COP	nc	nc				
+tabasaran	belt	0070	#	#	##	##				
+tabasaran	belt	0070	dimin-ge	3.P-TEMP	other	other				
+tabasaran	belt	0070	zakon-ar	law-PL(ABS)	np:s	np		s	1033	new
+tabasaran	belt	0070	ha-cː-dar	EMPH-DIST+ADV-PL	dem_pro:pred_other	dem_pro		pred_other		
+tabasaran	belt	0070	u	COP	cop	cop				
+tabasaran	belt	0071	#	#	##neg	##neg				
+tabasaran	belt	0071	sanu	more	ln	ln				
+tabasaran	belt	0071	čara	choice(ABS)	np:p	np		p		
+tabasaran	belt	0071	šul-dar	become-PRS:NEG	v:pred	v		pred		
+tabasaran	belt	0071	rabadan.ǯi-z	Rabadan-DAT	pn_np.h:ncs_poss	pn_np	h	ncs_poss	1005	
+tabasaran	belt	0071	#	#	##	##				
+tabasaran	belt	0071	ha-muva	EMPH-PROX(ERG)	dem_pro.h:a	dem_pro	h	a	1005	
+tabasaran	belt	0071	#	#	#cv	#cv				
+tabasaran	belt	0071	0	0_Rabadan	0.h:a_cv	0	h	a_cv	1005	
+tabasaran	belt	0071	jic	ox(ABS)	np:p	np		p	1026	
+tabasaran	belt	0071	qap’u	<NSG>drive-PCVB	v:pred	v		pred		
+tabasaran	belt	0071	%	%	%	%				
+tabasaran	belt	0071	0	0_ox	0:p	0		p	1026	
+tabasaran	belt	0071	tu-ru	give-FUT	v:pred	v		pred		
+tabasaran	belt	0071	nüraˤl.ǯi-x-na	Nurali-APUD-LAT	pn_np.h:g	pn_np	h	g	1003	
+tabasaran	belt	0071	#	#	##	##				
+tabasaran	belt	0071	#	#	#cv	#cv				
+tabasaran	belt	0071	0	0_Nurali	0.h:a_cv	0	h	a_cv	1003	
+tabasaran	belt	0071	qap’-u	<NSG>drive-PCVB	v:pred	v		pred		
+tabasaran	belt	0071	0	0_ox	0:p	0		p	1026	
+tabasaran	belt	0071	%	%	%	%				
+tabasaran	belt	0071	#	#	#cv	#cv				
+tabasaran	belt	0071	0	0_Nurali	0.h:s_cv	0	h	s_cv	1003	
+tabasaran	belt	0071	du-f-u	PFV-come-PCVB	v:pred	v		pred		
+tabasaran	belt	0071	%	%	%	%				
+tabasaran	belt	0071	0	0_Nurali	0.h:a	0	h	a	1003	
+tabasaran	belt	0071	tu-ru	give-FUT	v:pred	v		pred		
+tabasaran	belt	0071	0	0_ox	0:p	0		p	1026	
+tabasaran	belt	0071	šaˁjb.na-x-na	Shaban-APUD-LAT	pn_np.h:g	pn_np	h	g	1008	
+tabasaran	belt	0072	#	#	##	##				
+tabasaran	belt	0072	qa	then	other	other				
+tabasaran	belt	0072	0	0_they	0.h:a_ds	0	h	a_ds	1031	
+tabasaran	belt	0072	he<r>χ-ru	<PL>-ask-FUT	v:pred	v		pred		
+tabasaran	belt	0072	#	#	##ds	##ds				
+tabasaran	belt	0072	fu	what	ln	ln				
+tabasaran	belt	0072	šuluʁ	trick(ABS)	np:p	np		p	1012	
+tabasaran	belt	0072	d-ap’-na	PFV-do-RES	v:pred	v		pred		
+tabasaran	belt	0072	=va	=2SG:AG	=rv-pro_2_a	=rv-pro_2_a				
+tabasaran	belt	0072	uvu	you.SG(ERG)	pro.2:a	pro	2	a	1008	
+tabasaran	belt	0073	#	#	##	##				
+tabasaran	belt	0073	#	#	#cv	#cv				
+tabasaran	belt	0073	0	0_Shaban	0.h:s_cv	0	h	s_cv	1008	
+tabasaran	belt	0073	hap’-u	<NSG>drive-PCVB	v:pred	v		pred		
+tabasaran	belt	0073	%	%	%	%				
+tabasaran	belt	0073	qa	then	other	other				
+tabasaran	belt	0073	mi-n-ǯi	PROX-SUPER-DIR	dem_pro:obl	dem_pro		obl		
+tabasaran	belt	0073	ti-n-ǯi	DIST-SUPER-DIR	dem_pro:g	dem_pro		g		
+tabasaran	belt	0073	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	1008	
+tabasaran	belt	0073	=ra	=ADD	=other	=other				
+tabasaran	belt	0073	k’ul-ar	head-PL(ABS)	np:p	np		p		
+tabasaran	belt	0073	gadaʁu-ru	<PL>take-FUT	v:pred	v		pred		
+tabasaran	belt	0074	#	#	##ds.neg	##ds.neg				
+tabasaran	belt	0074	vaʔ	no	other	other				
+tabasaran	belt	0074	k’ur	CIT	other	other				
+tabasaran	belt	0074	rabadan.ǯi	Rabadan(ERG)	pn_np.h:a	pn_np	h	a	1005	
+tabasaran	belt	0074	k’ur	CIT	other	other				
+tabasaran	belt	0074	jav	your	ln_pro.2:poss	ln_pro	2	poss	1008	
+tabasaran	belt	0074	jic	ox(ABS)	np:p	np		p	1026	
+tabasaran	belt	0074	hič’i<b>k’u-ru-dar	<NSG>steal-FUT-NEG	v:pred	v		pred		
+tabasaran	belt	0074	k’ur	CIT	other	other				
+tabasaran	belt	0075	#	#	##ds	##ds				
+tabasaran	belt	0075	uvu	you.SG(ERG)	pro.2:a	pro	2	a	1008	
+tabasaran	belt	0075	#	#	#cc:p	#cc		p		
+tabasaran	belt	0075	0	0_Shaban	0.2:a	0	2	a	1008	
+tabasaran	belt	0075	fu	what	intrg_other:p	intrg_other		p		
+tabasaran	belt	0075	d-ap’-na-š	PFV-do-RES-COND	v:pred	v		pred		
+tabasaran	belt	0075	%	%	%	%				
+tabasaran	belt	0075	jip	say(IMP)	v:pred	v		pred		
+tabasaran	belt	0075	k’ur	CIT	other	other				
+tabasaran	belt	0076	#	#	##	##				
+tabasaran	belt	0076	qa	then	other	other				
+tabasaran	belt	0076	aškara	apparent	other	other				
+tabasaran	belt	0076	šul-u	become-FUT	v:pred	v		pred		
+tabasaran	belt	0076	#	#	#cc_cv:s	#cc_cv		s		
+tabasaran	belt	0076	značit	znachit	other	other				
+tabasaran	belt	0076	šaˁjb.nu	Shaban(ERG)	pn_np.h:a_cv	pn_np	h	a_cv	1008	
+tabasaran	belt	0076	%	%	%	%				
+tabasaran	belt	0076	#	#	#cv	#cv				
+tabasaran	belt	0076	#	#	#ac_in	#ac_in				
+tabasaran	belt	0076	0	0_Shaban	f0.h:s_in	f0	h	s_in	1008	
+tabasaran	belt	0076	liχu-z	work-INF	vother:pred	vother		pred		
+tabasaran	belt	0076	%	%	%	%				
+tabasaran	belt	0076	0	0_Shaban	0.h:s_cv	0	h	s_cv	1008	
+tabasaran	belt	0076	ʁ-uš-uri	PFV-<HSG>go-ICVB	v:pred	v		pred		
+tabasaran	belt	0076	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0076	%	%	%	%				
+tabasaran	belt	0076	kamar	belt(ABS)	np:p	np		p	1010	
+tabasaran	belt	0076	hič’i<b>k’-nu	<NSG>steal-PCVB	v:pred	v		pred		
+tabasaran	belt	0076	#	#	#pc	#pc				
+tabasaran	belt	0076	0	0_Shaban	0.h:a_pc	0	h	a_pc	1008	
+tabasaran	belt	0076	0	0_belt	0:p	0		p	1010	
+tabasaran	belt	0076	d-u<b>χ-na-ji-b	PFV-<NSG>bring-RES-PTCP-NSG	v:pred	v		pred		
+tabasaran	belt	0077	#	#	##	##				
+tabasaran	belt	0077	#	#	#cv	#cv				
+tabasaran	belt	0077	0	0_Shaban	0.h:a_cv	0	h	a_cv	1008	
+tabasaran	belt	0077	0	0_belt	0:p	0		p	1010	
+tabasaran	belt	0077	ada<b>ʁ-u	<NSG>take_outside-PCVB	v:pred	v		pred		
+tabasaran	belt	0077	%	%	%	%				
+tabasaran	belt	0077	muvu	PROX(ERG)	dem_pro.h:a	dem_pro	h	a	1008	
+tabasaran	belt	0077	kamara	belt(ABS)	np:p	np		p	1010	
+tabasaran	belt	0077	tuv-nu	give-PST	v:pred	v		pred		
+tabasaran	belt	0077	q’aˤlaˁq	back	rv	rv				
+tabasaran	belt	0078	#	#	##	##				
+tabasaran	belt	0078	0	0_Rabadan	0.h:a	0	h	a	1005	
+tabasaran	belt	0078	ha-tmu	EMPH-DIST(ATTR)	ln_dem	ln_dem				
+tabasaran	belt	0078	jic.ra-n	ox-GEN	ln_np:poss	ln_np		poss	1024	
+tabasaran	belt	0078	pul	money(ABS)	np:p	np		p	1025	
+tabasaran	belt	0078	=la	=ADD	=other	=other				
+tabasaran	belt	0078	d-u<b>kː-u	PFV-<NSG>slaughter-PCVB	other	other				
+tabasaran	belt	0078	[UNCLEAR]	NC	nc	nc				
+tabasaran	belt	0078	tuv-nu	give-PST	v:pred	v		pred		
+tabasaran	belt	0079	#	#	##	##				
+tabasaran	belt	0079	značit	znachit	other	other				
+tabasaran	belt	0079	ha-m-cːi-b	EMPH-PROX-ADV-NSG	ln	ln				
+tabasaran	belt	0079	jigit-val	brave-ABSTR(ABS)	np:p	np		p		
+tabasaran	belt	0079	ha-m-cːi-b	EMPH-PROX-ADV-NSG	ln	ln				
+tabasaran	belt	0079	ǯavabdar-val	responsible-ABSTR(ABS)	rn_np	rn_np				
+tabasaran	belt	0079	ʁada<b>ʁu-ra	<NSG>take-PRS	v:pred	v		pred		
+tabasaran	belt	0079	nüraˤl.ǯi	Nurali.ERG	pn_np.h:a	pn_np	h	a	1003	
+tabasaran	belt	0079	maz̊gl-ar.i-n	Mezhgul-PL-GEN	pn_np.h:obl	pn_np	h	obl	1007	
+tabasaran	belt	0079	ha-muvu	EMPH-PROX(ERG)	dem_pro.h:appos	dem_pro	h	appos	1003	
+tabasaran	belt	0079	#	#	#rc_pc	#rc_pc			1003	
+tabasaran	belt	0079	0	0_person	0.h:s	0	h	s	1003	
+tabasaran	belt	0079	nüraˤli	Nurali(ABS)	pn_np.h:other	pn_np	h	other		
+tabasaran	belt	0079	k’-ur-u-r	say-PRS-PTCP-HSG	v:pred	v		pred		
+tabasaran	belt	0079	%	%	%	%				
+tabasaran	belt	0079	kas.ǯi	person(ERG)	np.h:appos	np	h	appos	1003	
+tabasaran	belt	0079	maz̊gʷl-ar.i-n	Mezhgul-PL-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss	1007	
+tabasaran	belt	0079	ʁul.a	village(IN)	np:l	np		l	1004	
+tabasaran	belt	0080	#	#	##	##				
+tabasaran	belt	0080	ha-cː-dar	EMPH-DIST+ADV-PL	ln	ln				
+tabasaran	belt	0080	insan-ar	person-PL	np.h:s	np	h	s		
+tabasaran	belt	0080	a-x-nu	PFV-<PL>become-PST	v:predex	v		predex		
+tabasaran	belt	0080	ha-mu	EMPH-PROX(ABS)	ln_dem	ln_dem				
+tabasaran	belt	0080	maz̊gl.i-in	Mezhgul-SUPER	pn_np:l	pn_np		l	1004	
