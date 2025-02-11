@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Bogomolova, Natalia & Ganenkov, Dmitry & Schiborr, Nils N. 2021. Multi-CAST Tabasaran. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tabasaran) (date accessed)",
+    "dc:bibliographicCitation": "Bogomolova, Natalia & Ganenkov, Dmitry & Schiborr, Nils N. 2022. Multi-CAST Tabasaran. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2207. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tabasaran) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "**Tabasaran** ([taba1259](https://glottolog.org/resource/languoid/id/taba1259)) is a Nakh-Daghestanian (Caucasian) language from the Lezgic subbranch. Recent census data puts the number of speakers at about 120\u2009000; [Campbell et al. (2017)](Source#cldf:campbell.etal2017) classify the language as vulnerable.\n\nThe texts in the Multi-CAST Tabasaran corpus were recorded by Natalia Bogomolova with the assistance of Dmitry Ganenkov in 2010, and subsequently transcribed, glossed, and translated by the former. The annotations with GRAID and RefIND were added by Nils Schiborr between 2019 and 2020. The five texts in this corpus are a mixture of traditional and biographical narratives.\n\nThe texts in this corpus (version 2207) have been time-aligned at the phone level for a [data set](https://doreco.huma-num.fr/languages/taba1259) in the [DoReCo project](https://doreco.huma-num.fr/).",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#tabasaran",
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mctabasaran",
             "rdf:type": "prov:Entity",
-            "dc:created": "9162021",
+            "dc:created": "v2101",
             "dc:title": "Repository"
         },
         {

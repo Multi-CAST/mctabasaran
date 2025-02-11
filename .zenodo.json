@@ -32,7 +32,7 @@
         "linguistics"
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bogomolova, Natalia &amp; Ganenkov, Dmitry &amp; Schiborr, Nils N. 2021. Multi-CAST Tabasaran. In Haig, Geoffrey &amp; Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tabasaran) (date accessed)</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bogomolova, Natalia &amp; Ganenkov, Dmitry &amp; Schiborr, Nils N. 2022. Multi-CAST Tabasaran. In Haig, Geoffrey &amp; Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2207. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tabasaran) (date accessed)</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

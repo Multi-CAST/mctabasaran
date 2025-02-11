@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2020-09-17T19:26:32+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2022-04-30T22:43:44+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_tabasaran_naz.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:81c51146-60e3-4edd-ac1b-c210c8c0d861</PROPERTY>
@@ -425,7 +425,7 @@
     <TIER ANNOTATOR="Natalia Bogomolova, Dmitry Ganenkov, Nils Schiborr" LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="utterance_id" PARTICIPANT="TS01" TIER_ID="utterance">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a178">
-                <ANNOTATION_VALUE>﻿urcmi ab.iz aǯi axnu šubur bažnuˤraˤli, χaˤnaˤli, gülaˤli</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Urcmi ab.iz aǯi axnu šubur bažnuˤraˤli, χaˤnaˤli, gülaˤli</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -455,7 +455,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a184">
-                <ANNOTATION_VALUE>χaˤnaˤli znachit, naˁhaˁqval kaǯi abxnu, χanäl.ǯik.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>χaˤnaˤli znachit, naˁhaˁqval kaǯi abxnu, χanaˤl.ǯik.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -585,7 +585,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a210">
-                <ANNOTATION_VALUE>hamu laˁχn.ikan qaˁl ʁuˁri abxnuurcmi ab.iz.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>hamu laˁχn.ikan qaˁl ʁuˁri abxnu urcmi ab.iz.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -727,7 +727,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a237" PREVIOUS_ANNOTATION="a1201">
-                <ANNOTATION_VALUE>﻿urcmi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>urcmi</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1077,7 +1077,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a243" PREVIOUS_ANNOTATION="a337">
-                <ANNOTATION_VALUE>χanäl.ǯi-k</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>χanaˤl.ǯi-k</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

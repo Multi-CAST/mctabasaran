@@ -1,6 +1,6 @@
 corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 tabasaran	naz	0001	#	#	##	##				
-tabasaran	naz	0001	﻿urcmi	Urcmi	pn_np.h:ncs_poss	pn_np	h	ncs_poss	3001	new
+tabasaran	naz	0001	urcmi	Urcmi	pn_np.h:ncs_poss	pn_np	h	ncs_poss	3001	new
 tabasaran	naz	0001	ab.i-z	old_man-DAT	rn_np.h	rn_np	h			
 tabasaran	naz	0001	a-ǯi	(IN)be-ICVB	v:pred	v		pred		
 tabasaran	naz	0001	a-x-nu	PFV-(HSG)become-PST	rv_aux	rv_aux				
@@ -70,7 +70,7 @@ tabasaran	naz	0007	znachit	so	other	other
 tabasaran	naz	0007	naˁhaˁq-val	wrong-ABSTR(ABS)	np:p	np		p		
 tabasaran	naz	0007	k-a-ǯi	CONT-be-ICVB	v:pred	v		pred		
 tabasaran	naz	0007	a-b-x-nu	PFV-NSG-become-PST	rv_aux	rv_aux				
-tabasaran	naz	0007	χanäl.ǯi-k	Khanali-CONT	pn_np.h:ncs_poss	pn_np	h	ncs_poss	3004	
+tabasaran	naz	0007	χanaˤl.ǯi-k	Khanali-CONT	pn_np.h:ncs_poss	pn_np	h	ncs_poss	3004	
 tabasaran	naz	0008	#	#	#pc	#pc				
 tabasaran	naz	0008	ab.i	old_man.ERG	np.h:a_pc	np	h	a_pc	3001	
 tabasaran	naz	0008	ʁa-p-i-b	PFV-say-PFV.PTCP-NSG	v:pred	v		pred		

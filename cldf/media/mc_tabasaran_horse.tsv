@@ -352,7 +352,7 @@ tabasaran	horse	0030	0	0_middle_brother	0.h:ncs	0	h	ncs	2018
 tabasaran	horse	0030	fu	what	intrg_other:p	intrg_other		p		
 tabasaran	horse	0030	ʁaˁ<b>qː-uˁ	PFV-<NSG>see-PST	v:pred	v		pred		
 tabasaran	horse	0030	=vu-z	=2SG-DAT	=rv-pro_2_ncs	=rv-pro_2_ncs				
-tabasaran	horse	0030	с̊i	brother(ABS)	np.h:voc	np	h	voc	2018	
+tabasaran	horse	0030	c̊i	brother(ABS)	np.h:voc	np	h	voc	2018	
 tabasaran	horse	0030	k’ur	CIT	other	other				
 tabasaran	horse	0031	#	#	##ds.neg	##ds.neg				
 tabasaran	horse	0031	fuk’a	nothing(ABS)	np:s	np		s		
@@ -1069,7 +1069,7 @@ tabasaran	horse	0087	k’ur	CIT	other	other
 tabasaran	horse	0088	#	#	##	##				
 tabasaran	horse	0088	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
 tabasaran	horse	0088	ib-an-ǯi	ear-(IN)ELAT-DIR	np:g	np		g	2047	
-tabasaran	horse	0088	uс̊’-uru	(HSG)go_in-FUT	v:pred	v		pred		
+tabasaran	horse	0088	uc̊’-uru	(HSG)go_in-FUT	v:pred	v		pred		
 tabasaran	horse	0088	ha-mu	EMPH-PROX(ATTR)	ln_dem	ln_dem				
 tabasaran	horse	0088	baž	boy(ABS)	np:s	np		s	2023	
 tabasaran	horse	0089	#	#	##	##				
@@ -2313,7 +2313,7 @@ tabasaran	horse	0183	0	0_innards	rel_f0:s_pc	rel_f0		s_pc	2098
 tabasaran	horse	0183	haǯi-ʔ	EMPH-<NSG>PROX-IN	dem_pro:pred_l	dem_pro		pred_l		
 tabasaran	horse	0183	a-ji	(IN)be-PTCP	cop	cop				
 tabasaran	horse	0183	%	%	%	%				
-tabasaran	horse	0183	jukw’-ar	heart-PL(ABS)	np:obl	np		obl	2099	bridging
+tabasaran	horse	0183	juk’ʷ-ar	heart-PL(ABS)	np:obl	np		obl	2099	bridging
 tabasaran	horse	0183	lik’-ar.i-k-an	liver-PL-CONT-ELAT	rn_np	rn_np			2100	bridging
 tabasaran	horse	0183	k’ur	CIT	other	other				
 tabasaran	horse	0183	ip’-ru-b	<NSG>eat-FUT.PTCP-NSG	np:p	np		p	2101	bridging

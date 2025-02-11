@@ -1,6 +1,6 @@
 corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 tabasaran	nuradin	0001	#	#	##	##				
-tabasaran	nuradin	0001	﻿malla	mullah	ln	ln				
+tabasaran	nuradin	0001	malla	mullah	ln	ln				
 tabasaran	nuradin	0001	aˁleskr.a-z	Aleskar-DAT	pn_np.h:ncs_poss	pn_np	h	ncs_poss	4001	new
 tabasaran	nuradin	0001	a-di	(IN)be-ICVB	v:pred	v		pred		
 tabasaran	nuradin	0001	šul-u	become-FUT	rv_aux	rv_aux				
@@ -130,7 +130,7 @@ tabasaran	nuradin	0007	jis̊	place(ABS)	rn_np	rn_np
 tabasaran	nuradin	0007	=ra	=ADD	=other	=other				
 tabasaran	nuradin	0007	#	#	#cv.neg	#cv.neg				
 tabasaran	nuradin	0007	0	0_Nuradin	0.2:ncs_poss_cv	0	2	ncs_poss_cv	4002	
-tabasaran	nuradin	0007	maz̊g˳l-ar.i-n	Mežgül-PL-GEN	ln_pn_np:poss	ln_pn_np		poss	4007	unused
+tabasaran	nuradin	0007	maz̊gʷl-ar.i-n	Mežgül-PL-GEN	ln_pn_np:poss	ln_pn_np		poss	4007	unused
 tabasaran	nuradin	0007	č’ur.ǯi-k	pasture-CONT	np:p	np		p		
 tabasaran	nuradin	0007	k-tar-ǯi	CONT-be.NEG-ICVB	v:pred	v		pred		
 tabasaran	nuradin	0007	%	%	%	%				
@@ -504,7 +504,7 @@ tabasaran	nuradin	0026	ha-m-cːi	EMPH-PROX-ADV	dem_pro:other	dem_pro		other
 tabasaran	nuradin	0026	vaz-ar.i-in-ǯi	month-PL-SUPER-DIR	np:other	np		other		
 tabasaran	nuradin	0026	liχu-ri	work-ICVB	v:pred	v		pred		
 tabasaran	nuradin	0026	šul-u	become-FUT	rv_aux	rv_aux				
-tabasaran	nuradin	0026	ha-k-š˳.a	EMPH-DOWN-place(IN)	np:l	np		l	4045	
+tabasaran	nuradin	0026	ha-k-s̊.a	EMPH-DOWN-place(IN)	np:l	np		l	4045	
 tabasaran	nuradin	0027	#	#	##	##				
 tabasaran	nuradin	0027	#	#	#cv	#cv				
 tabasaran	nuradin	0027	aˁχir	finally	other	other				
@@ -719,7 +719,7 @@ tabasaran	nuradin	0038	sutki	day(ABS)	np:other	np		other
 tabasaran	nuradin	0038	sa-b	one-NSG	ln_num	ln_num				
 tabasaran	nuradin	0038	urgam	sheepskin(ABS)	np:p	np		p		
 tabasaran	nuradin	0038	b-irχ-uri	NSG-sew-ICVB	v:pred	v		pred		
-tabasaran	nuradin	0038	wot	PTCL	other	other				
+tabasaran	nuradin	0038	vot	PTCL	other	other				
 tabasaran	nuradin	0039	#	#	##ds	##ds				
 tabasaran	nuradin	0039	0	0	0.2:a	0	2	a		
 tabasaran	nuradin	0039	0	0_Nuradin	0.2:g	0	2	g		

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2020-09-17T19:27:38+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2022-04-30T22:40:45+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_tabasaran_work.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:564fc14d-9367-45ff-a85b-6c74ce5fe4b1</PROPERTY>
@@ -2630,7 +2630,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1403" ANNOTATION_REF="a1159">
-                <ANNOTATION_VALUE>erčnu jicara, ʁada&lt;b&gt;ʁu hamu jicara qa&lt;v&gt;raji t’ulra, qibu gardan.ǯiq us̊~us̊ jeburi ʁuˁru selim.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>erčnu jicara, ʁada&lt;b&gt;ʁu hamu jicara qa&lt;v&gt;raji t’ulra, qibu gardan.ǯiq us̊us̊ jeburi ʁuˁru selim.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2725,7 +2725,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1422" ANNOTATION_REF="a1178">
-                <ANNOTATION_VALUE>erčnu gamšara ʁada&lt;b&gt;ʁu qibnu t’ul, jeburu us̊~us̊ ʁuˁru mu qajiʁanna.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>erčnu gamšara ʁada&lt;b&gt;ʁu qibnu t’ul, jeburu us̊us̊ ʁuˁru mu qajiʁanna.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2860,12 +2860,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1449" ANNOTATION_REF="a1205">
-                <ANNOTATION_VALUE>hisab dap’nu čpː.in ʁul.aǯiq’a gada~davǯi tuvnu marčːar javaš ap’uru χanuχri.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>hisab dap’nu čpː.in ʁul.aǯiq’a gadadavǯi tuvnu marčːar javaš ap’uru χanuχri.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1450" ANNOTATION_REF="a1206">
-                <ANNOTATION_VALUE>ʁuˁru selim haklimina, ʁada&lt;b&gt;ʁu pulla, ibu ǯib.ǯi, qibu t’ulra gardan.ǯiq, jeburi us̊~us̊, χaˁbaˁq.ǯi ʁuˁru, selim.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ʁuˁru selim haklimina, ʁada&lt;b&gt;ʁu pulla, ibu ǯib.ǯi, qibu t’ulra gardan.ǯiq, jeburi us̊us̊, χaˁbaˁq.ǯi ʁuˁru, selim.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
